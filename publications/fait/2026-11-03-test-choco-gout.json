@@ -11,5 +11,12 @@
   "le vrai prix"
  ],
  "categorie": 27,
- "commentaire": "Sucré, chocolat ou amer ? Réponds avant la fin 👇 L'enquête complète : https://www.youtube.com/watch?v=x0onZIENQZk"
+ "commentaire": "Sucré, chocolat ou amer ? Réponds avant la fin 👇 L'enquête complète : https://www.youtube.com/watch?v=x0onZIENQZk",
+ "resultat": {
+  "id": "cx85sBqr0uo",
+  "lien": "https://youtu.be/cx85sBqr0uo",
+  "statut_youtube": "public",
+  "commentaire": "ok",
+  "envoye_le": "2026-11-03T20:20:46.110892+00:00"
+ }
 }
