@@ -15,5 +15,13 @@
  "categorie": 27,
  "commentaire": "Tu aurais dit combien ? 👇 Abonne-toi : chaque jour, un nouveau vrai prix.",
  "publier_le": "2026-11-04T08:00:00+01:00",
- "playlist": "Le vrai prix — Shorts"
+ "playlist": "Le vrai prix — Shorts",
+ "resultat": {
+  "id": "HoJhClpTWE4",
+  "lien": "https://youtu.be/HoJhClpTWE4",
+  "statut_youtube": "private",
+  "playlist": "refusée : <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned \"The operation was aborted.\". Details: \"[{'domain': 'youtube.CoreErrorDomain', 'reason': 'SERVICE_UNAVAILABLE'}]\">",
+  "commentaire": "en attente",
+  "envoye_le": "2026-11-03T22:48:09.769199+00:00"
+ }
 }
