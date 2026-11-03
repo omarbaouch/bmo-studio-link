@@ -125,9 +125,44 @@ def chaine(nom, tok):
                         v["retention"] = f"indisponible ({e.status_code})"
         except HttpError as e:
             rapport["analytics_erreur"] = str(e)
+        try:
+            rep = reporting(c)
+            rapport["reporting"] = {"rapports_disponibles": rep["rapports_disponibles"]}
+            for v in videos:
+                if v["id"] in rep["par_video"]:
+                    v["miniature_7j"] = rep["par_video"][v["id"]]
+        except Exception as e:
+            rapport["reporting_erreur"] = str(e)[:300]
     else:
         rapport["analytics_erreur"] = "le jeton n'a pas l'autorisation yt-analytics.readonly : refaire le jeton avec ce scope"
     return rapport
+
+
+RAPPORTS = {"channel_reach_basic_a1": "Impressions et taux de clic des miniatures", "channel_basic_a2": "Activité des vidéos"}
+
+
+def reporting(c):
+    """API YouTube Reporting : crée les tâches de rapports (une fois) et lit les impressions / taux de clic (7 derniers jours)."""
+    import csv, io
+    from google.auth.transport.requests import AuthorizedSession
+    yr = build("youtubereporting", "v1", credentials=c, cache_discovery=False)
+    jobs = {j["reportTypeId"]: j["id"] for j in yr.jobs().list().execute().get("jobs", [])}
+    for t, nom in RAPPORTS.items():
+        if t not in jobs:
+            jobs[t] = yr.jobs().create(body={"reportTypeId": t, "name": nom}).execute()["id"]
+    sess = AuthorizedSession(c)
+    debut = (dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=8)).strftime("%Y-%m-%dT00:00:00Z")
+    reps = yr.jobs().reports().list(jobId=jobs["channel_reach_basic_a1"], startTimeAtOrAfter=debut).execute().get("reports", [])
+    par = {}
+    for rep in reps:
+        txt = sess.get(rep["downloadUrl"], timeout=60).text
+        for row in csv.DictReader(io.StringIO(txt)):
+            v = par.setdefault(row["video_id"], [0.0, 0.0])
+            imp = float(row.get("video_thumbnail_impressions") or 0)
+            v[0] += imp
+            v[1] += imp * float(row.get("video_thumbnail_impressions_ctr") or 0)
+    return {"rapports_disponibles": len(reps),
+            "par_video": {k: {"impressions": int(a), "ctr": round(b / a * 100, 2) if a else None} for k, (a, b) in par.items()}}
 
 
 def markdown(r):
@@ -137,11 +172,14 @@ def markdown(r):
         l += [f"> Analytics : {r['analytics_erreur']}", ""]
     if r.get("sources_trafic_28j"):
         l += ["Sources de trafic (28 j) : " + ", ".join(f"{k} {v}" for k, v in r["sources_trafic_28j"].items()), ""]
-    l += ["| Publiée | Format | Titre | Vues | Durée moy. | % regardé | Abonnés + |", "|---|---|---|---|---|---|---|"]
+    if r.get("reporting", {}).get("rapports_disponibles") == 0:
+        l += ["> Impressions et taux de clic : rapports YouTube en préparation (premières données sous 48 h).", ""]
+    l += ["| Publiée | Format | Titre | Vues | Durée moy. | % regardé | Abonnés + | Impressions 7 j | Clic |", "|---|---|---|---|---|---|---|---|---|"]
     for v in sorted(r["videos"], key=lambda x: x["publie"], reverse=True):
         a = v.get("analytics_28j") or {}
         l.append(f"| {v['publie'][:10]} | {v['format']} | {v['titre'][:60]} | {v['vues']} | "
-                 f"{int(a.get('averageViewDuration', 0))} s | {round(a.get('averageViewPercentage', 0))} % | {a.get('subscribersGained', '')} |")
+                 f"{int(a.get('averageViewDuration', 0))} s | {round(a.get('averageViewPercentage', 0))} % | {a.get('subscribersGained', '')} | "
+                 f"{(v.get('miniature_7j') or {}).get('impressions', '')} | {(v.get('miniature_7j') or {}).get('ctr') or ''}{' %' if (v.get('miniature_7j') or {}).get('ctr') else ''} |")
     shorts = [v for v in r["videos"] if v["format"] == "short"]
     if shorts:
         moy = sum(v["vues"] for v in shorts) / len(shorts)
