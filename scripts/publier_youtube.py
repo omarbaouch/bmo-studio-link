@@ -127,6 +127,28 @@ def publier(p, yt, dossier):
     return res
 
 
+def mettre_en_ligne(p, yt):
+    """Fiche {"action": "mettre_en_ligne", "video_id": "..."} : passe tout de suite en public une vidéo déjà envoyée
+    (programmée ou privée), puis avance sa date dans publications/fait/ pour que le premier commentaire parte."""
+    vid = p["video_id"]
+    items = yt.videos().list(part="status", id=vid).execute().get("items", [])
+    if not items:
+        raise RuntimeError(f"vidéo {vid} introuvable sur la chaîne")
+    statut = {k: v for k, v in items[0]["status"].items()
+              if k in ("license", "embeddable", "publicStatsViewable", "selfDeclaredMadeForKids")}
+    statut["privacyStatus"] = "public"
+    rep = yt.videos().update(part="status", body={"id": vid, "status": statut}).execute()
+    maintenant = dt.datetime.now(dt.timezone.utc).isoformat()
+    for f in glob.glob("publications/fait/*.json"):
+        q = json.load(open(f, encoding="utf-8"))
+        if (q.get("resultat") or {}).get("id") == vid:
+            q["publier_le"] = maintenant
+            q["resultat"]["statut_youtube"] = rep["status"].get("privacyStatus")
+            json.dump(q, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    print(f"  ✔ {vid} mis en ligne (statut {rep['status'].get('privacyStatus')})", flush=True)
+    return {"id": vid, "lien": f"https://youtu.be/{vid}", "statut_youtube": rep["status"].get("privacyStatus")}
+
+
 def commentaires_en_attente():
     """Poste les premiers commentaires des vidéos programmées, une fois qu'elles sont en ligne."""
     maintenant = dt.datetime.now(dt.timezone.utc)
@@ -164,7 +186,8 @@ def main():
         print(f"→ {f} : {p.get('titre')}", flush=True)
         try:
             with tempfile.TemporaryDirectory() as d:
-                res = publier(p, service(p.get("chaine", "LEVRAIPRIX")), d)
+                yt = service(p.get("chaine", "LEVRAIPRIX"))
+                res = mettre_en_ligne(p, yt) if p.get("action") == "mettre_en_ligne" else publier(p, yt, d)
             p["resultat"] = {**res, "envoye_le": dt.datetime.now(dt.timezone.utc).isoformat()}
             json.dump(p, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
             shutil.move(f, os.path.join("publications/fait", os.path.basename(f)))
@@ -173,6 +196,10 @@ def main():
             print(f"  ✘ échec : {e}", flush=True)
             diagnostic(p.get("chaine", "LEVRAIPRIX"))
         time.sleep(2)
+    try:
+        commentaires_en_attente()  # commentaires des vidéos mises en ligne à l'instant
+    except Exception as e:
+        print(f"commentaires en attente : {e}", flush=True)
     sys.exit(1 if erreurs else 0)
 
 
