@@ -1,6 +1,6 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-03T20:44:53.266511+00:00",
+ "date": "2026-11-03T20:47:02.445989+00:00",
  "abonnes": 0,
  "vues_totales": 919,
  "autorisations": [
@@ -106,7 +106,7 @@
    "duree_s": 49,
    "format": "short",
    "statut": "public",
-   "vues": 334,
+   "vues": 336,
    "likes": 1,
    "commentaires": 3,
    "analytics_28j": null
@@ -118,7 +118,7 @@
    "duree_s": 24,
    "format": "short",
    "statut": "public",
-   "vues": 171,
+   "vues": 162,
    "likes": 0,
    "commentaires": 1,
    "analytics_28j": null
@@ -182,5 +182,6 @@
  "sources_trafic_28j": {
   "YT_CHANNEL": 3,
   "RELATED_VIDEO": 2
- }
+ },
+ "reporting_erreur": "<HttpError 404 when requesting https://youtubereporting.googleapis.com/v1/jobs?alt=json returned \"Requested entity was not found.\". Details: \"Requested entity was not found.\">"
 }
