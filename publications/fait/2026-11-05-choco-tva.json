@@ -1,0 +1,25 @@
+{
+ "chaine": "LEVRAIPRIX",
+ "video_url": "https://raw.githubusercontent.com/omarbaouch/le-vrai-prix-medias/main/shorts/chocolat/choco4-tva.mp4",
+ "titre": "Ta tablette de chocolat est taxée à combien ? #shorts",
+ "description": "5,5 %, 10 % ou 20 % de TVA ? La réponse va te surprendre. L'enquête complète : https://www.youtube.com/watch?v=x0onZIENQZk\n#TVA #chocolat #levraiprix #shorts",
+ "tags": [
+  "TVA chocolat",
+  "chocolat",
+  "impôts",
+  "prix du chocolat",
+  "le vrai prix"
+ ],
+ "categorie": 27,
+ "commentaire": "5,5 %, 10 % ou 20 % ? Réponds avant la fin 👇 L'enquête complète : https://www.youtube.com/watch?v=x0onZIENQZk",
+ "publier_le": "2026-11-05T12:30:00+01:00",
+ "playlist": "Le vrai prix du chocolat",
+ "resultat": {
+  "id": "ZOJuHcOifs0",
+  "lien": "https://youtu.be/ZOJuHcOifs0",
+  "statut_youtube": "private",
+  "playlist": "ok (Le vrai prix du chocolat)",
+  "commentaire": "refusé : <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&alt=json returned \"The comment thread could not be created due to insufficient permissions. The request might not be properly authorized.\". Details: \"[{'message': 'The comment thread could not be created due to insufficient permissions. The request might not be properly authorized.', 'domain': 'youtube.commentThread', 'reason': 'forbidden', 'location': 'body', 'locationType': 'other'}]\">",
+  "envoye_le": "2026-11-03T20:30:58.231938+00:00"
+ }
+}
