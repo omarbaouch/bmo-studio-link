@@ -6,6 +6,8 @@ on:
     branches: [main]
     paths: ['publications/*.json']
   workflow_dispatch:
+  schedule:
+    - cron: '23 * * * *'   # toutes les heures : premiers commentaires des vidéos programmées
 
 permissions:
   contents: write

@@ -114,7 +114,9 @@ def publier(p, yt, dossier):
         except HttpError as e:
             res["playlist"] = f"refusée : {e}"
         print(f"  playlist : {res['playlist']}", flush=True)
-    if p.get("commentaire"):
+    if p.get("commentaire") and statut.get("publishAt"):
+        res["commentaire"] = "en attente"  # impossible de commenter une vidéo encore privée : posté après la mise en ligne
+    elif p.get("commentaire"):
         try:
             yt.commentThreads().insert(part="snippet", body={"snippet": {"videoId": vid, "topLevelComment": {
                 "snippet": {"textOriginal": p["commentaire"]}}}}).execute()
@@ -125,7 +127,33 @@ def publier(p, yt, dossier):
     return res
 
 
+def commentaires_en_attente():
+    """Poste les premiers commentaires des vidéos programmées, une fois qu'elles sont en ligne."""
+    maintenant = dt.datetime.now(dt.timezone.utc)
+    for f in sorted(glob.glob("publications/fait/*.json")):
+        p = json.load(open(f, encoding="utf-8"))
+        r = p.get("resultat") or {}
+        if not p.get("commentaire") or r.get("commentaire") not in ("en attente",):
+            continue
+        if p.get("publier_le") and dt.datetime.fromisoformat(p["publier_le"]) > maintenant:
+            continue
+        try:
+            yt = service(p.get("chaine", "LEVRAIPRIX"))
+            yt.commentThreads().insert(part="snippet", body={"snippet": {"videoId": r["id"], "topLevelComment": {
+                "snippet": {"textOriginal": p["commentaire"]}}}}).execute()
+            r["commentaire"] = "ok"
+        except HttpError as e:
+            r["commentaire"] = "en attente" if e.status_code == 403 else f"refusé : {e}"
+        p["resultat"] = r
+        json.dump(p, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+        print(f"commentaire {r['id']} : {r['commentaire']}", flush=True)
+
+
 def main():
+    try:
+        commentaires_en_attente()
+    except Exception as e:
+        print(f"commentaires en attente : {e}", flush=True)
     fichiers = sorted(glob.glob("publications/*.json"))
     if not fichiers:
         print("Rien à publier.")

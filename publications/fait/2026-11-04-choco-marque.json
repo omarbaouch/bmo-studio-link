@@ -19,7 +19,7 @@
   "lien": "https://youtu.be/jGXkavzo0zU",
   "statut_youtube": "private",
   "playlist": "ok (Le vrai prix du chocolat)",
-  "commentaire": "refusé : <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&alt=json returned \"The comment thread could not be created due to insufficient permissions. The request might not be properly authorized.\". Details: \"[{'message': 'The comment thread could not be created due to insufficient permissions. The request might not be properly authorized.', 'domain': 'youtube.commentThread', 'reason': 'forbidden', 'location': 'body', 'locationType': 'other'}]\">",
+  "commentaire": "en attente",
   "envoye_le": "2026-11-03T20:30:46.856688+00:00"
  }
 }
