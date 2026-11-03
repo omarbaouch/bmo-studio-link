@@ -13,5 +13,13 @@
  "categorie": 27,
  "commentaire": "Tu le savais, toi ? 👇 L'enquête complète : https://www.youtube.com/watch?v=x0onZIENQZk",
  "publier_le": "2026-11-06T18:00:00+01:00",
- "playlist": "Le vrai prix du chocolat"
+ "playlist": "Le vrai prix du chocolat",
+ "resultat": {
+  "id": "wkDQjDh_x0w",
+  "lien": "https://youtu.be/wkDQjDh_x0w",
+  "statut_youtube": "private",
+  "playlist": "ok (Le vrai prix du chocolat)",
+  "commentaire": "en attente",
+  "envoye_le": "2026-11-03T20:55:30.589157+00:00"
+ }
 }

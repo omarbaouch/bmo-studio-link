@@ -13,5 +13,13 @@
  "categorie": 27,
  "commentaire": "Une demi, deux ou dix ? Ta réponse 👇 L'enquête complète : https://www.youtube.com/watch?v=x0onZIENQZk",
  "publier_le": "2026-11-05T18:00:00+01:00",
- "playlist": "Le vrai prix du chocolat"
+ "playlist": "Le vrai prix du chocolat",
+ "resultat": {
+  "id": "tHYnSXP2y5s",
+  "lien": "https://youtu.be/tHYnSXP2y5s",
+  "statut_youtube": "private",
+  "playlist": "ok (Le vrai prix du chocolat)",
+  "commentaire": "en attente",
+  "envoye_le": "2026-11-03T20:55:21.766383+00:00"
+ }
 }

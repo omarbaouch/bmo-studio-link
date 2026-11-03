@@ -13,5 +13,13 @@
  "categorie": 27,
  "commentaire": "Tu penses qu'il touche combien sur ta tablette ? 👇 L'enquête complète : https://www.youtube.com/watch?v=x0onZIENQZk",
  "publier_le": "2026-11-06T12:30:00+01:00",
- "playlist": "Le vrai prix du chocolat"
+ "playlist": "Le vrai prix du chocolat",
+ "resultat": {
+  "id": "CiUsurQb4dY",
+  "lien": "https://youtu.be/CiUsurQb4dY",
+  "statut_youtube": "private",
+  "playlist": "ok (Le vrai prix du chocolat)",
+  "commentaire": "en attente",
+  "envoye_le": "2026-11-03T20:55:26.438400+00:00"
+ }
 }

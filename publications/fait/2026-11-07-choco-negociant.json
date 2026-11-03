@@ -13,5 +13,13 @@
  "categorie": 27,
  "commentaire": "Tu aurais dit combien ? 👇 L'enquête complète : https://www.youtube.com/watch?v=x0onZIENQZk",
  "publier_le": "2026-11-07T12:30:00+01:00",
- "playlist": "Le vrai prix du chocolat"
+ "playlist": "Le vrai prix du chocolat",
+ "resultat": {
+  "id": "y1MJ_XskmKE",
+  "lien": "https://youtu.be/y1MJ_XskmKE",
+  "statut_youtube": "private",
+  "playlist": "ok (Le vrai prix du chocolat)",
+  "commentaire": "en attente",
+  "envoye_le": "2026-11-03T20:55:40.643309+00:00"
+ }
 }
