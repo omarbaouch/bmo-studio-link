@@ -1,6 +1,6 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-03T20:47:02.445989+00:00",
+ "date": "2026-11-03T21:02:21.466408+00:00",
  "abonnes": 0,
  "vues_totales": 919,
  "autorisations": [
@@ -15,6 +15,78 @@
   "yt-analytics.readonly"
  ],
  "videos": [
+  {
+   "id": "_tko9V2uo_g",
+   "titre": "Avant d'être du chocolat, le cacao fermente 5 jours #shorts",
+   "publie": "2026-11-03T20:55:43Z",
+   "duree_s": 16,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "y1MJ_XskmKE",
+   "titre": "Le négociant garde combien sur ta tablette de chocolat ? #shorts",
+   "publie": "2026-11-03T20:55:37Z",
+   "duree_s": 18,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "VsTJ2MAQbkY",
+   "titre": "Le cacao a perdu près de 60 %… et ta tablette ? #shorts",
+   "publie": "2026-11-03T20:55:33Z",
+   "duree_s": 25,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "wkDQjDh_x0w",
+   "titre": "Pourquoi ton chocolat fait « clac » quand tu le casses ? #shorts",
+   "publie": "2026-11-03T20:55:28Z",
+   "duree_s": 25,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "CiUsurQb4dY",
+   "titre": "Le cacao bat des records… et le planteur, il touche quoi ? #shorts",
+   "publie": "2026-11-03T20:55:24Z",
+   "duree_s": 25,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "tHYnSXP2y5s",
+   "titre": "Combien de cabosses pour UNE tablette de chocolat ? #shorts",
+   "publie": "2026-11-03T20:55:19Z",
+   "duree_s": 17,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
   {
    "id": "ZOJuHcOifs0",
    "titre": "Ta tablette de chocolat est taxée à combien ? #shorts",
@@ -94,7 +166,7 @@
    "duree_s": 18,
    "format": "short",
    "statut": "public",
-   "vues": 363,
+   "vues": 387,
    "likes": 4,
    "commentaires": 1,
    "analytics_28j": null
@@ -118,7 +190,7 @@
    "duree_s": 24,
    "format": "short",
    "statut": "public",
-   "vues": 162,
+   "vues": 170,
    "likes": 0,
    "commentaires": 1,
    "analytics_28j": null
