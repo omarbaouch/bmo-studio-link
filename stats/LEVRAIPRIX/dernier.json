@@ -1,6 +1,6 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-03T21:02:21.466408+00:00",
+ "date": "2026-11-03T21:21:20.057665+00:00",
  "abonnes": 0,
  "vues_totales": 919,
  "autorisations": [
@@ -15,6 +15,18 @@
   "yt-analytics.readonly"
  ],
  "videos": [
+  {
+   "id": "jGXkavzo0zU",
+   "titre": "Sur 1 € de chocolat, la marque garde combien ? #shorts",
+   "publie": "2026-11-03T21:19:53Z",
+   "duree_s": 26,
+   "format": "short",
+   "statut": "public",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 1,
+   "analytics_28j": null
+  },
   {
    "id": "_tko9V2uo_g",
    "titre": "Avant d'être du chocolat, le cacao fermente 5 jours #shorts",
@@ -112,18 +124,6 @@
    "analytics_28j": null
   },
   {
-   "id": "jGXkavzo0zU",
-   "titre": "Sur 1 € de chocolat, la marque garde combien ? #shorts",
-   "publie": "2026-11-03T20:30:42Z",
-   "duree_s": 26,
-   "format": "short",
-   "statut": "private",
-   "vues": 0,
-   "likes": 0,
-   "commentaires": 0,
-   "analytics_28j": null
-  },
-  {
    "id": "cx85sBqr0uo",
    "titre": "Une fève de cacao fraîche, ça a quel goût ? #shorts",
    "publie": "2026-11-03T20:21:05Z",
@@ -142,7 +142,7 @@
    "duree_s": 465,
    "format": "longue",
    "statut": "public",
-   "vues": 1,
+   "vues": 2,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": null
@@ -166,7 +166,7 @@
    "duree_s": 18,
    "format": "short",
    "statut": "public",
-   "vues": 387,
+   "vues": 363,
    "likes": 4,
    "commentaires": 1,
    "analytics_28j": null
@@ -190,7 +190,7 @@
    "duree_s": 24,
    "format": "short",
    "statut": "public",
-   "vues": 170,
+   "vues": 171,
    "likes": 0,
    "commentaires": 1,
    "analytics_28j": null
