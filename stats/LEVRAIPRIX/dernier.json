@@ -1,8 +1,8 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-03T20:37:14.770323+00:00",
+ "date": "2026-11-03T20:44:53.266511+00:00",
  "abonnes": 0,
- "vues_totales": 665,
+ "vues_totales": 919,
  "autorisations": [
   "youtube",
   "youtube.channel-memberships.creator",
@@ -24,7 +24,8 @@
    "statut": "private",
    "vues": 0,
    "likes": 0,
-   "commentaires": 0
+   "commentaires": 0,
+   "analytics_28j": null
   },
   {
    "id": "rzuXPc_KRa0",
@@ -35,7 +36,8 @@
    "statut": "private",
    "vues": 0,
    "likes": 0,
-   "commentaires": 0
+   "commentaires": 0,
+   "analytics_28j": null
   },
   {
    "id": "jGXkavzo0zU",
@@ -46,7 +48,8 @@
    "statut": "private",
    "vues": 0,
    "likes": 0,
-   "commentaires": 0
+   "commentaires": 0,
+   "analytics_28j": null
   },
   {
    "id": "cx85sBqr0uo",
@@ -57,7 +60,8 @@
    "statut": "public",
    "vues": 2,
    "likes": 0,
-   "commentaires": 1
+   "commentaires": 1,
+   "analytics_28j": null
   },
   {
    "id": "x0onZIENQZk",
@@ -68,7 +72,8 @@
    "statut": "public",
    "vues": 1,
    "likes": 1,
-   "commentaires": 1
+   "commentaires": 1,
+   "analytics_28j": null
   },
   {
    "id": "1o4Mh__4YEI",
@@ -79,7 +84,8 @@
    "statut": "public",
    "vues": 1,
    "likes": 0,
-   "commentaires": 1
+   "commentaires": 1,
+   "analytics_28j": null
   },
   {
    "id": "2sWiACKgcQ0",
@@ -88,9 +94,10 @@
    "duree_s": 18,
    "format": "short",
    "statut": "public",
-   "vues": 348,
+   "vues": 363,
    "likes": 4,
-   "commentaires": 1
+   "commentaires": 1,
+   "analytics_28j": null
   },
   {
    "id": "hnucnmA-d44",
@@ -99,9 +106,10 @@
    "duree_s": 49,
    "format": "short",
    "statut": "public",
-   "vues": 336,
+   "vues": 334,
    "likes": 1,
-   "commentaires": 3
+   "commentaires": 3,
+   "analytics_28j": null
   },
   {
    "id": "xto1m_UVpRY",
@@ -110,9 +118,10 @@
    "duree_s": 24,
    "format": "short",
    "statut": "public",
-   "vues": 170,
+   "vues": 171,
    "likes": 0,
-   "commentaires": 1
+   "commentaires": 1,
+   "analytics_28j": null
   },
   {
    "id": "KWAlbpmfjIM",
@@ -123,7 +132,8 @@
    "statut": "public",
    "vues": 63,
    "likes": 0,
-   "commentaires": 1
+   "commentaires": 1,
+   "analytics_28j": null
   },
   {
    "id": "cAleT_aNMVI",
@@ -134,7 +144,8 @@
    "statut": "public",
    "vues": 162,
    "likes": 1,
-   "commentaires": 1
+   "commentaires": 1,
+   "analytics_28j": null
   },
   {
    "id": "-tBSIXlGMBM",
@@ -145,7 +156,8 @@
    "statut": "public",
    "vues": 652,
    "likes": 3,
-   "commentaires": 1
+   "commentaires": 1,
+   "analytics_28j": null
   },
   {
    "id": "08ITVyaDDEo",
@@ -156,8 +168,19 @@
    "statut": "public",
    "vues": 37,
    "likes": 1,
-   "commentaires": 1
+   "commentaires": 1,
+   "analytics_28j": {
+    "views": 5,
+    "estimatedMinutesWatched": 11,
+    "averageViewDuration": 132,
+    "averageViewPercentage": 27.060000000000002,
+    "subscribersGained": 0
+   },
+   "retention": {}
   }
  ],
- "analytics_erreur": "<HttpError 403 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-10-06&endDate=2026-11-03&dimensions=video&maxResults=200&metrics=views%2CestimatedMinutesWatched%2CaverageViewDuration%2CaverageViewPercentage%2CsubscribersGained&sort=-views&alt=json returned \"YouTube Analytics API has not been used in project 466712199729 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtubeanalytics.googleapis.com/overview?project=466712199729 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.\". Details: \"[{'message': 'YouTube Analytics API has not been used in project 466712199729 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtubeanalytics.googleapis.com/overview?project=466712199729 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.', 'domain': 'usageLimits', 'reason': 'accessNotConfigured', 'extendedHelp': 'https://console.developers.google.com'}]\">"
+ "sources_trafic_28j": {
+  "YT_CHANNEL": 3,
+  "RELATED_VIDEO": 2
+ }
 }
