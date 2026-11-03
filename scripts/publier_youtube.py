@@ -27,7 +27,16 @@ from googleapiclient.errors import HttpError
 from googleapiclient.http import MediaFileUpload
 
 SECRETS = json.loads(os.environ.get("SECRETS_JSON", "{}"))
+SECRETS = {k: (v.strip().strip('"').strip() if isinstance(v, str) else v) for k, v in SECRETS.items()}  # espaces, guillemets collés par erreur
 CLIENT_ID, CLIENT_SECRET = SECRETS.get("YT_CLIENT_ID"), SECRETS.get("YT_CLIENT_SECRET")
+
+
+def diagnostic(chaine):
+    """Décrit la forme des clés sans jamais les afficher (aide à trouver une erreur de collage)."""
+    cid, sec, tok = CLIENT_ID or "", CLIENT_SECRET or "", SECRETS.get(f"YT_REFRESH_TOKEN_{chaine}") or ""
+    print(f"  diagnostic : ID client {len(cid)} car., se termine par .apps.googleusercontent.com = {cid.endswith('.apps.googleusercontent.com')}, "
+          f"commence par {cid.split('-')[0][:4]}… ; secret {len(sec)} car., commence par GOCSPX = {sec.startswith('GOCSPX')} ; "
+          f"token {len(tok)} car., commence par 1// = {tok.startswith('1//')}", flush=True)
 SCOPES = ["https://www.googleapis.com/auth/youtube.upload",
           "https://www.googleapis.com/auth/youtube.force-ssl",
           "https://www.googleapis.com/auth/youtube.readonly"]
@@ -111,6 +120,7 @@ def main():
         except Exception as e:  # on continue avec les suivants
             erreurs += 1
             print(f"  ✘ échec : {e}", flush=True)
+            diagnostic(p.get("chaine", "LEVRAIPRIX"))
         time.sleep(2)
     sys.exit(1 if erreurs else 0)
 
