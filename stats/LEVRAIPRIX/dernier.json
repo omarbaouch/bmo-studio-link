@@ -1,0 +1,130 @@
+{
+ "chaine": "Le Vrai Prix",
+ "date": "2026-11-03T20:24:31.300598+00:00",
+ "abonnes": 0,
+ "vues_totales": 665,
+ "autorisations": [
+  "youtube",
+  "youtube.channel-memberships.creator",
+  "youtube.force-ssl",
+  "youtube.readonly",
+  "youtube.upload",
+  "youtubepartner",
+  "youtubepartner-channel-audit",
+  "yt-analytics-monetary.readonly",
+  "yt-analytics.readonly"
+ ],
+ "videos": [
+  {
+   "id": "cx85sBqr0uo",
+   "titre": "Une fève de cacao fraîche, ça a quel goût ? #shorts",
+   "publie": "2026-11-03T20:21:05Z",
+   "duree_s": 18,
+   "format": "short",
+   "statut": "public",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 1
+  },
+  {
+   "id": "x0onZIENQZk",
+   "titre": "Le cacao s'est effondré, ta tablette n'a pas baissé : qui a pris la différence ?",
+   "publie": "2026-11-03T20:05:42Z",
+   "duree_s": 465,
+   "format": "longue",
+   "statut": "public",
+   "vues": 0,
+   "likes": 1,
+   "commentaires": 1
+  },
+  {
+   "id": "1o4Mh__4YEI",
+   "titre": "Combien garde le meunier sur ta baguette ? #shorts",
+   "publie": "2026-11-03T17:03:39Z",
+   "duree_s": 60,
+   "format": "short",
+   "statut": "public",
+   "vues": 1,
+   "likes": 0,
+   "commentaires": 1
+  },
+  {
+   "id": "2sWiACKgcQ0",
+   "titre": "Ton pain cuit à combien de degrés ? #shorts",
+   "publie": "2026-11-03T14:31:24Z",
+   "duree_s": 18,
+   "format": "short",
+   "statut": "public",
+   "vues": 326,
+   "likes": 4,
+   "commentaires": 1
+  },
+  {
+   "id": "hnucnmA-d44",
+   "titre": "La baguette à 29 centimes : qui paie vraiment ? #shorts",
+   "publie": "2026-11-03T11:31:51Z",
+   "duree_s": 49,
+   "format": "short",
+   "statut": "public",
+   "vues": 266,
+   "likes": 1,
+   "commentaires": 3
+  },
+  {
+   "id": "xto1m_UVpRY",
+   "titre": "Combien de pâte crue pour UNE baguette ? #shorts",
+   "publie": "2026-11-03T07:04:15Z",
+   "duree_s": 24,
+   "format": "short",
+   "statut": "public",
+   "vues": 162,
+   "likes": 0,
+   "commentaires": 1
+  },
+  {
+   "id": "KWAlbpmfjIM",
+   "titre": "Combien vaut le blé de ta baguette ? #shorts",
+   "publie": "2026-11-02T21:03:40Z",
+   "duree_s": 51,
+   "format": "short",
+   "statut": "public",
+   "vues": 63,
+   "likes": 0,
+   "commentaires": 1
+  },
+  {
+   "id": "cAleT_aNMVI",
+   "titre": "Le boulanger s'en met plein les poches ? #shorts",
+   "publie": "2026-11-02T19:02:09Z",
+   "duree_s": 59,
+   "format": "short",
+   "statut": "public",
+   "vues": 162,
+   "likes": 1,
+   "commentaires": 1
+  },
+  {
+   "id": "-tBSIXlGMBM",
+   "titre": "Le vrai prix du blé dans ta baguette ? #shorts",
+   "publie": "2026-11-02T16:32:13Z",
+   "duree_s": 30,
+   "format": "short",
+   "statut": "public",
+   "vues": 652,
+   "likes": 3,
+   "commentaires": 1
+  },
+  {
+   "id": "08ITVyaDDEo",
+   "titre": "Le blé ne coûte que 6 centimes dans ta baguette !",
+   "publie": "2026-11-01T17:10:05Z",
+   "duree_s": 489,
+   "format": "longue",
+   "statut": "public",
+   "vues": 37,
+   "likes": 1,
+   "commentaires": 1
+  }
+ ],
+ "analytics_erreur": "<HttpError 403 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DMINE&startDate=2026-10-06&endDate=2026-11-03&dimensions=video&maxResults=200&metrics=views%2CestimatedMinutesWatched%2CaverageViewDuration%2CaverageViewPercentage%2CsubscribersGained&sort=-views&alt=json returned \"YouTube Analytics API has not been used in project 466712199729 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtubeanalytics.googleapis.com/overview?project=466712199729 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.\". Details: \"[{'message': 'YouTube Analytics API has not been used in project 466712199729 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtubeanalytics.googleapis.com/overview?project=466712199729 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.', 'domain': 'usageLimits', 'reason': 'accessNotConfigured', 'extendedHelp': 'https://console.developers.google.com'}]\">"
+}
