@@ -61,6 +61,23 @@ def telecharger(url, dossier, nom):
     return chemin
 
 
+def ajouter_playlist(yt, vid, titre):
+    """Ajoute la vidéo à la playlist de ce titre sur la chaîne (la crée publique si elle n'existe pas)."""
+    pid, page = None, None
+    while pid is None:
+        r = yt.playlists().list(part="snippet", mine=True, maxResults=50, pageToken=page).execute()
+        pid = next((x["id"] for x in r.get("items", []) if x["snippet"]["title"].strip().lower() == titre.strip().lower()), None)
+        page = r.get("nextPageToken")
+        if not page:
+            break
+    if pid is None:
+        pid = yt.playlists().insert(part="snippet,status", body={"snippet": {"title": titre, "defaultLanguage": "fr"},
+                                                                  "status": {"privacyStatus": "public"}}).execute()["id"]
+    yt.playlistItems().insert(part="snippet", body={"snippet": {"playlistId": pid, "resourceId": {
+        "kind": "youtube#video", "videoId": vid}}}).execute()
+    return f"ok ({titre})"
+
+
 def publier(p, yt, dossier):
     video = telecharger(p["video_url"], dossier, "video.mp4")
     statut = {"privacyStatus": "public", "selfDeclaredMadeForKids": bool(p.get("pour_enfants", False))}
@@ -91,6 +108,12 @@ def publier(p, yt, dossier):
         except HttpError as e:
             res["miniature"] = f"refusée : {e.reason if hasattr(e, 'reason') else e}"
         print(f"  miniature : {res['miniature']}", flush=True)
+    if p.get("playlist"):
+        try:
+            res["playlist"] = ajouter_playlist(yt, vid, p["playlist"])
+        except HttpError as e:
+            res["playlist"] = f"refusée : {e}"
+        print(f"  playlist : {res['playlist']}", flush=True)
     if p.get("commentaire"):
         try:
             yt.commentThreads().insert(part="snippet", body={"snippet": {"videoId": vid, "topLevelComment": {

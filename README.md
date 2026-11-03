@@ -16,12 +16,14 @@ Déposer un fichier `publications/<date>-<nom>.json` sur la branche `main` de ce
   "categorie": 27,
   "miniature_url": "https://…/miniature.jpg",
   "commentaire": "Premier commentaire (facultatif)",
-  "publier_le": "2026-11-04T08:00:00+01:00"
+  "publier_le": "2026-11-04T08:00:00+01:00",
+  "playlist": "Le vrai prix du chocolat"
 }
 ```
 - `chaine` : nom du secret `YT_REFRESH_TOKEN_<CHAINE>` de ce dépôt.
 - `video_url` / `miniature_url` : liens publics (Release GitHub publique, raw.githubusercontent.com…).
 - `publier_le` absent : mise en ligne immédiate. Une vidéo de 3 min maximum en format vertical devient un Short.
+- `playlist` (facultatif) : la vidéo est ajoutée à cette playlist (créée si elle n'existe pas).
 - Catégories : 27 Éducation, 28 Science et technologie, 22 Personnes et blogs, 24 Divertissement.
 
 Le workflow « Publier sur YouTube » envoie la vidéo, met la miniature et le commentaire, puis range le fichier
@@ -33,3 +35,8 @@ dans `publications/fait/` avec le lien YouTube.
 
 ## Limite tant que l'audit Google n'est pas validé
 YouTube garde les vidéos envoyées en **privé** : il faut les passer en public dans YouTube Studio.
+
+## Statistiques
+Le workflow « Statistiques des chaînes » tourne chaque jour à 6 h et écrit `stats/<CHAINE>/dernier.md` :
+vues, durée moyenne, % regardé, abonnés gagnés, sources de trafic et courbe de rétention des vidéos longues.
+La partie Analytics demande que le jeton de la chaîne inclue l'autorisation `yt-analytics.readonly`.

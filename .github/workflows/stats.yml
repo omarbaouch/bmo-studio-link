@@ -1,0 +1,30 @@
+name: Statistiques des chaînes
+
+# Chaque jour à 6 h (Paris) et à la demande : écrit stats/<CHAINE>/dernier.md (vues, durée moyenne, rétention, trafic).
+on:
+  schedule:
+    - cron: '17 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: pip install -q google-api-python-client google-auth requests
+      - name: Lire les statistiques
+        env:
+          SECRETS_JSON: ${{ toJSON(secrets) }}
+        run: python scripts/stats.py
+      - name: Enregistrer
+        run: |
+          git config user.name "BMO Studio Link"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A stats
+          git diff --cached --quiet || (git commit -m "Statistiques du jour [skip ci]" && git pull --rebase && git push)
