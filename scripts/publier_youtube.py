@@ -149,6 +149,29 @@ def mettre_en_ligne(p, yt):
     return {"id": vid, "lien": f"https://youtu.be/{vid}", "statut_youtube": rep["status"].get("privacyStatus")}
 
 
+def commenter(p, yt):
+    """Fiche {"action": "commenter", "videos": [...], "commentaire": "..."} : poste le commentaire sur chaque vidéo,
+    sauf si la chaîne y a déjà laissé un lien vers une vidéo (pas de doublon)."""
+    moi = yt.channels().list(part="id", mine=True).execute()["items"][0]["id"]
+    res = {}
+    for vid in p["videos"]:
+        try:
+            fils = yt.commentThreads().list(part="snippet", videoId=vid, maxResults=50).execute().get("items", [])
+            deja = any(t["snippet"]["topLevelComment"]["snippet"].get("authorChannelId", {}).get("value") == moi and
+                       ("youtu" in t["snippet"]["topLevelComment"]["snippet"].get("textOriginal", ""))
+                       for t in fils)
+            if deja:
+                res[vid] = "déjà un lien"
+            else:
+                yt.commentThreads().insert(part="snippet", body={"snippet": {"videoId": vid, "topLevelComment": {
+                    "snippet": {"textOriginal": p["commentaire"]}}}}).execute()
+                res[vid] = "ok"
+        except HttpError as e:
+            res[vid] = f"refusé : {e}"
+        print(f"  commentaire {vid} : {res[vid]}", flush=True)
+    return {"commentaires": res}
+
+
 def commentaires_en_attente():
     """Poste les premiers commentaires des vidéos programmées, une fois qu'elles sont en ligne."""
     maintenant = dt.datetime.now(dt.timezone.utc)
@@ -187,7 +210,9 @@ def main():
         try:
             with tempfile.TemporaryDirectory() as d:
                 yt = service(p.get("chaine", "LEVRAIPRIX"))
-                res = mettre_en_ligne(p, yt) if p.get("action") == "mettre_en_ligne" else publier(p, yt, d)
+                action = p.get("action")
+                res = (mettre_en_ligne(p, yt) if action == "mettre_en_ligne" else
+                       commenter(p, yt) if action == "commenter" else publier(p, yt, d))
             p["resultat"] = {**res, "envoye_le": dt.datetime.now(dt.timezone.utc).isoformat()}
             json.dump(p, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
             shutil.move(f, os.path.join("publications/fait", os.path.basename(f)))
