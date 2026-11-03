@@ -35,6 +35,45 @@ def duree_s(iso):
     return sum(int(x or 0) * k for x, k in zip(m.groups(), (3600, 60, 1))) if m else 0
 
 
+def mmss(sec):
+    return f"{int(sec // 60)}:{int(sec % 60):02d}"
+
+
+def analyse_retention(courbe, duree):
+    """courbe = [(part de la vidéo, part des spectateurs, rétention relative)] → points utiles pour le studio."""
+    if not courbe:
+        return {}
+    xs = [c[0] for c in courbe]
+    def a(t):  # spectateurs restants au temps t (s), interpolé
+        r = t / max(duree, 1)
+        for (x0, y0, _), (x1, y1, _) in zip(courbe, courbe[1:]):
+            if x0 <= r <= x1:
+                return y0 + (y1 - y0) * (r - x0) / max(x1 - x0, 1e-9)
+        return courbe[-1][1] if r > xs[-1] else courbe[0][1]
+    creux = []
+    for i in range(len(courbe) - 3):
+        x0, y0, _ = courbe[i]
+        x1, y1, _ = courbe[i + 3]
+        if 0.03 <= x0 <= 0.93 and y0 - y1 > 0:
+            creux.append((y0 - y1, x0))
+    creux.sort(reverse=True)
+    choisis = []
+    for chute, x in creux:
+        if all(abs(x - c) > 0.06 for _, c in choisis):
+            choisis.append((chute, x))
+        if len(choisis) == 4:
+            break
+    pics = [(c[0], c[1]) for i, c in enumerate(courbe[1:-1], 1) if c[1] > courbe[i - 1][1] + 0.02 and c[1] > courbe[i + 1][1]]
+    rel = [c[2] for c in courbe if c[2] is not None]
+    return {
+        "a_30s": round(a(30), 3), "a_mi_parcours": round(a(duree / 2), 3), "a_la_fin": round(courbe[-1][1], 3),
+        "creux": [{"vers": mmss(x * duree), "perte_points": round(ch * 100, 1)} for ch, x in sorted(choisis, key=lambda z: z[1])],
+        "pics": [{"vers": mmss(x * duree)} for x, _ in pics[:4]],
+        "retention_relative_moyenne": round(sum(rel) / len(rel), 2) if rel else None,
+        "courbe": [[round(x, 2), round(y, 3)] for x, y, _ in courbe][::5],
+    }
+
+
 def chaine(nom, tok):
     c, scopes = creds(tok)
     yt = build("youtube", "v3", credentials=c, cache_discovery=False)
@@ -77,9 +116,11 @@ def chaine(nom, tok):
                 if v["format"] == "longue" and v["vues"] >= 20:
                     try:
                         r = ya.reports().query(ids="channel==MINE", startDate="2020-01-01", endDate=fin,
-                                               dimensions="elapsedVideoTimeRatio", metrics="audienceWatchRatio",
+                                               dimensions="elapsedVideoTimeRatio",
+                                               metrics="audienceWatchRatio,relativeRetentionPerformance",
                                                filters=f"video=={v['id']};audienceType==ORGANIC").execute()
-                        v["retention"] = [[round(x[0], 2), round(x[1], 3)] for x in r.get("rows", [])][::5]
+                        courbe = [(float(x[0]), float(x[1]), float(x[2])) for x in r.get("rows", [])]
+                        v["retention"] = analyse_retention(courbe, v["duree_s"])
                     except HttpError as e:
                         v["retention"] = f"indisponible ({e.status_code})"
         except HttpError as e:
@@ -101,10 +142,21 @@ def markdown(r):
         a = v.get("analytics_28j") or {}
         l.append(f"| {v['publie'][:10]} | {v['format']} | {v['titre'][:60]} | {v['vues']} | "
                  f"{int(a.get('averageViewDuration', 0))} s | {round(a.get('averageViewPercentage', 0))} % | {a.get('subscribersGained', '')} |")
+    shorts = [v for v in r["videos"] if v["format"] == "short"]
+    if shorts:
+        moy = sum(v["vues"] for v in shorts) / len(shorts)
+        l += ["", f"Shorts : moyenne {round(moy)} vues. Au-dessus de la moyenne (formats à refaire) : " +
+              "; ".join(f"« {v['titre'][:50]} » ({v['vues']})" for v in sorted(shorts, key=lambda z: -z["vues"]) if v["vues"] > moy)]
     for v in r["videos"]:
-        if isinstance(v.get("retention"), list) and v["retention"]:
-            l += ["", f"Rétention « {v['titre'][:50]} » (part de la vidéo → spectateurs restants) : " +
-                  " · ".join(f"{int(x * 100)} % → {round(y * 100)} %" for x, y in v["retention"])]
+        rt = v.get("retention")
+        if isinstance(rt, dict) and rt:
+            rel = rt.get("retention_relative_moyenne")
+            l += ["", f"### Rétention « {v['titre'][:60]} » ({mmss(v['duree_s'])})",
+                  f"- Encore là à 30 s : {round(rt['a_30s'] * 100)} % · à mi-parcours : {round(rt['a_mi_parcours'] * 100)} % · à la fin : {round(rt['a_la_fin'] * 100)} %",
+                  f"- Rétention relative (vs vidéos YouTube de même durée) : {rel} " + ("(au-dessus de la moyenne)" if rel and rel > 0.5 else "(en dessous de la moyenne)" if rel else ""),
+                  "- Creux (les gens partent) : " + (", ".join(f"vers {c['vers']} (−{c['perte_points']} pts)" for c in rt["creux"]) or "aucun net"),
+                  "- Pics (relecture) : " + (", ".join(p["vers"] for p in rt["pics"]) or "aucun"),
+                  "- À faire : ouvrir la vidéo à chaque creux, noter la phrase et le plan, écrire la cause dans 00_lecons_analytics.md."]
     return "\n".join(l) + "\n"
 
 
