@@ -198,7 +198,21 @@ def markdown(r):
     return "\n".join(l) + "\n"
 
 
+def verifier_jeton(nom, tok):
+    """Dit si le jeton est permanent ou s'il expire (appli en mode Test au moment de sa création), sans l'afficher."""
+    r = requests.post("https://oauth2.googleapis.com/token", data={"client_id": CID, "client_secret": CSEC,
+                      "refresh_token": tok, "grant_type": "refresh_token"}, timeout=30).json()
+    if "error" in r:
+        return f"jeton refusé ({r['error']})"
+    if "refresh_token_expires_in" in r:
+        return f"jeton TEMPORAIRE : expire dans {round(int(r['refresh_token_expires_in']) / 86400, 1)} jours (à refaire)"
+    return "jeton permanent"
+
+
 def main():
+    for k, tok in S.items():
+        if k.startswith("YT_REFRESH_TOKEN_"):
+            print(f"{k[len('YT_REFRESH_TOKEN_'):]} : {verifier_jeton(k, tok)}", flush=True)
     for k, tok in S.items():
         if not k.startswith("YT_REFRESH_TOKEN_"):
             continue
