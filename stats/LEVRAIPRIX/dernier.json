@@ -1,6 +1,6 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-03T20:24:31.300598+00:00",
+ "date": "2026-11-03T20:37:14.770323+00:00",
  "abonnes": 0,
  "vues_totales": 665,
  "autorisations": [
@@ -16,13 +16,46 @@
  ],
  "videos": [
   {
+   "id": "ZOJuHcOifs0",
+   "titre": "Ta tablette de chocolat est taxée à combien ? #shorts",
+   "publie": "2026-11-03T20:30:55Z",
+   "duree_s": 18,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0
+  },
+  {
+   "id": "rzuXPc_KRa0",
+   "titre": "Le cacao baisse… et les chocolats de Pâques augmentent ? #shorts",
+   "publie": "2026-11-03T20:30:49Z",
+   "duree_s": 19,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0
+  },
+  {
+   "id": "jGXkavzo0zU",
+   "titre": "Sur 1 € de chocolat, la marque garde combien ? #shorts",
+   "publie": "2026-11-03T20:30:42Z",
+   "duree_s": 26,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0
+  },
+  {
    "id": "cx85sBqr0uo",
    "titre": "Une fève de cacao fraîche, ça a quel goût ? #shorts",
    "publie": "2026-11-03T20:21:05Z",
    "duree_s": 18,
    "format": "short",
    "statut": "public",
-   "vues": 0,
+   "vues": 2,
    "likes": 0,
    "commentaires": 1
   },
@@ -33,7 +66,7 @@
    "duree_s": 465,
    "format": "longue",
    "statut": "public",
-   "vues": 0,
+   "vues": 1,
    "likes": 1,
    "commentaires": 1
   },
@@ -55,7 +88,7 @@
    "duree_s": 18,
    "format": "short",
    "statut": "public",
-   "vues": 326,
+   "vues": 348,
    "likes": 4,
    "commentaires": 1
   },
@@ -66,7 +99,7 @@
    "duree_s": 49,
    "format": "short",
    "statut": "public",
-   "vues": 266,
+   "vues": 336,
    "likes": 1,
    "commentaires": 3
   },
@@ -77,7 +110,7 @@
    "duree_s": 24,
    "format": "short",
    "statut": "public",
-   "vues": 162,
+   "vues": 170,
    "likes": 0,
    "commentaires": 1
   },
