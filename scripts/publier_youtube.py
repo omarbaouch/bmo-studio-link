@@ -170,6 +170,27 @@ def reprogrammer(p, yt):
     return {"id": vid, "publier_le": p["publier_le"]}
 
 
+def garder_prive(p, yt):
+    """Fiche {"action": "garder_prive", "video_id": "..."} : annule la mise en ligne programmée (la vidéo reste privée,
+    rien n'est supprimé) et le premier commentaire en attente."""
+    vid = p["video_id"]
+    items = yt.videos().list(part="status", id=vid).execute().get("items", [])
+    if not items:
+        raise RuntimeError(f"vidéo {vid} introuvable sur la chaîne")
+    statut = {k: v for k, v in items[0]["status"].items()
+              if k in ("license", "embeddable", "publicStatsViewable", "selfDeclaredMadeForKids")}
+    statut["privacyStatus"] = "private"
+    yt.videos().update(part="status", body={"id": vid, "status": statut}).execute()
+    for f in glob.glob("publications/fait/*.json"):
+        q = json.load(open(f, encoding="utf-8"))
+        if (q.get("resultat") or {}).get("id") == vid:
+            q["resultat"]["commentaire"] = "annulé (vidéo gardée privée)"
+            q["resultat"]["statut_youtube"] = "private"
+            json.dump(q, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    print(f"  ✔ {vid} gardée privée (programmation annulée)", flush=True)
+    return {"id": vid, "statut_youtube": "private"}
+
+
 def commenter(p, yt):
     """Fiche {"action": "commenter", "videos": [...], "commentaire": "..."} : poste le commentaire sur chaque vidéo,
     sauf si la chaîne y a déjà laissé un lien vers une vidéo (pas de doublon)."""
@@ -234,7 +255,8 @@ def main():
                 action = p.get("action")
                 res = (mettre_en_ligne(p, yt) if action == "mettre_en_ligne" else
                        commenter(p, yt) if action == "commenter" else
-                       reprogrammer(p, yt) if action == "reprogrammer" else publier(p, yt, d))
+                       reprogrammer(p, yt) if action == "reprogrammer" else
+                       garder_prive(p, yt) if action == "garder_prive" else publier(p, yt, d))
             p["resultat"] = {**res, "envoye_le": dt.datetime.now(dt.timezone.utc).isoformat()}
             json.dump(p, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
             shutil.move(f, os.path.join("publications/fait", os.path.basename(f)))
