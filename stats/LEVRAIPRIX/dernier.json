@@ -1,7 +1,7 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-04T09:00:30.028641+00:00",
- "abonnes": 1,
+ "date": "2026-11-04T12:01:30.000198+00:00",
+ "abonnes": 2,
  "vues_totales": 1442,
  "autorisations": [
   "youtube",
@@ -16,15 +16,51 @@
  ],
  "videos": [
   {
+   "id": "UaGPwe13hAk",
+   "titre": "Un iPhone coûte combien à fabriquer ? #shorts",
+   "publie": "2026-11-04T12:00:24Z",
+   "duree_s": 29,
+   "format": "short",
+   "statut": "public",
+   "vues": 1,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "jebxeimH8q0",
+   "titre": "L'État prend combien sur ta baguette ? #shorts",
+   "publie": "2026-11-04T11:31:54Z",
+   "duree_s": 25,
+   "format": "short",
+   "statut": "public",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 1,
+   "analytics_28j": null
+  },
+  {
+   "id": "pL592TRDLqY",
+   "titre": "Ta tablette de chocolat : combien pour le planteur ? #shorts",
+   "publie": "2026-11-04T10:01:39Z",
+   "duree_s": 28,
+   "format": "short",
+   "statut": "public",
+   "vues": 94,
+   "likes": 2,
+   "commentaires": 1,
+   "analytics_28j": null
+  },
+  {
    "id": "HoJhClpTWE4",
    "titre": "Sur ton plein de 50 litres, l'État prend combien ? #shorts",
    "publie": "2026-11-04T07:00:12Z",
    "duree_s": 28,
    "format": "short",
    "statut": "public",
-   "vues": 32,
-   "likes": 2,
-   "commentaires": 0,
+   "vues": 84,
+   "likes": 4,
+   "commentaires": 2,
    "analytics_28j": null
   },
   {
@@ -64,25 +100,13 @@
    "analytics_28j": null
   },
   {
-   "id": "UaGPwe13hAk",
-   "titre": "Un iPhone coûte combien à fabriquer ? #shorts",
-   "publie": "2026-11-03T22:48:12Z",
-   "duree_s": 29,
-   "format": "short",
-   "statut": "private",
-   "vues": 1,
-   "likes": 0,
-   "commentaires": 0,
-   "analytics_28j": null
-  },
-  {
    "id": "jGXkavzo0zU",
    "titre": "Sur 1 € de chocolat, la marque garde combien ? #shorts",
    "publie": "2026-11-03T21:19:53Z",
    "duree_s": 26,
    "format": "short",
    "statut": "public",
-   "vues": 5,
+   "vues": 8,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": null
@@ -202,10 +226,11 @@
    "duree_s": 465,
    "format": "longue",
    "statut": "public",
-   "vues": 12,
+   "vues": 28,
    "likes": 3,
    "commentaires": 1,
-   "analytics_28j": null
+   "analytics_28j": null,
+   "retention": {}
   },
   {
    "id": "1o4Mh__4YEI",
@@ -226,7 +251,7 @@
    "duree_s": 18,
    "format": "short",
    "statut": "public",
-   "vues": 425,
+   "vues": 437,
    "likes": 4,
    "commentaires": 1,
    "analytics_28j": null
@@ -238,7 +263,7 @@
    "duree_s": 49,
    "format": "short",
    "statut": "public",
-   "vues": 340,
+   "vues": 344,
    "likes": 2,
    "commentaires": 3,
    "analytics_28j": null
@@ -250,8 +275,8 @@
    "duree_s": 24,
    "format": "short",
    "statut": "public",
-   "vues": 201,
-   "likes": 2,
+   "vues": 203,
+   "likes": 3,
    "commentaires": 1,
    "analytics_28j": null
   },
@@ -262,7 +287,7 @@
    "duree_s": 51,
    "format": "short",
    "statut": "public",
-   "vues": 69,
+   "vues": 71,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": null
@@ -286,7 +311,7 @@
    "duree_s": 30,
    "format": "short",
    "statut": "public",
-   "vues": 656,
+   "vues": 659,
    "likes": 3,
    "commentaires": 1,
    "analytics_28j": null
