@@ -1,7 +1,7 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-04T12:01:30.000198+00:00",
- "abonnes": 2,
+ "date": "2026-11-04T13:04:13.533253+00:00",
+ "abonnes": 3,
  "vues_totales": 1442,
  "autorisations": [
   "youtube",
@@ -34,8 +34,8 @@
    "duree_s": 25,
    "format": "short",
    "statut": "public",
-   "vues": 0,
-   "likes": 0,
+   "vues": 29,
+   "likes": 1,
    "commentaires": 1,
    "analytics_28j": null
   },
@@ -46,8 +46,8 @@
    "duree_s": 28,
    "format": "short",
    "statut": "public",
-   "vues": 94,
-   "likes": 2,
+   "vues": 297,
+   "likes": 8,
    "commentaires": 1,
    "analytics_28j": null
   },
@@ -58,8 +58,8 @@
    "duree_s": 28,
    "format": "short",
    "statut": "public",
-   "vues": 84,
-   "likes": 4,
+   "vues": 114,
+   "likes": 5,
    "commentaires": 2,
    "analytics_28j": null
   },
@@ -106,7 +106,7 @@
    "duree_s": 26,
    "format": "short",
    "statut": "public",
-   "vues": 8,
+   "vues": 5,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": null
@@ -226,7 +226,7 @@
    "duree_s": 465,
    "format": "longue",
    "statut": "public",
-   "vues": 28,
+   "vues": 26,
    "likes": 3,
    "commentaires": 1,
    "analytics_28j": null,
@@ -275,7 +275,7 @@
    "duree_s": 24,
    "format": "short",
    "statut": "public",
-   "vues": 203,
+   "vues": 205,
    "likes": 3,
    "commentaires": 1,
    "analytics_28j": null
@@ -323,7 +323,7 @@
    "duree_s": 489,
    "format": "longue",
    "statut": "public",
-   "vues": 40,
+   "vues": 47,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
