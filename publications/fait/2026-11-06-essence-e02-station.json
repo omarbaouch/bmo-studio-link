@@ -13,5 +13,13 @@
  "categorie": 27,
  "commentaire": "Tu paies ton litre combien en ce moment ? 👇 La vidéo complète : https://youtu.be/uuPNNWSVZEQ",
  "publier_le": "2026-11-06T16:00:00+01:00",
- "playlist": "Le vrai prix de l'essence"
+ "playlist": "Le vrai prix de l'essence",
+ "resultat": {
+  "id": "k3DeuIxK6Mk",
+  "lien": "https://youtu.be/k3DeuIxK6Mk",
+  "statut_youtube": "private",
+  "playlist": "ok (Le vrai prix de l'essence)",
+  "commentaire": "en attente",
+  "envoye_le": "2026-11-04T23:45:09.201212+00:00"
+ }
 }
