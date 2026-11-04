@@ -1,8 +1,8 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-04T17:38:26.971733+00:00",
+ "date": "2026-11-04T20:38:32.618068+00:00",
  "abonnes": 3,
- "vues_totales": 1442,
+ "vues_totales": 2061,
  "autorisations": [
   "youtube",
   "youtube.channel-memberships.creator",
@@ -16,13 +16,37 @@
  ],
  "videos": [
   {
+   "id": "FcM8BzgRVgA",
+   "titre": "Ton café en capsule, tu le paies combien au kilo ? #shorts",
+   "publie": "2026-11-04T19:00:06Z",
+   "duree_s": 25,
+   "format": "short",
+   "statut": "public",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "uuPNNWSVZEQ",
+   "titre": "Pourquoi le gazole reste à 2,37 € alors que le baril baisse",
+   "publie": "2026-11-04T18:40:45Z",
+   "duree_s": 310,
+   "format": "longue",
+   "statut": "public",
+   "vues": 1,
+   "likes": 1,
+   "commentaires": 1,
+   "analytics_28j": null
+  },
+  {
    "id": "_LP2LKBlkh8",
    "titre": "Combien gagne le boulanger sur une baguette ? #shorts",
    "publie": "2026-11-04T17:07:26Z",
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 0,
+   "vues": 4,
    "likes": 0,
    "commentaires": 1,
    "analytics_28j": null
@@ -94,8 +118,8 @@
    "duree_s": 19,
    "format": "short",
    "statut": "public",
-   "vues": 2,
-   "likes": 0,
+   "vues": 6,
+   "likes": 1,
    "commentaires": 1,
    "analytics_28j": null
   },
@@ -106,8 +130,8 @@
    "duree_s": 29,
    "format": "short",
    "statut": "public",
-   "vues": 2,
-   "likes": 0,
+   "vues": 4,
+   "likes": 1,
    "commentaires": 1,
    "analytics_28j": null
   },
@@ -118,8 +142,8 @@
    "duree_s": 25,
    "format": "short",
    "statut": "public",
-   "vues": 112,
-   "likes": 1,
+   "vues": 140,
+   "likes": 2,
    "commentaires": 1,
    "analytics_28j": null
   },
@@ -130,8 +154,8 @@
    "duree_s": 28,
    "format": "short",
    "statut": "public",
-   "vues": 573,
-   "likes": 14,
+   "vues": 560,
+   "likes": 13,
    "commentaires": 1,
    "analytics_28j": null
   },
@@ -142,7 +166,7 @@
    "duree_s": 28,
    "format": "short",
    "statut": "public",
-   "vues": 158,
+   "vues": 168,
    "likes": 5,
    "commentaires": 2,
    "analytics_28j": null
@@ -166,19 +190,7 @@
    "duree_s": 22,
    "format": "short",
    "statut": "private",
-   "vues": 2,
-   "likes": 0,
-   "commentaires": 0,
-   "analytics_28j": null
-  },
-  {
-   "id": "FcM8BzgRVgA",
-   "titre": "Ton café en capsule, tu le paies combien au kilo ? #shorts",
-   "publie": "2026-11-03T22:48:19Z",
-   "duree_s": 25,
-   "format": "short",
-   "statut": "private",
-   "vues": 0,
+   "vues": 1,
    "likes": 0,
    "commentaires": 0,
    "analytics_28j": null
@@ -190,8 +202,8 @@
    "duree_s": 26,
    "format": "short",
    "statut": "public",
-   "vues": 8,
-   "likes": 1,
+   "vues": 12,
+   "likes": 2,
    "commentaires": 1,
    "analytics_28j": null
   },
@@ -226,7 +238,7 @@
    "duree_s": 25,
    "format": "short",
    "statut": "private",
-   "vues": 1,
+   "vues": 0,
    "likes": 0,
    "commentaires": 0,
    "analytics_28j": null
@@ -238,7 +250,7 @@
    "duree_s": 25,
    "format": "short",
    "statut": "private",
-   "vues": 1,
+   "vues": 0,
    "likes": 0,
    "commentaires": 0,
    "analytics_28j": null
@@ -250,7 +262,7 @@
    "duree_s": 25,
    "format": "short",
    "statut": "private",
-   "vues": 1,
+   "vues": 0,
    "likes": 0,
    "commentaires": 0,
    "analytics_28j": null
@@ -262,7 +274,7 @@
    "duree_s": 17,
    "format": "short",
    "statut": "private",
-   "vues": 4,
+   "vues": 0,
    "likes": 0,
    "commentaires": 0,
    "analytics_28j": null
@@ -286,7 +298,7 @@
    "duree_s": 18,
    "format": "short",
    "statut": "public",
-   "vues": 8,
+   "vues": 11,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": null
@@ -298,7 +310,7 @@
    "duree_s": 465,
    "format": "longue",
    "statut": "public",
-   "vues": 59,
+   "vues": 65,
    "likes": 3,
    "commentaires": 1,
    "analytics_28j": null,
@@ -311,7 +323,7 @@
    "duree_s": 60,
    "format": "short",
    "statut": "public",
-   "vues": 3,
+   "vues": 4,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": null
@@ -323,7 +335,7 @@
    "duree_s": 18,
    "format": "short",
    "statut": "public",
-   "vues": 440,
+   "vues": 449,
    "likes": 4,
    "commentaires": 1,
    "analytics_28j": null
@@ -362,7 +374,13 @@
    "vues": 71,
    "likes": 1,
    "commentaires": 1,
-   "analytics_28j": null
+   "analytics_28j": {
+    "views": 61,
+    "estimatedMinutesWatched": 7,
+    "averageViewDuration": 15,
+    "averageViewPercentage": 30.31,
+    "subscribersGained": 0
+   }
   },
   {
    "id": "cAleT_aNMVI",
@@ -374,7 +392,13 @@
    "vues": 165,
    "likes": 1,
    "commentaires": 1,
-   "analytics_28j": null
+   "analytics_28j": {
+    "views": 165,
+    "estimatedMinutesWatched": 40,
+    "averageViewDuration": 57,
+    "averageViewPercentage": 96.89,
+    "subscribersGained": 0
+   }
   },
   {
    "id": "-tBSIXlGMBM",
@@ -383,10 +407,16 @@
    "duree_s": 30,
    "format": "short",
    "statut": "public",
-   "vues": 663,
+   "vues": 664,
    "likes": 3,
    "commentaires": 1,
-   "analytics_28j": null
+   "analytics_28j": {
+    "views": 659,
+    "estimatedMinutesWatched": 46,
+    "averageViewDuration": 13,
+    "averageViewPercentage": 44.23,
+    "subscribersGained": 0
+   }
   },
   {
    "id": "08ITVyaDDEo",
@@ -395,22 +425,28 @@
    "duree_s": 489,
    "format": "longue",
    "statut": "public",
-   "vues": 56,
+   "vues": 65,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 5,
-    "estimatedMinutesWatched": 11,
-    "averageViewDuration": 132,
-    "averageViewPercentage": 27.060000000000002,
+    "views": 34,
+    "estimatedMinutesWatched": 25,
+    "averageViewDuration": 159,
+    "averageViewPercentage": 32.68,
     "subscribersGained": 0
    },
    "retention": {}
   }
  ],
  "sources_trafic_28j": {
-  "YT_CHANNEL": 3,
-  "RELATED_VIDEO": 2
+  "SHORTS": 863,
+  "SUBSCRIBER": 26,
+  "YT_CHANNEL": 10,
+  "YT_OTHER_PAGE": 8,
+  "YT_SEARCH": 7,
+  "RELATED_VIDEO": 2,
+  "EXT_URL": 2,
+  "NO_LINK_OTHER": 1
  },
  "reporting_erreur": "<HttpError 404 when requesting https://youtubereporting.googleapis.com/v1/jobs?alt=json returned \"Requested entity was not found.\". Details: \"Requested entity was not found.\">"
 }
