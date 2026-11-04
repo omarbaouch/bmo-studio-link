@@ -1,8 +1,8 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-03T21:21:20.057665+00:00",
- "abonnes": 0,
- "vues_totales": 919,
+ "date": "2026-11-04T09:00:30.028641+00:00",
+ "abonnes": 1,
+ "vues_totales": 1442,
  "autorisations": [
   "youtube",
   "youtube.channel-memberships.creator",
@@ -16,14 +16,74 @@
  ],
  "videos": [
   {
+   "id": "HoJhClpTWE4",
+   "titre": "Sur ton plein de 50 litres, l'État prend combien ? #shorts",
+   "publie": "2026-11-04T07:00:12Z",
+   "duree_s": 28,
+   "format": "short",
+   "statut": "public",
+   "vues": 32,
+   "likes": 2,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "acj5ofisw5k",
+   "titre": "Ton jean à 100 € : combien pour l'ouvrière ? #shorts",
+   "publie": "2026-11-03T22:48:29Z",
+   "duree_s": 22,
+   "format": "short",
+   "statut": "private",
+   "vues": 1,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "MJeQRiAzbcc",
+   "titre": "Sur un paquet de cigarettes, l'État prend combien ? #shorts",
+   "publie": "2026-11-03T22:48:24Z",
+   "duree_s": 22,
+   "format": "short",
+   "statut": "private",
+   "vues": 2,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "FcM8BzgRVgA",
+   "titre": "Ton café en capsule, tu le paies combien au kilo ? #shorts",
+   "publie": "2026-11-03T22:48:19Z",
+   "duree_s": 25,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "UaGPwe13hAk",
+   "titre": "Un iPhone coûte combien à fabriquer ? #shorts",
+   "publie": "2026-11-03T22:48:12Z",
+   "duree_s": 29,
+   "format": "short",
+   "statut": "private",
+   "vues": 1,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
    "id": "jGXkavzo0zU",
    "titre": "Sur 1 € de chocolat, la marque garde combien ? #shorts",
    "publie": "2026-11-03T21:19:53Z",
    "duree_s": 26,
    "format": "short",
    "statut": "public",
-   "vues": 0,
-   "likes": 0,
+   "vues": 5,
+   "likes": 1,
    "commentaires": 1,
    "analytics_28j": null
   },
@@ -46,7 +106,7 @@
    "duree_s": 18,
    "format": "short",
    "statut": "private",
-   "vues": 0,
+   "vues": 1,
    "likes": 0,
    "commentaires": 0,
    "analytics_28j": null
@@ -58,7 +118,7 @@
    "duree_s": 25,
    "format": "short",
    "statut": "private",
-   "vues": 0,
+   "vues": 1,
    "likes": 0,
    "commentaires": 0,
    "analytics_28j": null
@@ -70,7 +130,7 @@
    "duree_s": 25,
    "format": "short",
    "statut": "private",
-   "vues": 0,
+   "vues": 1,
    "likes": 0,
    "commentaires": 0,
    "analytics_28j": null
@@ -82,7 +142,7 @@
    "duree_s": 25,
    "format": "short",
    "statut": "private",
-   "vues": 0,
+   "vues": 1,
    "likes": 0,
    "commentaires": 0,
    "analytics_28j": null
@@ -94,7 +154,7 @@
    "duree_s": 17,
    "format": "short",
    "statut": "private",
-   "vues": 0,
+   "vues": 4,
    "likes": 0,
    "commentaires": 0,
    "analytics_28j": null
@@ -106,7 +166,7 @@
    "duree_s": 18,
    "format": "short",
    "statut": "private",
-   "vues": 0,
+   "vues": 1,
    "likes": 0,
    "commentaires": 0,
    "analytics_28j": null
@@ -118,7 +178,7 @@
    "duree_s": 19,
    "format": "short",
    "statut": "private",
-   "vues": 0,
+   "vues": 1,
    "likes": 0,
    "commentaires": 0,
    "analytics_28j": null
@@ -130,8 +190,8 @@
    "duree_s": 18,
    "format": "short",
    "statut": "public",
-   "vues": 2,
-   "likes": 0,
+   "vues": 7,
+   "likes": 1,
    "commentaires": 1,
    "analytics_28j": null
   },
@@ -142,8 +202,8 @@
    "duree_s": 465,
    "format": "longue",
    "statut": "public",
-   "vues": 2,
-   "likes": 1,
+   "vues": 12,
+   "likes": 3,
    "commentaires": 1,
    "analytics_28j": null
   },
@@ -154,8 +214,8 @@
    "duree_s": 60,
    "format": "short",
    "statut": "public",
-   "vues": 1,
-   "likes": 0,
+   "vues": 4,
+   "likes": 1,
    "commentaires": 1,
    "analytics_28j": null
   },
@@ -166,7 +226,7 @@
    "duree_s": 18,
    "format": "short",
    "statut": "public",
-   "vues": 363,
+   "vues": 425,
    "likes": 4,
    "commentaires": 1,
    "analytics_28j": null
@@ -178,8 +238,8 @@
    "duree_s": 49,
    "format": "short",
    "statut": "public",
-   "vues": 336,
-   "likes": 1,
+   "vues": 340,
+   "likes": 2,
    "commentaires": 3,
    "analytics_28j": null
   },
@@ -190,8 +250,8 @@
    "duree_s": 24,
    "format": "short",
    "statut": "public",
-   "vues": 171,
-   "likes": 0,
+   "vues": 201,
+   "likes": 2,
    "commentaires": 1,
    "analytics_28j": null
   },
@@ -202,8 +262,8 @@
    "duree_s": 51,
    "format": "short",
    "statut": "public",
-   "vues": 63,
-   "likes": 0,
+   "vues": 69,
+   "likes": 1,
    "commentaires": 1,
    "analytics_28j": null
   },
@@ -214,7 +274,7 @@
    "duree_s": 59,
    "format": "short",
    "statut": "public",
-   "vues": 162,
+   "vues": 164,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": null
@@ -226,7 +286,7 @@
    "duree_s": 30,
    "format": "short",
    "statut": "public",
-   "vues": 652,
+   "vues": 656,
    "likes": 3,
    "commentaires": 1,
    "analytics_28j": null
@@ -238,7 +298,7 @@
    "duree_s": 489,
    "format": "longue",
    "statut": "public",
-   "vues": 37,
+   "vues": 40,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
