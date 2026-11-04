@@ -149,6 +149,27 @@ def mettre_en_ligne(p, yt):
     return {"id": vid, "lien": f"https://youtu.be/{vid}", "statut_youtube": rep["status"].get("privacyStatus")}
 
 
+def reprogrammer(p, yt):
+    """Fiche {"action": "reprogrammer", "video_id": "...", "publier_le": "2026-11-04T13:00:00+01:00"} :
+    change l'heure de mise en ligne d'une vidéo programmée (et de son premier commentaire)."""
+    vid = p["video_id"]
+    quand = dt.datetime.fromisoformat(p["publier_le"])
+    items = yt.videos().list(part="status", id=vid).execute().get("items", [])
+    if not items:
+        raise RuntimeError(f"vidéo {vid} introuvable sur la chaîne")
+    statut = {k: v for k, v in items[0]["status"].items()
+              if k in ("license", "embeddable", "publicStatsViewable", "selfDeclaredMadeForKids")}
+    statut.update(privacyStatus="private", publishAt=quand.astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.000Z"))
+    rep = yt.videos().update(part="status", body={"id": vid, "status": statut}).execute()
+    for f in glob.glob("publications/fait/*.json"):
+        q = json.load(open(f, encoding="utf-8"))
+        if (q.get("resultat") or {}).get("id") == vid:
+            q["publier_le"] = p["publier_le"]
+            json.dump(q, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    print(f"  ✔ {vid} reprogrammée au {rep['status'].get('publishAt')}", flush=True)
+    return {"id": vid, "publier_le": p["publier_le"]}
+
+
 def commenter(p, yt):
     """Fiche {"action": "commenter", "videos": [...], "commentaire": "..."} : poste le commentaire sur chaque vidéo,
     sauf si la chaîne y a déjà laissé un lien vers une vidéo (pas de doublon)."""
@@ -212,7 +233,8 @@ def main():
                 yt = service(p.get("chaine", "LEVRAIPRIX"))
                 action = p.get("action")
                 res = (mettre_en_ligne(p, yt) if action == "mettre_en_ligne" else
-                       commenter(p, yt) if action == "commenter" else publier(p, yt, d))
+                       commenter(p, yt) if action == "commenter" else
+                       reprogrammer(p, yt) if action == "reprogrammer" else publier(p, yt, d))
             p["resultat"] = {**res, "envoye_le": dt.datetime.now(dt.timezone.utc).isoformat()}
             json.dump(p, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
             shutil.move(f, os.path.join("publications/fait", os.path.basename(f)))
