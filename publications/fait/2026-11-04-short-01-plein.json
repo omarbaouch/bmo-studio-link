@@ -21,7 +21,7 @@
   "lien": "https://youtu.be/HoJhClpTWE4",
   "statut_youtube": "private",
   "playlist": "refusée : <HttpError 409 when requesting https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned \"The operation was aborted.\". Details: \"[{'domain': 'youtube.CoreErrorDomain', 'reason': 'SERVICE_UNAVAILABLE'}]\">",
-  "commentaire": "en attente",
+  "commentaire": "ok",
   "envoye_le": "2026-11-03T22:48:09.769199+00:00"
  }
 }
