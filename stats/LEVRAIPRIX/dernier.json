@@ -1,6 +1,6 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-05T11:53:16.148341+00:00",
+ "date": "2026-11-05T13:17:14.690807+00:00",
  "abonnes": 7,
  "vues_totales": 3144,
  "autorisations": [
@@ -15,6 +15,18 @@
   "yt-analytics.readonly"
  ],
  "videos": [
+  {
+   "id": "MJeQRiAzbcc",
+   "titre": "Sur un paquet de cigarettes, l'État prend combien ? #shorts",
+   "publie": "2026-11-05T12:00:34Z",
+   "duree_s": 22,
+   "format": "short",
+   "statut": "public",
+   "vues": 4,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
   {
    "id": "IpMxddMvUNo",
    "titre": "Ta tablette de chocolat est taxée à combien ? #shorts",
@@ -34,8 +46,8 @@
    "duree_s": 21,
    "format": "short",
    "statut": "public",
-   "vues": 214,
-   "likes": 7,
+   "vues": 231,
+   "likes": 6,
    "commentaires": 0,
    "analytics_28j": null
   },
@@ -202,7 +214,7 @@
    "duree_s": 29,
    "format": "short",
    "statut": "public",
-   "vues": 223,
+   "vues": 229,
    "likes": 6,
    "commentaires": 1,
    "analytics_28j": null
@@ -247,18 +259,6 @@
    "id": "acj5ofisw5k",
    "titre": "Ton jean à 100 € : combien pour l'ouvrière ? #shorts",
    "publie": "2026-11-03T22:48:29Z",
-   "duree_s": 22,
-   "format": "short",
-   "statut": "private",
-   "vues": 1,
-   "likes": 0,
-   "commentaires": 0,
-   "analytics_28j": null
-  },
-  {
-   "id": "MJeQRiAzbcc",
-   "titre": "Sur un paquet de cigarettes, l'État prend combien ? #shorts",
-   "publie": "2026-11-03T22:48:24Z",
    "duree_s": 22,
    "format": "short",
    "statut": "private",
@@ -532,7 +532,7 @@
    "2026-11-02": 3,
    "2026-11-03": 6,
    "2026-11-04": 7,
-   "2026-11-05": 2
+   "2026-11-05": 3
   },
   "doublons": [],
   "alertes": [
