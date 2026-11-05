@@ -1,8 +1,8 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-04T20:38:32.618068+00:00",
- "abonnes": 3,
- "vues_totales": 2061,
+ "date": "2026-11-05T08:15:02.658967+00:00",
+ "abonnes": 7,
+ "vues_totales": 3144,
  "autorisations": [
   "youtube",
   "youtube.channel-memberships.creator",
@@ -16,15 +16,87 @@
  ],
  "videos": [
   {
+   "id": "dyXoRT_LJgs",
+   "titre": "Le baril baisse… pourquoi pas ton plein ? #shorts",
+   "publie": "2026-11-05T07:00:19Z",
+   "duree_s": 21,
+   "format": "short",
+   "statut": "public",
+   "vues": 12,
+   "likes": 1,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "KuS6aoiXK34",
+   "titre": "3 gestes pour payer ton plein moins cher #shorts",
+   "publie": "2026-11-04T23:45:22Z",
+   "duree_s": 22,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "9vBYpaV2VS4",
+   "titre": "Pourquoi le gazole coûte plus cher que l'essence ? #shorts",
+   "publie": "2026-11-04T23:45:17Z",
+   "duree_s": 22,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "spOis725Oe8",
+   "titre": "Ton plein se joue à 5 000 km d'ici ? #shorts",
+   "publie": "2026-11-04T23:45:11Z",
+   "duree_s": 22,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "k3DeuIxK6Mk",
+   "titre": "Ta station gagne combien sur ton litre ? #shorts",
+   "publie": "2026-11-04T23:45:06Z",
+   "duree_s": 20,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "UNWiKsFz5tQ",
+   "titre": "Sur ton gazole, tu paies une taxe… sur une taxe ? #shorts",
+   "publie": "2026-11-04T23:44:28Z",
+   "duree_s": 20,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
    "id": "FcM8BzgRVgA",
    "titre": "Ton café en capsule, tu le paies combien au kilo ? #shorts",
    "publie": "2026-11-04T19:00:06Z",
    "duree_s": 25,
    "format": "short",
    "statut": "public",
-   "vues": 0,
-   "likes": 0,
-   "commentaires": 0,
+   "vues": 910,
+   "likes": 11,
+   "commentaires": 1,
    "analytics_28j": null
   },
   {
@@ -34,7 +106,7 @@
    "duree_s": 310,
    "format": "longue",
    "statut": "public",
-   "vues": 1,
+   "vues": 4,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": null
@@ -46,7 +118,7 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 4,
+   "vues": 68,
    "likes": 0,
    "commentaires": 1,
    "analytics_28j": null
@@ -118,8 +190,8 @@
    "duree_s": 19,
    "format": "short",
    "statut": "public",
-   "vues": 6,
-   "likes": 1,
+   "vues": 86,
+   "likes": 2,
    "commentaires": 1,
    "analytics_28j": null
   },
@@ -130,8 +202,8 @@
    "duree_s": 29,
    "format": "short",
    "statut": "public",
-   "vues": 4,
-   "likes": 1,
+   "vues": 210,
+   "likes": 4,
    "commentaires": 1,
    "analytics_28j": null
   },
@@ -142,7 +214,7 @@
    "duree_s": 25,
    "format": "short",
    "statut": "public",
-   "vues": 140,
+   "vues": 164,
    "likes": 2,
    "commentaires": 1,
    "analytics_28j": null
@@ -154,8 +226,8 @@
    "duree_s": 28,
    "format": "short",
    "statut": "public",
-   "vues": 560,
-   "likes": 13,
+   "vues": 668,
+   "likes": 14,
    "commentaires": 1,
    "analytics_28j": null
   },
@@ -166,8 +238,8 @@
    "duree_s": 28,
    "format": "short",
    "statut": "public",
-   "vues": 168,
-   "likes": 5,
+   "vues": 173,
+   "likes": 6,
    "commentaires": 2,
    "analytics_28j": null
   },
@@ -202,8 +274,8 @@
    "duree_s": 26,
    "format": "short",
    "statut": "public",
-   "vues": 12,
-   "likes": 2,
+   "vues": 114,
+   "likes": 4,
    "commentaires": 1,
    "analytics_28j": null
   },
@@ -298,8 +370,8 @@
    "duree_s": 18,
    "format": "short",
    "statut": "public",
-   "vues": 11,
-   "likes": 1,
+   "vues": 89,
+   "likes": 2,
    "commentaires": 1,
    "analytics_28j": null
   },
@@ -310,7 +382,7 @@
    "duree_s": 465,
    "format": "longue",
    "statut": "public",
-   "vues": 65,
+   "vues": 82,
    "likes": 3,
    "commentaires": 1,
    "analytics_28j": null,
@@ -323,8 +395,8 @@
    "duree_s": 60,
    "format": "short",
    "statut": "public",
-   "vues": 4,
-   "likes": 1,
+   "vues": 91,
+   "likes": 2,
    "commentaires": 1,
    "analytics_28j": null
   },
@@ -335,7 +407,7 @@
    "duree_s": 18,
    "format": "short",
    "statut": "public",
-   "vues": 449,
+   "vues": 467,
    "likes": 4,
    "commentaires": 1,
    "analytics_28j": null
@@ -347,7 +419,7 @@
    "duree_s": 49,
    "format": "short",
    "statut": "public",
-   "vues": 349,
+   "vues": 353,
    "likes": 2,
    "commentaires": 3,
    "analytics_28j": null
@@ -359,7 +431,7 @@
    "duree_s": 24,
    "format": "short",
    "statut": "public",
-   "vues": 208,
+   "vues": 212,
    "likes": 3,
    "commentaires": 1,
    "analytics_28j": null
@@ -371,7 +443,7 @@
    "duree_s": 51,
    "format": "short",
    "statut": "public",
-   "vues": 71,
+   "vues": 72,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
@@ -389,7 +461,7 @@
    "duree_s": 59,
    "format": "short",
    "statut": "public",
-   "vues": 165,
+   "vues": 168,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
@@ -407,7 +479,7 @@
    "duree_s": 30,
    "format": "short",
    "statut": "public",
-   "vues": 664,
+   "vues": 666,
    "likes": 3,
    "commentaires": 1,
    "analytics_28j": {
@@ -425,7 +497,7 @@
    "duree_s": 489,
    "format": "longue",
    "statut": "public",
-   "vues": 65,
+   "vues": 105,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
