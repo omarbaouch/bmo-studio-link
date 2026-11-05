@@ -1,6 +1,6 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-05T08:15:02.658967+00:00",
+ "date": "2026-11-05T11:53:16.148341+00:00",
  "abonnes": 7,
  "vues_totales": 3144,
  "autorisations": [
@@ -16,14 +16,26 @@
  ],
  "videos": [
   {
+   "id": "IpMxddMvUNo",
+   "titre": "Ta tablette de chocolat est taxée à combien ? #shorts",
+   "publie": "2026-11-05T11:30:39Z",
+   "duree_s": 24,
+   "format": "short",
+   "statut": "public",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
    "id": "dyXoRT_LJgs",
    "titre": "Le baril baisse… pourquoi pas ton plein ? #shorts",
    "publie": "2026-11-05T07:00:19Z",
    "duree_s": 21,
    "format": "short",
    "statut": "public",
-   "vues": 12,
-   "likes": 1,
+   "vues": 214,
+   "likes": 7,
    "commentaires": 0,
    "analytics_28j": null
   },
@@ -94,7 +106,7 @@
    "duree_s": 25,
    "format": "short",
    "statut": "public",
-   "vues": 910,
+   "vues": 913,
    "likes": 11,
    "commentaires": 1,
    "analytics_28j": null
@@ -106,7 +118,7 @@
    "duree_s": 310,
    "format": "longue",
    "statut": "public",
-   "vues": 4,
+   "vues": 8,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": null
@@ -172,25 +184,13 @@
    "analytics_28j": null
   },
   {
-   "id": "IpMxddMvUNo",
-   "titre": "Ta tablette de chocolat est taxée à combien ? #shorts",
-   "publie": "2026-11-04T16:53:52Z",
-   "duree_s": 24,
-   "format": "short",
-   "statut": "private",
-   "vues": 0,
-   "likes": 0,
-   "commentaires": 0,
-   "analytics_28j": null
-  },
-  {
    "id": "rzuXPc_KRa0",
    "titre": "Le cacao baisse… et les chocolats de Pâques augmentent ? #shorts",
    "publie": "2026-11-04T14:30:12Z",
    "duree_s": 19,
    "format": "short",
    "statut": "public",
-   "vues": 86,
+   "vues": 88,
    "likes": 2,
    "commentaires": 1,
    "analytics_28j": null
@@ -202,8 +202,8 @@
    "duree_s": 29,
    "format": "short",
    "statut": "public",
-   "vues": 210,
-   "likes": 4,
+   "vues": 223,
+   "likes": 6,
    "commentaires": 1,
    "analytics_28j": null
   },
@@ -214,7 +214,7 @@
    "duree_s": 25,
    "format": "short",
    "statut": "public",
-   "vues": 164,
+   "vues": 169,
    "likes": 2,
    "commentaires": 1,
    "analytics_28j": null
@@ -226,7 +226,7 @@
    "duree_s": 28,
    "format": "short",
    "statut": "public",
-   "vues": 668,
+   "vues": 679,
    "likes": 14,
    "commentaires": 1,
    "analytics_28j": null
@@ -238,7 +238,7 @@
    "duree_s": 28,
    "format": "short",
    "statut": "public",
-   "vues": 173,
+   "vues": 181,
    "likes": 6,
    "commentaires": 2,
    "analytics_28j": null
@@ -274,7 +274,7 @@
    "duree_s": 26,
    "format": "short",
    "statut": "public",
-   "vues": 114,
+   "vues": 116,
    "likes": 4,
    "commentaires": 1,
    "analytics_28j": null
@@ -370,7 +370,7 @@
    "duree_s": 18,
    "format": "short",
    "statut": "public",
-   "vues": 89,
+   "vues": 92,
    "likes": 2,
    "commentaires": 1,
    "analytics_28j": null
@@ -382,7 +382,7 @@
    "duree_s": 465,
    "format": "longue",
    "statut": "public",
-   "vues": 82,
+   "vues": 83,
    "likes": 3,
    "commentaires": 1,
    "analytics_28j": null,
@@ -407,7 +407,7 @@
    "duree_s": 18,
    "format": "short",
    "statut": "public",
-   "vues": 467,
+   "vues": 468,
    "likes": 4,
    "commentaires": 1,
    "analytics_28j": null
@@ -497,7 +497,7 @@
    "duree_s": 489,
    "format": "longue",
    "statut": "public",
-   "vues": 105,
+   "vues": 113,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
@@ -520,5 +520,23 @@
   "EXT_URL": 2,
   "NO_LINK_OTHER": 1
  },
- "reporting_erreur": "<HttpError 404 when requesting https://youtubereporting.googleapis.com/v1/jobs?alt=json returned \"Requested entity was not found.\". Details: \"Requested entity was not found.\">"
+ "monetisation": {
+  "vues_shorts_90j": 885,
+  "heures_longues_365j": 0.4
+ },
+ "reporting_erreur": "<HttpError 404 when requesting https://youtubereporting.googleapis.com/v1/jobs?alt=json returned \"Requested entity was not found.\". Details: \"Requested entity was not found.\">",
+ "pilotage": {
+  "evolution_24h": null,
+  "evolution_7j": null,
+  "shorts_par_jour_7j": {
+   "2026-11-02": 3,
+   "2026-11-03": 6,
+   "2026-11-04": 7,
+   "2026-11-05": 2
+  },
+  "doublons": [],
+  "alertes": [
+   "Trop de Shorts le même jour (max conseillé 3) : 2026-11-03 → 6, 2026-11-04 → 7"
+  ]
+ }
 }
