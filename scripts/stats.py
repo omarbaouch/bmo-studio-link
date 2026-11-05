@@ -12,6 +12,9 @@ import datetime as dt
 import json
 import os
 
+import shutil
+from zoneinfo import ZoneInfo
+
 import requests
 from google.oauth2.credentials import Credentials
 from google.auth.transport.requests import Request
@@ -126,6 +129,10 @@ def chaine(nom, tok):
         except HttpError as e:
             rapport["analytics_erreur"] = str(e)
         try:
+            rapport["monetisation"] = monetisation(ya)
+        except HttpError as e:
+            rapport["monetisation"] = {"erreur": f"indisponible ({e.status_code})"}
+        try:
             rep = reporting(c)
             rapport["reporting"] = {"rapports_disponibles": rep["rapports_disponibles"]}
             for v in videos:
@@ -165,9 +172,123 @@ def reporting(c):
             "par_video": {k: {"impressions": int(a), "ctr": round(b / a * 100, 2) if a else None} for k, (a, b) in par.items()}}
 
 
+PARIS = ZoneInfo("Europe/Paris")
+SEUILS = {"abonnes": 1000, "heures_longues_365j": 4000, "vues_shorts_90j": 10_000_000}
+MAX_SHORTS_PAR_JOUR = 3
+
+
+def monetisation(ya):
+    """Progression vers le Programme Partenaire : vues Shorts sur 90 j et heures de vidéos longues sur 365 j."""
+    fin = dt.date.today()
+    def par_type(jours, metrique):
+        r = ya.reports().query(ids="channel==MINE", startDate=(fin - dt.timedelta(days=jours)).isoformat(),
+                               endDate=fin.isoformat(), dimensions="creatorContentType", metrics=metrique).execute()
+        return {str(row[0]).upper(): float(row[1]) for row in r.get("rows", [])}
+    shorts = par_type(90, "views")
+    longues = par_type(365, "estimatedMinutesWatched")
+    return {"vues_shorts_90j": int(sum(v for k, v in shorts.items() if "SHORT" in k)),
+            "heures_longues_365j": round(sum(v for k, v in longues.items() if "VIDEO_ON_DEMAND" in k or "VIDEOONDEMAND" in k) / 60, 1)}
+
+
+def norm_titre(t):
+    import re
+    t = re.sub(r"#\w+", "", t.lower())
+    return re.sub(r"[^\w€%]+", " ", t).strip()
+
+
+def pilotage(r, dossier):
+    """Évolution (historique.csv), doublons, rythme des Shorts et alertes. Ajoute r['pilotage']."""
+    import csv
+    auj = dt.datetime.now(PARIS).date()
+    chemin = os.path.join(dossier, "historique.csv")
+    hist = []
+    if os.path.exists(chemin):
+        hist = [row for row in csv.DictReader(open(chemin, encoding="utf-8")) if row.get("date") != auj.isoformat()]
+    hist.append({"date": auj.isoformat(), "abonnes": r["abonnes"], "vues_totales": r["vues_totales"]})
+    with open(chemin, "w", encoding="utf-8", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=["date", "abonnes", "vues_totales"])
+        w.writeheader()
+        w.writerows(hist)
+
+    def ecart(jours):
+        cible = (auj - dt.timedelta(days=jours)).isoformat()
+        avant = [h for h in hist if h["date"] <= cible]
+        if not avant:
+            return None
+        h = avant[-1]
+        return {"depuis": h["date"], "abonnes": r["abonnes"] - int(h["abonnes"]), "vues": r["vues_totales"] - int(h["vues_totales"])}
+
+    publiques = [v for v in r["videos"] if v["statut"] == "public"]
+    groupes = {}
+    for v in publiques:
+        groupes.setdefault((v["format"], norm_titre(v["titre"])), []).append(v)
+    doublons = [sorted(g, key=lambda x: -x["vues"]) for g in groupes.values() if len(g) > 1]
+
+    par_jour = {}
+    for v in publiques:
+        if v["format"] != "short":
+            continue
+        j = dt.datetime.fromisoformat(v["publie"].replace("Z", "+00:00")).astimezone(PARIS).date()
+        if (auj - j).days < 7:
+            par_jour[j.isoformat()] = par_jour.get(j.isoformat(), 0) + 1
+
+    alertes = []
+    if doublons:
+        alertes.append(f"{len(doublons)} Short(s) en double : à passer en privé (le moins vu de chaque paire, liste plus bas)")
+    trop = {j: n for j, n in sorted(par_jour.items()) if n > MAX_SHORTS_PAR_JOUR}
+    if trop:
+        alertes.append("Trop de Shorts le même jour (max conseillé " + str(MAX_SHORTS_PAR_JOUR) + ") : " +
+                       ", ".join(f"{j} → {n}" for j, n in trop.items()))
+    sem = ecart(7)
+    if sem and sem["abonnes"] <= 0:
+        alertes.append("Aucun abonné gagné en 7 jours")
+    r["pilotage"] = {"evolution_24h": ecart(1), "evolution_7j": sem, "shorts_par_jour_7j": dict(sorted(par_jour.items())),
+                     "doublons": [[{"id": v["id"], "titre": v["titre"], "vues": v["vues"]} for v in g] for g in doublons],
+                     "alertes": alertes}
+
+
+def barre(val, seuil):
+    p = min(val / seuil, 1)
+    return "█" * round(p * 20) + "░" * (20 - round(p * 20)) + f" {p * 100:.1f} %"
+
+
+def section_pilotage(r):
+    p = r.get("pilotage") or {}
+    l = ["## Pilotage de la chaîne", ""]
+    for a in p.get("alertes", []):
+        l.append(f"- ⚠️ {a}")
+    if not p.get("alertes"):
+        l.append("- ✅ Aucune alerte")
+    l.append("")
+    for cle, nom in (("evolution_24h", "24 h"), ("evolution_7j", "7 jours")):
+        e = p.get(cle)
+        l.append(f"- Sur {nom} : " + (f"{e['abonnes']:+d} abonnés, {e['vues']:+d} vues (depuis le {e['depuis']})" if e
+                                      else "pas encore assez d'historique"))
+    if p.get("shorts_par_jour_7j"):
+        l.append("- Shorts publiés par jour : " + ", ".join(f"{j[5:]} {n}" for j, n in p["shorts_par_jour_7j"].items()))
+    m = r.get("monetisation") or {}
+    l += ["", "**Seuils de monétisation** (il faut les abonnés ET l'un des deux autres)", "",
+          f"- Abonnés : {r['abonnes']} / 1 000 — {barre(r['abonnes'], SEUILS['abonnes'])}"]
+    if "erreur" in m or not m:
+        l.append(f"- Heures et vues Shorts : {m.get('erreur', 'Analytics indisponible')}")
+    else:
+        l += [f"- Heures de vidéos longues (365 j) : {m['heures_longues_365j']} / 4 000 — {barre(m['heures_longues_365j'], SEUILS['heures_longues_365j'])}",
+              f"- Vues Shorts (90 j) : {m['vues_shorts_90j']:,} / 10 000 000 — {barre(m['vues_shorts_90j'], SEUILS['vues_shorts_90j'])}".replace(",", " ")]
+        e = p.get("evolution_7j")
+        if e and e["abonnes"] > 0:
+            reste = SEUILS["abonnes"] - r["abonnes"]
+            l.append(f"- Au rythme des 7 derniers jours : 1 000 abonnés dans ~{round(reste / e['abonnes'] * 7)} jours")
+    if p.get("doublons"):
+        l += ["", "**Doublons** (garder le premier, passer les autres en privé) :"]
+        for g in p["doublons"]:
+            l.append("- " + " · ".join(f"{v['id']} ({v['vues']} vues)" for v in g) + f" — « {g[0]['titre'][:50]} »")
+    return l + [""]
+
+
 def markdown(r):
     l = [f"# {r['chaine']} — {r['date'][:16].replace('T', ' ')} UTC", "",
          f"Abonnés : {r['abonnes']} · vues totales : {r['vues_totales']}", ""]
+    l += section_pilotage(r)
     if r.get("analytics_erreur"):
         l += [f"> Analytics : {r['analytics_erreur']}", ""]
     if r.get("sources_trafic_28j"):
@@ -223,8 +344,17 @@ def main():
             print(f"{nom} : échec {e}")
             continue
         os.makedirs(f"stats/{nom}", exist_ok=True)
+        try:
+            pilotage(r, f"stats/{nom}")
+        except Exception as e:
+            r["pilotage"] = {"alertes": [f"pilotage indisponible : {e}"]}
         json.dump(r, open(f"stats/{nom}/dernier.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
         open(f"stats/{nom}/dernier.md", "w", encoding="utf-8").write(markdown(r))
+        auj = dt.datetime.now(PARIS)
+        if auj.weekday() == 0:  # chaque lundi : copie du rapport dans stats/<CHAINE>/semaines/
+            os.makedirs(f"stats/{nom}/semaines", exist_ok=True)
+            an, sem, _ = auj.isocalendar()
+            shutil.copy(f"stats/{nom}/dernier.md", f"stats/{nom}/semaines/{an}-S{sem:02d}.md")
         print(markdown(r))
 
 

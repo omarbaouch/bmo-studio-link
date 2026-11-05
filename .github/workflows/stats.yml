@@ -1,6 +1,7 @@
 name: Statistiques des chaînes
 
-# Chaque jour à 6 h (Paris) et à la demande : écrit stats/<CHAINE>/dernier.md (vues, durée moyenne, rétention, trafic).
+# Chaque jour à 6 h (Paris) et à la demande : écrit stats/<CHAINE>/dernier.md (vues, rétention, trafic, alertes, monétisation),
+# historique.csv (évolution) et, le lundi, une copie dans stats/<CHAINE>/semaines/.
 on:
   schedule:
     - cron: '17 5 * * *'

@@ -19,6 +19,7 @@ import shutil
 import sys
 import tempfile
 import time
+from zoneinfo import ZoneInfo
 
 import requests
 from google.oauth2.credentials import Credentials
@@ -78,7 +79,55 @@ def ajouter_playlist(yt, vid, titre):
     return f"ok ({titre})"
 
 
+PARIS = ZoneInfo("Europe/Paris")
+CRENEAUX_SHORTS = [(8, 0), (12, 30), (18, 0)]  # heures de Paris
+MAX_SHORTS_PAR_JOUR = 3
+ECART_MIN = dt.timedelta(minutes=90)
+
+
+def est_short(p):
+    return p.get("format") == "short" or "#shorts" in p.get("titre", "").lower()
+
+
+def heure_short(p):
+    """Choisit l'heure de mise en ligne d'un Short : au plus 3 par jour, aux créneaux 8 h / 12 h 30 / 18 h (Paris),
+    jamais à moins de 90 min d'un autre Short de la même chaîne. Garde l'heure demandée si elle respecte ces règles.
+    Mettre "forcer_heure": true dans la fiche pour publier exactement à l'heure demandée."""
+    chaine = p.get("chaine", "LEVRAIPRIX")
+    pris = []
+    for f in glob.glob("publications/fait/*.json"):
+        q = json.load(open(f, encoding="utf-8"))
+        if q.get("action") or q.get("chaine", "LEVRAIPRIX") != chaine or not est_short(q):
+            continue
+        quand = q.get("publier_le") or (q.get("resultat") or {}).get("envoye_le")
+        if quand:
+            pris.append(dt.datetime.fromisoformat(quand).astimezone(PARIS))
+    maintenant = dt.datetime.now(PARIS) + dt.timedelta(minutes=15)
+    voulu = max(dt.datetime.fromisoformat(p["publier_le"]).astimezone(PARIS), maintenant) if p.get("publier_le") else maintenant
+
+    def libre(t):
+        return (sum(1 for x in pris if x.date() == t.date()) < MAX_SHORTS_PAR_JOUR and
+                all(abs(x - t) >= ECART_MIN for x in pris))
+    if p.get("publier_le") and libre(voulu):
+        return voulu, False
+    jour = voulu.date()
+    for _ in range(60):
+        for h, m in CRENEAUX_SHORTS:
+            t = dt.datetime(jour.year, jour.month, jour.day, h, m, tzinfo=PARIS)
+            if t >= voulu and libre(t):
+                return t, True
+        jour += dt.timedelta(days=1)
+    return voulu, False
+
+
 def publier(p, yt, dossier):
+    if est_short(p) and not p.get("forcer_heure"):
+        quand, change = heure_short(p)
+        if change:
+            print(f"  rythme : Short programmé au {quand:%d/%m %H:%M} (Paris) au lieu de "
+                  f"{p.get('publier_le') or 'tout de suite'} (max {MAX_SHORTS_PAR_JOUR} par jour, 90 min d'écart)", flush=True)
+            p["heure_demandee"] = p.get("publier_le")
+            p["publier_le"] = quand.isoformat()
     video = telecharger(p["video_url"], dossier, "video.mp4")
     statut = {"privacyStatus": "public", "selfDeclaredMadeForKids": bool(p.get("pour_enfants", False))}
     if p.get("publier_le"):
