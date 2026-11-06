@@ -366,6 +366,32 @@ def chercher(p, yt):
     return {"resultats": res}
 
 
+def modifier(p, yt):
+    """Fiche {"action": "modifier", "video_id": "...", "titre": "...", "description_prefixe": "...", "tags_ajout": [...]} :
+    change le titre, ajoute une phrase en tête de description (si elle n'y est pas déjà) et ajoute des tags (sans doublon,
+    < 500 caractères). Les anciennes valeurs sont gardées dans le résultat pour revenir en arrière."""
+    vid = p["video_id"]
+    items = yt.videos().list(part="snippet", id=vid).execute().get("items", [])
+    if not items:
+        raise RuntimeError(f"vidéo {vid} introuvable sur la chaîne")
+    sn = items[0]["snippet"]
+    avant = {"titre": sn.get("title"), "description": sn.get("description", ""), "tags": sn.get("tags", [])}
+    corps = {k: sn[k] for k in ("title", "description", "tags", "categoryId", "defaultLanguage", "defaultAudioLanguage") if k in sn}
+    if p.get("titre"):
+        corps["title"] = p["titre"][:100]
+    pre = p.get("description_prefixe")
+    if pre and not corps.get("description", "").startswith(pre):
+        corps["description"] = (pre + "\n\n" + corps.get("description", ""))[:5000]
+    tags = list(corps.get("tags", []))
+    for t in p.get("tags_ajout", []):
+        if t.lower() not in [x.lower() for x in tags] and len(",".join(tags + [t])) < 490:
+            tags.append(t)
+    corps["tags"] = tags
+    yt.videos().update(part="snippet", body={"id": vid, "snippet": corps}).execute()
+    print(f"  ✔ {vid} modifiée : « {corps['title']} », {len(tags)} tags", flush=True)
+    return {"id": vid, "avant": avant, "apres": {"titre": corps["title"], "tags": tags}}
+
+
 def commentaires_en_attente():
     """Poste les premiers commentaires des vidéos programmées, une fois qu'elles sont en ligne."""
     maintenant = dt.datetime.now(dt.timezone.utc)
@@ -413,7 +439,8 @@ def main():
                        chercher(p, yt) if action == "chercher" else
                        commenter(p, yt) if action == "commenter" else
                        reprogrammer(p, yt) if action == "reprogrammer" else
-                       garder_prive(p, yt) if action == "garder_prive" else publier(p, yt, d))
+                       garder_prive(p, yt) if action == "garder_prive" else
+                       modifier(p, yt) if action == "modifier" else publier(p, yt, d))
             p["resultat"] = {**res, "envoye_le": dt.datetime.now(dt.timezone.utc).isoformat()}
             json.dump(p, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
             shutil.move(f, os.path.join("publications/fait", os.path.basename(f)))
