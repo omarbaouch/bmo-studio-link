@@ -62,8 +62,9 @@ def telecharger(url, dossier, nom):
     return chemin
 
 
-def ajouter_playlist(yt, vid, titre):
-    """Ajoute la vidéo à la playlist de ce titre sur la chaîne (la crée publique si elle n'existe pas)."""
+def ajouter_playlist(yt, vid, titre, position=None):
+    """Ajoute la vidéo à la playlist de ce titre sur la chaîne (la crée publique si elle n'existe pas).
+    position=0 la met en tête. Réessaie 3 fois si YouTube répond 409 (playlist pas encore prête)."""
     pid, page = None, None
     while pid is None:
         r = yt.playlists().list(part="snippet", mine=True, maxResults=50, pageToken=page).execute()
@@ -74,8 +75,17 @@ def ajouter_playlist(yt, vid, titre):
     if pid is None:
         pid = yt.playlists().insert(part="snippet,status", body={"snippet": {"title": titre, "defaultLanguage": "fr"},
                                                                   "status": {"privacyStatus": "public"}}).execute()["id"]
-    yt.playlistItems().insert(part="snippet", body={"snippet": {"playlistId": pid, "resourceId": {
-        "kind": "youtube#video", "videoId": vid}}}).execute()
+    snip = {"playlistId": pid, "resourceId": {"kind": "youtube#video", "videoId": vid}}
+    if position is not None:
+        snip["position"] = position
+    for essai in range(4):
+        try:
+            yt.playlistItems().insert(part="snippet", body={"snippet": snip}).execute()
+            break
+        except HttpError as e:
+            if e.status_code != 409 or essai == 3:
+                raise
+            time.sleep(5 * (essai + 1))
     return f"ok ({titre})"
 
 
@@ -264,12 +274,12 @@ def commenter(p, yt):
 
 
 def playlist(p, yt):
-    """Fiche {"action": "playlist", "videos": ["id", ...], "playlist": "Titre"} : ajoute les vidéos à la playlist
-    (créée publique si elle n'existe pas)."""
+    """Fiche {"action": "playlist", "videos": ["id", ...], "playlist": "Titre", "en_tete": "id"} : ajoute les vidéos
+    à la playlist (créée publique si elle n'existe pas) ; "en_tete" (facultatif) est placée en première position."""
     res = {}
     for vid in p["videos"]:
         try:
-            res[vid] = ajouter_playlist(yt, vid, p["playlist"])
+            res[vid] = ajouter_playlist(yt, vid, p["playlist"], 0 if vid == p.get("en_tete") else None)
         except HttpError as e:
             res[vid] = f"refusée : {e}"
         print(f"  playlist {vid} : {res[vid]}", flush=True)
