@@ -1,18 +1,18 @@
-# Le Vrai Prix — 2026-11-06 11:31 UTC
+# Le Vrai Prix — 2026-11-06 13:00 UTC
 
-Abonnés : 9 · vues totales : 5978
+Abonnés : 10 · vues totales : 5978
 
 ## Pilotage de la chaîne
 
 - ⚠️ Trop de Shorts le même jour (max conseillé 3) : 2026-11-03 → 6, 2026-11-04 → 7, 2026-11-05 → 6
 
-- Sur 24 h : +2 abonnés, +2834 vues (depuis le 2026-11-05)
+- Sur 24 h : +3 abonnés, +2834 vues (depuis le 2026-11-05)
 - Sur 7 jours : pas encore assez d'historique
-- Shorts publiés par jour : 11-02 3, 11-03 6, 11-04 7, 11-05 6, 11-06 1
+- Shorts publiés par jour : 11-02 3, 11-03 6, 11-04 7, 11-05 6, 11-06 2
 
 **Seuils de monétisation** (il faut les abonnés ET l'un des deux autres)
 
-- Abonnés : 9 / 1 000 — ░░░░░░░░░░░░░░░░░░░░ 0.9 %
+- Abonnés : 10 / 1 000 — ░░░░░░░░░░░░░░░░░░░░ 1.0 %
 - Heures de vidéos longues (365 j) : 1.4 / 4 000 — ░░░░░░░░░░░░░░░░░░░░ 0.0 %
 - Vues Shorts (90 j) : 1 910 / 10 000 000 — ░░░░░░░░░░░░░░░░░░░░ 0.0 %
 
@@ -20,15 +20,15 @@ Sources de trafic (28 j) : SHORTS 1823, YT_CHANNEL 42, SUBSCRIBER 30, YT_SEARCH 
 
 | Publiée | Format | Titre | Vues | Durée moy. | % regardé | Abonnés + | Impressions 7 j | Clic |
 |---|---|---|---|---|---|---|---|---|
+| 2026-11-06 | short | Pourquoi le gazole coûte plus cher que l'essence ? #shorts | 0 | 0 s | 0 % |  |  |  |
 | 2026-11-06 | short | Ton plein se joue à 5 000 km d'ici ? #shorts | 410 | 0 s | 0 % |  |  |  |
 | 2026-11-05 | short | Ton jean à 100 € : combien pour l'ouvrière ? #shorts | 72 | 12 s | 55 % | 0 |  |  |
 | 2026-11-05 | short | Combien de cabosses pour UNE tablette de chocolat ? #shorts | 8 | 0 s | 0 % |  |  |  |
 | 2026-11-05 | short | Sur ton gazole, tu paies une taxe… sur une taxe ? #shorts | 143 | 0 s | 0 % |  |  |  |
-| 2026-11-05 | short | Sur un paquet de cigarettes, l'État prend combien ? #shorts | 585 | 33 s | 152 % | 0 |  |  |
+| 2026-11-05 | short | Sur un paquet de cigarettes, l'État prend combien ? #shorts | 597 | 33 s | 152 % | 0 |  |  |
 | 2026-11-05 | short | Ta tablette de chocolat est taxée à combien ? #shorts | 144 | 0 s | 0 % |  |  |  |
 | 2026-11-05 | short | Le baril baisse… pourquoi pas ton plein ? #shorts | 326 | 0 s | 0 % |  |  |  |
 | 2026-11-04 | short | 3 gestes pour payer ton plein moins cher #shorts | 0 | 0 s | 0 % |  |  |  |
-| 2026-11-04 | short | Pourquoi le gazole coûte plus cher que l'essence ? #shorts | 0 | 0 s | 0 % |  |  |  |
 | 2026-11-04 | short | Ta station gagne combien sur ton litre ? #shorts | 0 | 0 s | 0 % |  |  |  |
 | 2026-11-04 | short | Ton café en capsule, tu le paies combien au kilo ? #shorts | 910 | 0 s | 0 % |  |  |  |
 | 2026-11-04 | longue | Pourquoi le gazole reste à 2,37 € alors que le baril baisse | 17 | 0 s | 0 % |  |  |  |
@@ -60,7 +60,7 @@ Sources de trafic (28 j) : SHORTS 1823, YT_CHANNEL 42, SUBSCRIBER 30, YT_SEARCH 
 | 2026-11-02 | short | Le vrai prix du blé dans ta baguette ? #shorts | 665 | 13 s | 44 % | 0 |  |  |
 | 2026-11-01 | longue | Le blé ne coûte que 6 centimes dans ta baguette ! | 114 | 164 s | 34 % | 0 |  |  |
 
-Shorts : moyenne 180 vues. Au-dessus de la moyenne (formats à refaire) : « Ton café en capsule, tu le paies combien au kilo ? » (910); « Ta tablette de chocolat : combien pour le planteur » (731); « Le vrai prix du blé dans ta baguette ? #shorts » (665); « Sur un paquet de cigarettes, l'État prend combien  » (585); « Ton pain cuit à combien de degrés ? #shorts » (469); « Ton plein se joue à 5 000 km d'ici ? #shorts » (410); « Un iPhone coûte combien à fabriquer ? #shorts » (393); « La baguette à 29 centimes : qui paie vraiment ? #s » (355); « Le baril baisse… pourquoi pas ton plein ? #shorts » (326); « Combien de pâte crue pour UNE baguette ? #shorts » (212); « Sur ton plein de 50 litres, l'État prend combien ? » (183)
+Shorts : moyenne 180 vues. Au-dessus de la moyenne (formats à refaire) : « Ton café en capsule, tu le paies combien au kilo ? » (910); « Ta tablette de chocolat : combien pour le planteur » (731); « Le vrai prix du blé dans ta baguette ? #shorts » (665); « Sur un paquet de cigarettes, l'État prend combien  » (597); « Ton pain cuit à combien de degrés ? #shorts » (469); « Ton plein se joue à 5 000 km d'ici ? #shorts » (410); « Un iPhone coûte combien à fabriquer ? #shorts » (393); « La baguette à 29 centimes : qui paie vraiment ? #s » (355); « Le baril baisse… pourquoi pas ton plein ? #shorts » (326); « Combien de pâte crue pour UNE baguette ? #shorts » (212); « Sur ton plein de 50 litres, l'État prend combien ? » (183)
 
 ### Rétention « Le cacao s'est effondré, ta tablette n'a pas baissé : qui a  » (7:45)
 - Encore là à 30 s : 60 % · à mi-parcours : 33 % · à la fin : 33 %

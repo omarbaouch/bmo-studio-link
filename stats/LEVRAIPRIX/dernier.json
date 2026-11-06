@@ -1,7 +1,7 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-06T11:31:43.531156+00:00",
- "abonnes": 9,
+ "date": "2026-11-06T13:00:12.932930+00:00",
+ "abonnes": 10,
  "vues_totales": 5978,
  "autorisations": [
   "youtube",
@@ -15,6 +15,18 @@
   "yt-analytics.readonly"
  ],
  "videos": [
+  {
+   "id": "9vBYpaV2VS4",
+   "titre": "Pourquoi le gazole coûte plus cher que l'essence ? #shorts",
+   "publie": "2026-11-06T11:35:33Z",
+   "duree_s": 22,
+   "format": "short",
+   "statut": "public",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 1,
+   "analytics_28j": null
+  },
   {
    "id": "spOis725Oe8",
    "titre": "Ton plein se joue à 5 000 km d'ici ? #shorts",
@@ -76,8 +88,8 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 585,
-   "likes": 14,
+   "vues": 597,
+   "likes": 15,
    "commentaires": 1,
    "analytics_28j": {
     "views": 1,
@@ -124,18 +136,6 @@
    "analytics_28j": null
   },
   {
-   "id": "9vBYpaV2VS4",
-   "titre": "Pourquoi le gazole coûte plus cher que l'essence ? #shorts",
-   "publie": "2026-11-04T23:45:17Z",
-   "duree_s": 22,
-   "format": "short",
-   "statut": "private",
-   "vues": 0,
-   "likes": 0,
-   "commentaires": 0,
-   "analytics_28j": null
-  },
-  {
    "id": "k3DeuIxK6Mk",
    "titre": "Ta station gagne combien sur ton litre ? #shorts",
    "publie": "2026-11-04T23:45:06Z",
@@ -155,8 +155,8 @@
    "format": "short",
    "statut": "public",
    "vues": 910,
-   "likes": 15,
-   "commentaires": 1,
+   "likes": 18,
+   "commentaires": 2,
    "analytics_28j": null
   },
   {
@@ -288,7 +288,7 @@
    "statut": "public",
    "vues": 183,
    "likes": 6,
-   "commentaires": 2,
+   "commentaires": 3,
    "analytics_28j": {
     "views": 3,
     "estimatedMinutesWatched": 0,
@@ -617,7 +617,7 @@
    "statut": "public",
    "vues": 355,
    "likes": 2,
-   "commentaires": 3,
+   "commentaires": 5,
    "analytics_28j": {
     "views": 345,
     "estimatedMinutesWatched": 42,
@@ -848,7 +848,7 @@
  "pilotage": {
   "evolution_24h": {
    "depuis": "2026-11-05",
-   "abonnes": 2,
+   "abonnes": 3,
    "vues": 2834
   },
   "evolution_7j": null,
@@ -857,7 +857,7 @@
    "2026-11-03": 6,
    "2026-11-04": 7,
    "2026-11-05": 6,
-   "2026-11-06": 1
+   "2026-11-06": 2
   },
   "doublons": [],
   "alertes": [
