@@ -1,6 +1,6 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-06T18:36:43.120985+00:00",
+ "date": "2026-11-06T19:06:23.696910+00:00",
  "abonnes": 10,
  "vues_totales": 6707,
  "autorisations": [
@@ -34,9 +34,9 @@
    "duree_s": 20,
    "format": "short",
    "statut": "public",
-   "vues": 0,
-   "likes": 1,
-   "commentaires": 0,
+   "vues": 11,
+   "likes": 3,
+   "commentaires": 1,
    "analytics_28j": null
   },
   {
@@ -46,7 +46,7 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 7,
+   "vues": 16,
    "likes": 0,
    "commentaires": 1,
    "analytics_28j": null
@@ -58,7 +58,7 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 875,
+   "vues": 903,
    "likes": 19,
    "commentaires": 1,
    "analytics_28j": null
@@ -70,8 +70,8 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 93,
-   "likes": 6,
+   "vues": 97,
+   "likes": 7,
    "commentaires": 1,
    "analytics_28j": {
     "views": 1,
@@ -100,7 +100,7 @@
    "duree_s": 20,
    "format": "short",
    "statut": "public",
-   "vues": 151,
+   "vues": 150,
    "likes": 4,
    "commentaires": 1,
    "analytics_28j": null
@@ -112,8 +112,8 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 654,
-   "likes": 16,
+   "vues": 656,
+   "likes": 17,
    "commentaires": 1,
    "analytics_28j": {
     "views": 1,
@@ -130,7 +130,7 @@
    "duree_s": 24,
    "format": "short",
    "statut": "public",
-   "vues": 151,
+   "vues": 153,
    "likes": 4,
    "commentaires": 1,
    "analytics_28j": null
@@ -142,7 +142,7 @@
    "duree_s": 21,
    "format": "short",
    "statut": "public",
-   "vues": 332,
+   "vues": 329,
    "likes": 6,
    "commentaires": 1,
    "analytics_28j": null
@@ -161,12 +161,12 @@
   },
   {
    "id": "uuPNNWSVZEQ",
-   "titre": "Pourquoi le gazole reste à 2,37 € alors que le baril baisse",
+   "titre": "Prix du gazole : pourquoi il ne baisse pas comme le baril",
    "publie": "2026-11-04T18:40:45Z",
    "duree_s": 310,
    "format": "longue",
    "statut": "public",
-   "vues": 21,
+   "vues": 23,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": null,
@@ -263,7 +263,7 @@
    "duree_s": 25,
    "format": "short",
    "statut": "public",
-   "vues": 173,
+   "vues": 174,
    "likes": 3,
    "commentaires": 1,
    "analytics_28j": null
@@ -450,7 +450,7 @@
   },
   {
    "id": "x0onZIENQZk",
-   "titre": "Le cacao s'est effondré, ta tablette n'a pas baissé : qui a pris la différence ?",
+   "titre": "Prix du cacao en chute : pourquoi ton chocolat ne baisse pas",
    "publie": "2026-11-03T20:05:42Z",
    "duree_s": 465,
    "format": "longue",
@@ -598,7 +598,7 @@
    "duree_s": 18,
    "format": "short",
    "statut": "public",
-   "vues": 469,
+   "vues": 470,
    "likes": 4,
    "commentaires": 1,
    "analytics_28j": {
@@ -688,7 +688,7 @@
    "duree_s": 30,
    "format": "short",
    "statut": "public",
-   "vues": 665,
+   "vues": 667,
    "likes": 3,
    "commentaires": 1,
    "analytics_28j": {
@@ -701,7 +701,7 @@
   },
   {
    "id": "08ITVyaDDEo",
-   "titre": "Le blé ne coûte que 6 centimes dans ta baguette !",
+   "titre": "Combien gagne un boulanger sur une baguette ?",
    "publie": "2026-11-01T17:10:05Z",
    "duree_s": 489,
    "format": "longue",
