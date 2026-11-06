@@ -15,5 +15,13 @@
    "fil": "UgzeMlRNnHNUMrsKObh4AaABAg",
    "texte": "On a fait le calcul centime par centime : pétrole, raffinage, taxes et station. Tout est sourcé dans la vidéo complète 👉 https://youtu.be/uuPNNWSVZEQ — tu le paies combien, ton litre, en ce moment ?"
   }
- ]
+ ],
+ "resultat": {
+  "reponses": {
+   "Ugwan8jMUD6946bvHup4AaABAg": "ok",
+   "UgwlC4G0xcNZzi59Bap4AaABAg": "ok",
+   "UgzeMlRNnHNUMrsKObh4AaABAg": "ok"
+  },
+  "envoye_le": "2026-11-06T11:42:30.866714+00:00"
+ }
 }
