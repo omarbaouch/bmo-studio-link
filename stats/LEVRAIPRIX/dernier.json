@@ -1,8 +1,8 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-05T13:17:14.690807+00:00",
- "abonnes": 7,
- "vues_totales": 3144,
+ "date": "2026-11-06T11:31:43.531156+00:00",
+ "abonnes": 9,
+ "vues_totales": 5978,
  "autorisations": [
   "youtube",
   "youtube.channel-memberships.creator",
@@ -16,16 +16,76 @@
  ],
  "videos": [
   {
+   "id": "spOis725Oe8",
+   "titre": "Ton plein se joue à 5 000 km d'ici ? #shorts",
+   "publie": "2026-11-06T07:00:25Z",
+   "duree_s": 22,
+   "format": "short",
+   "statut": "public",
+   "vues": 410,
+   "likes": 16,
+   "commentaires": 1,
+   "analytics_28j": null
+  },
+  {
+   "id": "acj5ofisw5k",
+   "titre": "Ton jean à 100 € : combien pour l'ouvrière ? #shorts",
+   "publie": "2026-11-05T19:00:05Z",
+   "duree_s": 22,
+   "format": "short",
+   "statut": "public",
+   "vues": 72,
+   "likes": 6,
+   "commentaires": 1,
+   "analytics_28j": {
+    "views": 1,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 12,
+    "averageViewPercentage": 55.45,
+    "subscribersGained": 0
+   }
+  },
+  {
+   "id": "8D9MZnwk9TI",
+   "titre": "Combien de cabosses pour UNE tablette de chocolat ? #shorts",
+   "publie": "2026-11-05T17:00:18Z",
+   "duree_s": 23,
+   "format": "short",
+   "statut": "public",
+   "vues": 8,
+   "likes": 1,
+   "commentaires": 1,
+   "analytics_28j": null
+  },
+  {
+   "id": "UNWiKsFz5tQ",
+   "titre": "Sur ton gazole, tu paies une taxe… sur une taxe ? #shorts",
+   "publie": "2026-11-05T15:00:27Z",
+   "duree_s": 20,
+   "format": "short",
+   "statut": "public",
+   "vues": 143,
+   "likes": 4,
+   "commentaires": 1,
+   "analytics_28j": null
+  },
+  {
    "id": "MJeQRiAzbcc",
    "titre": "Sur un paquet de cigarettes, l'État prend combien ? #shorts",
    "publie": "2026-11-05T12:00:34Z",
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 4,
-   "likes": 0,
-   "commentaires": 0,
-   "analytics_28j": null
+   "vues": 585,
+   "likes": 14,
+   "commentaires": 1,
+   "analytics_28j": {
+    "views": 1,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 33,
+    "averageViewPercentage": 151.82,
+    "subscribersGained": 0
+   }
   },
   {
    "id": "IpMxddMvUNo",
@@ -34,9 +94,9 @@
    "duree_s": 24,
    "format": "short",
    "statut": "public",
-   "vues": 0,
-   "likes": 0,
-   "commentaires": 0,
+   "vues": 144,
+   "likes": 4,
+   "commentaires": 1,
    "analytics_28j": null
   },
   {
@@ -46,9 +106,9 @@
    "duree_s": 21,
    "format": "short",
    "statut": "public",
-   "vues": 231,
+   "vues": 326,
    "likes": 6,
-   "commentaires": 0,
+   "commentaires": 1,
    "analytics_28j": null
   },
   {
@@ -76,33 +136,9 @@
    "analytics_28j": null
   },
   {
-   "id": "spOis725Oe8",
-   "titre": "Ton plein se joue à 5 000 km d'ici ? #shorts",
-   "publie": "2026-11-04T23:45:11Z",
-   "duree_s": 22,
-   "format": "short",
-   "statut": "private",
-   "vues": 0,
-   "likes": 0,
-   "commentaires": 0,
-   "analytics_28j": null
-  },
-  {
    "id": "k3DeuIxK6Mk",
    "titre": "Ta station gagne combien sur ton litre ? #shorts",
    "publie": "2026-11-04T23:45:06Z",
-   "duree_s": 20,
-   "format": "short",
-   "statut": "private",
-   "vues": 0,
-   "likes": 0,
-   "commentaires": 0,
-   "analytics_28j": null
-  },
-  {
-   "id": "UNWiKsFz5tQ",
-   "titre": "Sur ton gazole, tu paies une taxe… sur une taxe ? #shorts",
-   "publie": "2026-11-04T23:44:28Z",
    "duree_s": 20,
    "format": "short",
    "statut": "private",
@@ -118,8 +154,8 @@
    "duree_s": 25,
    "format": "short",
    "statut": "public",
-   "vues": 913,
-   "likes": 11,
+   "vues": 910,
+   "likes": 15,
    "commentaires": 1,
    "analytics_28j": null
   },
@@ -130,7 +166,7 @@
    "duree_s": 310,
    "format": "longue",
    "statut": "public",
-   "vues": 8,
+   "vues": 17,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": null
@@ -142,7 +178,7 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 68,
+   "vues": 67,
    "likes": 0,
    "commentaires": 1,
    "analytics_28j": null
@@ -184,28 +220,22 @@
    "analytics_28j": null
   },
   {
-   "id": "8D9MZnwk9TI",
-   "titre": "Combien de cabosses pour UNE tablette de chocolat ? #shorts",
-   "publie": "2026-11-04T16:53:57Z",
-   "duree_s": 23,
-   "format": "short",
-   "statut": "private",
-   "vues": 0,
-   "likes": 0,
-   "commentaires": 0,
-   "analytics_28j": null
-  },
-  {
    "id": "rzuXPc_KRa0",
    "titre": "Le cacao baisse… et les chocolats de Pâques augmentent ? #shorts",
    "publie": "2026-11-04T14:30:12Z",
    "duree_s": 19,
    "format": "short",
    "statut": "public",
-   "vues": 88,
+   "vues": 92,
    "likes": 2,
    "commentaires": 1,
-   "analytics_28j": null
+   "analytics_28j": {
+    "views": 0,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 0,
+    "averageViewPercentage": 0,
+    "subscribersGained": 0
+   }
   },
   {
    "id": "UaGPwe13hAk",
@@ -214,10 +244,16 @@
    "duree_s": 29,
    "format": "short",
    "statut": "public",
-   "vues": 229,
-   "likes": 6,
+   "vues": 393,
+   "likes": 10,
    "commentaires": 1,
-   "analytics_28j": null
+   "analytics_28j": {
+    "views": 1,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 19,
+    "averageViewPercentage": 66.21,
+    "subscribersGained": 0
+   }
   },
   {
    "id": "jebxeimH8q0",
@@ -226,8 +262,8 @@
    "duree_s": 25,
    "format": "short",
    "statut": "public",
-   "vues": 169,
-   "likes": 2,
+   "vues": 173,
+   "likes": 3,
    "commentaires": 1,
    "analytics_28j": null
   },
@@ -238,8 +274,8 @@
    "duree_s": 28,
    "format": "short",
    "statut": "public",
-   "vues": 679,
-   "likes": 14,
+   "vues": 731,
+   "likes": 15,
    "commentaires": 1,
    "analytics_28j": null
   },
@@ -250,22 +286,16 @@
    "duree_s": 28,
    "format": "short",
    "statut": "public",
-   "vues": 181,
+   "vues": 183,
    "likes": 6,
    "commentaires": 2,
-   "analytics_28j": null
-  },
-  {
-   "id": "acj5ofisw5k",
-   "titre": "Ton jean à 100 € : combien pour l'ouvrière ? #shorts",
-   "publie": "2026-11-03T22:48:29Z",
-   "duree_s": 22,
-   "format": "short",
-   "statut": "private",
-   "vues": 1,
-   "likes": 0,
-   "commentaires": 0,
-   "analytics_28j": null
+   "analytics_28j": {
+    "views": 3,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 16,
+    "averageViewPercentage": 59.29,
+    "subscribersGained": 0
+   }
   },
   {
    "id": "jGXkavzo0zU",
@@ -274,10 +304,16 @@
    "duree_s": 26,
    "format": "short",
    "statut": "public",
-   "vues": 116,
+   "vues": 117,
    "likes": 4,
    "commentaires": 1,
-   "analytics_28j": null
+   "analytics_28j": {
+    "views": 5,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 13,
+    "averageViewPercentage": 51.35000000000001,
+    "subscribersGained": 0
+   }
   },
   {
    "id": "_tko9V2uo_g",
@@ -301,7 +337,13 @@
    "vues": 1,
    "likes": 0,
    "commentaires": 0,
-   "analytics_28j": null
+   "analytics_28j": {
+    "views": 1,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 5,
+    "averageViewPercentage": 32.22,
+    "subscribersGained": 0
+   }
   },
   {
    "id": "VsTJ2MAQbkY",
@@ -313,7 +355,13 @@
    "vues": 0,
    "likes": 0,
    "commentaires": 0,
-   "analytics_28j": null
+   "analytics_28j": {
+    "views": 0,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 0,
+    "averageViewPercentage": 0,
+    "subscribersGained": 0
+   }
   },
   {
    "id": "wkDQjDh_x0w",
@@ -325,7 +373,13 @@
    "vues": 0,
    "likes": 0,
    "commentaires": 0,
-   "analytics_28j": null
+   "analytics_28j": {
+    "views": 0,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 0,
+    "averageViewPercentage": 0,
+    "subscribersGained": 0
+   }
   },
   {
    "id": "CiUsurQb4dY",
@@ -349,7 +403,13 @@
    "vues": 0,
    "likes": 0,
    "commentaires": 0,
-   "analytics_28j": null
+   "analytics_28j": {
+    "views": 0,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 0,
+    "averageViewPercentage": 0,
+    "subscribersGained": 0
+   }
   },
   {
    "id": "ZOJuHcOifs0",
@@ -361,7 +421,13 @@
    "vues": 1,
    "likes": 0,
    "commentaires": 0,
-   "analytics_28j": null
+   "analytics_28j": {
+    "views": 1,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 4,
+    "averageViewPercentage": 26.11,
+    "subscribersGained": 0
+   }
   },
   {
    "id": "cx85sBqr0uo",
@@ -370,10 +436,16 @@
    "duree_s": 18,
    "format": "short",
    "statut": "public",
-   "vues": 92,
+   "vues": 96,
    "likes": 2,
    "commentaires": 1,
-   "analytics_28j": null
+   "analytics_28j": {
+    "views": 7,
+    "estimatedMinutesWatched": 1,
+    "averageViewDuration": 11,
+    "averageViewPercentage": 66.3,
+    "subscribersGained": 0
+   }
   },
   {
    "id": "x0onZIENQZk",
@@ -382,11 +454,123 @@
    "duree_s": 465,
    "format": "longue",
    "statut": "public",
-   "vues": 83,
+   "vues": 87,
    "likes": 3,
    "commentaires": 1,
-   "analytics_28j": null,
-   "retention": {}
+   "analytics_28j": {
+    "views": 16,
+    "estimatedMinutesWatched": 46,
+    "averageViewDuration": 185,
+    "averageViewPercentage": 39.85,
+    "subscribersGained": 1
+   },
+   "retention": {
+    "a_30s": 0.6,
+    "a_mi_parcours": 0.333,
+    "a_la_fin": 0.333,
+    "creux": [
+     {
+      "vers": "0:13",
+      "perte_points": 26.7
+     },
+     {
+      "vers": "2:33",
+      "perte_points": 6.7
+     },
+     {
+      "vers": "3:38",
+      "perte_points": 6.7
+     },
+     {
+      "vers": "5:34",
+      "perte_points": 6.7
+     }
+    ],
+    "pics": [],
+    "retention_relative_moyenne": 0.42,
+    "courbe": [
+     [
+      0.01,
+      1.0
+     ],
+     [
+      0.06,
+      0.6
+     ],
+     [
+      0.11,
+      0.533
+     ],
+     [
+      0.16,
+      0.533
+     ],
+     [
+      0.21,
+      0.467
+     ],
+     [
+      0.26,
+      0.467
+     ],
+     [
+      0.31,
+      0.467
+     ],
+     [
+      0.36,
+      0.4
+     ],
+     [
+      0.41,
+      0.4
+     ],
+     [
+      0.46,
+      0.4
+     ],
+     [
+      0.51,
+      0.333
+     ],
+     [
+      0.56,
+      0.333
+     ],
+     [
+      0.61,
+      0.333
+     ],
+     [
+      0.66,
+      0.333
+     ],
+     [
+      0.71,
+      0.4
+     ],
+     [
+      0.76,
+      0.333
+     ],
+     [
+      0.81,
+      0.333
+     ],
+     [
+      0.86,
+      0.333
+     ],
+     [
+      0.91,
+      0.333
+     ],
+     [
+      0.96,
+      0.333
+     ]
+    ]
+   }
   },
   {
    "id": "1o4Mh__4YEI",
@@ -398,7 +582,13 @@
    "vues": 91,
    "likes": 2,
    "commentaires": 1,
-   "analytics_28j": null
+   "analytics_28j": {
+    "views": 3,
+    "estimatedMinutesWatched": 1,
+    "averageViewDuration": 35,
+    "averageViewPercentage": 58.440000000000005,
+    "subscribersGained": 0
+   }
   },
   {
    "id": "2sWiACKgcQ0",
@@ -407,10 +597,16 @@
    "duree_s": 18,
    "format": "short",
    "statut": "public",
-   "vues": 468,
+   "vues": 469,
    "likes": 4,
    "commentaires": 1,
-   "analytics_28j": null
+   "analytics_28j": {
+    "views": 433,
+    "estimatedMinutesWatched": 19,
+    "averageViewDuration": 8,
+    "averageViewPercentage": 44.79,
+    "subscribersGained": 0
+   }
   },
   {
    "id": "hnucnmA-d44",
@@ -419,10 +615,16 @@
    "duree_s": 49,
    "format": "short",
    "statut": "public",
-   "vues": 353,
+   "vues": 355,
    "likes": 2,
    "commentaires": 3,
-   "analytics_28j": null
+   "analytics_28j": {
+    "views": 345,
+    "estimatedMinutesWatched": 42,
+    "averageViewDuration": 19,
+    "averageViewPercentage": 39.05,
+    "subscribersGained": 0
+   }
   },
   {
    "id": "xto1m_UVpRY",
@@ -434,7 +636,13 @@
    "vues": 212,
    "likes": 3,
    "commentaires": 1,
-   "analytics_28j": null
+   "analytics_28j": {
+    "views": 203,
+    "estimatedMinutesWatched": 16,
+    "averageViewDuration": 17,
+    "averageViewPercentage": 73.68,
+    "subscribersGained": 0
+   }
   },
   {
    "id": "KWAlbpmfjIM",
@@ -447,10 +655,10 @@
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 61,
-    "estimatedMinutesWatched": 7,
-    "averageViewDuration": 15,
-    "averageViewPercentage": 30.31,
+    "views": 71,
+    "estimatedMinutesWatched": 13,
+    "averageViewDuration": 27,
+    "averageViewPercentage": 54.730000000000004,
     "subscribersGained": 0
    }
   },
@@ -465,10 +673,10 @@
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 165,
-    "estimatedMinutesWatched": 40,
-    "averageViewDuration": 57,
-    "averageViewPercentage": 96.89,
+    "views": 169,
+    "estimatedMinutesWatched": 41,
+    "averageViewDuration": 56,
+    "averageViewPercentage": 95.45,
     "subscribersGained": 0
    }
   },
@@ -479,14 +687,14 @@
    "duree_s": 30,
    "format": "short",
    "statut": "public",
-   "vues": 666,
+   "vues": 665,
    "likes": 3,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 659,
+    "views": 666,
     "estimatedMinutesWatched": 46,
     "averageViewDuration": 13,
-    "averageViewPercentage": 44.23,
+    "averageViewPercentage": 44.01,
     "subscribersGained": 0
    }
   },
@@ -497,46 +705,163 @@
    "duree_s": 489,
    "format": "longue",
    "statut": "public",
-   "vues": 113,
+   "vues": 114,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 34,
-    "estimatedMinutesWatched": 25,
-    "averageViewDuration": 159,
-    "averageViewPercentage": 32.68,
+    "views": 40,
+    "estimatedMinutesWatched": 37,
+    "averageViewDuration": 164,
+    "averageViewPercentage": 33.67,
     "subscribersGained": 0
    },
-   "retention": {}
+   "retention": {
+    "a_30s": 0.583,
+    "a_mi_parcours": 0.417,
+    "a_la_fin": 0.333,
+    "creux": [
+     {
+      "vers": "0:14",
+      "perte_points": 33.3
+     },
+     {
+      "vers": "1:52",
+      "perte_points": 8.3
+     },
+     {
+      "vers": "2:46",
+      "perte_points": 8.3
+     },
+     {
+      "vers": "5:56",
+      "perte_points": 8.3
+     }
+    ],
+    "pics": [
+     {
+      "vers": "0:14"
+     }
+    ],
+    "retention_relative_moyenne": 0.39,
+    "courbe": [
+     [
+      0.01,
+      1.083
+     ],
+     [
+      0.06,
+      0.583
+     ],
+     [
+      0.11,
+      0.583
+     ],
+     [
+      0.16,
+      0.583
+     ],
+     [
+      0.21,
+      0.667
+     ],
+     [
+      0.26,
+      0.583
+     ],
+     [
+      0.31,
+      0.5
+     ],
+     [
+      0.36,
+      0.417
+     ],
+     [
+      0.41,
+      0.417
+     ],
+     [
+      0.46,
+      0.417
+     ],
+     [
+      0.51,
+      0.417
+     ],
+     [
+      0.56,
+      0.417
+     ],
+     [
+      0.61,
+      0.417
+     ],
+     [
+      0.66,
+      0.417
+     ],
+     [
+      0.71,
+      0.417
+     ],
+     [
+      0.76,
+      0.333
+     ],
+     [
+      0.81,
+      0.333
+     ],
+     [
+      0.86,
+      0.333
+     ],
+     [
+      0.91,
+      0.333
+     ],
+     [
+      0.96,
+      0.333
+     ]
+    ]
+   }
   }
  ],
  "sources_trafic_28j": {
-  "SHORTS": 863,
-  "SUBSCRIBER": 26,
-  "YT_CHANNEL": 10,
-  "YT_OTHER_PAGE": 8,
-  "YT_SEARCH": 7,
-  "RELATED_VIDEO": 2,
-  "EXT_URL": 2,
-  "NO_LINK_OTHER": 1
+  "SHORTS": 1823,
+  "YT_CHANNEL": 42,
+  "SUBSCRIBER": 30,
+  "YT_SEARCH": 29,
+  "YT_OTHER_PAGE": 17,
+  "RELATED_VIDEO": 14,
+  "NO_LINK_OTHER": 5,
+  "EXT_URL": 4,
+  "NOTIFICATION": 1,
+  "SHORTS_CONTENT_LINKS": 1
  },
  "monetisation": {
-  "vues_shorts_90j": 885,
-  "heures_longues_365j": 0.4
+  "vues_shorts_90j": 1910,
+  "heures_longues_365j": 1.4
  },
  "reporting_erreur": "<HttpError 404 when requesting https://youtubereporting.googleapis.com/v1/jobs?alt=json returned \"Requested entity was not found.\". Details: \"Requested entity was not found.\">",
  "pilotage": {
-  "evolution_24h": null,
+  "evolution_24h": {
+   "depuis": "2026-11-05",
+   "abonnes": 2,
+   "vues": 2834
+  },
   "evolution_7j": null,
   "shorts_par_jour_7j": {
    "2026-11-02": 3,
    "2026-11-03": 6,
    "2026-11-04": 7,
-   "2026-11-05": 3
+   "2026-11-05": 6,
+   "2026-11-06": 1
   },
   "doublons": [],
   "alertes": [
-   "Trop de Shorts le même jour (max conseillé 3) : 2026-11-03 → 6, 2026-11-04 → 7"
+   "Trop de Shorts le même jour (max conseillé 3) : 2026-11-03 → 6, 2026-11-04 → 7, 2026-11-05 → 6"
   ]
  }
 }
