@@ -1,0 +1,742 @@
+{
+ "action": "chercher",
+ "chaine": "LEVRAIPRIX",
+ "jours": 3,
+ "titre": "Repérage des vidéos récentes qui cartonnent sur nos sujets",
+ "requetes": [
+  "prix gazole",
+  "prix carburant",
+  "prix essence baisse",
+  "prix du chocolat",
+  "café capsule prix",
+  "taxes carburant"
+ ],
+ "resultat": {
+  "resultats": {
+   "prix gazole": [
+    {
+     "id": "DhK_s49FbdM",
+     "titre": "Russia Loses Out as USA Diesel Deal Backfires",
+     "chaine": "Joe Blogs Russia",
+     "publie": "2026-11-03T12:00:12Z",
+     "duree": "PT13M57S",
+     "vues": 24709,
+     "commentaires": "64"
+    },
+    {
+     "id": "2mHCL_pULZE",
+     "titre": "Gazole : Les prix baissent dans 6 600 stations, de 15 centimes en moyenne",
+     "chaine": "CNEWS",
+     "publie": "2026-11-04T11:18:26Z",
+     "duree": "PT1M5S",
+     "vues": 10551,
+     "commentaires": "62"
+    },
+    {
+     "id": "WAyAbhImHTk",
+     "titre": "Red diesel is through the roof, £120 for this!?😳 #shorts #foryou #diesel #funny #farming #foryou",
+     "chaine": "CornerFarm",
+     "publie": "2026-11-03T19:30:30Z",
+     "duree": "PT20S",
+     "vues": 7029,
+     "commentaires": "2"
+    },
+    {
+     "id": "N3GxdYRPfjU",
+     "titre": "STOP Buying a $3,500 Furnace — This $129 AMAZON Diesel Heater Warms Your Whole Cabin",
+     "chaine": "Jhon Construction",
+     "publie": "2026-11-03T15:29:55Z",
+     "duree": "PT27M25S",
+     "vues": 4597,
+     "commentaires": "3"
+    },
+    {
+     "id": "TjLUUSNIzWY",
+     "titre": "Heads up drivers: Toronto gas, diesel prices dropped 11 cents",
+     "chaine": "CBC News Toronto",
+     "publie": "2026-11-04T17:49:01Z",
+     "duree": "PT1M3S",
+     "vues": 3322,
+     "commentaires": null
+    },
+    {
+     "id": "azNK1kKjizU",
+     "titre": "Premières baisses des prix du carburant depuis mars",
+     "chaine": "France 3 Hauts-de-France",
+     "publie": "2026-11-03T15:00:02Z",
+     "duree": "PT1M11S",
+     "vues": 6273,
+     "commentaires": "2"
+    },
+    {
+     "id": "02ohQm5e8I0",
+     "titre": "Carburants : +10 F par litre à la pompe en Polynésie",
+     "chaine": "Polynésie la 1ère",
+     "publie": "2026-11-03T19:53:58Z",
+     "duree": "PT2M37S",
+     "vues": 4713,
+     "commentaires": "1"
+    },
+    {
+     "id": "I_u3rZNCDj4",
+     "titre": "Petrol vs Diesel vs EV: Which Car Saves Money? #dhanteras",
+     "chaine": "Momentix by Suraj",
+     "publie": "2026-11-04T05:02:58Z",
+     "duree": "PT55S",
+     "vues": 2018,
+     "commentaires": "0"
+    },
+    {
+     "id": "zgmumVjXSQs",
+     "titre": "Carburants : les prix baissent ! - Le 5 sur 5 express du 03/11/26",
+     "chaine": "C à vous - France Télévisions",
+     "publie": "2026-11-03T18:06:43Z",
+     "duree": "PT2M51S",
+     "vues": 2205,
+     "commentaires": "0"
+    },
+    {
+     "id": "rdEah_si70Y",
+     "titre": "Diesel prices getting you down ?! this is for you ! #diesel #f350 #comedy #fyp #foryou #powerstroke",
+     "chaine": "Midnight Customs",
+     "publie": "2026-11-05T20:05:27Z",
+     "duree": "PT17S",
+     "vues": 2503,
+     "commentaires": "8"
+    },
+    {
+     "id": "MV2dG7dk0Kc",
+     "titre": "Gas prices expected to drop across GTA, Golden Horseshoe",
+     "chaine": "CHCH News",
+     "publie": "2026-11-03T21:12:44Z",
+     "duree": "PT1M55S",
+     "vues": 1235,
+     "commentaires": null
+    },
+    {
+     "id": "kgy7fBe8mRI",
+     "titre": "Nicaragua: Precios de los combustibles y sus derivados se mantienen congelados",
+     "chaine": "vivanicaragua13",
+     "publie": "2026-11-03T20:12:31Z",
+     "duree": "PT2M9S",
+     "vues": 1146,
+     "commentaires": "1"
+    },
+    {
+     "id": "6JEUskgwyQQ",
+     "titre": "PREÇO DO DIESEL NO TENNESSEE EUA #shorts  #caminhoneironoseua",
+     "chaine": "Claudinei Truck Life",
+     "publie": "2026-11-03T13:00:39Z",
+     "duree": "PT1M49S",
+     "vues": 1312,
+     "commentaires": "1"
+    },
+    {
+     "id": "48piXkHu-F4",
+     "titre": "Hausse du carburant : les étudiants dévoilent leurs astuces #nouvellecaledonie #ncla1ere",
+     "chaine": "Nouvelle-Calédonie la 1ère",
+     "publie": "2026-11-04T03:26:27Z",
+     "duree": "PT1M29S",
+     "vues": 1340,
+     "commentaires": "1"
+    },
+    {
+     "id": "fIwj-SNAdQc",
+     "titre": "CARBURANTS : UNE BAISSE DES PRIX MOYENNEMENT BIEN ACCUEILLIE",
+     "chaine": "Angers Télé",
+     "publie": "2026-11-04T13:35:33Z",
+     "duree": "PT1M10S",
+     "vues": 1445,
+     "commentaires": "0"
+    }
+   ],
+   "prix carburant": [
+    {
+     "id": "khuxWX5gskU",
+     "titre": "Dems caring about gas prices is ‘LUDICROUS’: Laura Ingraham",
+     "chaine": "Fox News",
+     "publie": "2026-11-04T04:00:35Z",
+     "duree": "PT33S",
+     "vues": 221506,
+     "commentaires": "1383"
+    },
+    {
+     "id": "IcPzO05Ju7M",
+     "titre": "Carburants : pourquoi la consommation s'effondre en France",
+     "chaine": "RTL  ",
+     "publie": "2026-11-05T06:10:05Z",
+     "duree": "PT2M10S",
+     "vues": 147160,
+     "commentaires": "367"
+    },
+    {
+     "id": "yEUWOcuLAgM",
+     "titre": "Prix de l’essence aux États-Unis… l’échec de Trump",
+     "chaine": "C dans l'air - France Télévisions",
+     "publie": "2026-11-04T20:00:20Z",
+     "duree": "PT9M3S",
+     "vues": 73831,
+     "commentaires": "31"
+    },
+    {
+     "id": "XEKeP6eTDOs",
+     "titre": "You Don’t Need a Diesel. The Math Proves It.",
+     "chaine": "Nick Jaynes",
+     "publie": "2026-11-03T14:00:20Z",
+     "duree": "PT12M15S",
+     "vues": 48645,
+     "commentaires": "419"
+    },
+    {
+     "id": "Reg3bc3DSkw",
+     "titre": "Cruise Ends",
+     "chaine": "UFD Garage",
+     "publie": "2026-11-03T14:02:58Z",
+     "duree": "PT53S",
+     "vues": 19935,
+     "commentaires": "15"
+    },
+    {
+     "id": "deyFKF1K9yw",
+     "titre": "What Happens To Fuel If War Breaks Out",
+     "chaine": "The Economic Ninja",
+     "publie": "2026-11-03T20:30:15Z",
+     "duree": "PT4M22S",
+     "vues": 15689,
+     "commentaires": "90"
+    },
+    {
+     "id": "0t45afuKZ6k",
+     "titre": "Baisse incroyable sur le prix du gazoil!!!",
+     "chaine": "Ragna-Rock",
+     "publie": "2026-11-03T19:01:02Z",
+     "duree": "PT1M14S",
+     "vues": 13481,
+     "commentaires": "69"
+    },
+    {
+     "id": "AHLS8q0-934",
+     "titre": "Essai Dacia Sandero eco-G : la solution contre la crise du carburant ?",
+     "chaine": "Une Fille Au Volant",
+     "publie": "2026-11-03T17:00:28Z",
+     "duree": "PT26M25S",
+     "vues": 14779,
+     "commentaires": "51"
+    },
+    {
+     "id": "V64crtjYczo",
+     "titre": "Canada vs USA on Gas Price!",
+     "chaine": "WinAirvideo",
+     "publie": "2026-11-03T16:57:27Z",
+     "duree": "PT8M24S",
+     "vues": 9224,
+     "commentaires": "51"
+    },
+    {
+     "id": "2mHCL_pULZE",
+     "titre": "Gazole : Les prix baissent dans 6 600 stations, de 15 centimes en moyenne",
+     "chaine": "CNEWS",
+     "publie": "2026-11-04T11:18:26Z",
+     "duree": "PT1M5S",
+     "vues": 10460,
+     "commentaires": "62"
+    },
+    {
+     "id": "z8OBDEApBBg",
+     "titre": "জ্বালানি তেল, গ্যাস ও বিদ্যুতের মূল্য বৃদ্ধি এবং দ্রব্যমূল্যের ঊর্ধ্বগতির প্রতিবাদে বিক্ষোভ মিছিল",
+     "chaine": "Bangladesh Jamaat-e-Islami",
+     "publie": "2026-11-05T10:52:07Z",
+     "duree": "PT36S",
+     "vues": 10311,
+     "commentaires": "5"
+    },
+    {
+     "id": "N-GnJDx57xE",
+     "titre": "Coût du carburant : ce que le panel dit de plus GLAÇANT sur WASHINGTON | GPTV",
+     "chaine": "GÉOPOLITIQUE PROFONDE",
+     "publie": "2026-11-05T12:30:09Z",
+     "duree": "PT29M38S",
+     "vues": 7824,
+     "commentaires": "17"
+    },
+    {
+     "id": "MRTT4EbnH9o",
+     "titre": "Prix du carburant : est-ce que les stations-service appliquent ?",
+     "chaine": "CharbActu ",
+     "publie": "2026-11-03T12:07:18Z",
+     "duree": "PT3M59S",
+     "vues": 6588,
+     "commentaires": "59"
+    },
+    {
+     "id": "N3GxdYRPfjU",
+     "titre": "STOP Buying a $3,500 Furnace — This $129 AMAZON Diesel Heater Warms Your Whole Cabin",
+     "chaine": "Jhon Construction",
+     "publie": "2026-11-03T15:29:55Z",
+     "duree": "PT27M25S",
+     "vues": 4599,
+     "commentaires": "3"
+    },
+    {
+     "id": "KZSu9uAPktE",
+     "titre": "Is My LEGENDS Race Car the Ultimate AFFORDABLE Drift Machine!?",
+     "chaine": "Axel.Turbo.",
+     "publie": "2026-11-04T16:52:34Z",
+     "duree": "PT14M",
+     "vues": 4053,
+     "commentaires": "16"
+    }
+   ],
+   "prix essence baisse": [
+    {
+     "id": "chUQMi-_V3M",
+     "titre": "Huge petrol price decrease in South Africa 🚨😅🇿🇦 #southafrica #shorts",
+     "chaine": "Cool Story Bru!",
+     "publie": "2026-11-03T17:57:05Z",
+     "duree": "PT23S",
+     "vues": 169917,
+     "commentaires": "418"
+    },
+    {
+     "id": "BMQxE5ukAsA",
+     "titre": "Big News! Government Announces Major Petrol Price Cut in Pakistan | 92 News HD",
+     "chaine": "92 News HD",
+     "publie": "2026-11-05T17:52:57Z",
+     "duree": "PT53S",
+     "vues": 19299,
+     "commentaires": "6"
+    },
+    {
+     "id": "5xDcmTqAC_M",
+     "titre": "Toronto gas prices dropped 11 cents | CTV News Toronto at Noon for Nov. 4, 2026",
+     "chaine": "CP24",
+     "publie": "2026-11-04T19:31:49Z",
+     "duree": "PT45M58S",
+     "vues": 12772,
+     "commentaires": "8"
+    },
+    {
+     "id": "depMW3Z-LHY",
+     "titre": "GTA gas prices see significant drop overnight Wednesday",
+     "chaine": "CP24",
+     "publie": "2026-11-04T16:39:37Z",
+     "duree": "PT5M4S",
+     "vues": 7678,
+     "commentaires": "8"
+    },
+    {
+     "id": "Cr_BeqzSbfA",
+     "titre": "Democrats Won Congress: When Will Grocery Prices and Bills Come Down?",
+     "chaine": "Money Instructor",
+     "publie": "2026-11-05T12:45:29Z",
+     "duree": "PT11M48S",
+     "vues": 9749,
+     "commentaires": "68"
+    },
+    {
+     "id": "6Lq40jjJsxU",
+     "titre": "GTA gas prices set to drop 9 cents Friday, 2nd drop in a week",
+     "chaine": "CBC News Toronto",
+     "publie": "2026-11-05T17:50:10Z",
+     "duree": "PT26S",
+     "vues": 6088,
+     "commentaires": null
+    },
+    {
+     "id": "TjLUUSNIzWY",
+     "titre": "Heads up drivers: Toronto gas, diesel prices dropped 11 cents",
+     "chaine": "CBC News Toronto",
+     "publie": "2026-11-04T17:49:01Z",
+     "duree": "PT1M3S",
+     "vues": 3331,
+     "commentaires": null
+    },
+    {
+     "id": "azNK1kKjizU",
+     "titre": "Premières baisses des prix du carburant depuis mars",
+     "chaine": "France 3 Hauts-de-France",
+     "publie": "2026-11-03T15:00:02Z",
+     "duree": "PT1M11S",
+     "vues": 6275,
+     "commentaires": "2"
+    },
+    {
+     "id": "I0gnG6MCIOU",
+     "titre": "Why Toronto gas prices just dropped 11 cents",
+     "chaine": "CTV News",
+     "publie": "2026-11-04T18:17:52Z",
+     "duree": "PT1M47S",
+     "vues": 3873,
+     "commentaires": "12"
+    },
+    {
+     "id": "3_u5VBMHSQg",
+     "titre": "Petrol Gets Cheaper Again! Big Relief for Pakistanis | 92NewsHD",
+     "chaine": "92 News HD",
+     "publie": "2026-11-05T10:30:14Z",
+     "duree": "PT28S",
+     "vues": 2597,
+     "commentaires": "0"
+    },
+    {
+     "id": "DUlyaxWe2zg",
+     "titre": "Why Toronto gas prices just dropped 11 cents",
+     "chaine": "CTV News",
+     "publie": "2026-11-04T18:53:02Z",
+     "duree": "PT2M1S",
+     "vues": 2696,
+     "commentaires": "7"
+    },
+    {
+     "id": "fIwj-SNAdQc",
+     "titre": "CARBURANTS : UNE BAISSE DES PRIX MOYENNEMENT BIEN ACCUEILLIE",
+     "chaine": "Angers Télé",
+     "publie": "2026-11-04T13:35:33Z",
+     "duree": "PT1M10S",
+     "vues": 1450,
+     "commentaires": "0"
+    },
+    {
+     "id": "aP13Y8H8bk0",
+     "titre": "Why gas prices could drop in West Michigan",
+     "chaine": "13 ON YOUR SIDE",
+     "publie": "2026-11-05T04:21:05Z",
+     "duree": "PT2M58S",
+     "vues": 1276,
+     "commentaires": "23"
+    },
+    {
+     "id": "mcnEZXbpk9E",
+     "titre": "Gas prices expected to drop across GTA, Golden Horseshoe",
+     "chaine": "CHCH News",
+     "publie": "2026-11-03T15:58:57Z",
+     "duree": "PT2M21S",
+     "vues": 1155,
+     "commentaires": null
+    },
+    {
+     "id": "TcZ1-R6HTKQ",
+     "titre": "GTA gas prices set to drop again",
+     "chaine": "CityNews",
+     "publie": "2026-11-05T15:42:21Z",
+     "duree": "PT36S",
+     "vues": 1310,
+     "commentaires": "1"
+    }
+   ],
+   "prix du chocolat": [
+    {
+     "id": "rUpFvYjUdWg",
+     "titre": "Prix du chocolat 🍫 #Shorts",
+     "chaine": "SPGPA  SPORT GRAND PRIX AFRIQUE",
+     "publie": "2026-11-03T15:20:29Z",
+     "duree": "PT15S",
+     "vues": 1594,
+     "commentaires": "0"
+    },
+    {
+     "id": "4lc3qPO2VgM",
+     "titre": "20 રૂપિયા ની ચોકલેટ? કાકા તો લૂંટો છો! 😂#gujaraticomedy #villagecomedy  #shorts #viralshorts",
+     "chaine": "Gujju Family Fun ",
+     "publie": "2026-11-03T14:30:32Z",
+     "duree": "PT15S",
+     "vues": 1078,
+     "commentaires": "0"
+    },
+    {
+     "id": "krTDTYm-07E",
+     "titre": "😍 New Chocolate Alert! Taste, Price & Honest Review!",
+     "chaine": "Bite with Avik",
+     "publie": "2026-11-03T17:01:22Z",
+     "duree": "PT16S",
+     "vues": 1151,
+     "commentaires": "1"
+    },
+    {
+     "id": "dAD_oMEY_LA",
+     "titre": "Calendrier de l'Avent prix au kilo : presque 2× plus cher qu'en sachet",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-03T19:00:57Z",
+     "duree": "PT1M15S",
+     "vues": 585,
+     "commentaires": "0"
+    },
+    {
+     "id": "pL592TRDLqY",
+     "titre": "Ta tablette de chocolat : combien pour le planteur ? #shorts",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-04T10:01:39Z",
+     "duree": "PT28S",
+     "vues": 731,
+     "commentaires": "1"
+    },
+    {
+     "id": "AMUDcL9sLQs",
+     "titre": "😍 New Chocolate Alert! Taste, Price & Honest Review!",
+     "chaine": "Bite with Avik",
+     "publie": "2026-11-03T17:01:43Z",
+     "duree": "PT11S",
+     "vues": 589,
+     "commentaires": "0"
+    },
+    {
+     "id": "Vy7I8LcB48A",
+     "titre": "My Favorite Coffee on MSC Meraviglia Comes With a Catch",
+     "chaine": "Tom Sunday",
+     "publie": "2026-11-04T17:00:07Z",
+     "duree": "PT47S",
+     "vues": 111,
+     "commentaires": "0"
+    },
+    {
+     "id": "cx85sBqr0uo",
+     "titre": "Une fève de cacao fraîche, ça a quel goût ? #shorts",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-03T20:21:05Z",
+     "duree": "PT18S",
+     "vues": 96,
+     "commentaires": "1"
+    },
+    {
+     "id": "rzuXPc_KRa0",
+     "titre": "Le cacao baisse… et les chocolats de Pâques augmentent ? #shorts",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-04T14:30:12Z",
+     "duree": "PT19S",
+     "vues": 92,
+     "commentaires": "1"
+    },
+    {
+     "id": "1qVZJegQIFM",
+     "titre": "Marché du cacao : la crise est-elle finie ?",
+     "chaine": "SCOP Ethiquable",
+     "publie": "2026-11-03T15:27:05Z",
+     "duree": "PT1H35M48S",
+     "vues": 27,
+     "commentaires": "0"
+    },
+    {
+     "id": "IpMxddMvUNo",
+     "titre": "Ta tablette de chocolat est taxée à combien ? #shorts",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-05T11:30:39Z",
+     "duree": "PT24S",
+     "vues": 144,
+     "commentaires": "1"
+    },
+    {
+     "id": "8D9MZnwk9TI",
+     "titre": "Combien de cabosses pour UNE tablette de chocolat ? #shorts",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-05T17:00:18Z",
+     "duree": "PT23S",
+     "vues": 8,
+     "commentaires": "1"
+    },
+    {
+     "id": "M5otQ9EvHj0",
+     "titre": "Pourquoi le chocolat est devenu si cher ?",
+     "chaine": "Facture Salée",
+     "publie": "2026-11-05T14:37:39Z",
+     "duree": "PT21M28S",
+     "vues": 0,
+     "commentaires": "0"
+    },
+    {
+     "id": "1JmIRrtAyDQ",
+     "titre": "KARKUS BUYS UP CHOCOLATE AND SELLS IT AT HIGH PRICES",
+     "chaine": "MNC Animation - English",
+     "publie": "2026-11-06T00:00:04Z",
+     "duree": "PT55S",
+     "vues": 2,
+     "commentaires": "0"
+    },
+    {
+     "id": "4TYClFtmRqs",
+     "titre": "Le prix du cacao a été multiplié par 4 🍫 #shorts",
+     "chaine": "Facture Salée",
+     "publie": "2026-11-05T19:28:54Z",
+     "duree": "PT32S",
+     "vues": 0,
+     "commentaires": "0"
+    }
+   ],
+   "café capsule prix": [
+    {
+     "id": "FcM8BzgRVgA",
+     "titre": "Ton café en capsule, tu le paies combien au kilo ? #shorts",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-04T19:00:06Z",
+     "duree": "PT25S",
+     "vues": 910,
+     "commentaires": "1"
+    },
+    {
+     "id": "69XTDh0pW9o",
+     "titre": "MACHINE À CAFÉ À CAPSULES 2026 ☕ TOP 3 NESPRESSO COMPACTES",
+     "chaine": "MOBILISHOP",
+     "publie": "2026-11-05T11:00:06Z",
+     "duree": "PT3M43S",
+     "vues": 8,
+     "commentaires": "0"
+    },
+    {
+     "id": "f4U7Iv4Y6SI",
+     "titre": "Comment Nespresso vous vend du café au prix de l'or",
+     "chaine": "Fragments Numériques",
+     "publie": "2026-11-04T16:00:11Z",
+     "duree": "PT8M7S",
+     "vues": 14,
+     "commentaires": "1"
+    },
+    {
+     "id": "cZrSQY73l5g",
+     "titre": "Café en capsules : combien vous coûte vraiment chaque tasse ?",
+     "chaine": "Le Vrai du Rayon",
+     "publie": "2026-11-04T12:39:20Z",
+     "duree": "PT11M7S",
+     "vues": 0,
+     "commentaires": "0"
+    }
+   ],
+   "taxes carburant": [
+    {
+     "id": "oTPbO5tnuww",
+     "titre": "Raymond s’insurge contre les taxes sur l’essence ! #TBT9",
+     "chaine": "W9",
+     "publie": "2026-11-04T06:00:07Z",
+     "duree": "PT1M58S",
+     "vues": 220036,
+     "commentaires": "323"
+    },
+    {
+     "id": "TzkFJjmheow",
+     "titre": "Canadians Are Paying More — And Governments Are Cashing In",
+     "chaine": "The LeDrew Three Minute Interview",
+     "publie": "2026-11-04T11:00:04Z",
+     "duree": "PT3M46S",
+     "vues": 7930,
+     "commentaires": "54"
+    },
+    {
+     "id": "BnW9bIFdcN8",
+     "titre": "50% de TAXES sur ton plein ! ⛽️ #essence #carburants   #politique   #économie #diesel",
+     "chaine": "3DSrs",
+     "publie": "2026-11-04T12:24:05Z",
+     "duree": "PT25S",
+     "vues": 1813,
+     "commentaires": "0"
+    },
+    {
+     "id": "YHe8FQiwn80",
+     "titre": "₹100 ka petrol daala… ₹39 sarkar ko chale gaye? ⛽😳",
+     "chaine": "Seedha Sikka",
+     "publie": "2026-11-04T13:42:13Z",
+     "duree": "PT54S",
+     "vues": 1388,
+     "commentaires": "0"
+    },
+    {
+     "id": "Q0xLcJwe2cg",
+     "titre": "You pay fuel tax. Big mining companies don't!",
+     "chaine": "The Climate Council",
+     "publie": "2026-11-05T07:00:31Z",
+     "duree": "PT1M22S",
+     "vues": 1219,
+     "commentaires": "4"
+    },
+    {
+     "id": "LUwdmepbJo8",
+     "titre": "Prix du carburant : combien l'État prélève-t-il réellement sur un litre ?  #carburant #consommation",
+     "chaine": "MCSA Formation",
+     "publie": "2026-11-04T21:27:47Z",
+     "duree": "PT2M59S",
+     "vues": 950,
+     "commentaires": "6"
+    },
+    {
+     "id": "vjSo7Vu1Meg",
+     "titre": "Is an 18-cent gas tax cut enough to actually help? Let's talk.#shorts",
+     "chaine": "Clip4talarico",
+     "publie": "2026-11-05T03:12:44Z",
+     "duree": "PT39S",
+     "vues": 1077,
+     "commentaires": "2"
+    },
+    {
+     "id": "Tg-LOILcxEc",
+     "titre": "ガソリン170円のうち47円は税金｜しかも税金に税金がかかる#ガソリン #ガソリン価格 #ガソリン税 #ガソリン補助金 #二重課税 #消費税 #値上げ #家計 #ニュース解説 #shorts",
+     "chaine": "Isao",
+     "publie": "2026-11-04T11:26:09Z",
+     "duree": "PT1M24S",
+     "vues": 1265,
+     "commentaires": "1"
+    },
+    {
+     "id": "dsPXa5ChyE8",
+     "titre": "「暫定」税率が終わったのに、なぜガソリン代の3割は税金のまま？",
+     "chaine": "値札の裏側",
+     "publie": "2026-11-05T09:30:36Z",
+     "duree": "PT1M7S",
+     "vues": 1132,
+     "commentaires": "2"
+    },
+    {
+     "id": "EnLm-OjRCLw",
+     "titre": "Dari bangun tidur sampai tidur lagi, kamu udah bayar pajak minimal 7 kali. Nggak sadar, kan? 🧾",
+     "chaine": "Hermawan Susanto",
+     "publie": "2026-11-04T10:48:05Z",
+     "duree": "PT1M7S",
+     "vues": 1232,
+     "commentaires": "0"
+    },
+    {
+     "id": "sxIJxIPNHFM",
+     "titre": "California Affordability: Can Cutting Gas Taxes Bring Relief? #shorts",
+     "chaine": "Denise Grace Gitsham",
+     "publie": "2026-11-04T05:03:29Z",
+     "duree": "PT48S",
+     "vues": 3104,
+     "commentaires": "4"
+    },
+    {
+     "id": "UK6qTBWXn4M",
+     "titre": "Poilievre vs Liberals on gas taxes and Telesat | QP Nov 4, 2026",
+     "chaine": "Voices of the 6ix",
+     "publie": "2026-11-05T16:01:15Z",
+     "duree": "PT1M34S",
+     "vues": 491,
+     "commentaires": "0"
+    },
+    {
+     "id": "cildePoeCZE",
+     "titre": "Prix gazole 2026 : pourquoi le diesel est plus cher que l'essence (pas à cause des taxes)",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-05T07:00:28Z",
+     "duree": "PT1M6S",
+     "vues": 516,
+     "commentaires": "4"
+    },
+    {
+     "id": "bxM9khq_nKc",
+     "titre": "The Question Was About Fuel Taxes 🤷🏻‍♀️",
+     "chaine": "CanaDana",
+     "publie": "2026-11-05T18:45:47Z",
+     "duree": "PT1M57S",
+     "vues": 1391,
+     "commentaires": "16"
+    },
+    {
+     "id": "l82pGWNceAE",
+     "titre": "\"Real Problems, Real Suffering\" — Poilievre Demands the Gas Taxes Go",
+     "chaine": "Rise Up Motivation Canada",
+     "publie": "2026-11-05T17:00:16Z",
+     "duree": "PT1M38S",
+     "vues": 194,
+     "commentaires": "1"
+    }
+   ]
+  },
+  "envoye_le": "2026-11-06T11:45:56.614899+00:00"
+ }
+}
