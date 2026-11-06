@@ -1,0 +1,972 @@
+{
+ "action": "chercher",
+ "chaine": "LEVRAIPRIX",
+ "jours": 4,
+ "titre": "Repérage n°2 : vidéos FR récentes à forte audience sur nos sujets",
+ "requetes": [
+  "gazole baisse",
+  "prix à la pompe",
+  "carburant France",
+  "TotalEnergies prix",
+  "prix cacao",
+  "chocolat Noël prix",
+  "plein essence",
+  "prix courses supermarché"
+ ],
+ "resultat": {
+  "resultats": {
+   "gazole baisse": [
+    {
+     "id": "eM8ZxGK-fdw",
+     "titre": "Baisse à la pompe? Un sondage pour les candidats macron? Une salle de t*rture d'Azov à Kiev?",
+     "chaine": "Le Monde Moderne",
+     "publie": "2026-11-03T08:01:38Z",
+     "duree": "PT1H11M15S",
+     "vues": 61667,
+     "commentaires": "555"
+    },
+    {
+     "id": "FWJ757GAy7I",
+     "titre": "Baisse du gazole #info #diesel #avis #humour #carburant #gazole #francais #giletsjaunes #marre",
+     "chaine": "PERRIN",
+     "publie": "2026-11-02T18:51:29Z",
+     "duree": "PT19S",
+     "vues": 73443,
+     "commentaires": "145"
+    },
+    {
+     "id": "RLUFPhxZZyg",
+     "titre": "Prix du carburant : Jusqu’à 30 centimes de baisse par litre de gazole",
+     "chaine": "franceinfo",
+     "publie": "2026-11-02T19:11:51Z",
+     "duree": "PT2M24S",
+     "vues": 38078,
+     "commentaires": "8"
+    },
+    {
+     "id": "gbvut-Pg4m4",
+     "titre": "🤣 Il fait le PLEIN DE SA PISCINE avec du GAZOLE ! ⛽😂",
+     "chaine": "FuturAI Creations — Vidéo & IA • Benjamin Sibuet",
+     "publie": "2026-11-03T09:08:25Z",
+     "duree": "PT16S",
+     "vues": 31096,
+     "commentaires": "2"
+    },
+    {
+     "id": "l4aKQNCjWPg",
+     "titre": "Une baisse de 21 centimes par litre de gazole : \"À 14h, chez Leclerc, on était à 2,18 € le litre\"",
+     "chaine": "RTL  ",
+     "publie": "2026-11-02T18:26:41Z",
+     "duree": "PT1M47S",
+     "vues": 14479,
+     "commentaires": "24"
+    },
+    {
+     "id": "2mHCL_pULZE",
+     "titre": "Gazole : Les prix baissent dans 6 600 stations, de 15 centimes en moyenne",
+     "chaine": "CNEWS",
+     "publie": "2026-11-04T11:18:26Z",
+     "duree": "PT1M5S",
+     "vues": 10551,
+     "commentaires": "63"
+    },
+    {
+     "id": "KSiqtWqHXP0",
+     "titre": "Prix du gazole en baisse : Où trouver le carburant le moins cher ?",
+     "chaine": "franceinfo",
+     "publie": "2026-11-02T12:12:44Z",
+     "duree": "PT2M21S",
+     "vues": 6185,
+     "commentaires": "4"
+    },
+    {
+     "id": "IQDbPCVDxOc",
+     "titre": "Voici pourquoi le carburant n'a pas baissé dans toutes les pompes",
+     "chaine": "BFMTV",
+     "publie": "2026-11-03T05:12:55Z",
+     "duree": "PT1M33S",
+     "vues": 4641,
+     "commentaires": "4"
+    },
+    {
+     "id": "bCAIrldQE_s",
+     "titre": "Carburants : la baisse des prix est-elle vraiment au rendez-vous ?",
+     "chaine": "RTL  ",
+     "publie": "2026-11-02T13:44:02Z",
+     "duree": "PT20M22S",
+     "vues": 5769,
+     "commentaires": "19"
+    },
+    {
+     "id": "zp9FDGeOl5I",
+     "titre": "\"C’est un dispositif absolument historique\" : Lescure fait le point sur la baisse du prix du gazole",
+     "chaine": "franceinfo",
+     "publie": "2026-11-03T09:54:28Z",
+     "duree": "PT8M49S",
+     "vues": 4084,
+     "commentaires": "10"
+    },
+    {
+     "id": "TjLUUSNIzWY",
+     "titre": "Heads up drivers: Toronto gas, diesel prices dropped 11 cents",
+     "chaine": "CBC News Toronto",
+     "publie": "2026-11-04T17:49:01Z",
+     "duree": "PT1M3S",
+     "vues": 3331,
+     "commentaires": null
+    },
+    {
+     "id": "azNK1kKjizU",
+     "titre": "Premières baisses des prix du carburant depuis mars",
+     "chaine": "France 3 Hauts-de-France",
+     "publie": "2026-11-03T15:00:02Z",
+     "duree": "PT1M11S",
+     "vues": 6275,
+     "commentaires": "2"
+    },
+    {
+     "id": "ZRQf0jgFtlY",
+     "titre": "Macron se félicite de la baisse du gazole à la pompe... de 10 centimes",
+     "chaine": "Zantrop",
+     "publie": "2026-11-03T17:00:20Z",
+     "duree": "PT45S",
+     "vues": 2313,
+     "commentaires": "3"
+    },
+    {
+     "id": "-h_Kkqi1Urc",
+     "titre": "Gazole : les prix ont amorcé leur baisse, mais pour les gros rouleurs, \"ce n'est pas assez\"",
+     "chaine": "Europe 1",
+     "publie": "2026-11-03T10:31:27Z",
+     "duree": "PT1M27S",
+     "vues": 2648,
+     "commentaires": "0"
+    },
+    {
+     "id": "fIwj-SNAdQc",
+     "titre": "CARBURANTS : UNE BAISSE DES PRIX MOYENNEMENT BIEN ACCUEILLIE",
+     "chaine": "Angers Télé",
+     "publie": "2026-11-04T13:35:33Z",
+     "duree": "PT1M10S",
+     "vues": 1450,
+     "commentaires": "0"
+    }
+   ],
+   "prix à la pompe": [
+    {
+     "id": "Yos-MnJnh9Q",
+     "titre": "Palpatine Explains the Iran War...",
+     "chaine": "JarJarsAgenda",
+     "publie": "2026-11-05T04:01:09Z",
+     "duree": "PT2M54S",
+     "vues": 189719,
+     "commentaires": "732"
+    },
+    {
+     "id": "n2nqEYoBr8c",
+     "titre": "Je présente en exclusivité ma mission parlementaire sur les prix délirants à la pompe ⛽",
+     "chaine": "Aurélie Trouvé - Députée ",
+     "publie": "2026-11-03T09:08:30Z",
+     "duree": "PT7M27S",
+     "vues": 34019,
+     "commentaires": "227"
+    },
+    {
+     "id": "e9_7zmp0i3Y",
+     "titre": "Les prix à la pompe commencent à baisser.",
+     "chaine": "Emmanuel Macron",
+     "publie": "2026-11-02T16:43:55Z",
+     "duree": "PT24S",
+     "vues": 24783,
+     "commentaires": "130"
+    },
+    {
+     "id": "jkjaZ4F7o0M",
+     "titre": "GTA drivers expected to get more relief at the pumps | CTV News Toronto at Six for Nov. 4, 2026",
+     "chaine": "CP24",
+     "publie": "2026-11-05T01:02:33Z",
+     "duree": "PT46M13S",
+     "vues": 10661,
+     "commentaires": "1"
+    },
+    {
+     "id": "iv7YAoKOXYg",
+     "titre": "FUEL PRICES SET TO RISE FROM WEDNESDAY - nbc",
+     "chaine": "NBC Digital News",
+     "publie": "2026-11-02T18:24:23Z",
+     "duree": "PT2M",
+     "vues": 5587,
+     "commentaires": "6"
+    },
+    {
+     "id": "KSiqtWqHXP0",
+     "titre": "Prix du gazole en baisse : Où trouver le carburant le moins cher ?",
+     "chaine": "franceinfo",
+     "publie": "2026-11-02T12:12:44Z",
+     "duree": "PT2M21S",
+     "vues": 6185,
+     "commentaires": "4"
+    },
+    {
+     "id": "CEf7NqXktkc",
+     "titre": "GTA drivers expected to get more relief at the pumps | CTV News Toronto at Six for Nov. 4, 2026",
+     "chaine": "CTV News",
+     "publie": "2026-11-05T01:01:18Z",
+     "duree": "PT46M13S",
+     "vues": 5015,
+     "commentaires": "2"
+    },
+    {
+     "id": "02ohQm5e8I0",
+     "titre": "Carburants : +10 F par litre à la pompe en Polynésie",
+     "chaine": "Polynésie la 1ère",
+     "publie": "2026-11-03T19:53:58Z",
+     "duree": "PT2M37S",
+     "vues": 4719,
+     "commentaires": "1"
+    },
+    {
+     "id": "dgFg9oozDfw",
+     "titre": "High #fuelprices  slow #pump",
+     "chaine": "Willey’s Firewood",
+     "publie": "2026-11-03T13:46:12Z",
+     "duree": "PT11S",
+     "vues": 2703,
+     "commentaires": "7"
+    },
+    {
+     "id": "ieb3FEeukQM",
+     "titre": "Pauvreté et prix des carburants : quelles réponses du gouvernement ? #shorts",
+     "chaine": "AlexLaGrinta",
+     "publie": "2026-11-05T08:00:33Z",
+     "duree": "PT2M50S",
+     "vues": 1172,
+     "commentaires": "2"
+    },
+    {
+     "id": "6cfDRDW7-PI",
+     "titre": "Where Your 15¢ Gas Surcharge ACTUALLY Goes",
+     "chaine": "TGWR",
+     "publie": "2026-11-02T16:41:53Z",
+     "duree": "PT20S",
+     "vues": 1220,
+     "commentaires": "2"
+    },
+    {
+     "id": "PzoxyT08bnM",
+     "titre": "Is political manipulation blinding us to the truth about gas prices?",
+     "chaine": "Infinite Cut",
+     "publie": "2026-11-05T00:01:39Z",
+     "duree": "PT16S",
+     "vues": 1108,
+     "commentaires": "1"
+    },
+    {
+     "id": "jJNSjMtTXJY",
+     "titre": "Cost of living concerns loom over the midterms",
+     "chaine": "Atlanta News First ",
+     "publie": "2026-11-02T21:02:08Z",
+     "duree": "PT4M6S",
+     "vues": 508,
+     "commentaires": "1"
+    },
+    {
+     "id": "l5X19CPFo4A",
+     "titre": "GABON / CARBURANT : FAKE NEWS SUR L’AUGMENTATION DES PRIX À LA POMPE",
+     "chaine": "Gabon 24",
+     "publie": "2026-11-02T19:10:58Z",
+     "duree": "PT1M58S",
+     "vues": 363,
+     "commentaires": "0"
+    },
+    {
+     "id": "YwR6siKb3Fw",
+     "titre": "Gazole : une baisse à la pompe… combien sur votre plein ?",
+     "chaine": "Tous Optimistes",
+     "publie": "2026-11-02T23:42:20Z",
+     "duree": "PT32S",
+     "vues": 535,
+     "commentaires": "0"
+    }
+   ],
+   "carburant France": [
+    {
+     "id": "IcPzO05Ju7M",
+     "titre": "Carburants : pourquoi la consommation s'effondre en France",
+     "chaine": "RTL  ",
+     "publie": "2026-11-05T06:10:05Z",
+     "duree": "PT2M10S",
+     "vues": 147162,
+     "commentaires": "369"
+    },
+    {
+     "id": "yEUWOcuLAgM",
+     "titre": "Prix de l’essence aux États-Unis… l’échec de Trump",
+     "chaine": "C dans l'air - France Télévisions",
+     "publie": "2026-11-04T20:00:20Z",
+     "duree": "PT9M3S",
+     "vues": 73832,
+     "commentaires": "31"
+    },
+    {
+     "id": "RLUFPhxZZyg",
+     "titre": "Prix du carburant : Jusqu’à 30 centimes de baisse par litre de gazole",
+     "chaine": "franceinfo",
+     "publie": "2026-11-02T19:11:51Z",
+     "duree": "PT2M24S",
+     "vues": 38078,
+     "commentaires": "8"
+    },
+    {
+     "id": "n2nqEYoBr8c",
+     "titre": "Je présente en exclusivité ma mission parlementaire sur les prix délirants à la pompe ⛽",
+     "chaine": "Aurélie Trouvé - Députée ",
+     "publie": "2026-11-03T09:08:30Z",
+     "duree": "PT7M27S",
+     "vues": 34019,
+     "commentaires": "227"
+    },
+    {
+     "id": "2iL32C3rq5I",
+     "titre": "12 à 18 centimes en moins : les prix des carburants baissent enfin !｜TF1 INFO",
+     "chaine": "TF1 INFO",
+     "publie": "2026-11-02T13:27:09Z",
+     "duree": "PT4M42S",
+     "vues": 30433,
+     "commentaires": "70"
+    },
+    {
+     "id": "bFBDrx34l2g",
+     "titre": "Tensions sur les carburants : immersion au cœur d'une raffinerie",
+     "chaine": "TF1 INFO",
+     "publie": "2026-11-02T21:08:42Z",
+     "duree": "PT3M4S",
+     "vues": 29447,
+     "commentaires": "56"
+    },
+    {
+     "id": "3gsyXTXxryI",
+     "titre": "LA GAUCHE BLOQUE LA BAISSE DE LA TVA À 5,5 % SUR LE CARBURANT ",
+     "chaine": "Info France",
+     "publie": "2026-11-03T09:00:14Z",
+     "duree": "PT19M20S",
+     "vues": 10280,
+     "commentaires": "95"
+    },
+    {
+     "id": "2mHCL_pULZE",
+     "titre": "Gazole : Les prix baissent dans 6 600 stations, de 15 centimes en moyenne",
+     "chaine": "CNEWS",
+     "publie": "2026-11-04T11:18:26Z",
+     "duree": "PT1M5S",
+     "vues": 10551,
+     "commentaires": "63"
+    },
+    {
+     "id": "NSFg2yhVLeU",
+     "titre": "🇫🇷​\"On n'en peut plus !\":Jusqu'où vont-ils pousser les Français ?😡",
+     "chaine": "Émile Décrypte",
+     "publie": "2026-11-03T18:34:37Z",
+     "duree": "PT8M6S",
+     "vues": 9152,
+     "commentaires": "17"
+    },
+    {
+     "id": "BKfBIgxZFuU",
+     "titre": "Crise du carburant, le ministre parle d’un plein à 40€, la France paie sa politique anti-Algérie",
+     "chaine": "Les Petites News de Samir",
+     "publie": "2026-11-05T17:28:52Z",
+     "duree": "PT21M18S",
+     "vues": 6188,
+     "commentaires": "44"
+    },
+    {
+     "id": "KSiqtWqHXP0",
+     "titre": "Prix du gazole en baisse : Où trouver le carburant le moins cher ?",
+     "chaine": "franceinfo",
+     "publie": "2026-11-02T12:12:44Z",
+     "duree": "PT2M21S",
+     "vues": 6185,
+     "commentaires": "4"
+    },
+    {
+     "id": "YSv-fruUiOU",
+     "titre": "\"Cette augmentation du prix du gaz, on ne l’a pas encore payé\" (Grégory Caret)",
+     "chaine": "franceinfo",
+     "publie": "2026-11-03T09:51:48Z",
+     "duree": "PT14M43S",
+     "vues": 8517,
+     "commentaires": "35"
+    },
+    {
+     "id": "usOyDNH7hO4",
+     "titre": "CARBURANT À 2,50€ : ILS VOTENT CONTRE LA BAISSE DE TVA !",
+     "chaine": "Jon De Lorraine",
+     "publie": "2026-11-02T13:41:22Z",
+     "duree": "PT10M53S",
+     "vues": 7398,
+     "commentaires": "80"
+    },
+    {
+     "id": "_w04bJhFiFY",
+     "titre": "Pourquoi ton plein coûte si cher ? #actualités #france #iran #carburant #géopolitique #fyp #foryou",
+     "chaine": "The_worldMap",
+     "publie": "2026-11-02T15:00:24Z",
+     "duree": "PT1M43S",
+     "vues": 3388,
+     "commentaires": "5"
+    },
+    {
+     "id": "zp9FDGeOl5I",
+     "titre": "\"C’est un dispositif absolument historique\" : Lescure fait le point sur la baisse du prix du gazole",
+     "chaine": "franceinfo",
+     "publie": "2026-11-03T09:54:28Z",
+     "duree": "PT8M49S",
+     "vues": 3980,
+     "commentaires": "10"
+    }
+   ],
+   "TotalEnergies prix": [
+    {
+     "id": "bVM6g5h3zM0",
+     "titre": "Fabien Gay à Bregeon : « Vous êtes la porte-parole de Total »",
+     "chaine": "minfo_actu",
+     "publie": "2026-11-04T20:57:33Z",
+     "duree": "PT1M4S",
+     "vues": 69111,
+     "commentaires": "323"
+    },
+    {
+     "id": "KSiqtWqHXP0",
+     "titre": "Prix du gazole en baisse : Où trouver le carburant le moins cher ?",
+     "chaine": "franceinfo",
+     "publie": "2026-11-02T12:12:44Z",
+     "duree": "PT2M21S",
+     "vues": 6185,
+     "commentaires": "4"
+    },
+    {
+     "id": "v_vaVEMVQ4A",
+     "titre": "المحطة اللي تبيع الغازوال بأرخص ثمن… شنو السر؟ #الغازوال",
+     "chaine": "Aji Nfahmek 7a9ek - أجي نفهمك حقك",
+     "publie": "2026-11-02T21:51:41Z",
+     "duree": "PT21S",
+     "vues": 2135,
+     "commentaires": "1"
+    },
+    {
+     "id": "CMhz4GIrtxc",
+     "titre": "TOTAL : Les dessous des profits records révélés par Patrick Pouyanné ! ⛽️💸",
+     "chaine": "Polyvox",
+     "publie": "2026-11-05T07:00:03Z",
+     "duree": "PT1M32S",
+     "vues": 1410,
+     "commentaires": "4"
+    },
+    {
+     "id": "uaETXa1MPIM",
+     "titre": "⛽ Et si plafonner le prix des carburants pouvait aggraver une pénurie ?",
+     "chaine": "Hiboo Expert",
+     "publie": "2026-11-04T12:30:59Z",
+     "duree": "PT19S",
+     "vues": 1319,
+     "commentaires": "0"
+    },
+    {
+     "id": "sL-BBkm0Q9A",
+     "titre": "La seule correction de Total qui a vraiment marché #Shorts",
+     "chaine": "Le ReputatioLab",
+     "publie": "2026-11-02T17:17:57Z",
+     "duree": "PT57S",
+     "vues": 539,
+     "commentaires": "0"
+    },
+    {
+     "id": "UAt8bp9Gxik",
+     "titre": "TOTAL : Les dessous des superprofits révélés en plein hémicycle ! 💸⛽",
+     "chaine": "Polyvox",
+     "publie": "2026-11-05T15:00:01Z",
+     "duree": "PT1M35S",
+     "vues": 1097,
+     "commentaires": "2"
+    },
+    {
+     "id": "YwR6siKb3Fw",
+     "titre": "Gazole : une baisse à la pompe… combien sur votre plein ?",
+     "chaine": "Tous Optimistes",
+     "publie": "2026-11-02T23:42:20Z",
+     "duree": "PT32S",
+     "vues": 535,
+     "commentaires": "0"
+    },
+    {
+     "id": "nDh-9n-JLK0",
+     "titre": "L'argent avant les gens, le profit à tout prix, les désastres comme fonds de commerce",
+     "chaine": "350 France",
+     "publie": "2026-11-05T15:03:29Z",
+     "duree": "PT41S",
+     "vues": 1065,
+     "commentaires": "0"
+    },
+    {
+     "id": "wQaTFOyUJ44",
+     "titre": "Diesel à 1,99 € : la condition cachée",
+     "chaine": "Linkar",
+     "publie": "2026-11-04T07:00:01Z",
+     "duree": "PT1M9S",
+     "vues": 248,
+     "commentaires": "0"
+    },
+    {
+     "id": "RQ3pRBXi7Us",
+     "titre": "TotalEnergies : 99 millions de dollars par jour… et pour vous ?",
+     "chaine": "Rosmerta",
+     "publie": "2026-11-03T16:00:06Z",
+     "duree": "PT31S",
+     "vues": 165,
+     "commentaires": "0"
+    },
+    {
+     "id": "JufWg1lg-eg",
+     "titre": "TotalEnergies : des superprofits malgré les tensions",
+     "chaine": "Info-Scopie",
+     "publie": "2026-11-04T18:33:41Z",
+     "duree": "PT1M27S",
+     "vues": 130,
+     "commentaires": "2"
+    },
+    {
+     "id": "9I7MkMfKNzw",
+     "titre": "TotalEnergies engrange des superprofits",
+     "chaine": "A Babord",
+     "publie": "2026-11-04T19:32:45Z",
+     "duree": "PT2M23S",
+     "vues": 51,
+     "commentaires": "0"
+    },
+    {
+     "id": "rEpmgTbQGdI",
+     "titre": "TotalEnergies : 8,3 milliards en un trimestre, gazole plafonné à 2,25 €",
+     "chaine": "Argent Décrypté",
+     "publie": "2026-11-04T17:01:13Z",
+     "duree": "PT1M35S",
+     "vues": 53,
+     "commentaires": "0"
+    },
+    {
+     "id": "y0bGEJID1rA",
+     "titre": "\"Bloquons les prix, baissons la TVA et nationalisons TotalEnergies !\"",
+     "chaine": "Groupe CRCE-K",
+     "publie": "2026-11-05T08:50:56Z",
+     "duree": "PT1M1S",
+     "vues": 14,
+     "commentaires": "0"
+    }
+   ],
+   "prix cacao": [
+    {
+     "id": "SHGbsSB7mfQ",
+     "titre": "Nutella est né… d'une pénurie de cacao 🍫🌰",
+     "chaine": "Anatomie d'un Empire",
+     "publie": "2026-11-02T17:51:50Z",
+     "duree": "PT1M3S",
+     "vues": 2976,
+     "commentaires": "2"
+    },
+    {
+     "id": "Mk3C4ItDSII",
+     "titre": "Chocolat : combien touche le cultivateur de cacao ?",
+     "chaine": "Sous l'etiquette",
+     "publie": "2026-11-03T11:31:30Z",
+     "duree": "PT1M14S",
+     "vues": 972,
+     "commentaires": "0"
+    },
+    {
+     "id": "wGwIIHfyWyc",
+     "titre": "The Economics of Owning a Chocolate Factory",
+     "chaine": "Mr. Finance",
+     "publie": "2026-11-05T01:00:23Z",
+     "duree": "PT21M40S",
+     "vues": 1553,
+     "commentaires": "4"
+    },
+    {
+     "id": "McSUaSOIYVA",
+     "titre": "Harga Kakao global 4 November 2026 #cacao #hargacoklat #hargakakao",
+     "chaine": "Kakao Info",
+     "publie": "2026-11-04T00:00:38Z",
+     "duree": "PT59S",
+     "vues": 1188,
+     "commentaires": "1"
+    },
+    {
+     "id": "bQVSfg2Xpv8",
+     "titre": "Harga Kakao global 3 November 2026 #cacao #hargacoklat #hargakakao",
+     "chaine": "Kakao Info",
+     "publie": "2026-11-03T03:41:46Z",
+     "duree": "PT59S",
+     "vues": 949,
+     "commentaires": "2"
+    },
+    {
+     "id": "HIh8oKtCwwg",
+     "titre": "Harga Kakao global 5 November 2026 #cacao #hargacoklat #hargakakao",
+     "chaine": "Kakao Info",
+     "publie": "2026-11-05T00:00:04Z",
+     "duree": "PT59S",
+     "vues": 722,
+     "commentaires": "1"
+    },
+    {
+     "id": "dAD_oMEY_LA",
+     "titre": "Calendrier de l'Avent prix au kilo : presque 2× plus cher qu'en sachet",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-03T19:00:57Z",
+     "duree": "PT1M15S",
+     "vues": 585,
+     "commentaires": "0"
+    },
+    {
+     "id": "4hP1zMDOSRk",
+     "titre": "Cacao à 10 000 $ la tonne… pourquoi le planteur n'en a pas profité #shorts",
+     "chaine": "Empires d'Afrique",
+     "publie": "2026-11-02T19:00:39Z",
+     "duree": "PT40S",
+     "vues": 565,
+     "commentaires": "0"
+    },
+    {
+     "id": "pL592TRDLqY",
+     "titre": "Ta tablette de chocolat : combien pour le planteur ? #shorts",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-04T10:01:39Z",
+     "duree": "PT28S",
+     "vues": 731,
+     "commentaires": "1"
+    },
+    {
+     "id": "EBOuBuZx5GY",
+     "titre": "Le prix du cacao à augmenté # #agriculture",
+     "chaine": "Agrituto TV",
+     "publie": "2026-11-05T19:45:04Z",
+     "duree": "PT1M3S",
+     "vues": 287,
+     "commentaires": "0"
+    },
+    {
+     "id": "jWzmpVo0AKU",
+     "titre": "Cacao : 1 200 F en Côte d'Ivoire, 2 100 au Ghana. Pourquoi ?",
+     "chaine": "Afrique sur 7",
+     "publie": "2026-11-05T09:40:54Z",
+     "duree": "PT3M27S",
+     "vues": 152,
+     "commentaires": "0"
+    },
+    {
+     "id": "SU6DyaVUrh8",
+     "titre": "Cacao cierra en US$ 5,177 (-5.11%) | 5 Nov 2026",
+     "chaine": "CotizaAgro",
+     "publie": "2026-11-05T21:41:27Z",
+     "duree": "PT47S",
+     "vues": 817,
+     "commentaires": "0"
+    },
+    {
+     "id": "x0onZIENQZk",
+     "titre": "Le cacao s'est effondré, ta tablette n'a pas baissé : qui a pris la différence ?",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-03T20:05:42Z",
+     "duree": "PT7M45S",
+     "vues": 87,
+     "commentaires": "1"
+    },
+    {
+     "id": "o_-rGYfdOGQ",
+     "titre": "¿Cuánto valen hoy US$100 en oro, cacao o trigo? Materias primas en 5 años",
+     "chaine": "Xponda Big data en tiempo real",
+     "publie": "2026-11-03T01:04:24Z",
+     "duree": "PT1M25S",
+     "vues": 113,
+     "commentaires": "0"
+    },
+    {
+     "id": "cx85sBqr0uo",
+     "titre": "Une fève de cacao fraîche, ça a quel goût ? #shorts",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-03T20:21:05Z",
+     "duree": "PT18S",
+     "vues": 96,
+     "commentaires": "1"
+    }
+   ],
+   "chocolat Noël prix": [],
+   "plein essence": [
+    {
+     "id": "z3oNxVse2xs",
+     "titre": "Take me down pay for gas",
+     "chaine": "Ahmad ",
+     "publie": "2026-11-03T20:25:52Z",
+     "duree": "PT45S",
+     "vues": 282674,
+     "commentaires": "174"
+    },
+    {
+     "id": "-YY8cRdBMRA",
+     "titre": "Assam Registered Cars | Get Full Tank Petrol Insurance Pollution Ready Cars ",
+     "chaine": "ABS POOL",
+     "publie": "2026-11-04T13:02:01Z",
+     "duree": "PT10M50S",
+     "vues": 14633,
+     "commentaires": null
+    },
+    {
+     "id": "AIaT1FnU0Zw",
+     "titre": "Foxy pumping her own gas",
+     "chaine": "Fun Wit Foxy",
+     "publie": "2026-11-04T21:47:42Z",
+     "duree": "PT31S",
+     "vues": 7550,
+     "commentaires": "20"
+    },
+    {
+     "id": "BnW9bIFdcN8",
+     "titre": "50% de TAXES sur ton plein ! ⛽️ #essence #carburants   #politique   #économie #diesel",
+     "chaine": "3DSrs",
+     "publie": "2026-11-04T12:24:05Z",
+     "duree": "PT25S",
+     "vues": 1813,
+     "commentaires": "0"
+    },
+    {
+     "id": "iGdCcbN-rZU",
+     "titre": "Ils ont voté CONTRE la baisse de ton plein ⛽😅 #shorts  #cartoon #satire #humour #bobo",
+     "chaine": "Pas Si Fictif",
+     "publie": "2026-11-03T18:11:43Z",
+     "duree": "PT1M2S",
+     "vues": 1267,
+     "commentaires": "0"
+    },
+    {
+     "id": "Qyx797EI7fc",
+     "titre": "Lescure fait le plein",
+     "chaine": "Eric",
+     "publie": "2026-11-03T10:08:22Z",
+     "duree": "PT31S",
+     "vues": 1266,
+     "commentaires": "3"
+    },
+    {
+     "id": "UTa1rAV5EOA",
+     "titre": "TRUMP ACCUSE L'IRAN ET LE PRIX DU PLEIN D'ESSENCE !",
+     "chaine": "Senator Kletus aka Ejanwie Moses ",
+     "publie": "2026-11-05T15:56:43Z",
+     "duree": "PT2M59S",
+     "vues": 737,
+     "commentaires": "2"
+    },
+    {
+     "id": "UAt8bp9Gxik",
+     "titre": "TOTAL : Les dessous des superprofits révélés en plein hémicycle ! 💸⛽",
+     "chaine": "Polyvox",
+     "publie": "2026-11-05T15:00:01Z",
+     "duree": "PT1M35S",
+     "vues": 1097,
+     "commentaires": "2"
+    },
+    {
+     "id": "YwR6siKb3Fw",
+     "titre": "Gazole : une baisse à la pompe… combien sur votre plein ?",
+     "chaine": "Tous Optimistes",
+     "publie": "2026-11-02T23:42:20Z",
+     "duree": "PT32S",
+     "vues": 535,
+     "commentaires": "0"
+    },
+    {
+     "id": "xgsh6jkejiU",
+     "titre": "Saving that Gas money for GAS!",
+     "chaine": "Country Boy Tested Ebikes",
+     "publie": "2026-11-03T16:45:45Z",
+     "duree": "PT1M55S",
+     "vues": 396,
+     "commentaires": "3"
+    },
+    {
+     "id": "9hLFnHPKHuk",
+     "titre": "Sur ton plein d'essence, combien part vraiment en taxes ?",
+     "chaine": "L'argent, simplement",
+     "publie": "2026-11-04T17:00:29Z",
+     "duree": "PT1M2S",
+     "vues": 242,
+     "commentaires": "0"
+    },
+    {
+     "id": "wP4W5C-sgK4",
+     "titre": "Fueling a Car in Malaysia vs Kenya 🇲🇾🇰🇪 | I Wasn't Ready for This!",
+     "chaine": "Johnson Valentis",
+     "publie": "2026-11-04T15:24:52Z",
+     "duree": "PT9M2S",
+     "vues": 282,
+     "commentaires": "1"
+    },
+    {
+     "id": "3Xdysrj8L0M",
+     "titre": "Choc pétrolier : pourquoi le plein n'a pas quadruplé en France en 1974 (le rôle des taxes)",
+     "chaine": "L'éco en bâtons",
+     "publie": "2026-11-04T10:30:20Z",
+     "duree": "PT39S",
+     "vues": 193,
+     "commentaires": "0"
+    },
+    {
+     "id": "dyXoRT_LJgs",
+     "titre": "Le baril baisse… pourquoi pas ton plein ? #shorts",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-05T07:00:19Z",
+     "duree": "PT21S",
+     "vues": 326,
+     "commentaires": "1"
+    },
+    {
+     "id": "HoJhClpTWE4",
+     "titre": "Sur ton plein de 50 litres, l'État prend combien ? #shorts",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-04T07:00:12Z",
+     "duree": "PT28S",
+     "vues": 183,
+     "commentaires": "3"
+    }
+   ],
+   "prix courses supermarché": [
+    {
+     "id": "r6mceKMl-gU",
+     "titre": "MILLIONS of Brits Have Suddenly Stopped Shopping at These UK Supermarkets",
+     "chaine": "UK Food Exposed",
+     "publie": "2026-11-02T18:11:50Z",
+     "duree": "PT18M17S",
+     "vues": 87990,
+     "commentaires": "120"
+    },
+    {
+     "id": "-gYXwCCM25g",
+     "titre": "UNREAL SAVINGS at TESCO! 😮 We Found 95% OFF!",
+     "chaine": "Family Freedom",
+     "publie": "2026-11-04T17:00:32Z",
+     "duree": "PT29M31S",
+     "vues": 53034,
+     "commentaires": "175"
+    },
+    {
+     "id": "tGI7BSaKBQk",
+     "titre": "Ce qu’il me faut après avoir vu les prix au supermarché 😭🐱",
+     "chaine": "Les Bouffons",
+     "publie": "2026-11-03T08:57:51Z",
+     "duree": "PT27S",
+     "vues": 6597,
+     "commentaires": "0"
+    },
+    {
+     "id": "AdReA1SWDvw",
+     "titre": "Macron fait ses courses avec 20 €… la caisse le choque ! 😂",
+     "chaine": "Bureaubis",
+     "publie": "2026-11-03T20:35:50Z",
+     "duree": "PT11S",
+     "vues": 4293,
+     "commentaires": "0"
+    },
+    {
+     "id": "po9fW98JPyY",
+     "titre": "The New Rules Of Grocery Shopping in 2027 (97% of People Do it Wrong)",
+     "chaine": "In Plain Bite",
+     "publie": "2026-11-05T17:00:14Z",
+     "duree": "PT30M15S",
+     "vues": 4800,
+     "commentaires": "9"
+    },
+    {
+     "id": "XLoMop8FI7M",
+     "titre": "🇷🇪 On ne s'attendait pas à ces prix !",
+     "chaine": "Mymy & Flo",
+     "publie": "2026-11-05T15:17:04Z",
+     "duree": "PT24M56S",
+     "vues": 1678,
+     "commentaires": "32"
+    },
+    {
+     "id": "CBqAHc6yOYA",
+     "titre": "Prix en caisse plus cher qu'en rayon ? Voici tes droits ! 🛒",
+     "chaine": "Protéo Les Bons Tuyaux",
+     "publie": "2026-11-04T17:25:17Z",
+     "duree": "PT1M3S",
+     "vues": 1057,
+     "commentaires": "0"
+    },
+    {
+     "id": "m0Y11bMVAf0",
+     "titre": "10 € en Russie : beaucoup ou peu ?",
+     "chaine": "La Russie, combien ça coûte ?",
+     "publie": "2026-11-02T19:04:07Z",
+     "duree": "PT23S",
+     "vues": 1452,
+     "commentaires": "0"
+    },
+    {
+     "id": "iy3OsYAu82s",
+     "titre": "Pourquoi ce lot promo en supermarché est plus cher au kilo que l'unité ! 🛒 #shorts",
+     "chaine": "Mirage",
+     "publie": "2026-11-05T10:30:04Z",
+     "duree": "PT29S",
+     "vues": 1388,
+     "commentaires": "3"
+    },
+    {
+     "id": "6L9gI6pWTbI",
+     "titre": "European reacts to Shocked by Grocery Prices in the UK! (British Supermarket Tour)",
+     "chaine": "Sergio Mendes",
+     "publie": "2026-11-04T18:12:13Z",
+     "duree": "PT30M46S",
+     "vues": 312,
+     "commentaires": "6"
+    },
+    {
+     "id": "y5WVJOxDgSg",
+     "titre": "Pourquoi une guerre fait monter tes courses #shorts",
+     "chaine": "Reys",
+     "publie": "2026-11-03T19:00:36Z",
+     "duree": "PT1M",
+     "vues": 35,
+     "commentaires": "0"
+    },
+    {
+     "id": "9Dm4Bhw6-S0",
+     "titre": "At the Supermarket | English Conversation (A2-B1)|Real-Life English Speaking Practice| Learn English",
+     "chaine": " Simple English  with Ahmed ",
+     "publie": "2026-11-05T11:54:49Z",
+     "duree": "PT6M8S",
+     "vues": 24,
+     "commentaires": "0"
+    },
+    {
+     "id": "XNRNhheyi1s",
+     "titre": "15 habitudes françaises pour dépenser moins au supermarché",
+     "chaine": "Diane Mercer ",
+     "publie": "2026-11-04T00:59:58Z",
+     "duree": "PT13M7S",
+     "vues": 1,
+     "commentaires": "0"
+    },
+    {
+     "id": "DWwI8--EuyA",
+     "titre": "Faire les courses au supermarché | Vraie conversation (A2-B1)",
+     "chaine": "GLOBE TALKERS FR",
+     "publie": "2026-11-06T06:00:32Z",
+     "duree": "PT12M48S",
+     "vues": 3,
+     "commentaires": "0"
+    }
+   ]
+  },
+  "envoye_le": "2026-11-06T11:50:43.478909+00:00"
+ }
+}
