@@ -1,8 +1,8 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-06T13:00:12.932930+00:00",
+ "date": "2026-11-06T18:36:43.120985+00:00",
  "abonnes": 10,
- "vues_totales": 5978,
+ "vues_totales": 6707,
  "autorisations": [
   "youtube",
   "youtube.channel-memberships.creator",
@@ -16,13 +16,37 @@
  ],
  "videos": [
   {
+   "id": "KuS6aoiXK34",
+   "titre": "3 gestes pour payer ton plein moins cher #shorts",
+   "publie": "2026-11-06T17:00:37Z",
+   "duree_s": 22,
+   "format": "short",
+   "statut": "public",
+   "vues": 0,
+   "likes": 1,
+   "commentaires": 1,
+   "analytics_28j": null
+  },
+  {
+   "id": "k3DeuIxK6Mk",
+   "titre": "Ta station gagne combien sur ton litre ? #shorts",
+   "publie": "2026-11-06T15:00:24Z",
+   "duree_s": 20,
+   "format": "short",
+   "statut": "public",
+   "vues": 0,
+   "likes": 1,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
    "id": "9vBYpaV2VS4",
    "titre": "Pourquoi le gazole coûte plus cher que l'essence ? #shorts",
    "publie": "2026-11-06T11:35:33Z",
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 0,
+   "vues": 7,
    "likes": 0,
    "commentaires": 1,
    "analytics_28j": null
@@ -34,8 +58,8 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 410,
-   "likes": 16,
+   "vues": 875,
+   "likes": 19,
    "commentaires": 1,
    "analytics_28j": null
   },
@@ -46,7 +70,7 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 72,
+   "vues": 93,
    "likes": 6,
    "commentaires": 1,
    "analytics_28j": {
@@ -64,7 +88,7 @@
    "duree_s": 23,
    "format": "short",
    "statut": "public",
-   "vues": 8,
+   "vues": 10,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": null
@@ -76,7 +100,7 @@
    "duree_s": 20,
    "format": "short",
    "statut": "public",
-   "vues": 143,
+   "vues": 151,
    "likes": 4,
    "commentaires": 1,
    "analytics_28j": null
@@ -88,8 +112,8 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 597,
-   "likes": 15,
+   "vues": 654,
+   "likes": 16,
    "commentaires": 1,
    "analytics_28j": {
     "views": 1,
@@ -106,7 +130,7 @@
    "duree_s": 24,
    "format": "short",
    "statut": "public",
-   "vues": 144,
+   "vues": 151,
    "likes": 4,
    "commentaires": 1,
    "analytics_28j": null
@@ -118,33 +142,9 @@
    "duree_s": 21,
    "format": "short",
    "statut": "public",
-   "vues": 326,
+   "vues": 332,
    "likes": 6,
    "commentaires": 1,
-   "analytics_28j": null
-  },
-  {
-   "id": "KuS6aoiXK34",
-   "titre": "3 gestes pour payer ton plein moins cher #shorts",
-   "publie": "2026-11-04T23:45:22Z",
-   "duree_s": 22,
-   "format": "short",
-   "statut": "private",
-   "vues": 0,
-   "likes": 0,
-   "commentaires": 0,
-   "analytics_28j": null
-  },
-  {
-   "id": "k3DeuIxK6Mk",
-   "titre": "Ta station gagne combien sur ton litre ? #shorts",
-   "publie": "2026-11-04T23:45:06Z",
-   "duree_s": 20,
-   "format": "short",
-   "statut": "private",
-   "vues": 0,
-   "likes": 0,
-   "commentaires": 0,
    "analytics_28j": null
   },
   {
@@ -154,7 +154,7 @@
    "duree_s": 25,
    "format": "short",
    "statut": "public",
-   "vues": 910,
+   "vues": 1143,
    "likes": 18,
    "commentaires": 2,
    "analytics_28j": null
@@ -166,10 +166,11 @@
    "duree_s": 310,
    "format": "longue",
    "statut": "public",
-   "vues": 17,
+   "vues": 21,
    "likes": 1,
    "commentaires": 1,
-   "analytics_28j": null
+   "analytics_28j": null,
+   "retention": {}
   },
   {
    "id": "_LP2LKBlkh8",
@@ -226,7 +227,7 @@
    "duree_s": 19,
    "format": "short",
    "statut": "public",
-   "vues": 92,
+   "vues": 93,
    "likes": 2,
    "commentaires": 1,
    "analytics_28j": {
@@ -244,7 +245,7 @@
    "duree_s": 29,
    "format": "short",
    "statut": "public",
-   "vues": 393,
+   "vues": 398,
    "likes": 10,
    "commentaires": 1,
    "analytics_28j": {
@@ -286,7 +287,7 @@
    "duree_s": 28,
    "format": "short",
    "statut": "public",
-   "vues": 183,
+   "vues": 184,
    "likes": 6,
    "commentaires": 3,
    "analytics_28j": {
@@ -436,7 +437,7 @@
    "duree_s": 18,
    "format": "short",
    "statut": "public",
-   "vues": 96,
+   "vues": 98,
    "likes": 2,
    "commentaires": 1,
    "analytics_28j": {
@@ -849,7 +850,7 @@
   "evolution_24h": {
    "depuis": "2026-11-05",
    "abonnes": 3,
-   "vues": 2834
+   "vues": 3563
   },
   "evolution_7j": null,
   "shorts_par_jour_7j": {
@@ -857,11 +858,11 @@
    "2026-11-03": 6,
    "2026-11-04": 7,
    "2026-11-05": 6,
-   "2026-11-06": 2
+   "2026-11-06": 4
   },
   "doublons": [],
   "alertes": [
-   "Trop de Shorts le même jour (max conseillé 3) : 2026-11-03 → 6, 2026-11-04 → 7, 2026-11-05 → 6"
+   "Trop de Shorts le même jour (max conseillé 3) : 2026-11-03 → 6, 2026-11-04 → 7, 2026-11-05 → 6, 2026-11-06 → 4"
   ]
  }
 }
