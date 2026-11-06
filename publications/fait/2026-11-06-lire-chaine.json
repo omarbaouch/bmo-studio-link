@@ -1,0 +1,306 @@
+{
+ "action": "lire_chaine",
+ "chaine": "LEVRAIPRIX",
+ "titre": "Relevé de la présentation de la chaîne, des playlists et des commentaires",
+ "resultat": {
+  "chaine_id": "UCWM78kSa322J4V3OHDHTRQQ",
+  "titre": "Le Vrai Prix",
+  "description": "Combien coûtent vraiment les objets de ton quotidien ? Baguette, chocolat, jean, smartphone… On les ouvre, on suit l'argent centime par centime, avec des chiffres officiels et de vraies histoires. Une enquête par semaine.",
+  "mots_cles": "",
+  "bande_annonce": null,
+  "pays": "FR",
+  "playlists": [
+   {
+    "id": "PLSBMlGkESZSk",
+    "titre": "Le vrai prix de l'essence",
+    "videos": 6,
+    "statut": "public"
+   },
+   {
+    "id": "PLQklVc0gJlwA",
+    "titre": "Le vrai prix — Shorts",
+    "videos": 4,
+    "statut": "public"
+   },
+   {
+    "id": "PLGqlGSWbA3dA",
+    "titre": "Le vrai prix du chocolat",
+    "videos": 15,
+    "statut": "public"
+   }
+  ],
+  "commentaires": [
+   {
+    "fil": "UgxAGQnvEX2UdLZaHbB4AaABAg",
+    "video": "9vBYpaV2VS4",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "Tu paies ton litre combien en ce moment ? 👇 La vidéo complète : https://youtu.be/uuPNNWSVZEQ",
+    "reponses": 0,
+    "date": "2026-11-06T11:35:36Z"
+   },
+   {
+    "fil": "UgyqODAs2IANdtnKW1J4AaABAg",
+    "video": "spOis725Oe8",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "Tu paies ton litre combien en ce moment ? 👇 La vidéo complète : https://youtu.be/uuPNNWSVZEQ",
+    "reponses": 0,
+    "date": "2026-11-06T11:05:57Z"
+   },
+   {
+    "fil": "UgxsB_8GpXuMgtrdhEV4AaABAg",
+    "video": "acj5ofisw5k",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "Tu aurais dit combien ? 👇 Abonne-toi : chaque jour, un nouveau vrai prix.",
+    "reponses": 0,
+    "date": "2026-11-05T22:06:53Z"
+   },
+   {
+    "fil": "UgyH8RSKTsjwVnjyt-J4AaABAg",
+    "video": "8D9MZnwk9TI",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "Tu aurais dit combien ? 👇 L'enquête complète : https://www.youtube.com/watch?v=x0onZIENQZk",
+    "reponses": 0,
+    "date": "2026-11-05T22:06:52Z"
+   },
+   {
+    "fil": "Ugz2fj26FjaJsgC2_6t4AaABAg",
+    "video": "MJeQRiAzbcc",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "Tu aurais dit combien ? 👇 Abonne-toi : chaque jour, un nouveau vrai prix.",
+    "reponses": 0,
+    "date": "2026-11-05T15:35:25Z"
+   },
+   {
+    "fil": "Ugww8UkTYPuW9V9jsCp4AaABAg",
+    "video": "dyXoRT_LJgs",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "Tu paies ton litre combien en ce moment ? 👇 La vidéo complète : https://youtu.be/uuPNNWSVZEQ",
+    "reponses": 0,
+    "date": "2026-11-05T15:35:24Z"
+   },
+   {
+    "fil": "UgwwpFxITPa3BoqqQg94AaABAg",
+    "video": "UNWiKsFz5tQ",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "Tu paies ton litre combien en ce moment ? 👇 La vidéo complète : https://youtu.be/uuPNNWSVZEQ",
+    "reponses": 0,
+    "date": "2026-11-05T15:35:23Z"
+   },
+   {
+    "fil": "UgyrdOnqrywgFuVdDcJ4AaABAg",
+    "video": "IpMxddMvUNo",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "Tu aurais dit combien ? 👇 L'enquête complète : https://www.youtube.com/watch?v=x0onZIENQZk",
+    "reponses": 0,
+    "date": "2026-11-05T15:35:22Z"
+   },
+   {
+    "fil": "UgzIDmLh1MdC-GdHeUB4AaABAg",
+    "video": "FcM8BzgRVgA",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "Tu aurais dit combien ? 👇 Abonne-toi : chaque jour, un nouveau vrai prix.",
+    "reponses": 0,
+    "date": "2026-11-04T23:44:27Z"
+   },
+   {
+    "fil": "UgwDWBjOKOi31_AFAyN4AaABAg",
+    "video": "uuPNNWSVZEQ",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "Et toi, tu paies ton litre combien en ce moment, et dans quelle ville ? 👇",
+    "reponses": 0,
+    "date": "2026-11-04T18:40:21Z"
+   },
+   {
+    "fil": "Ugy-Qu2f-OtIhYky2Zd4AaABAg",
+    "video": "_LP2LKBlkh8",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "3, 15 ou 30 centimes ? Ta réponse 👇 La réponse dans l'enquête : https://www.youtube.com/watch?v=08ITVyaDDEo",
+    "reponses": 0,
+    "date": "2026-11-04T17:07:07Z"
+   },
+   {
+    "fil": "UgyaW2Qw8bz_N7L9gZh4AaABAg",
+    "video": "UaGPwe13hAk",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "Tu aurais dit combien ? 👇 Abonne-toi : chaque jour, un nouveau vrai prix.",
+    "reponses": 0,
+    "date": "2026-11-04T16:53:34Z"
+   },
+   {
+    "fil": "Ugw4D20JHY2zEji4UyR4AaABAg",
+    "video": "rzuXPc_KRa0",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "Tu as vu baisser le prix de ton chocolat, toi ? 👇 L'enquête complète : https://www.youtube.com/watch?v=x0onZIENQZk",
+    "reponses": 0,
+    "date": "2026-11-04T16:53:33Z"
+   },
+   {
+    "fil": "UgweGKccFqXoe7mXdhF4AaABAg",
+    "video": "jebxeimH8q0",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "Tu pensais que l'État prenait combien ? 👇 Toute l'enquête : https://www.youtube.com/watch?v=08ITVyaDDEo",
+    "reponses": 0,
+    "date": "2026-11-04T11:31:33Z"
+   },
+   {
+    "fil": "Ugz6T_F9l1Eee8wyTQV4AaABAg",
+    "video": "pL592TRDLqY",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "Tu aurais dit combien ? 👇 L'enquête complète : https://www.youtube.com/watch?v=x0onZIENQZk",
+    "reponses": 0,
+    "date": "2026-11-04T10:01:11Z"
+   },
+   {
+    "fil": "UgzeMlRNnHNUMrsKObh4AaABAg",
+    "video": "HoJhClpTWE4",
+    "auteur": "@skirel18",
+    "de_la_chaine": false,
+    "texte": "La France est une dictature marxiste qui pratique le racket fiscal. La gauche prospère sur la misère 😮. Donc elle l'entretien pour rester au pouvoir !",
+    "reponses": 0,
+    "date": "2026-11-04T09:05:06Z"
+   },
+   {
+    "fil": "UgyZeExwrxNljxu3Qeh4AaABAg",
+    "video": "HoJhClpTWE4",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "Tu aurais dit combien ? 👇 Abonne-toi : chaque jour, un nouveau vrai prix.",
+    "reponses": 0,
+    "date": "2026-11-04T09:02:44Z"
+   },
+   {
+    "fil": "UgwjBAje4rTafXv5veR4AaABAg",
+    "video": "jGXkavzo0zU",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "12, 25 ou 37 centimes ? Ta réponse 👇 L'enquête complète : https://www.youtube.com/watch?v=x0onZIENQZk",
+    "reponses": 0,
+    "date": "2026-11-03T21:19:56Z"
+   },
+   {
+    "fil": "UgzehlXjmxu6N7lf2W94AaABAg",
+    "video": "cx85sBqr0uo",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "Sucré, chocolat ou amer ? Réponds avant la fin 👇 L'enquête complète : https://www.youtube.com/watch?v=x0onZIENQZk",
+    "reponses": 0,
+    "date": "2026-11-03T20:20:46Z"
+   },
+   {
+    "fil": "UgwG8VWeLC_BfzHgaSl4AaABAg",
+    "video": "x0onZIENQZk",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "Selon toi, sur une tablette à 2,60 €, combien pour le planteur : 3, 13 ou 50 centimes ? Réponds avant de regarder la fin 👇",
+    "reponses": 0,
+    "date": "2026-11-03T20:04:15Z"
+   },
+   {
+    "fil": "UgyDxlccd0cXMy1VP-54AaABAg",
+    "video": "1o4Mh__4YEI",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "1, 7 ou 25 centimes ? Dis-le en commentaire 👇 Toute l'enquête : https://www.youtube.com/watch?v=08ITVyaDDEo",
+    "reponses": 0,
+    "date": "2026-11-03T17:03:11Z"
+   },
+   {
+    "fil": "Ugwan8jMUD6946bvHup4AaABAg",
+    "video": "hnucnmA-d44",
+    "auteur": "@ThierryPetiteau",
+    "de_la_chaine": false,
+    "texte": "C'est de la merde !!!!",
+    "reponses": 0,
+    "date": "2026-11-03T15:51:42Z"
+   },
+   {
+    "fil": "UgyXICaXV4TehCh3g514AaABAg",
+    "video": "2sWiACKgcQ0",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "180, 240 ou 300 °C ? Dis-le en commentaire 👇 L'enquête complète : https://www.youtube.com/watch?v=08ITVyaDDEo",
+    "reponses": 0,
+    "date": "2026-11-03T14:31:08Z"
+   },
+   {
+    "fil": "UgwlC4G0xcNZzi59Bap4AaABAg",
+    "video": "hnucnmA-d44",
+    "auteur": "@pauldasilva818",
+    "de_la_chaine": false,
+    "texte": "Et 10 fois plus degeulasse",
+    "reponses": 0,
+    "date": "2026-11-03T13:00:29Z"
+   },
+   {
+    "fil": "UgwmPYyDGyq6KxwtcHB4AaABAg",
+    "video": "hnucnmA-d44",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "Qui paie vraiment la baguette pas chère ? La réponse dans la vidéo complète 👉 https://www.youtube.com/watch?v=08ITVyaDDEo",
+    "reponses": 0,
+    "date": "2026-11-03T11:31:30Z"
+   },
+   {
+    "fil": "Ugxjl7U6aKrtj2pofcZ4AaABAg",
+    "video": "xto1m_UVpRY",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "250, 350 ou 500 grammes ? Ta réponse 👇 L'enquête complète : https://www.youtube.com/watch?v=08ITVyaDDEo",
+    "reponses": 0,
+    "date": "2026-11-03T07:03:52Z"
+   },
+   {
+    "fil": "UgwgLXzrVnsbeQO02qx4AaABAg",
+    "video": "KWAlbpmfjIM",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "2, 6 ou 20 centimes ? Ta réponse en commentaire 👇 La réponse et toute l'enquête : https://www.youtube.com/watch?v=08ITVyaDDEo",
+    "reponses": 0,
+    "date": "2026-11-02T21:03:09Z"
+   },
+   {
+    "fil": "Ugzd_IqgMn2zqDNGkmJ4AaABAg",
+    "video": "cAleT_aNMVI",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "Le verdict complet sur le boulanger, et qui gagne vraiment sur ta baguette 👉 https://www.youtube.com/watch?v=08ITVyaDDEo",
+    "reponses": 0,
+    "date": "2026-11-02T19:01:38Z"
+   },
+   {
+    "fil": "UgxZvHUYJfjJo1W-it54AaABAg",
+    "video": "-tBSIXlGMBM",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "La vidéo complète : où passent les 94 autres centimes ? 👉 https://www.youtube.com/watch?v=08ITVyaDDEo",
+    "reponses": 0,
+    "date": "2026-11-02T16:31:54Z"
+   },
+   {
+    "fil": "UgxZY0LgsR-o6HRGZ614AaABAg",
+    "video": "08ITVyaDDEo",
+    "auteur": "@Le_vraiprix",
+    "de_la_chaine": true,
+    "texte": "Une baguette à 28 centimes au supermarché : bonne affaire… ou c'est quelqu'un d'autre qui paie la différence ? Et chez toi, ta baguette coûte combien ? Donne ta ville et ton prix 👇",
+    "reponses": 0,
+    "date": "2026-11-01T17:09:20Z"
+   }
+  ],
+  "envoye_le": "2026-11-06T11:41:21.373699+00:00"
+ }
+}
