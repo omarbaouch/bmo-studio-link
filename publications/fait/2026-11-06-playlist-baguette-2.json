@@ -7,5 +7,12 @@
  "videos": [
   "08ITVyaDDEo",
   "-tBSIXlGMBM"
- ]
+ ],
+ "resultat": {
+  "playlist": {
+   "08ITVyaDDEo": "ok (Le vrai prix de la baguette)",
+   "-tBSIXlGMBM": "ok (Le vrai prix de la baguette)"
+  },
+  "envoye_le": "2026-11-06T11:43:23.160429+00:00"
+ }
 }
