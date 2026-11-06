@@ -1,0 +1,60 @@
+{
+ "action": "modifier",
+ "video_id": "uuPNNWSVZEQ",
+ "titre": "Prix du gazole : pourquoi il ne baisse pas comme le baril",
+ "description_prefixe": "Prix du gazole, taxes sur le carburant, marge du raffineur : pourquoi le prix à la pompe ne baisse pas comme le baril ? On démonte un litre de gazole centime par centime.",
+ "tags_ajout": [
+  "prix gazole",
+  "prix du gazole",
+  "prix gazole france",
+  "prix du diesel",
+  "le prix du gasoil",
+  "taxe carburant",
+  "taxe carburant 2026",
+  "prix carburant explication",
+  "pourquoi le prix de l'essence augmente"
+ ],
+ "chaine": "LEVRAIPRIX",
+ "resultat": {
+  "id": "uuPNNWSVZEQ",
+  "avant": {
+   "titre": "Pourquoi le gazole reste à 2,37 € alors que le baril baisse",
+   "description": "Le baril baisse depuis des semaines… mais ton plein, lui, ne baisse presque pas. Qui garde la différence ? On démonte un litre de gazole centime par centime : le pétrole (le détroit d'Ormuz), le raffineur, l'État, et ta station.\n\n00:00 Le baril baisse, pas ton plein\n00:30 Suspect n° 1 : le pétrole (Ormuz)\n01:07 Suspect n° 2 : le raffineur\n02:04 Suspect n° 3 : l'État\n02:56 Suspect n° 4 : ta station\n03:32 3 gestes pour payer moins\n04:12 La vérité : qui garde la différence ?\n\nSources :\n• Prix et structure du prix (DGEC, semaine du 30/10/2026) : https://www.connaissancedesenergies.org/fiche-pedagogique/structuration-des-prix-de-l-essence-et-du-gazole-france\n• Prix novembre 2025 : https://prix-carburant.eu/article/tendances-prix-carburant-novembre-2025\n• Ormuz et Brent : https://selectra.info/energie/actualites/marche/detroit-hormuz-choc-petrolier-2026\n• Raffinage, record, fusée et plume, G7, plafond TotalEnergies : https://www.kelwatt.fr/actu/baisse-petrole-prix-carburants-pompe-octobre-2026\n• Déclaration de M.-E. Leclerc : https://bourseinside.fr/economie/prix-du-gazole-leclerc-revele-les-centimes-caches-par-litre-qui-font-vraiment-flamber-votre-plein-a-la-pompe/\n• ADEME (vitesse et consommation) : https://selectra.info/energie/actualites/marche/rouler-a-110-autoroute-economie-plein\n• Comparer les prix : https://www.prix-carburants.gouv.fr\n\nCrédits images et musiques (Pixabay, Wikimedia Commons) : https://github.com/omarbaouch/le-vrai-prix-medias/blob/main/videos/essence/credits.txt\n\nChaque semaine, le vrai prix d'un truc que tu achètes. Abonne-toi !\n#essence #gazole #prixcarburant #carburant #levraiprix",
+   "tags": [
+    "détroit d'Ormuz",
+    "essence",
+    "fusée et plume",
+    "gazole",
+    "le vrai prix",
+    "pourquoi l'essence est si chère",
+    "prix carburant",
+    "prix essence",
+    "taxes carburant"
+   ]
+  },
+  "apres": {
+   "titre": "Prix du gazole : pourquoi il ne baisse pas comme le baril",
+   "tags": [
+    "détroit d'Ormuz",
+    "essence",
+    "fusée et plume",
+    "gazole",
+    "le vrai prix",
+    "pourquoi l'essence est si chère",
+    "prix carburant",
+    "prix essence",
+    "taxes carburant",
+    "prix gazole",
+    "prix du gazole",
+    "prix gazole france",
+    "prix du diesel",
+    "le prix du gasoil",
+    "taxe carburant",
+    "taxe carburant 2026",
+    "prix carburant explication",
+    "pourquoi le prix de l'essence augmente"
+   ]
+  },
+  "envoye_le": "2026-11-06T18:58:43.239444+00:00"
+ }
+}

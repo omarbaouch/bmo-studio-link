@@ -2,5 +2,10 @@
  "action": "garder_prive",
  "video_id": "VsTJ2MAQbkY",
  "titre": "Doublon : même titre que lkGyeOE0auA au même créneau (07/11 18 h), gardé privé",
- "chaine": "LEVRAIPRIX"
+ "chaine": "LEVRAIPRIX",
+ "resultat": {
+  "id": "VsTJ2MAQbkY",
+  "statut_youtube": "private",
+  "envoye_le": "2026-11-06T18:58:32.561786+00:00"
+ }
 }
