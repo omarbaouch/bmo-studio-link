@@ -1,0 +1,15 @@
+{
+ "action": "commenter",
+ "chaine": "LEVRAIPRIX",
+ "titre": "Commentaire informatif sans lien (tf1-baisse), routine validée par Omar",
+ "videos": [
+  "2iL32C3rq5I"
+ ],
+ "commentaire": "Petit calcul pour un plein de 50 litres de gazole : rien qu'en TICPE, c'est environ 30 € qui partent à l'État, avant même la TVA. Et la TVA à 20 % se calcule aussi sur cette taxe.",
+ "resultat": {
+  "commentaires": {
+   "2iL32C3rq5I": "ok"
+  },
+  "envoye_le": "2026-11-06T11:51:46.598043+00:00"
+ }
+}
