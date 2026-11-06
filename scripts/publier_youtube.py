@@ -263,6 +263,81 @@ def commenter(p, yt):
     return {"commentaires": res}
 
 
+def playlist(p, yt):
+    """Fiche {"action": "playlist", "videos": ["id", ...], "playlist": "Titre"} : ajoute les vidéos à la playlist
+    (créée publique si elle n'existe pas)."""
+    res = {}
+    for vid in p["videos"]:
+        try:
+            res[vid] = ajouter_playlist(yt, vid, p["playlist"])
+        except HttpError as e:
+            res[vid] = f"refusée : {e}"
+        print(f"  playlist {vid} : {res[vid]}", flush=True)
+    return {"playlist": res}
+
+
+def lire_chaine(p, yt):
+    """Fiche {"action": "lire_chaine"} : relève la présentation de la chaîne (description, mots-clés, bande-annonce),
+    ses playlists et les derniers commentaires des spectateurs. Rien n'est modifié."""
+    ch = yt.channels().list(part="id,snippet,brandingSettings", mine=True).execute()["items"][0]
+    pls, page = [], None
+    while True:
+        r = yt.playlists().list(part="snippet,contentDetails,status", mine=True, maxResults=50, pageToken=page).execute()
+        pls += [{"id": x["id"], "titre": x["snippet"]["title"], "videos": x["contentDetails"]["itemCount"],
+                 "statut": x["status"]["privacyStatus"]} for x in r.get("items", [])]
+        page = r.get("nextPageToken")
+        if not page:
+            break
+    coms = []
+    try:
+        r = yt.commentThreads().list(part="snippet", allThreadsRelatedToChannelId=ch["id"], maxResults=50,
+                                     order="time").execute()
+        for t in r.get("items", []):
+            s = t["snippet"]["topLevelComment"]["snippet"]
+            coms.append({"fil": t["id"], "video": t["snippet"].get("videoId"), "auteur": s.get("authorDisplayName"),
+                         "de_la_chaine": s.get("authorChannelId", {}).get("value") == ch["id"],
+                         "texte": s.get("textOriginal", "")[:300], "reponses": t["snippet"].get("totalReplyCount", 0),
+                         "date": s.get("publishedAt")})
+    except HttpError as e:
+        coms = f"indisponible : {e}"
+    bs = ch.get("brandingSettings", {}).get("channel", {})
+    print(f"  chaîne {ch['snippet']['title']} : {len(pls)} playlists, {len(coms) if isinstance(coms, list) else 0} commentaires", flush=True)
+    return {"chaine_id": ch["id"], "titre": ch["snippet"]["title"], "description": bs.get("description", ""),
+            "mots_cles": bs.get("keywords", ""), "bande_annonce": bs.get("unsubscribedTrailer"),
+            "pays": bs.get("country"), "playlists": pls, "commentaires": coms}
+
+
+def chaine(p, yt):
+    """Fiche {"action": "chaine", "description": "...", "mots_cles": "...", "bande_annonce": "id vidéo", "pays": "FR"} :
+    met à jour la présentation de la chaîne. Seuls les champs donnés changent ; les anciennes valeurs sont gardées
+    dans le résultat pour pouvoir revenir en arrière."""
+    ch = yt.channels().list(part="id,brandingSettings", mine=True).execute()["items"][0]
+    bs = ch.get("brandingSettings", {})
+    c = dict(bs.get("channel", {}))
+    avant = {k: c.get(k) for k in ("description", "keywords", "unsubscribedTrailer", "country")}
+    for champ, cle in (("description", "description"), ("mots_cles", "keywords"),
+                       ("bande_annonce", "unsubscribedTrailer"), ("pays", "country")):
+        if p.get(champ):
+            c[cle] = p[champ]
+    corps = {"id": ch["id"], "brandingSettings": {"channel": c, **({"image": bs["image"]} if bs.get("image") else {})}}
+    yt.channels().update(part="brandingSettings", body=corps).execute()
+    print(f"  ✔ présentation de la chaîne mise à jour ({', '.join(k for k in ('description', 'mots_cles', 'bande_annonce', 'pays') if p.get(k))})", flush=True)
+    return {"avant": avant, "apres": {k: c.get(k) for k in avant}}
+
+
+def repondre(p, yt):
+    """Fiche {"action": "repondre", "reponses": [{"fil": "id du fil", "texte": "..."}]} : répond aux commentaires."""
+    res = {}
+    for r in p["reponses"]:
+        try:
+            yt.comments().insert(part="snippet", body={"snippet": {"parentId": r["fil"], "textOriginal": r["texte"]}}).execute()
+            res[r["fil"]] = "ok"
+        except HttpError as e:
+            res[r["fil"]] = f"refusé : {e}"
+        print(f"  réponse {r['fil']} : {res[r['fil']]}", flush=True)
+    return {"reponses": res}
+
+
 def commentaires_en_attente():
     """Poste les premiers commentaires des vidéos programmées, une fois qu'elles sont en ligne."""
     maintenant = dt.datetime.now(dt.timezone.utc)
@@ -303,6 +378,10 @@ def main():
                 yt = service(p.get("chaine", "LEVRAIPRIX"))
                 action = p.get("action")
                 res = (mettre_en_ligne(p, yt) if action == "mettre_en_ligne" else
+                       playlist(p, yt) if action == "playlist" else
+                       lire_chaine(p, yt) if action == "lire_chaine" else
+                       chaine(p, yt) if action == "chaine" else
+                       repondre(p, yt) if action == "repondre" else
                        commenter(p, yt) if action == "commenter" else
                        reprogrammer(p, yt) if action == "reprogrammer" else
                        garder_prive(p, yt) if action == "garder_prive" else publier(p, yt, d))
