@@ -348,6 +348,24 @@ def repondre(p, yt):
     return {"reponses": res}
 
 
+def chercher(p, yt):
+    """Fiche {"action": "chercher", "requetes": ["prix gazole", ...], "jours": 3} : relève les vidéos françaises récentes
+    les plus vues sur ces sujets (titre, chaîne, vues, commentaires). Rien n'est publié."""
+    apres = (dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=p.get("jours", 3))).strftime("%Y-%m-%dT%H:%M:%SZ")
+    res = {}
+    for q in p["requetes"]:
+        r = yt.search().list(part="snippet", q=q, type="video", order="viewCount", publishedAfter=apres,
+                             regionCode="FR", relevanceLanguage="fr", maxResults=15).execute()
+        ids = [x["id"]["videoId"] for x in r.get("items", [])]
+        vids = yt.videos().list(part="snippet,statistics,contentDetails", id=",".join(ids)).execute().get("items", []) if ids else []
+        res[q] = [{"id": v["id"], "titre": v["snippet"]["title"], "chaine": v["snippet"]["channelTitle"],
+                   "publie": v["snippet"]["publishedAt"], "duree": v["contentDetails"]["duration"],
+                   "vues": int(v["statistics"].get("viewCount", 0)), "commentaires": v["statistics"].get("commentCount")}
+                  for v in vids]
+        print(f"  {q} : {len(res[q])} vidéos", flush=True)
+    return {"resultats": res}
+
+
 def commentaires_en_attente():
     """Poste les premiers commentaires des vidéos programmées, une fois qu'elles sont en ligne."""
     maintenant = dt.datetime.now(dt.timezone.utc)
@@ -392,6 +410,7 @@ def main():
                        lire_chaine(p, yt) if action == "lire_chaine" else
                        chaine(p, yt) if action == "chaine" else
                        repondre(p, yt) if action == "repondre" else
+                       chercher(p, yt) if action == "chercher" else
                        commenter(p, yt) if action == "commenter" else
                        reprogrammer(p, yt) if action == "reprogrammer" else
                        garder_prive(p, yt) if action == "garder_prive" else publier(p, yt, d))
