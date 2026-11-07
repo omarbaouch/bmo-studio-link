@@ -1,0 +1,33 @@
+{
+ "chaine": "LEVRAIPRIX",
+ "action": "modifier",
+ "video_id": "jGXkavzo0zU",
+ "titre": "",
+ "description_prefixe": "▶ La vidéo complète : « Prix du cacao en chute : pourquoi ton chocolat ne baisse pas » https://youtu.be/x0onZIENQZk",
+ "titre_fiche": "Short jGXkavzo0zU → vidéo longue x0onZIENQZk",
+ "resultat": {
+  "id": "jGXkavzo0zU",
+  "avant": {
+   "titre": "Sur 1 € de chocolat, la marque garde combien ? #shorts",
+   "description": "12, 25 ou 37 centimes ? La réponse est dans l'enquête complète : https://www.youtube.com/watch?v=x0onZIENQZk\n#chocolat #prixduchocolat #levraiprix #shorts",
+   "tags": [
+    "chocolat",
+    "le vrai prix",
+    "marge",
+    "marque chocolat",
+    "prix du chocolat"
+   ]
+  },
+  "apres": {
+   "titre": "Sur 1 € de chocolat, la marque garde combien ? #shorts",
+   "tags": [
+    "chocolat",
+    "le vrai prix",
+    "marge",
+    "marque chocolat",
+    "prix du chocolat"
+   ]
+  },
+  "envoye_le": "2026-11-07T21:23:47.288393+00:00"
+ }
+}

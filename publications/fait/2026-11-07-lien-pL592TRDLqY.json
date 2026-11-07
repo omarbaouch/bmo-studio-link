@@ -1,0 +1,33 @@
+{
+ "chaine": "LEVRAIPRIX",
+ "action": "modifier",
+ "video_id": "pL592TRDLqY",
+ "titre": "",
+ "description_prefixe": "▶ La vidéo complète : « Prix du cacao en chute : pourquoi ton chocolat ne baisse pas » https://youtu.be/x0onZIENQZk",
+ "titre_fiche": "Short pL592TRDLqY → vidéo longue x0onZIENQZk",
+ "resultat": {
+  "id": "pL592TRDLqY",
+  "avant": {
+   "titre": "Ta tablette de chocolat : combien pour le planteur ? #shorts",
+   "description": "Ta tablette à 2,60 € : combien pour celui qui récolte le cacao ?\nChaque jour, le vrai prix d'un truc que tu achètes. Abonne-toi !\n\nL'enquête complète : https://www.youtube.com/watch?v=x0onZIENQZk\n\nSources :\n• Prix au planteur 1 200 FCFA/kg (04/03/2026) : https://fr.allafrica.com/stories/202603050107.html\n• Record 2 800 FCFA/kg (01/10/2025) : https://www.financialafrik.com/2025/10/02/cote-divoire-le-prix-bord-champ-du-cacao-pour-la-nouvelle-campagne-fixe-a-2800-fcfa-kg/\n• Tablette noire 70 % de grande marque ≈ 2,60 € (mai 2026) : https://www.connexionfrance.com/news/well-known-supermarket-chocolate-named-best-in-france/790526\n• Calcul : 70 g de cacao × 1,83 €/kg ≈ 0,13 € (1 € = 655,957 FCFA)\n\n#shorts #chocolat #prix #cacao",
+   "tags": [
+    "cacao",
+    "chocolat",
+    "le vrai prix",
+    "planteur",
+    "prix du chocolat"
+   ]
+  },
+  "apres": {
+   "titre": "Ta tablette de chocolat : combien pour le planteur ? #shorts",
+   "tags": [
+    "cacao",
+    "chocolat",
+    "le vrai prix",
+    "planteur",
+    "prix du chocolat"
+   ]
+  },
+  "envoye_le": "2026-11-07T21:23:50.110163+00:00"
+ }
+}

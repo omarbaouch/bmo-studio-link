@@ -1,0 +1,18 @@
+{
+ "chaine": "LEVRAIPRIX",
+ "action": "playlist",
+ "playlist": "Le vrai prix du café",
+ "en_tete": "lzoB-xIlSCY",
+ "videos": [
+  "lzoB-xIlSCY",
+  "FcM8BzgRVgA"
+ ],
+ "titre": "Playlist café : vidéo longue en tête + Short capsule",
+ "resultat": {
+  "playlist": {
+   "lzoB-xIlSCY": "ok (Le vrai prix du café)",
+   "FcM8BzgRVgA": "ok (Le vrai prix du café)"
+  },
+  "envoye_le": "2026-11-07T21:23:58.774975+00:00"
+ }
+}

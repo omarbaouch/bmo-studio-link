@@ -1,0 +1,33 @@
+{
+ "chaine": "LEVRAIPRIX",
+ "action": "modifier",
+ "video_id": "2sWiACKgcQ0",
+ "titre": "",
+ "description_prefixe": "▶ La vidéo complète : « Combien gagne un boulanger sur une baguette ? » https://youtu.be/08ITVyaDDEo",
+ "titre_fiche": "Short 2sWiACKgcQ0 → vidéo longue 08ITVyaDDEo",
+ "resultat": {
+  "id": "2sWiACKgcQ0",
+  "avant": {
+   "titre": "Ton pain cuit à combien de degrés ? #shorts",
+   "description": "Ta baguette cuit à combien de degrés ? Et pourquoi la mie a tous ces trous ?\nL'enquête complète : https://www.youtube.com/watch?v=08ITVyaDDEo\n#baguette #four #boulangerie #shorts",
+   "tags": [
+    "baguette",
+    "boulangerie",
+    "cuisson du pain",
+    "four à pain",
+    "le vrai prix"
+   ]
+  },
+  "apres": {
+   "titre": "Ton pain cuit à combien de degrés ? #shorts",
+   "tags": [
+    "baguette",
+    "boulangerie",
+    "cuisson du pain",
+    "four à pain",
+    "le vrai prix"
+   ]
+  },
+  "envoye_le": "2026-11-07T21:23:35.502772+00:00"
+ }
+}

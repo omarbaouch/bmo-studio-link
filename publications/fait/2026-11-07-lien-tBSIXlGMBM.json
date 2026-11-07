@@ -1,0 +1,35 @@
+{
+ "chaine": "LEVRAIPRIX",
+ "action": "modifier",
+ "video_id": "-tBSIXlGMBM",
+ "titre": "",
+ "description_prefixe": "▶ La vidéo complète : « Combien gagne un boulanger sur une baguette ? » https://youtu.be/08ITVyaDDEo",
+ "titre_fiche": "Short -tBSIXlGMBM → vidéo longue 08ITVyaDDEo",
+ "resultat": {
+  "id": "-tBSIXlGMBM",
+  "avant": {
+   "titre": "Le vrai prix du blé dans ta baguette ? #shorts",
+   "description": "Ta baguette coûte environ 1 €. Le blé dedans ? 6 centimes. Alors qui a pris le reste ?\nL'enquête complète, du champ au comptoir : https://www.youtube.com/watch?v=08ITVyaDDEo\n#prixdelabaguette #baguette #boulangerie #shorts",
+   "tags": [
+    "baguette",
+    "boulangerie",
+    "le vrai prix",
+    "prix de la baguette",
+    "prix du pain",
+    "inflation"
+   ]
+  },
+  "apres": {
+   "titre": "Le vrai prix du blé dans ta baguette ? #shorts",
+   "tags": [
+    "baguette",
+    "boulangerie",
+    "le vrai prix",
+    "prix de la baguette",
+    "prix du pain",
+    "inflation"
+   ]
+  },
+  "envoye_le": "2026-11-07T21:23:55.690409+00:00"
+ }
+}

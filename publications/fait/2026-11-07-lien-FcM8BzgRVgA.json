@@ -1,0 +1,35 @@
+{
+ "chaine": "LEVRAIPRIX",
+ "action": "modifier",
+ "video_id": "FcM8BzgRVgA",
+ "titre": "",
+ "description_prefixe": "▶ La vidéo complète : « Capsule de café : combien tu la paies au kilo ? » https://youtu.be/lzoB-xIlSCY",
+ "titre_fiche": "Short FcM8BzgRVgA → vidéo longue lzoB-xIlSCY",
+ "resultat": {
+  "id": "FcM8BzgRVgA",
+  "avant": {
+   "titre": "Ton café en capsule, tu le paies combien au kilo ? #shorts",
+   "description": "Ton café en capsule, tu le paies combien au kilo ?\nChaque jour, le vrai prix d'un truc que tu achètes. Abonne-toi !\n\nSources :\n• Prix relevés en août 2026 : https://selectra.info/energie/actualites/marche/cafe-capsules-cout-par-tasse-face-cafetiere-filtre\n• https://graindexpert.fr/blog/capsule-nespresso-prix\n\n#shorts #prix #argent #consommation",
+   "tags": [
+    "café",
+    "capsules",
+    "combien ça coûte",
+    "le vrai prix",
+    "nespresso",
+    "prix du café"
+   ]
+  },
+  "apres": {
+   "titre": "Ton café en capsule, tu le paies combien au kilo ? #shorts",
+   "tags": [
+    "café",
+    "capsules",
+    "combien ça coûte",
+    "le vrai prix",
+    "nespresso",
+    "prix du café"
+   ]
+  },
+  "envoye_le": "2026-11-07T21:23:38.443132+00:00"
+ }
+}

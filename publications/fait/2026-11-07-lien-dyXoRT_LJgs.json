@@ -1,0 +1,33 @@
+{
+ "chaine": "LEVRAIPRIX",
+ "action": "modifier",
+ "video_id": "dyXoRT_LJgs",
+ "titre": "",
+ "description_prefixe": "▶ La vidéo complète : « Prix du gazole : pourquoi il ne baisse pas comme le baril » https://youtu.be/uuPNNWSVZEQ",
+ "titre_fiche": "Short dyXoRT_LJgs → vidéo longue uuPNNWSVZEQ",
+ "resultat": {
+  "id": "dyXoRT_LJgs",
+  "avant": {
+   "titre": "Le baril baisse… pourquoi pas ton plein ? #shorts",
+   "description": "Le baril baisse… pourquoi pas ton plein ?\nLa vidéo complète : https://youtu.be/uuPNNWSVZEQ\nChaque jour, le vrai prix d'un truc que tu achètes. Abonne-toi !\n\nSources :\n• Prix et taxes (DGEC, semaine du 30/10/2026) : https://www.connaissancedesenergies.org/fiche-pedagogique/structuration-des-prix-de-l-essence-et-du-gazole-france\n• Kelwatt, octobre 2026 : https://www.kelwatt.fr/actu/baisse-petrole-prix-carburants-pompe-octobre-2026\n\n#shorts #essence #gazole #prixcarburant",
+   "tags": [
+    "essence",
+    "gazole",
+    "le vrai prix",
+    "prix carburant",
+    "taxes"
+   ]
+  },
+  "apres": {
+   "titre": "Le baril baisse… pourquoi pas ton plein ? #shorts",
+   "tags": [
+    "essence",
+    "gazole",
+    "le vrai prix",
+    "prix carburant",
+    "taxes"
+   ]
+  },
+  "envoye_le": "2026-11-07T21:23:41.444012+00:00"
+ }
+}

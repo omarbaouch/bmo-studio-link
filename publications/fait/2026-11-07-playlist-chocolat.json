@@ -1,0 +1,30 @@
+{
+ "chaine": "LEVRAIPRIX",
+ "action": "playlist",
+ "playlist": "Le vrai prix du chocolat",
+ "en_tete": "x0onZIENQZk",
+ "videos": [
+  "x0onZIENQZk",
+  "pL592TRDLqY",
+  "jGXkavzo0zU",
+  "IpMxddMvUNo",
+  "8D9MZnwk9TI",
+  "cx85sBqr0uo",
+  "rzuXPc_KRa0",
+  "wkDQjDh_x0w"
+ ],
+ "titre": "Playlist chocolat : vidéo longue en tête puis ses Shorts",
+ "resultat": {
+  "playlist": {
+   "x0onZIENQZk": "ok (Le vrai prix du chocolat)",
+   "pL592TRDLqY": "ok (Le vrai prix du chocolat)",
+   "jGXkavzo0zU": "ok (Le vrai prix du chocolat)",
+   "IpMxddMvUNo": "ok (Le vrai prix du chocolat)",
+   "8D9MZnwk9TI": "ok (Le vrai prix du chocolat)",
+   "cx85sBqr0uo": "ok (Le vrai prix du chocolat)",
+   "rzuXPc_KRa0": "ok (Le vrai prix du chocolat)",
+   "wkDQjDh_x0w": "ok (Le vrai prix du chocolat)"
+  },
+  "envoye_le": "2026-11-07T21:24:05.359049+00:00"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "chaine": "LEVRAIPRIX",
+ "action": "modifier",
+ "video_id": "hnucnmA-d44",
+ "titre": "",
+ "description_prefixe": "▶ La vidéo complète : « Combien gagne un boulanger sur une baguette ? » https://youtu.be/08ITVyaDDEo",
+ "titre_fiche": "Short hnucnmA-d44 → vidéo longue 08ITVyaDDEo",
+ "resultat": {
+  "id": "hnucnmA-d44",
+  "avant": {
+   "titre": "La baguette à 29 centimes : qui paie vraiment ? #shorts",
+   "description": "Une baguette à 29 centimes en supermarché : bonne affaire… ou quelqu'un d'autre paie la différence ?\nL'enquête complète : https://www.youtube.com/watch?v=08ITVyaDDEo\n#baguette #leclerc #prixdelabaguette #shorts",
+   "tags": [
+    "Leclerc baguette",
+    "baguette 29 centimes",
+    "boulangerie",
+    "le vrai prix",
+    "prix de la baguette"
+   ]
+  },
+  "apres": {
+   "titre": "La baguette à 29 centimes : qui paie vraiment ? #shorts",
+   "tags": [
+    "Leclerc baguette",
+    "baguette 29 centimes",
+    "boulangerie",
+    "le vrai prix",
+    "prix de la baguette"
+   ]
+  },
+  "envoye_le": "2026-11-07T21:23:44.314811+00:00"
+ }
+}

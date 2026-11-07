@@ -1,0 +1,33 @@
+{
+ "chaine": "LEVRAIPRIX",
+ "action": "modifier",
+ "video_id": "spOis725Oe8",
+ "titre": "",
+ "description_prefixe": "▶ La vidéo complète : « Prix du gazole : pourquoi il ne baisse pas comme le baril » https://youtu.be/uuPNNWSVZEQ",
+ "titre_fiche": "Short spOis725Oe8 → vidéo longue uuPNNWSVZEQ",
+ "resultat": {
+  "id": "spOis725Oe8",
+  "avant": {
+   "titre": "Ton plein se joue à 5 000 km d'ici ? #shorts",
+   "description": "Ton plein se joue à 5 000 km d'ici ?\nLa vidéo complète : https://youtu.be/uuPNNWSVZEQ\nChaque jour, le vrai prix d'un truc que tu achètes. Abonne-toi !\n\nSources :\n• Selectra, 30/06/2026 : https://selectra.info/energie/actualites/marche/detroit-hormuz-choc-petrolier-2026\n• Kelwatt, octobre 2026 : https://www.kelwatt.fr/actu/baisse-petrole-prix-carburants-pompe-octobre-2026\n\n#shorts #essence #gazole #prixcarburant",
+   "tags": [
+    "essence",
+    "gazole",
+    "le vrai prix",
+    "prix carburant",
+    "taxes"
+   ]
+  },
+  "apres": {
+   "titre": "Ton plein se joue à 5 000 km d'ici ? #shorts",
+   "tags": [
+    "essence",
+    "gazole",
+    "le vrai prix",
+    "prix carburant",
+    "taxes"
+   ]
+  },
+  "envoye_le": "2026-11-07T21:23:53.047137+00:00"
+ }
+}
