@@ -1,0 +1,567 @@
+{
+ "action": "chercher",
+ "chaine": "LEVRAIPRIX",
+ "jours": 2,
+ "titre": "Repérage du jour",
+ "requetes": [
+  "prix carburant",
+  "baisse gazole",
+  "prix du chocolat Noël",
+  "prix baguette boulangerie",
+  "café capsule prix",
+  "prix cigarettes tabac",
+  "prix courses supermarché",
+  "iPhone prix"
+ ],
+ "resultat": {
+  "resultats": {
+   "prix carburant": [
+    {
+     "id": "6RVW6PLCl7M",
+     "titre": "Carburant : Une baisse historique de la consommation en France",
+     "chaine": "franceinfo",
+     "publie": "2026-11-06T12:20:16Z",
+     "duree": "PT2M5S",
+     "vues": 34341,
+     "commentaires": "27"
+    },
+    {
+     "id": "f1697654Qic",
+     "titre": "fuel prices are insane...👏👏",
+     "chaine": "ALEX THE TRUCKING GUY",
+     "publie": "2026-11-06T18:00:01Z",
+     "duree": "PT1M13S",
+     "vues": 29445,
+     "commentaires": "75"
+    },
+    {
+     "id": "z8OBDEApBBg",
+     "titre": "জ্বালানি তেল, গ্যাস ও বিদ্যুতের মূল্য বৃদ্ধি এবং দ্রব্যমূল্যের ঊর্ধ্বগতির প্রতিবাদে বিক্ষোভ মিছিল",
+     "chaine": "Bangladesh Jamaat-e-Islami",
+     "publie": "2026-11-05T10:52:07Z",
+     "duree": "PT36S",
+     "vues": 15259,
+     "commentaires": "6"
+    },
+    {
+     "id": "XEXzTk6bA_o",
+     "titre": "⛽️ Fuel prices in Srilanka 🌏",
+     "chaine": "BR 46 vlogs",
+     "publie": "2026-11-06T06:54:28Z",
+     "duree": "PT43S",
+     "vues": 18041,
+     "commentaires": "4"
+    },
+    {
+     "id": "g3PgIrESEI4",
+     "titre": "Trump’s Fuel Backlash Grows as OPEC Holds Firm—Canada Gains Leverage",
+     "chaine": "Piston Pundit",
+     "publie": "2026-11-05T21:03:33Z",
+     "duree": "PT8M11S",
+     "vues": 10171,
+     "commentaires": "26"
+    },
+    {
+     "id": "OkJwdGqdcVM",
+     "titre": "Rollback in fuel prices expected next week",
+     "chaine": "PTV Philippines",
+     "publie": "2026-11-06T15:18:46Z",
+     "duree": "PT36S",
+     "vues": 11693,
+     "commentaires": "8"
+    },
+    {
+     "id": "om0f9Tnd2rs",
+     "titre": "Urgent: Gas Prices About To Surge Higher Again",
+     "chaine": "Azul",
+     "publie": "2026-11-06T13:00:04Z",
+     "duree": "PT11M57S",
+     "vues": 8148,
+     "commentaires": "18"
+    },
+    {
+     "id": "ACqbE1Yk4ZI",
+     "titre": "Why did the fuel price only drop by 1 cent",
+     "chaine": "Modern Money With Munya",
+     "publie": "2026-11-06T12:10:09Z",
+     "duree": "PT1M24S",
+     "vues": 7908,
+     "commentaires": "29"
+    },
+    {
+     "id": "_qQEF7Bb-64",
+     "titre": "⛽ ලෝක වෙළඳපොළේ ඉන්ධන මිල ඉහළ ගියද ජනතාවට උපරිම සහන #news #everyone",
+     "chaine": "Newstouch",
+     "publie": "2026-11-06T06:30:40Z",
+     "duree": "PT6S",
+     "vues": 13249,
+     "commentaires": "2"
+    },
+    {
+     "id": "-za49UX0ZPk",
+     "titre": "\"Soit vous mettez de l'essence dans votre voiture, soit vous ne vous chauffez pas\" (Danièle Obono)",
+     "chaine": "franceinfo",
+     "publie": "2026-11-05T21:39:59Z",
+     "duree": "PT9M1S",
+     "vues": 6018,
+     "commentaires": "7"
+    },
+    {
+     "id": "rucRHKF_0J8",
+     "titre": "Day 25 of Freight in 60 Seconds - Fuel Surcharge",
+     "chaine": "B-LOADED",
+     "publie": "2026-11-05T19:00:47Z",
+     "duree": "PT1M2S",
+     "vues": 2072,
+     "commentaires": "0"
+    },
+    {
+     "id": "KdTcE52QYG0",
+     "titre": "Fighting for fuel: Brawl breaks out over gas prices under $3 in Fulton",
+     "chaine": "NewsChannel 9 WSYR Syracuse",
+     "publie": "2026-11-06T01:01:15Z",
+     "duree": "PT35S",
+     "vues": 3454,
+     "commentaires": "11"
+    },
+    {
+     "id": "STL0UW32Wqk",
+     "titre": "FlySafair Sold, OR Tambo Queues And 16 Bomb Threats In One Day | Bryan Air #295",
+     "chaine": "Bryan Air ",
+     "publie": "2026-11-06T13:04:32Z",
+     "duree": "PT1H2M",
+     "vues": 4083,
+     "commentaires": "7"
+    },
+    {
+     "id": "RAo6P6iuQw0",
+     "titre": "Gas war breaks out in Fulton over prices under $3",
+     "chaine": "NewsChannel 9 WSYR Syracuse",
+     "publie": "2026-11-05T22:40:59Z",
+     "duree": "PT1M43S",
+     "vues": 2579,
+     "commentaires": "7"
+    },
+    {
+     "id": "IRpKM-gWHjo",
+     "titre": "Priyank Kharge Blames Centre on Fuel Prices… But What About Karnataka? | #BJP",
+     "chaine": "Bharatiya Janata Party",
+     "publie": "2026-11-06T04:00:51Z",
+     "duree": "PT53S",
+     "vues": 2777,
+     "commentaires": "9"
+    }
+   ],
+   "baisse gazole": [
+    {
+     "id": "6RVW6PLCl7M",
+     "titre": "Carburant : Une baisse historique de la consommation en France",
+     "chaine": "franceinfo",
+     "publie": "2026-11-06T12:20:16Z",
+     "duree": "PT2M5S",
+     "vues": 34341,
+     "commentaires": "27"
+    },
+    {
+     "id": "7fUMIaEfGGs",
+     "titre": "Diesel, gasoline prices to drop next week",
+     "chaine": "The Manila Times",
+     "publie": "2026-11-06T12:30:12Z",
+     "duree": "PT51S",
+     "vues": 1969,
+     "commentaires": "1"
+    },
+    {
+     "id": "6Quc6GucIc8",
+     "titre": "Gazole -12 centimes : mais 4 000 stations n'ont pas baissé #shorts",
+     "chaine": "Curtis lemieux",
+     "publie": "2026-11-05T15:00:13Z",
+     "duree": "PT1M3S",
+     "vues": 749,
+     "commentaires": "0"
+    },
+    {
+     "id": "qPXROUqojM8",
+     "titre": "Le gazole baisse… mais pas dans ta station ? #Shorts",
+     "chaine": "Le Déclic Business",
+     "publie": "2026-11-06T11:51:06Z",
+     "duree": "PT9S",
+     "vues": 364,
+     "commentaires": "0"
+    },
+    {
+     "id": "DvoBYZRnXcs",
+     "titre": "Gazole : le gouvernement libère 10 millions de barils pour faire baisser les prix à la pompe",
+     "chaine": "France Aujourd'hui",
+     "publie": "2026-11-06T17:34:17Z",
+     "duree": "PT23S",
+     "vues": 1,
+     "commentaires": "1"
+    }
+   ],
+   "prix du chocolat Noël": [],
+   "prix baguette boulangerie": [
+    {
+     "id": "z1s9svuH-eU",
+     "titre": "Deux boulangeries, deux prix… et une seule qui tient.",
+     "chaine": "un_euro_de_plus",
+     "publie": "2026-11-05T11:02:37Z",
+     "duree": "PT50S",
+     "vues": 567,
+     "commentaires": "0"
+    },
+    {
+     "id": "TeIiW7duK-Y",
+     "titre": "Une baguette à 1,10 € : combien il reste VRAIMENT au boulanger ?",
+     "chaine": "Marge Réelle",
+     "publie": "2026-11-05T15:45:38Z",
+     "duree": "PT7M49S",
+     "vues": 30,
+     "commentaires": "0"
+    },
+    {
+     "id": "zEx_m1IR_RQ",
+     "titre": "Calculer le coût de revient d’une baguette, pas à pas — Tutoriel Pétrio 19",
+     "chaine": "Jérôme",
+     "publie": "2026-11-05T17:10:58Z",
+     "duree": "PT1M20S",
+     "vues": 0,
+     "commentaires": "0"
+    }
+   ],
+   "café capsule prix": [
+    {
+     "id": "sDgsSlPhEY4",
+     "titre": "Ton café en capsule te coûte combien par mois ? ☕ #shorts #cafe #lesaviezvous #education",
+     "chaine": "toutcapourcatv",
+     "publie": "2026-11-06T16:30:05Z",
+     "duree": "PT36S",
+     "vues": 1181,
+     "commentaires": "1"
+    },
+    {
+     "id": "X14M5-QRaHM",
+     "titre": "Ton café en capsule coûte 80 € le kilo ☕ #shorts",
+     "chaine": "Argent Décodé",
+     "publie": "2026-11-05T17:31:19Z",
+     "duree": "PT25S",
+     "vues": 29,
+     "commentaires": "1"
+    },
+    {
+     "id": "69XTDh0pW9o",
+     "titre": "MACHINE À CAFÉ À CAPSULES 2026 ☕ TOP 3 NESPRESSO COMPACTES",
+     "chaine": "MOBILISHOP",
+     "publie": "2026-11-05T11:00:06Z",
+     "duree": "PT3M43S",
+     "vues": 8,
+     "commentaires": "0"
+    },
+    {
+     "id": "iTgTv4BrEUs",
+     "titre": "Quanto custa o café de cápsula por mês? #Shorts",
+     "chaine": "Radar dos Produtos",
+     "publie": "2026-11-06T14:20:09Z",
+     "duree": "PT48S",
+     "vues": 3,
+     "commentaires": "0"
+    }
+   ],
+   "prix cigarettes tabac": [
+    {
+     "id": "NVMALJYCZe0",
+     "titre": "Paquet de cigarettes : le fabricant touche moins d'1 € 🚬 #shorts",
+     "chaine": "VraimentTV",
+     "publie": "2026-11-05T11:00:07Z",
+     "duree": "PT28S",
+     "vues": 1186,
+     "commentaires": "0"
+    },
+    {
+     "id": "MJeQRiAzbcc",
+     "titre": "Sur un paquet de cigarettes, l'État prend combien ? #shorts",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-05T12:00:34Z",
+     "duree": "PT22S",
+     "vues": 921,
+     "commentaires": "1"
+    },
+    {
+     "id": "LRT_6sSfMg8",
+     "titre": "Le prix du poison #prix #poison #cigarettes",
+     "chaine": "The Mind 2026",
+     "publie": "2026-11-05T12:31:09Z",
+     "duree": "PT53S",
+     "vues": 138,
+     "commentaires": "0"
+    },
+    {
+     "id": "rTb1HGGh46g",
+     "titre": "8 Marques SEITA DISPARUES Que Vos Parents Ont Connues",
+     "chaine": "William Reynolds",
+     "publie": "2026-11-05T23:00:14Z",
+     "duree": "PT15M24S",
+     "vues": 15,
+     "commentaires": "0"
+    },
+    {
+     "id": "7IZlMD2WA4c",
+     "titre": "Le prix, une arme décisive contre le tabagisme ?",
+     "chaine": "B SMART",
+     "publie": "2026-11-06T17:03:37Z",
+     "duree": "PT47S",
+     "vues": 53,
+     "commentaires": "0"
+    }
+   ],
+   "prix courses supermarché": [
+    {
+     "id": "po9fW98JPyY",
+     "titre": "The New Rules Of Grocery Shopping in 2027 (97% of People Do it Wrong)",
+     "chaine": "In Plain Bite",
+     "publie": "2026-11-05T17:00:14Z",
+     "duree": "PT30M15S",
+     "vues": 7265,
+     "commentaires": "13"
+    },
+    {
+     "id": "XLoMop8FI7M",
+     "titre": "🇷🇪 On ne s'attendait pas à ces prix !",
+     "chaine": "Mymy & Flo",
+     "publie": "2026-11-05T15:17:04Z",
+     "duree": "PT24M56S",
+     "vues": 2653,
+     "commentaires": "38"
+    },
+    {
+     "id": "n9Y5g5pEEfQ",
+     "titre": "Hızlıca Almanya'da Market Fiyatları! 😂🇩🇪 #türkiye #almanya #yaşam #market #vlog",
+     "chaine": "Sessiz Adam Musa",
+     "publie": "2026-11-06T17:37:12Z",
+     "duree": "PT44S",
+     "vues": 1455,
+     "commentaires": "9"
+    },
+    {
+     "id": "jNFs4gmD0bU",
+     "titre": "Le supermarché le moins cher en 2026 (430 000 prix relevés) #shorts",
+     "chaine": "Radin Malin",
+     "publie": "2026-11-06T17:59:51Z",
+     "duree": "PT1M17S",
+     "vues": 1282,
+     "commentaires": "4"
+    },
+    {
+     "id": "oPjBWQUSJFE",
+     "titre": "What Grocery Shopping Was Like in 1974 (I Pushed My Mother's Cart)",
+     "chaine": "Mrs. Doris Nostalgia",
+     "publie": "2026-11-06T22:02:51Z",
+     "duree": "PT22M35S",
+     "vues": 806,
+     "commentaires": "5"
+    },
+    {
+     "id": "ulWr7djg5Zk",
+     "titre": "DES MILLIONS DE FRANÇAIS ONT BRUTALEMENT ARRÊTÉ DE FAIRE LEURS COURSES CHEZ CARREFOUR",
+     "chaine": "Verite Consommation",
+     "publie": "2026-11-06T14:58:47Z",
+     "duree": "PT21M15S",
+     "vues": 168,
+     "commentaires": "0"
+    },
+    {
+     "id": "Xxhjm9xfTUg",
+     "titre": "Pourquoi les prix finissent par 9,99 ?",
+     "chaine": "Le Pourquoiste",
+     "publie": "2026-11-06T13:00:20Z",
+     "duree": "PT1M13S",
+     "vues": 26,
+     "commentaires": "0"
+    },
+    {
+     "id": "5Q4-skUGkmQ",
+     "titre": "Carrefour, 10 changements à connaître avant vos prochaines courses",
+     "chaine": "Radar Épicerie",
+     "publie": "2026-11-06T12:59:58Z",
+     "duree": "PT29M54S",
+     "vues": 33,
+     "commentaires": "1"
+    },
+    {
+     "id": "9Dm4Bhw6-S0",
+     "titre": "At the Supermarket | English Conversation (A2-B1)|Real-Life English Speaking Practice| Learn English",
+     "chaine": " Simple English  with Ahmed ",
+     "publie": "2026-11-05T11:54:49Z",
+     "duree": "PT6M8S",
+     "vues": 27,
+     "commentaires": "0"
+    },
+    {
+     "id": "n82tQiErs18",
+     "titre": "Supermarket English Made Simple | Easy Grocery Store Conversations for Beginners",
+     "chaine": "Everyday English with Tehilana & Arjun.",
+     "publie": "2026-11-06T20:00:24Z",
+     "duree": "PT20M7S",
+     "vues": 10,
+     "commentaires": "1"
+    },
+    {
+     "id": "ezwkYFW-yVM",
+     "titre": "Cost of life: Grocery Shopping in Sydney. Real Prices & Best Supermarkets",
+     "chaine": "travelmundeando",
+     "publie": "2026-11-07T06:00:18Z",
+     "duree": "PT9M35S",
+     "vues": 3,
+     "commentaires": "0"
+    },
+    {
+     "id": "DWwI8--EuyA",
+     "titre": "Faire les courses au supermarché | Vraie conversation (A2-B1)",
+     "chaine": "GLOBE TALKERS FR",
+     "publie": "2026-11-06T06:00:32Z",
+     "duree": "PT12M48S",
+     "vues": 16,
+     "commentaires": "0"
+    }
+   ],
+   "iPhone prix": [
+    {
+     "id": "OWn632axyno",
+     "titre": "The iPhone Duo Is INSANE! But Here's What I REGRET!",
+     "chaine": "Matt Talks Tech",
+     "publie": "2026-11-05T16:41:30Z",
+     "duree": "PT14M14S",
+     "vues": 53219,
+     "commentaires": "118"
+    },
+    {
+     "id": "x-Obg9mPJL8",
+     "titre": "Guide d'achat iPhone fin 2026 !",
+     "chaine": "Nowtech",
+     "publie": "2026-11-05T16:32:04Z",
+     "duree": "PT17M29S",
+     "vues": 52322,
+     "commentaires": "150"
+    },
+    {
+     "id": "ENJCTCXKTbw",
+     "titre": "iPhones that are actually worth buying this Black Friday",
+     "chaine": "Back Market",
+     "publie": "2026-11-05T21:00:01Z",
+     "duree": "PT10M31S",
+     "vues": 32828,
+     "commentaires": "82"
+    },
+    {
+     "id": "YbPlaCBAhUE",
+     "titre": "O iPhone Duo vale o preço 📱🤑",
+     "chaine": "Pedrin",
+     "publie": "2026-11-06T13:00:32Z",
+     "duree": "PT5S",
+     "vues": 50295,
+     "commentaires": "25"
+    },
+    {
+     "id": "1leh27lxWZs",
+     "titre": "Harga punya pendirian yang kuat #jualbeliiphone #jualbeliiphonejabodetabek #jualbeliiphonemalang",
+     "chaine": "Ryan Getly",
+     "publie": "2026-11-07T03:00:06Z",
+     "duree": "PT1M58S",
+     "vues": 26078,
+     "commentaires": "32"
+    },
+    {
+     "id": "SsiybS58BnE",
+     "titre": "iPhone по доступным ценам в Тюмени в LeaderStore 📍 Арсиб, Мельникайте, 116к1 📞+79044764446",
+     "chaine": "LeaderStore Тюмень",
+     "publie": "2026-11-06T19:56:02Z",
+     "duree": "PT17S",
+     "vues": 26930,
+     "commentaires": "4"
+    },
+    {
+     "id": "9LWNRdaKR8Q",
+     "titre": "QUAL IPHONE COMPRAR NA BLACK FRIDAY 2026",
+     "chaine": "Rodrigo Moreira",
+     "publie": "2026-11-06T15:01:59Z",
+     "duree": "PT9M11S",
+     "vues": 22101,
+     "commentaires": "77"
+    },
+    {
+     "id": "0dwnDMmu4YE",
+     "titre": "iPhone Duo ou iPhone 18 Pro Max : ne faites pas cette erreur",
+     "chaine": "FRED",
+     "publie": "2026-11-05T16:00:14Z",
+     "duree": "PT9M24S",
+     "vues": 18233,
+     "commentaires": "57"
+    },
+    {
+     "id": "J4m3o1806TE",
+     "titre": "Best Smartphone Deals Under ₹15K–₹50K 🔥 Flipkart Diwali & Amazon GIF Sale 2026! BIG Discounts",
+     "chaine": "Techie Bist",
+     "publie": "2026-11-06T05:15:10Z",
+     "duree": "PT7M41S",
+     "vues": 18123,
+     "commentaires": "90"
+    },
+    {
+     "id": "SEeWJMxPIBk",
+     "titre": "OhSnap vs. Low-Pro PopSocket — The Ultimate iPhone Comparison!",
+     "chaine": "AppleInsider",
+     "publie": "2026-11-05T21:46:49Z",
+     "duree": "PT10M56S",
+     "vues": 15559,
+     "commentaires": "44"
+    },
+    {
+     "id": "U3bbLR-KtN4",
+     "titre": "iPhone Duo no Japão , quantos dias de trabalho?",
+     "chaine": "Um brasileiro no Japão ",
+     "publie": "2026-11-06T13:01:32Z",
+     "duree": "PT23S",
+     "vues": 10467,
+     "commentaires": "1"
+    },
+    {
+     "id": "NXyhwrIwJ6o",
+     "titre": "India Mein Smartphone Shipments 26% Down! #shorts #smartphone",
+     "chaine": "Techfish",
+     "publie": "2026-11-05T13:21:13Z",
+     "duree": "PT1M14S",
+     "vues": 10643,
+     "commentaires": "4"
+    },
+    {
+     "id": "ohyAoObgUjM",
+     "titre": "Used iPhone Price in Bangladesh🔥 Used iPhone Price in BD 2026🔥 Second Hand Phone✔Used Mobile Price",
+     "chaine": "Ashraful Vlogs 2",
+     "publie": "2026-11-06T08:48:26Z",
+     "duree": "PT17M43S",
+     "vues": 11060,
+     "commentaires": "19"
+    },
+    {
+     "id": "syzrY9F7bWY",
+     "titre": "RUSSINHO CONQUISTOU SEU NOVO IPHONE 15 ROSE DE 128gb",
+     "chaine": "14K e os MENDINGOS",
+     "publie": "2026-11-06T22:15:34Z",
+     "duree": "PT30M44S",
+     "vues": 20432,
+     "commentaires": "120"
+    },
+    {
+     "id": "HH4MhsOnWH8",
+     "titre": "IPHONE 18 PRO MAX BEST DEALS 🔥📱💰 #shortsfeed #shorts #trending #viral #iphone18promax #iphone",
+     "chaine": "Montu Vadoliya",
+     "publie": "2026-11-05T14:23:58Z",
+     "duree": "PT1M45S",
+     "vues": 9355,
+     "commentaires": "3"
+    }
+   ]
+  },
+  "envoye_le": "2026-11-07T10:44:44.287925+00:00"
+ }
+}
