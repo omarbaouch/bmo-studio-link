@@ -1,0 +1,203 @@
+{
+ "action": "chercher",
+ "chaine": "LEVRAIPRIX",
+ "jours": 2,
+ "titre": "Repérage du jour n°2 (sujets en français)",
+ "requetes": [
+  "prix de l'essence France",
+  "prix du cacao chocolat",
+  "prix du café hausse",
+  "paquet de cigarettes prix",
+  "baguette de pain prix",
+  "Black Friday iPhone prix France",
+  "pouvoir d'achat courses"
+ ],
+ "resultat": {
+  "resultats": {
+   "prix de l'essence France": [
+    {
+     "id": "-za49UX0ZPk",
+     "titre": "\"Soit vous mettez de l'essence dans votre voiture, soit vous ne vous chauffez pas\" (Danièle Obono)",
+     "chaine": "franceinfo",
+     "publie": "2026-11-05T21:39:59Z",
+     "duree": "PT9M1S",
+     "vues": 6018,
+     "commentaires": "7"
+    },
+    {
+     "id": "-eH_qBuj5Ac",
+     "titre": "Gojo découvre le prix de l'essence en France",
+     "chaine": "Anime France",
+     "publie": "2026-11-06T01:09:33Z",
+     "duree": "PT1M22S",
+     "vues": 1460,
+     "commentaires": "1"
+    },
+    {
+     "id": "YN5ZHFA7O3o",
+     "titre": "🎯 Bloquer le prix de l’essence ? On oppose la Hongrie à Roussel",
+     "chaine": "Le Contradicteur",
+     "publie": "2026-11-05T17:58:23Z",
+     "duree": "PT2M31S",
+     "vues": 12,
+     "commentaires": "0"
+    },
+    {
+     "id": "nQTglq7XwtU",
+     "titre": "⬇️⛽️ Pourquoi l'essence est aussi chère en France ?",
+     "chaine": "Optimise Ton Budget",
+     "publie": "2026-11-07T09:54:50Z",
+     "duree": "PT11S",
+     "vues": 0,
+     "commentaires": "0"
+    },
+    {
+     "id": "ZbopzypXB0A",
+     "titre": "French government seen as passive on rising petrol prices: Marc Finaud",
+     "chaine": "Qnews",
+     "publie": "2026-11-06T21:34:12Z",
+     "duree": "PT18M34S",
+     "vues": 7,
+     "commentaires": "0"
+    },
+    {
+     "id": "9vBYpaV2VS4",
+     "titre": "Pourquoi le gazole coûte plus cher que l'essence ? #shorts",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-06T11:35:33Z",
+     "duree": "PT22S",
+     "vues": 96,
+     "commentaires": "1"
+    }
+   ],
+   "prix du cacao chocolat": [
+    {
+     "id": "waVQcjU7AGc",
+     "titre": "Why Your Chocolate Tastes Different",
+     "chaine": "Nick Raigoza",
+     "publie": "2026-11-05T17:03:07Z",
+     "duree": "PT1M6S",
+     "vues": 1428,
+     "commentaires": "5"
+    },
+    {
+     "id": "rSwWZNf-JK0",
+     "titre": "12 Chocolate Brands in Australia to AVOID — Only 6 Make REAL Chocolate",
+     "chaine": "Aussie Products Uncovered",
+     "publie": "2026-11-07T00:30:10Z",
+     "duree": "PT27M25S",
+     "vues": 2491,
+     "commentaires": "3"
+    },
+    {
+     "id": "7pe_KmB6-G4",
+     "titre": "8 Marques de Biscuits chez Carrefour et Leclerc : LU, Milka, BN… Lesquelles Éviter ?",
+     "chaine": "Verite Consommation",
+     "publie": "2026-11-06T09:35:08Z",
+     "duree": "PT25M8S",
+     "vues": 193,
+     "commentaires": "1"
+    },
+    {
+     "id": "IpMxddMvUNo",
+     "titre": "Ta tablette de chocolat est taxée à combien ? #shorts",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-05T11:30:39Z",
+     "duree": "PT24S",
+     "vues": 222,
+     "commentaires": "1"
+    },
+    {
+     "id": "sXaQaw-i7Dg",
+     "titre": "Chocolat mexicain : du cacao du Chiapas à Nantes avec Choc-Hola",
+     "chaine": "Amélie SAILLET",
+     "publie": "2026-11-05T17:05:04Z",
+     "duree": "PT37M10S",
+     "vues": 23,
+     "commentaires": "0"
+    },
+    {
+     "id": "K_aA7I12z38",
+     "titre": "The Economics of Owning a Chocolate Factory",
+     "chaine": "wealthyhint ",
+     "publie": "2026-11-05T16:40:21Z",
+     "duree": "PT21M40S",
+     "vues": 9,
+     "commentaires": "0"
+    },
+    {
+     "id": "8D9MZnwk9TI",
+     "titre": "Combien de cabosses pour UNE tablette de chocolat ? #shorts",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-05T17:00:18Z",
+     "duree": "PT23S",
+     "vues": 15,
+     "commentaires": "1"
+    },
+    {
+     "id": "M5otQ9EvHj0",
+     "titre": "Pourquoi le chocolat est devenu si cher ?",
+     "chaine": "Facture Salée",
+     "publie": "2026-11-05T14:37:39Z",
+     "duree": "PT21M28S",
+     "vues": 0,
+     "commentaires": "0"
+    },
+    {
+     "id": "4TYClFtmRqs",
+     "titre": "Le prix du cacao a été multiplié par 4 🍫 #shorts",
+     "chaine": "Facture Salée",
+     "publie": "2026-11-05T19:28:54Z",
+     "duree": "PT32S",
+     "vues": 0,
+     "commentaires": "0"
+    }
+   ],
+   "prix du café hausse": [],
+   "paquet de cigarettes prix": [
+    {
+     "id": "NVMALJYCZe0",
+     "titre": "Paquet de cigarettes : le fabricant touche moins d'1 € 🚬 #shorts",
+     "chaine": "VraimentTV",
+     "publie": "2026-11-05T11:00:07Z",
+     "duree": "PT28S",
+     "vues": 1186,
+     "commentaires": "0"
+    },
+    {
+     "id": "MJeQRiAzbcc",
+     "titre": "Sur un paquet de cigarettes, l'État prend combien ? #shorts",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-05T12:00:34Z",
+     "duree": "PT22S",
+     "vues": 921,
+     "commentaires": "1"
+    }
+   ],
+   "baguette de pain prix": [
+    {
+     "id": "z1s9svuH-eU",
+     "titre": "Deux boulangeries, deux prix… et une seule qui tient.",
+     "chaine": "un_euro_de_plus",
+     "publie": "2026-11-05T11:02:37Z",
+     "duree": "PT50S",
+     "vues": 567,
+     "commentaires": "0"
+    }
+   ],
+   "Black Friday iPhone prix France": [
+    {
+     "id": "7gwDHRswz4o",
+     "titre": "iPhone reconditionné Black Friday : à quel prix acheter ?",
+     "chaine": "Combak - Ton comparateur préféré",
+     "publie": "2026-11-05T16:00:39Z",
+     "duree": "PT6M31S",
+     "vues": 76,
+     "commentaires": "0"
+    }
+   ],
+   "pouvoir d'achat courses": []
+  },
+  "envoye_le": "2026-11-07T10:45:56.224752+00:00"
+ }
+}
