@@ -1,0 +1,17 @@
+{
+ "action": "commenter",
+ "chaine": "LEVRAIPRIX",
+ "titre": "Commentaire informatif (rmc-franceinfo), validé par Omar le 08/11",
+ "videos": [
+  "kVrpq8oV4kk",
+  "uORfgxOY6C8"
+ ],
+ "commentaire": "Le baril baisse mais la pompe suit lentement : sur un plein de 50 litres, environ 50 € partent en taxes (accise + TVA), un montant qui ne bouge pas quand le pétrole baisse.",
+ "resultat": {
+  "commentaires": {
+   "kVrpq8oV4kk": "ok",
+   "uORfgxOY6C8": "ok"
+  },
+  "envoye_le": "2026-11-08T21:39:35.546221+00:00"
+ }
+}
