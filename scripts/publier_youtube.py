@@ -403,6 +403,11 @@ def chercher(p, yt):
     return {"resultats": res}
 
 
+def longueur_tags(tags):
+    """Longueur comptée par YouTube (limite 500) : un tag avec espace compte avec ses guillemets, plus une virgule entre tags."""
+    return sum(len(t) + (2 if " " in t else 0) for t in tags) + max(len(tags) - 1, 0)
+
+
 def modifier(p, yt, dossier=None):
     """Fiche {"action": "modifier", "video_id": "...", "titre": "...", "description_prefixe": "...", "tags_ajout": [...], "miniature_url": "..."} :
     change le titre, ajoute une phrase en tête de description (si elle n'y est pas déjà) et ajoute des tags (sans doublon,
@@ -421,7 +426,7 @@ def modifier(p, yt, dossier=None):
         corps["description"] = (pre + "\n\n" + corps.get("description", ""))[:5000]
     tags = list(corps.get("tags", []))
     for t in p.get("tags_ajout", []):
-        if t.lower() not in [x.lower() for x in tags] and len(",".join(tags + [t])) < 490:
+        if t.lower() not in [x.lower() for x in tags] and longueur_tags(tags + [t]) <= 480:
             tags.append(t)
     corps["tags"] = tags
     yt.videos().update(part="snippet", body={"id": vid, "snippet": corps}).execute()
