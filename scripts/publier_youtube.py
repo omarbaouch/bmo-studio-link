@@ -286,6 +286,43 @@ def playlist(p, yt):
     return {"playlist": res}
 
 
+def id_playlist(yt, titre):
+    page = None
+    while True:
+        r = yt.playlists().list(part="snippet", mine=True, maxResults=50, pageToken=page).execute()
+        pid = next((x["id"] for x in r.get("items", []) if x["snippet"]["title"].strip().lower() == titre.strip().lower()), None)
+        page = r.get("nextPageToken")
+        if pid or not page:
+            return pid
+
+
+def section_playlist(p, yt):
+    """Fiche {"action": "section_playlist", "playlist": "Titre", "position": 0, "description": "..."} : met la playlist
+    en section de la page d'accueil de la chaîne (en tête par défaut) et lui donne une description. Ne crée pas de doublon."""
+    pid = id_playlist(yt, p["playlist"])
+    if not pid:
+        raise RuntimeError(f"playlist « {p['playlist']} » introuvable")
+    res = {"playlist_id": pid, "lien": f"https://www.youtube.com/playlist?list={pid}"}
+    if p.get("description"):
+        sn = yt.playlists().list(part="snippet", id=pid).execute()["items"][0]["snippet"]
+        yt.playlists().update(part="snippet", body={"id": pid, "snippet": {"title": sn["title"], "description": p["description"][:5000],
+                                                                             "defaultLanguage": sn.get("defaultLanguage", "fr")}}).execute()
+        res["description"] = "ok"
+    secs = yt.channelSections().list(part="snippet,contentDetails", mine=True).execute().get("items", [])
+    if any(pid in (x.get("contentDetails") or {}).get("playlists", []) for x in secs):
+        res["section"] = "déjà présente"
+    else:
+        try:
+            yt.channelSections().insert(part="snippet,contentDetails", body={
+                "snippet": {"type": "singlePlaylist", "position": int(p.get("position", 0))},
+                "contentDetails": {"playlists": [pid]}}).execute()
+            res["section"] = "ok"
+        except HttpError as e:
+            res["section"] = f"refusée : {e}"
+    print(f"  section {p['playlist']} : {res}", flush=True)
+    return res
+
+
 def lire_chaine(p, yt):
     """Fiche {"action": "lire_chaine"} : relève la présentation de la chaîne (description, mots-clés, bande-annonce),
     ses playlists et les derniers commentaires des spectateurs. Rien n'est modifié."""
@@ -442,6 +479,7 @@ def main():
                 action = p.get("action")
                 res = (mettre_en_ligne(p, yt) if action == "mettre_en_ligne" else
                        playlist(p, yt) if action == "playlist" else
+                       section_playlist(p, yt) if action == "section_playlist" else
                        lire_chaine(p, yt) if action == "lire_chaine" else
                        chaine(p, yt) if action == "chaine" else
                        repondre(p, yt) if action == "repondre" else
