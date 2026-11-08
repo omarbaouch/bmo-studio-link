@@ -1,0 +1,22 @@
+{
+ "action": "playlist",
+ "chaine": "LEVRAIPRIX",
+ "titre": "Playlist des vidéos longues",
+ "playlist": "Le Vrai Prix — les enquêtes",
+ "videos": [
+  "x0onZIENQZk",
+  "lzoB-xIlSCY",
+  "uuPNNWSVZEQ",
+  "08ITVyaDDEo"
+ ],
+ "en_tete": "x0onZIENQZk",
+ "resultat": {
+  "playlist": {
+   "x0onZIENQZk": "ok (Le Vrai Prix — les enquêtes)",
+   "lzoB-xIlSCY": "ok (Le Vrai Prix — les enquêtes)",
+   "uuPNNWSVZEQ": "ok (Le Vrai Prix — les enquêtes)",
+   "08ITVyaDDEo": "ok (Le Vrai Prix — les enquêtes)"
+  },
+  "envoye_le": "2026-11-08T21:13:42.315018+00:00"
+ }
+}

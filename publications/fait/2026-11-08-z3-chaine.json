@@ -1,0 +1,22 @@
+{
+ "action": "chaine",
+ "chaine": "LEVRAIPRIX",
+ "titre": "Bande-annonce et mots-clés de la chaîne",
+ "bande_annonce": "x0onZIENQZk",
+ "mots_cles": "\"le vrai prix\" \"prix réel\" \"combien ça coûte\" \"prix du gazole\" \"prix du cacao\" \"capsule café\" \"prix baguette\" consommation inflation économie",
+ "resultat": {
+  "avant": {
+   "description": "Combien coûtent vraiment les objets de ton quotidien ? Baguette, chocolat, essence, café, iPhone, jean… On les ouvre et on suit l'argent centime par centime : le producteur, l'usine, la marque, l'État, le magasin. Chiffres officiels, sources dans chaque description.\n\n🎬 Une enquête complète chaque semaine\n⚡ Un Short chaque jour\n\nAbonne-toi pour savoir enfin ce que tu paies vraiment.",
+   "keywords": "\"le vrai prix\" \"combien ça coûte\" \"prix essence\" \"prix carburant\" \"prix du gazole\" \"prix du chocolat\" \"prix de la baguette\" taxes inflation \"pouvoir d'achat\" consommation économie marges",
+   "unsubscribedTrailer": "x0onZIENQZk",
+   "country": "FR"
+  },
+  "apres": {
+   "description": "Combien coûtent vraiment les objets de ton quotidien ? Baguette, chocolat, essence, café, iPhone, jean… On les ouvre et on suit l'argent centime par centime : le producteur, l'usine, la marque, l'État, le magasin. Chiffres officiels, sources dans chaque description.\n\n🎬 Une enquête complète chaque semaine\n⚡ Un Short chaque jour\n\nAbonne-toi pour savoir enfin ce que tu paies vraiment.",
+   "keywords": "\"le vrai prix\" \"prix réel\" \"combien ça coûte\" \"prix du gazole\" \"prix du cacao\" \"capsule café\" \"prix baguette\" consommation inflation économie",
+   "unsubscribedTrailer": "x0onZIENQZk",
+   "country": "FR"
+  },
+  "envoye_le": "2026-11-08T21:13:48.524019+00:00"
+ }
+}
