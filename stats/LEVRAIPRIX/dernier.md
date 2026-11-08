@@ -1,4 +1,4 @@
-# Le Vrai Prix — 2026-11-08 11:58 UTC
+# Le Vrai Prix — 2026-11-08 20:00 UTC
 
 Abonnés : 13 · vues totales : 8954
 
@@ -13,33 +13,33 @@ Abonnés : 13 · vues totales : 8954
 **Seuils de monétisation** (il faut les abonnés ET l'un des deux autres)
 
 - Abonnés : 13 / 1 000 — ░░░░░░░░░░░░░░░░░░░░ 1.3 %
-- Heures de vidéos longues (365 j) : 4.8 / 4 000 — ░░░░░░░░░░░░░░░░░░░░ 0.1 %
-- Vues Shorts (90 j) : 6 081 / 10 000 000 — ░░░░░░░░░░░░░░░░░░░░ 0.1 %
+- Heures de vidéos longues (365 j) : 5.0 / 4 000 — ░░░░░░░░░░░░░░░░░░░░ 0.1 %
+- Vues Shorts (90 j) : 8 225 / 10 000 000 — ░░░░░░░░░░░░░░░░░░░░ 0.1 %
 
-Sources de trafic (28 j) : SHORTS 5776, YT_SEARCH 120, SUBSCRIBER 107, YT_CHANNEL 93, RELATED_VIDEO 89, YT_OTHER_PAGE 63, NO_LINK_OTHER 7, EXT_URL 7, NOTIFICATION 4, SHORTS_CONTENT_LINKS 2
+Sources de trafic (28 j) : SHORTS 7792, YT_SEARCH 177, YT_CHANNEL 120, SUBSCRIBER 110, YT_OTHER_PAGE 104, RELATED_VIDEO 95, NO_LINK_OTHER 7, EXT_URL 7, NOTIFICATION 7, SHORTS_CONTENT_LINKS 4
 
 | Publiée | Format | Titre | Vues | Durée moy. | % regardé | Abonnés + | Impressions 7 j | Clic |
 |---|---|---|---|---|---|---|---|---|
-| 2026-11-08 | short | Le goût du chocolat, il vient d'où ? #shorts | 0 | 0 s | 0 % |  |  |  |
-| 2026-11-07 | short | Le cacao a perdu près de 60 %… et ta tablette ? #shorts | 134 | 0 s | 0 % |  |  |  |
+| 2026-11-08 | short | Le goût du chocolat, il vient d'où ? #shorts | 295 | 0 s | 0 % |  |  |  |
+| 2026-11-07 | short | Le cacao a perdu près de 60 %… et ta tablette ? #shorts | 153 | 0 s | 0 % |  |  |  |
 | 2026-11-07 | longue | Capsule de café : combien tu la paies au kilo ? | 6 | 0 s | 0 % |  |  |  |
-| 2026-11-07 | short | Le négociant garde combien sur ta tablette de chocolat ? #sh | 105 | 0 s | 0 % |  |  |  |
-| 2026-11-07 | short | Pourquoi ton chocolat fait « clac » quand tu le casses ? #sh | 251 | 0 s | 0 % | 0 |  |  |
-| 2026-11-06 | short | 3 gestes pour payer ton plein moins cher #shorts | 245 | 0 s | 0 % |  |  |  |
-| 2026-11-06 | short | Ta station gagne combien sur ton litre ? #shorts | 272 | 0 s | 0 % |  |  |  |
-| 2026-11-06 | short | Pourquoi le gazole coûte plus cher que l'essence ? #shorts | 194 | 0 s | 0 % |  |  |  |
-| 2026-11-06 | short | Ton plein se joue à 5 000 km d'ici ? #shorts | 970 | 8 s | 38 % | 0 |  |  |
-| 2026-11-05 | short | Ton jean à 100 € : combien pour l'ouvrière ? #shorts | 122 | 15 s | 72 % | 0 |  |  |
-| 2026-11-05 | short | Combien de cabosses pour UNE tablette de chocolat ? #shorts | 23 | 18 s | 81 % | 0 |  |  |
-| 2026-11-05 | short | Sur ton gazole, tu paies une taxe… sur une taxe ? #shorts | 149 | 10 s | 54 % | 0 |  |  |
-| 2026-11-05 | short | Sur un paquet de cigarettes, l'État prend combien ? #shorts | 953 | 14 s | 66 % | 0 |  |  |
-| 2026-11-05 | short | Ta tablette de chocolat est taxée à combien ? #shorts | 251 | 37 s | 158 % | 0 |  |  |
-| 2026-11-05 | short | Le baril baisse… pourquoi pas ton plein ? #shorts | 381 | 14 s | 67 % | 0 |  |  |
-| 2026-11-04 | short | Ton café en capsule, tu le paies combien au kilo ? #shorts | 1132 | 27 s | 108 % | 2 |  |  |
-| 2026-11-04 | longue | Prix du gazole : pourquoi il ne baisse pas comme le baril | 35 | 86 s | 28 % | 0 |  |  |
-| 2026-11-04 | short | Combien gagne le boulanger sur une baguette ? #shorts | 67 | 18 s | 86 % | 0 |  |  |
+| 2026-11-07 | short | Le négociant garde combien sur ta tablette de chocolat ? #sh | 106 | 0 s | 0 % |  |  |  |
+| 2026-11-07 | short | Pourquoi ton chocolat fait « clac » quand tu le casses ? #sh | 271 | 0 s | 0 % | 0 |  |  |
+| 2026-11-06 | short | 3 gestes pour payer ton plein moins cher #shorts | 247 | 7 s | 36 % | 0 |  |  |
+| 2026-11-06 | short | Ta station gagne combien sur ton litre ? #shorts | 283 | 12 s | 64 % | 0 |  |  |
+| 2026-11-06 | short | Pourquoi le gazole coûte plus cher que l'essence ? #shorts | 198 | 30 s | 141 % | 0 |  |  |
+| 2026-11-06 | short | Ton plein se joue à 5 000 km d'ici ? #shorts | 971 | 14 s | 65 % | 2 |  |  |
+| 2026-11-05 | short | Ton jean à 100 € : combien pour l'ouvrière ? #shorts | 122 | 16 s | 75 % | 0 |  |  |
+| 2026-11-05 | short | Combien de cabosses pour UNE tablette de chocolat ? #shorts | 24 | 13 s | 58 % | 0 |  |  |
+| 2026-11-05 | short | Sur ton gazole, tu paies une taxe… sur une taxe ? #shorts | 149 | 11 s | 55 % | 0 |  |  |
+| 2026-11-05 | short | Sur un paquet de cigarettes, l'État prend combien ? #shorts | 954 | 14 s | 66 % | 3 |  |  |
+| 2026-11-05 | short | Ta tablette de chocolat est taxée à combien ? #shorts | 252 | 27 s | 114 % | 0 |  |  |
+| 2026-11-05 | short | Le baril baisse… pourquoi pas ton plein ? #shorts | 385 | 13 s | 66 % | 0 |  |  |
+| 2026-11-04 | short | Ton café en capsule, tu le paies combien au kilo ? #shorts | 1132 | 24 s | 97 % | 2 |  |  |
+| 2026-11-04 | longue | Prix du gazole : pourquoi il ne baisse pas comme le baril | 41 | 81 s | 26 % | 0 |  |  |
+| 2026-11-04 | short | Combien gagne le boulanger sur une baguette ? #shorts | 67 | 17 s | 81 % | 0 |  |  |
 | 2026-11-04 | short | Le cacao baisse… et les chocolats de Pâques augmentent ? #sh | 94 | 11 s | 62 % | 0 |  |  |
-| 2026-11-04 | short | Un iPhone coûte combien à fabriquer ? #shorts | 394 | 16 s | 55 % | 1 |  |  |
+| 2026-11-04 | short | Un iPhone coûte combien à fabriquer ? #shorts | 394 | 15 s | 55 % | 1 |  |  |
 | 2026-11-04 | short | L'État prend combien sur ta baguette ? #shorts | 174 | 15 s | 61 % | 0 |  |  |
 | 2026-11-04 | short | Ta tablette de chocolat : combien pour le planteur ? #shorts | 732 | 13 s | 49 % | 2 |  |  |
 | 2026-11-04 | short | Sur ton plein de 50 litres, l'État prend combien ? #shorts | 184 | 18 s | 67 % | 0 |  |  |
@@ -51,29 +51,35 @@ Sources de trafic (28 j) : SHORTS 5776, YT_SEARCH 120, SUBSCRIBER 107, YT_CHANNE
 | 2026-11-03 | short | Combien de cabosses pour UNE tablette de chocolat ? #shorts | 0 | 0 s | 0 % | 0 |  |  |
 | 2026-11-03 | short | Ta tablette de chocolat est taxée à combien ? #shorts | 1 | 4 s | 26 % | 0 |  |  |
 | 2026-11-03 | short | Une fève de cacao fraîche, ça a quel goût ? #shorts | 98 | 9 s | 55 % | 0 |  |  |
-| 2026-11-03 | longue | Prix du cacao en chute : pourquoi ton chocolat ne baisse pas | 94 | 169 s | 36 % | 2 |  |  |
+| 2026-11-03 | longue | Prix du cacao en chute : pourquoi ton chocolat ne baisse pas | 96 | 163 s | 35 % | 2 |  |  |
 | 2026-11-03 | short | Combien garde le meunier sur ta baguette ? #shorts | 91 | 17 s | 30 % | 1 |  |  |
-| 2026-11-03 | short | Ton pain cuit à combien de degrés ? #shorts | 476 | 7 s | 42 % | 0 |  |  |
+| 2026-11-03 | short | Ton pain cuit à combien de degrés ? #shorts | 476 | 7 s | 43 % | 0 |  |  |
 | 2026-11-03 | short | La baguette à 29 centimes : qui paie vraiment ? #shorts | 354 | 20 s | 42 % | 0 |  |  |
-| 2026-11-03 | short | Combien de pâte crue pour UNE baguette ? #shorts | 214 | 16 s | 70 % | 0 |  |  |
+| 2026-11-03 | short | Combien de pâte crue pour UNE baguette ? #shorts | 214 | 17 s | 71 % | 0 |  |  |
 | 2026-11-02 | short | Combien vaut le blé de ta baguette ? #shorts | 72 | 27 s | 55 % | 0 |  |  |
 | 2026-11-02 | short | Le boulanger s'en met plein les poches ? #shorts | 168 | 56 s | 95 % | 0 |  |  |
 | 2026-11-02 | short | Le vrai prix du blé dans ta baguette ? #shorts | 667 | 13 s | 44 % | 0 |  |  |
 | 2026-11-01 | longue | Combien gagne un boulanger sur une baguette ? | 114 | 128 s | 26 % | 0 |  |  |
 
-Shorts : moyenne 252 vues. Au-dessus de la moyenne (formats à refaire) : « Ton café en capsule, tu le paies combien au kilo ? » (1132); « Ton plein se joue à 5 000 km d'ici ? #shorts » (970); « Sur un paquet de cigarettes, l'État prend combien  » (953); « Ta tablette de chocolat : combien pour le planteur » (732); « Le vrai prix du blé dans ta baguette ? #shorts » (667); « Ton pain cuit à combien de degrés ? #shorts » (476); « Un iPhone coûte combien à fabriquer ? #shorts » (394); « Le baril baisse… pourquoi pas ton plein ? #shorts » (381); « La baguette à 29 centimes : qui paie vraiment ? #s » (354); « Ta station gagne combien sur ton litre ? #shorts » (272)
+Shorts : moyenne 262 vues. Au-dessus de la moyenne (formats à refaire) : « Ton café en capsule, tu le paies combien au kilo ? » (1132); « Ton plein se joue à 5 000 km d'ici ? #shorts » (971); « Sur un paquet de cigarettes, l'État prend combien  » (954); « Ta tablette de chocolat : combien pour le planteur » (732); « Le vrai prix du blé dans ta baguette ? #shorts » (667); « Ton pain cuit à combien de degrés ? #shorts » (476); « Un iPhone coûte combien à fabriquer ? #shorts » (394); « Le baril baisse… pourquoi pas ton plein ? #shorts » (385); « La baguette à 29 centimes : qui paie vraiment ? #s » (354); « Le goût du chocolat, il vient d'où ? #shorts » (295); « Ta station gagne combien sur ton litre ? #shorts » (283); « Pourquoi ton chocolat fait « clac » quand tu le ca » (271)
+
+### D'où viennent les vues des vidéos longues (depuis la sortie)
+- « Capsule de café : combien tu la paies au kilo ? » : aucune vue
+- « Prix du gazole : pourquoi il ne baisse pas comme le bar » : RELATED_VIDEO 16, NO_LINK_OTHER 3, SUBSCRIBER 2, YT_CHANNEL 2, SHORTS_CONTENT_LINKS 2
+- « Prix du cacao en chute : pourquoi ton chocolat ne baiss » : RELATED_VIDEO 77, SUBSCRIBER 6, NO_LINK_OTHER 3, YT_OTHER_PAGE 2, YT_CHANNEL 1, EXT_URL 1
+- « Combien gagne un boulanger sur une baguette ? » : SUBSCRIBER 101, YT_CHANNEL 5, RELATED_VIDEO 2, EXT_URL 2, SHORTS_CONTENT_LINKS 2, NO_LINK_OTHER 1, YT_SEARCH 1
 
 ### Rétention « Prix du gazole : pourquoi il ne baisse pas comme le baril » (5:10)
-- Encore là à 30 s : 54 % · à mi-parcours : 23 % · à la fin : 23 %
-- Rétention relative (vs vidéos YouTube de même durée) : 0.43 (en dessous de la moyenne)
-- Creux (les gens partent) : vers 0:09 (−23.1 pts), vers 0:31 (−7.7 pts), vers 0:55 (−7.7 pts), vers 1:48 (−7.7 pts)
+- Encore là à 30 s : 58 % · à mi-parcours : 21 % · à la fin : 16 %
+- Rétention relative (vs vidéos YouTube de même durée) : 0.38 (en dessous de la moyenne)
+- Creux (les gens partent) : vers 0:12 (−15.8 pts), vers 0:40 (−15.8 pts), vers 1:48 (−5.3 pts), vers 4:48 (−5.3 pts)
 - Pics (relecture) : aucun
 - À faire : ouvrir la vidéo à chaque creux, noter la phrase et le plan, écrire la cause dans 00_lecons_analytics.md.
 
 ### Rétention « Prix du cacao en chute : pourquoi ton chocolat ne baisse pas » (7:45)
-- Encore là à 30 s : 66 % · à mi-parcours : 38 % · à la fin : 26 %
-- Rétention relative (vs vidéos YouTube de même durée) : 0.64 (au-dessus de la moyenne)
-- Creux (les gens partent) : vers 0:13 (−21.2 pts), vers 1:23 (−7.6 pts), vers 2:10 (−6.1 pts), vers 6:49 (−4.5 pts)
+- Encore là à 30 s : 66 % · à mi-parcours : 37 % · à la fin : 25 %
+- Rétention relative (vs vidéos YouTube de même durée) : 0.63 (au-dessus de la moyenne)
+- Creux (les gens partent) : vers 0:13 (−20.9 pts), vers 1:23 (−7.5 pts), vers 2:10 (−6.0 pts), vers 3:06 (−4.5 pts)
 - Pics (relecture) : aucun
 - À faire : ouvrir la vidéo à chaque creux, noter la phrase et le plan, écrire la cause dans 00_lecons_analytics.md.
 
