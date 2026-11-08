@@ -301,7 +301,9 @@ def section_pilotage(r):
         l.append(f"- Heures et vues Shorts : {m.get('erreur', 'Analytics indisponible')}")
     else:
         l += [f"- Heures de vidéos longues (365 j) : {m['heures_longues_365j']} / 4 000 — {barre(m['heures_longues_365j'], SEUILS['heures_longues_365j'])}",
-              f"- Vues Shorts (90 j) : {m['vues_shorts_90j']:,} / 10 000 000 — {barre(m['vues_shorts_90j'], SEUILS['vues_shorts_90j'])}".replace(",", " ")]
+              f"- Vues Shorts (90 j) : {m['vues_shorts_90j']:,} / 10 000 000 — {barre(m['vues_shorts_90j'], SEUILS['vues_shorts_90j'])}".replace(",", " "),
+              f"- ⚠️ À partir du 01/02/2027 (nouvelles candidatures) : {m['heures_longues_365j']} / 8 000 h — {barre(m['heures_longues_365j'], 8000)} "
+              f"ou {m['vues_shorts_90j']:,} / 20 000 000 vues Shorts".replace(",", " ")]
         e = p.get("evolution_7j")
         if e and e["abonnes"] > 0:
             reste = SEUILS["abonnes"] - r["abonnes"]
