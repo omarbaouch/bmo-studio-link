@@ -366,8 +366,8 @@ def chercher(p, yt):
     return {"resultats": res}
 
 
-def modifier(p, yt):
-    """Fiche {"action": "modifier", "video_id": "...", "titre": "...", "description_prefixe": "...", "tags_ajout": [...]} :
+def modifier(p, yt, dossier=None):
+    """Fiche {"action": "modifier", "video_id": "...", "titre": "...", "description_prefixe": "...", "tags_ajout": [...], "miniature_url": "..."} :
     change le titre, ajoute une phrase en tête de description (si elle n'y est pas déjà) et ajoute des tags (sans doublon,
     < 500 caractères). Les anciennes valeurs sont gardées dans le résultat pour revenir en arrière."""
     vid = p["video_id"]
@@ -389,7 +389,16 @@ def modifier(p, yt):
     corps["tags"] = tags
     yt.videos().update(part="snippet", body={"id": vid, "snippet": corps}).execute()
     print(f"  ✔ {vid} modifiée : « {corps['title']} », {len(tags)} tags", flush=True)
-    return {"id": vid, "avant": avant, "apres": {"titre": corps["title"], "tags": tags}}
+    res = {"id": vid, "avant": avant, "apres": {"titre": corps["title"], "tags": tags}}
+    if p.get("miniature_url"):  # nouvelle miniature (JPG < 2 Mo, 1280×720)
+        try:
+            img = telecharger(p["miniature_url"], dossier or tempfile.mkdtemp(), "miniature.jpg")
+            yt.thumbnails().set(videoId=vid, media_body=MediaFileUpload(img, mimetype="image/jpeg")).execute()
+            res["miniature"] = "ok"
+        except HttpError as e:
+            res["miniature"] = f"refusée : {e.reason if hasattr(e, 'reason') else e}"
+        print(f"  miniature : {res['miniature']}", flush=True)
+    return res
 
 
 def commentaires_en_attente():
@@ -440,7 +449,7 @@ def main():
                        commenter(p, yt) if action == "commenter" else
                        reprogrammer(p, yt) if action == "reprogrammer" else
                        garder_prive(p, yt) if action == "garder_prive" else
-                       modifier(p, yt) if action == "modifier" else publier(p, yt, d))
+                       modifier(p, yt, d) if action == "modifier" else publier(p, yt, d))
             p["resultat"] = {**res, "envoye_le": dt.datetime.now(dt.timezone.utc).isoformat()}
             json.dump(p, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
             shutil.move(f, os.path.join("publications/fait", os.path.basename(f)))
