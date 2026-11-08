@@ -163,7 +163,7 @@ def chaine(nom, tok):
     return rapport
 
 
-RAPPORTS = {"channel_reach_basic_a1": "Impressions et taux de clic des miniatures", "channel_basic_a2": "Activité des vidéos"}
+RAPPORTS = {"channel_reach_basic_a1": "Impressions et taux de clic des miniatures", "channel_basic_a3": "Activité des vidéos"}
 
 
 def reporting(c):
