@@ -1,0 +1,278 @@
+{
+ "action": "chercher",
+ "chaine": "LEVRAIPRIX",
+ "jours": 2,
+ "titre": "Repérage du jour",
+ "requetes": [
+  "prix du gazole essence baisse",
+  "prix du chocolat cacao",
+  "prix du café capsules",
+  "prix de la baguette boulangerie",
+  "prix du paquet de cigarettes",
+  "prix iPhone coût de fabrication",
+  "prix des courses supermarché",
+  "prix d'un jean fabrication"
+ ],
+ "resultat": {
+  "resultats": {
+   "prix du gazole essence baisse": [
+    {
+     "id": "6RVW6PLCl7M",
+     "titre": "Carburant : Une baisse historique de la consommation en France",
+     "chaine": "franceinfo",
+     "publie": "2026-11-06T12:20:16Z",
+     "duree": "PT2M5S",
+     "vues": 57424,
+     "commentaires": "44"
+    },
+    {
+     "id": "7fUMIaEfGGs",
+     "titre": "Diesel, gasoline prices to drop next week",
+     "chaine": "The Manila Times",
+     "publie": "2026-11-06T12:30:12Z",
+     "duree": "PT51S",
+     "vues": 2832,
+     "commentaires": "1"
+    },
+    {
+     "id": "nuC3DVo8Nv8",
+     "titre": "Slight drop for gas prices expected",
+     "chaine": "FOX 26 Houston",
+     "publie": "2026-11-07T06:25:31Z",
+     "duree": "PT5M20S",
+     "vues": 1742,
+     "commentaires": "11"
+    },
+    {
+     "id": "6YIS3u8cnWM",
+     "titre": "Big-time Oil Price Rollback, Ipatuman sunod Semana | Balitang Bisdak",
+     "chaine": "GMA Regional TV",
+     "publie": "2026-11-06T11:54:05Z",
+     "duree": "PT46S",
+     "vues": 208,
+     "commentaires": "0"
+    },
+    {
+     "id": "qPXROUqojM8",
+     "titre": "Le gazole baisse… mais pas dans ta station ? #Shorts",
+     "chaine": "Le Déclic Business",
+     "publie": "2026-11-06T11:51:06Z",
+     "duree": "PT9S",
+     "vues": 511,
+     "commentaires": "0"
+    },
+    {
+     "id": "OclawPbLxeI",
+     "titre": "Hanggang P14/L na rollback sa gasolina, posibleng ipatupad sa Martes; diesel at kerosene, bababa rin",
+     "chaine": "PTV Philippines",
+     "publie": "2026-11-07T12:30:54Z",
+     "duree": "PT31S",
+     "vues": 260,
+     "commentaires": "0"
+    },
+    {
+     "id": "rwTVHKAjRPU",
+     "titre": "Connecticut gas prices trend down",
+     "chaine": "WFSB 3",
+     "publie": "2026-11-07T03:28:20Z",
+     "duree": "PT1M36S",
+     "vues": 394,
+     "commentaires": "1"
+    },
+    {
+     "id": "0EICJPSZ9uA",
+     "titre": "Baisse du gazole : classement des enseignes en novembre 2026",
+     "chaine": "Le Prix du Carburant",
+     "publie": "2026-11-07T14:09:20Z",
+     "duree": "PT53S",
+     "vues": 0,
+     "commentaires": "0"
+    },
+    {
+     "id": "-0aHtV9YL0c",
+     "titre": "Pétrole en baisse de près de 15 % et carburant au Kenya | Afrique",
+     "chaine": "BEJ Global",
+     "publie": "2026-11-07T07:03:19Z",
+     "duree": "PT31S",
+     "vues": 17,
+     "commentaires": "0"
+    }
+   ],
+   "prix du chocolat cacao": [
+    {
+     "id": "rSwWZNf-JK0",
+     "titre": "12 Chocolate Brands in Australia to AVOID — Only 6 Make REAL Chocolate",
+     "chaine": "Aussie Products Uncovered",
+     "publie": "2026-11-07T00:30:10Z",
+     "duree": "PT27M25S",
+     "vues": 3721,
+     "commentaires": "3"
+    },
+    {
+     "id": "lkGyeOE0auA",
+     "titre": "Le cacao a perdu près de 60 %… et ta tablette ? #shorts",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-07T17:00:10Z",
+     "duree": "PT21S",
+     "vues": 123,
+     "commentaires": "1"
+    },
+    {
+     "id": "oZkhFJlGoTg",
+     "titre": "Le négociant garde combien sur ta tablette de chocolat ? #shorts",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-07T11:30:08Z",
+     "duree": "PT24S",
+     "vues": 105,
+     "commentaires": "1"
+    }
+   ],
+   "prix du café capsules": [
+    {
+     "id": "BYGpqA2RnCQ",
+     "titre": "Does a Pricier Coffee Pay the Farmer More? ☕ | The Economics of Coffee — Part 3 #economics #money",
+     "chaine": "Vantara Studio",
+     "publie": "2026-11-07T18:00:03Z",
+     "duree": "PT37S",
+     "vues": 5,
+     "commentaires": "0"
+    },
+    {
+     "id": "hxabMhs1zAQ",
+     "titre": "Ta capsule de café cache 5 pièges qui t'éloignent d'être riche | Kilo, aluminium",
+     "chaine": "Julien Jimenez",
+     "publie": "2026-11-07T20:00:17Z",
+     "duree": "PT3M21S",
+     "vues": 7,
+     "commentaires": "0"
+    },
+    {
+     "id": "lzoB-xIlSCY",
+     "titre": "Capsule de café : combien tu la paies au kilo ?",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-07T15:28:55Z",
+     "duree": "PT3M56S",
+     "vues": 4,
+     "commentaires": "1"
+    }
+   ],
+   "prix de la baguette boulangerie": [
+    {
+     "id": "D5G8DOIliag",
+     "titre": "Ce Que La France A Compris Sur Le Pain Que Les États-Unis N’ont Pas Compris",
+     "chaine": "L’Écart Atlantique",
+     "publie": "2026-11-06T17:00:32Z",
+     "duree": "PT14M58S",
+     "vues": 10,
+     "commentaires": "0"
+    },
+    {
+     "id": "eVv2iQoOj7I",
+     "titre": "Pourquoi votre baguette coûte 1,09 € (le vrai calcul)",
+     "chaine": "Au Centime Près",
+     "publie": "2026-11-07T17:00:14Z",
+     "duree": "PT12M57S",
+     "vues": 8,
+     "commentaires": "1"
+    }
+   ],
+   "prix du paquet de cigarettes": [
+    {
+     "id": "7IZlMD2WA4c",
+     "titre": "Le prix, une arme décisive contre le tabagisme ?",
+     "chaine": "B SMART",
+     "publie": "2026-11-06T17:03:37Z",
+     "duree": "PT47S",
+     "vues": 81,
+     "commentaires": "0"
+    },
+    {
+     "id": "Dy3CbkPvmdA",
+     "titre": "1 paquet de cigarettes par jour : ça te coûte combien ? 🚬",
+     "chaine": "Vision Business",
+     "publie": "2026-11-07T11:03:46Z",
+     "duree": "PT41S",
+     "vues": 120,
+     "commentaires": "1"
+    }
+   ],
+   "prix iPhone coût de fabrication": [],
+   "prix des courses supermarché": [
+    {
+     "id": "jNFs4gmD0bU",
+     "titre": "Le supermarché le moins cher en 2026 (430 000 prix relevés) #shorts",
+     "chaine": "Radin Malin",
+     "publie": "2026-11-06T17:59:51Z",
+     "duree": "PT1M17S",
+     "vues": 1595,
+     "commentaires": "6"
+    },
+    {
+     "id": "Xxhjm9xfTUg",
+     "titre": "Pourquoi les prix finissent par 9,99 ?",
+     "chaine": "Le Pourquoiste",
+     "publie": "2026-11-06T13:00:20Z",
+     "duree": "PT1M13S",
+     "vues": 1262,
+     "commentaires": "1"
+    },
+    {
+     "id": "oPjBWQUSJFE",
+     "titre": "What Grocery Shopping Was Like in 1974 (I Pushed My Mother's Cart)",
+     "chaine": "Mrs. Doris Nostalgia",
+     "publie": "2026-11-06T22:02:51Z",
+     "duree": "PT22M35S",
+     "vues": 1246,
+     "commentaires": "5"
+    },
+    {
+     "id": "2IIGUC2REQw",
+     "titre": "Who Really Makes Coles, Woolworths & Aldi’s Cheap Food? The Answer May Surprise You",
+     "chaine": "Consumer Watch Australia",
+     "publie": "2026-11-07T22:00:31Z",
+     "duree": "PT27M36S",
+     "vues": 1684,
+     "commentaires": "2"
+    },
+    {
+     "id": "5Q4-skUGkmQ",
+     "titre": "Carrefour, 10 changements à connaître avant vos prochaines courses",
+     "chaine": "Radar Épicerie",
+     "publie": "2026-11-06T12:59:58Z",
+     "duree": "PT29M54S",
+     "vues": 57,
+     "commentaires": "1"
+    },
+    {
+     "id": "n82tQiErs18",
+     "titre": "Supermarket English Made Simple | Easy Grocery Store Conversations for Beginners",
+     "chaine": "Everyday English with Tehilana & Arjun.",
+     "publie": "2026-11-06T20:00:24Z",
+     "duree": "PT20M7S",
+     "vues": 21,
+     "commentaires": "1"
+    },
+    {
+     "id": "ezwkYFW-yVM",
+     "titre": "Cost of life: Grocery Shopping in Sydney. Real Prices & Best Supermarkets",
+     "chaine": "travelmundeando",
+     "publie": "2026-11-07T06:00:18Z",
+     "duree": "PT9M35S",
+     "vues": 69,
+     "commentaires": "0"
+    },
+    {
+     "id": "d7ZHOSq4AJk",
+     "titre": "English Listening Practice | Shopping at the Supermarket | A1-A2",
+     "chaine": "English Arrived",
+     "publie": "2026-11-07T12:13:34Z",
+     "duree": "PT17M29S",
+     "vues": 11,
+     "commentaires": "0"
+    }
+   ],
+   "prix d'un jean fabrication": []
+  },
+  "envoye_le": "2026-11-08T10:44:11.978159+00:00"
+ }
+}
