@@ -13,5 +13,15 @@
  ],
  "categorie": 27,
  "commentaire": "La réponse complète est dans l'enquête 👉 https://youtu.be/lzoB-xIlSCY\nTu paies ton café combien ?",
- "playlist": "Le vrai prix du café"
+ "playlist": "Le vrai prix du café",
+ "heure_demandee": null,
+ "publier_le": "2026-11-11T12:30:00+01:00",
+ "resultat": {
+  "id": "227UsJPqg-c",
+  "lien": "https://youtu.be/227UsJPqg-c",
+  "statut_youtube": "private",
+  "playlist": "ok (Le vrai prix du café)",
+  "commentaire": "en attente",
+  "envoye_le": "2026-11-08T21:30:01.600148+00:00"
+ }
 }
