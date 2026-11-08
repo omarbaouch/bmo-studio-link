@@ -126,6 +126,24 @@ def chaine(nom, tok):
                         v["retention"] = analyse_retention(courbe, v["duree_s"])
                     except HttpError as e:
                         v["retention"] = f"indisponible ({e.status_code})"
+            # D'où viennent les vues de chaque vidéo longue (pour savoir si les liens des Shorts servent)
+            for v in videos:
+                if v["format"] == "longue":
+                    try:
+                        r = ya.reports().query(ids="channel==MINE", startDate="2020-01-01", endDate=fin,
+                                               dimensions="insightTrafficSourceType", metrics="views,estimatedMinutesWatched",
+                                               filters=f"video=={v['id']}", sort="-views").execute()
+                        v["sources"] = {row[0]: int(row[1]) for row in r.get("rows", [])}
+                    except HttpError as e:
+                        v["sources"] = f"indisponible ({e.status_code})"
+                    try:  # détail des vues venues des Shorts : quels Shorts envoient vers cette vidéo
+                        r = ya.reports().query(ids="channel==MINE", startDate="2020-01-01", endDate=fin,
+                                               dimensions="insightTrafficSourceDetail", metrics="views",
+                                               filters=f"video=={v['id']};insightTrafficSourceType==SHORTS_CONTENT_LINKS",
+                                               sort="-views", maxResults=25).execute()
+                        v["depuis_shorts"] = {row[0]: int(row[1]) for row in r.get("rows", [])}
+                    except HttpError as e:
+                        v["depuis_shorts"] = f"indisponible ({e.status_code})"
         except HttpError as e:
             rapport["analytics_erreur"] = str(e)
         try:
@@ -153,7 +171,17 @@ def reporting(c):
     import csv, io
     from google.auth.transport.requests import AuthorizedSession
     yr = build("youtubereporting", "v1", credentials=c, cache_discovery=False)
-    jobs = {j["reportTypeId"]: j["id"] for j in yr.jobs().list().execute().get("jobs", [])}
+    etape = "reportTypes.list"
+    try:
+        types = [t["id"] for t in yr.reportTypes().list().execute().get("reportTypes", [])]
+        print("  Reporting : types disponibles =", ", ".join(types) or "aucun", flush=True)
+        etape = "jobs.list"
+        jobs = {j["reportTypeId"]: j["id"] for j in yr.jobs().list().execute().get("jobs", [])}
+    except HttpError as e:
+        raise RuntimeError(f"{etape} : {e}") from e
+    manquants = [t for t in RAPPORTS if t not in types]
+    if manquants:
+        raise RuntimeError(f"types absents pour cette chaîne : {manquants} ; disponibles : {types}")
     for t, nom in RAPPORTS.items():
         if t not in jobs:
             jobs[t] = yr.jobs().create(body={"reportTypeId": t, "name": nom}).execute()["id"]
@@ -306,6 +334,13 @@ def markdown(r):
         moy = sum(v["vues"] for v in shorts) / len(shorts)
         l += ["", f"Shorts : moyenne {round(moy)} vues. Au-dessus de la moyenne (formats à refaire) : " +
               "; ".join(f"« {v['titre'][:50]} » ({v['vues']})" for v in sorted(shorts, key=lambda z: -z["vues"]) if v["vues"] > moy)]
+    longues = [v for v in r["videos"] if v["format"] == "longue" and isinstance(v.get("sources"), dict)]
+    if longues:
+        l += ["", "### D'où viennent les vues des vidéos longues (depuis la sortie)"]
+        for v in longues:
+            l.append(f"- « {v['titre'][:55]} » : " + (", ".join(f"{k} {n}" for k, n in v["sources"].items()) or "aucune vue"))
+            if isinstance(v.get("depuis_shorts"), dict) and v["depuis_shorts"]:
+                l.append("  - Shorts qui envoient vers elle : " + ", ".join(f"{k} ({n})" for k, n in v["depuis_shorts"].items()))
     for v in r["videos"]:
         rt = v.get("retention")
         if isinstance(rt, dict) and rt:
