@@ -323,6 +323,22 @@ def section_playlist(p, yt):
     return res
 
 
+def traduire(p, yt):
+    """Fiche {"action": "traduire", "video_id": "...", "langues": {"en": {"titre": "...", "description": "..."}, ...}} :
+    ajoute des titres/descriptions traduits (localizations). À n'utiliser QUE si la vidéo a une piste audio dans la langue
+    (doublage automatique ou piste multilingue), sinon des spectateurs qui ne comprennent pas le français cliquent et partent."""
+    vid = p["video_id"]
+    it = yt.videos().list(part="snippet,localizations", id=vid).execute()["items"][0]
+    sn, loc = it["snippet"], it.get("localizations", {})
+    for lg, t in p["langues"].items():
+        loc[lg] = {"title": t["titre"][:100], "description": t.get("description", "")[:5000]}
+    corps = {"id": vid, "localizations": loc,
+             "snippet": {k: sn[k] for k in ("title", "description", "tags", "categoryId") if k in sn} | {"defaultLanguage": sn.get("defaultLanguage", "fr")}}
+    yt.videos().update(part="snippet,localizations", body=corps).execute()
+    print(f"  ✔ {vid} traduite : {', '.join(p['langues'])}", flush=True)
+    return {"id": vid, "langues": sorted(loc)}
+
+
 def lire_chaine(p, yt):
     """Fiche {"action": "lire_chaine"} : relève la présentation de la chaîne (description, mots-clés, bande-annonce),
     ses playlists et les derniers commentaires des spectateurs. Rien n'est modifié."""
@@ -485,6 +501,7 @@ def main():
                 res = (mettre_en_ligne(p, yt) if action == "mettre_en_ligne" else
                        playlist(p, yt) if action == "playlist" else
                        section_playlist(p, yt) if action == "section_playlist" else
+                       traduire(p, yt) if action == "traduire" else
                        lire_chaine(p, yt) if action == "lire_chaine" else
                        chaine(p, yt) if action == "chaine" else
                        repondre(p, yt) if action == "repondre" else
