@@ -1,0 +1,14 @@
+{
+ "action": "chercher",
+ "chaine": "LEVRAIPRIX",
+ "titre": "Repérage vidéos café/cacao/carburant pour commentaires",
+ "requetes": [
+  "capsule café prix",
+  "prix du café",
+  "nespresso",
+  "prix du chocolat",
+  "prix gazole",
+  "prix carburant"
+ ],
+ "jours": 10
+}
