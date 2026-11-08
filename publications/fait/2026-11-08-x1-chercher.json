@@ -1,0 +1,796 @@
+{
+ "action": "chercher",
+ "chaine": "LEVRAIPRIX",
+ "titre": "Repérage vidéos café/cacao/carburant pour commentaires",
+ "requetes": [
+  "capsule café prix",
+  "prix du café",
+  "nespresso",
+  "prix du chocolat",
+  "prix gazole",
+  "prix carburant"
+ ],
+ "jours": 10,
+ "resultat": {
+  "resultats": {
+   "capsule café prix": [
+    {
+     "id": "sDgsSlPhEY4",
+     "titre": "Ton café en capsule te coûte combien par mois ? ☕ #shorts #cafe #lesaviezvous #education",
+     "chaine": "toutcapourcatv",
+     "publie": "2026-11-06T16:30:05Z",
+     "duree": "PT36S",
+     "vues": 2850,
+     "commentaires": "1"
+    },
+    {
+     "id": "FcM8BzgRVgA",
+     "titre": "Ton café en capsule, tu le paies combien au kilo ? #shorts",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-04T19:00:06Z",
+     "duree": "PT25S",
+     "vues": 1132,
+     "commentaires": "2"
+    },
+    {
+     "id": "teZwpFkDllY",
+     "titre": "Nespresso ou Dolce Gusto : laquelle prendre ? #shorts",
+     "chaine": "Deal en live ",
+     "publie": "2026-11-02T07:17:42Z",
+     "duree": "PT1M33S",
+     "vues": 61,
+     "commentaires": "0"
+    },
+    {
+     "id": "X14M5-QRaHM",
+     "titre": "Ton café en capsule coûte 80 € le kilo ☕ #shorts",
+     "chaine": "Argent Décodé",
+     "publie": "2026-11-05T17:31:19Z",
+     "duree": "PT25S",
+     "vues": 37,
+     "commentaires": "1"
+    },
+    {
+     "id": "69XTDh0pW9o",
+     "titre": "MACHINE À CAFÉ À CAPSULES 2026 ☕ TOP 3 NESPRESSO COMPACTES",
+     "chaine": "MOBILISHOP",
+     "publie": "2026-11-05T11:00:06Z",
+     "duree": "PT3M43S",
+     "vues": 9,
+     "commentaires": "0"
+    },
+    {
+     "id": "lzoB-xIlSCY",
+     "titre": "Café en capsule : 3 fois plus cher que le moulu ?",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-07T15:28:55Z",
+     "duree": "PT3M56S",
+     "vues": 7,
+     "commentaires": "1"
+    },
+    {
+     "id": "cZrSQY73l5g",
+     "titre": "Café en capsules : combien vous coûte vraiment chaque tasse ?",
+     "chaine": "Le Vrai du Rayon",
+     "publie": "2026-11-04T12:39:20Z",
+     "duree": "PT11M7S",
+     "vues": 48,
+     "commentaires": "0"
+    },
+    {
+     "id": "f4U7Iv4Y6SI",
+     "titre": "Comment Nespresso vous vend du café au prix de l'or",
+     "chaine": "Fragments Numériques",
+     "publie": "2026-11-04T16:00:11Z",
+     "duree": "PT8M7S",
+     "vues": 19,
+     "commentaires": "1"
+    },
+    {
+     "id": "hxabMhs1zAQ",
+     "titre": "Ta capsule de café cache 5 pièges qui t'éloignent d'être riche | Kilo, aluminium",
+     "chaine": "Julien Jimenez",
+     "publie": "2026-11-07T20:00:17Z",
+     "duree": "PT3M21S",
+     "vues": 10,
+     "commentaires": "0"
+    },
+    {
+     "id": "kkLM6VeaFzs",
+     "titre": "Caf Bustelo Espresso Style Pods: The Bold Morning Kick You Actually Need",
+     "chaine": "5best Deals",
+     "publie": "2026-11-07T03:00:13Z",
+     "duree": "PT2M53S",
+     "vues": 1,
+     "commentaires": "0"
+    }
+   ],
+   "prix du café": [
+    {
+     "id": "joxUsguqeCA",
+     "titre": "Quelle est la meilleure machine à café pour la maison? (après 4 ans de tests)",
+     "chaine": "Cafelista",
+     "publie": "2026-10-31T06:30:01Z",
+     "duree": "PT15M36S",
+     "vues": 458929,
+     "commentaires": "275"
+    },
+    {
+     "id": "YQpVwa3OUuI",
+     "titre": "Kopi Harga 6,6 Juta",
+     "chaine": "Pelajaran Kecil",
+     "publie": "2026-11-03T10:00:27Z",
+     "duree": "PT1M4S",
+     "vues": 119094,
+     "commentaires": "24"
+    },
+    {
+     "id": "cqjeNDkKH0o",
+     "titre": "Ferrari has a Charles Leclerc Problem | 2026 Mexican GP Review",
+     "chaine": "Race Day Café",
+     "publie": "2026-11-03T01:22:01Z",
+     "duree": "PT12M55S",
+     "vues": 130199,
+     "commentaires": "571"
+    },
+    {
+     "id": "4RVwxpJdUBE",
+     "titre": "Louis Vuitton Coffee Price #louisvuitton",
+     "chaine": "Devansh G Sethi",
+     "publie": "2026-11-03T05:11:20Z",
+     "duree": "PT58S",
+     "vues": 55990,
+     "commentaires": "10"
+    },
+    {
+     "id": "77NSGh2YPfI",
+     "titre": "Du café pitié #café #humour #réveil #prix",
+     "chaine": "Valentin Mayet",
+     "publie": "2026-11-03T07:11:34Z",
+     "duree": "PT1M4S",
+     "vues": 33446,
+     "commentaires": "40"
+    },
+    {
+     "id": "pIlzWbtuWMo",
+     "titre": "CHENNAI’S VIRAL CAFE IN HYDERABAD! ☕🔥 | 15 ITEMS FOR JUST ₹1,140 #rayfoodiehyd #affordable #shorts",
+     "chaine": "ray.foodiehyd",
+     "publie": "2026-11-07T10:52:50Z",
+     "duree": "PT55S",
+     "vues": 30732,
+     "commentaires": "6"
+    },
+    {
+     "id": "lLCX6k3sveQ",
+     "titre": "coffee is too expensive maaan airports laa. #coffee #chai #chaitime #headache fyp",
+     "chaine": "America_Bathakhani",
+     "publie": "2026-11-01T02:54:25Z",
+     "duree": "PT21S",
+     "vues": 32905,
+     "commentaires": "13"
+    },
+    {
+     "id": "eDzWzqUIVSQ",
+     "titre": "Can a coffee cup win you a car? 🤯",
+     "chaine": "ClipBark",
+     "publie": "2026-11-02T15:00:47Z",
+     "duree": "PT23S",
+     "vues": 26282,
+     "commentaires": "1"
+    },
+    {
+     "id": "m5gyohJLHlE",
+     "titre": "Are People STILL Paying Starbucks Prices Just for the LOGO?! ☕💸",
+     "chaine": "Lindey Glenn",
+     "publie": "2026-11-03T18:00:02Z",
+     "duree": "PT27S",
+     "vues": 13492,
+     "commentaires": "79"
+    },
+    {
+     "id": "tCphwJYaj6o",
+     "titre": "A Coffee Snob’s Lament",
+     "chaine": "Jeffrey James Binney",
+     "publie": "2026-11-02T14:50:47Z",
+     "duree": "PT49S",
+     "vues": 10694,
+     "commentaires": "22"
+    },
+    {
+     "id": "huNaJavbYCQ",
+     "titre": "Rising costs, fewer customers: The reality of running a small café | La Petite Cafe owners",
+     "chaine": "Bilyonaryo News Channel",
+     "publie": "2026-11-04T20:29:48Z",
+     "duree": "PT27M35S",
+     "vues": 19583,
+     "commentaires": "12"
+    },
+    {
+     "id": "aZUyav_ddIg",
+     "titre": "Starbucks सबसे ज़्यादा कमाता है… फिर भी LOSS में? 😳 India का Coffee King कौन?",
+     "chaine": "digitalOdd by Deepak Roy ",
+     "publie": "2026-10-31T16:52:36Z",
+     "duree": "PT2M45S",
+     "vues": 17415,
+     "commentaires": "0"
+    },
+    {
+     "id": "8NiJqnYLqVk",
+     "titre": "أسعار العجانات في الجزائر لشهر نوفمبر 2026 سعر البتران اليوم Prix pétrin en Algérie aujourd'hui ",
+     "chaine": "Electro dzair",
+     "publie": "2026-11-04T09:18:01Z",
+     "duree": "PT6M30S",
+     "vues": 13335,
+     "commentaires": "4"
+    },
+    {
+     "id": "jaa9FUdlmkw",
+     "titre": "Expensive Coffee Shops Be Like ☕😭",
+     "chaine": "Zorbit",
+     "publie": "2026-11-04T08:36:09Z",
+     "duree": "PT23S",
+     "vues": 6368,
+     "commentaires": "0"
+    },
+    {
+     "id": "zPRwKPHH110",
+     "titre": "El café subirá de precio si le aprobase la reforma de Abelardo #atencion #noticias",
+     "chaine": "Colombia libre ",
+     "publie": "2026-11-03T00:08:37Z",
+     "duree": "PT23S",
+     "vues": 4154,
+     "commentaires": "6"
+    }
+   ],
+   "nespresso": [
+    {
+     "id": "0QzLNzaWk40",
+     "titre": "13 Merek Kopi yang Sebaiknya Anda HENTIKAN Konsumsinya dan 7 Merek yang AMAN!‼️",
+     "chaine": "SISI LUAR ",
+     "publie": "2026-10-31T14:18:07Z",
+     "duree": "PT28M11S",
+     "vues": 710940,
+     "commentaires": "379"
+    },
+    {
+     "id": "P7jUb5WBYbc",
+     "titre": "Tražiš kapsule kafu? Nađeš samo tvoj ritual.",
+     "chaine": "Shoppster Srbija",
+     "publie": "2026-11-02T14:30:48Z",
+     "duree": "PT21S",
+     "vues": 290904,
+     "commentaires": "0"
+    },
+    {
+     "id": "rbuHP_cMaoE",
+     "titre": "CALENDÁRIO DO ADVENTO DA NESPRESSO & SWAROVSKI",
+     "chaine": "Além da sua tela",
+     "publie": "2026-11-03T14:00:05Z",
+     "duree": "PT1M58S",
+     "vues": 103989,
+     "commentaires": "252"
+    },
+    {
+     "id": "42e7aAhtPb0",
+     "titre": "Il est temps de respecter le produit #café #humour #cafeine #nespresso",
+     "chaine": "Valentin Mayet",
+     "publie": "2026-11-05T15:18:04Z",
+     "duree": "PT1M7S",
+     "vues": 53916,
+     "commentaires": "36"
+    },
+    {
+     "id": "f2tiyeaSQzo",
+     "titre": "Nespresso advent kalendar",
+     "chaine": "Jana Dačović",
+     "publie": "2026-11-06T13:33:00Z",
+     "duree": "PT1M6S",
+     "vues": 52977,
+     "commentaires": "3"
+    },
+    {
+     "id": "7YBqv76pfjs",
+     "titre": "This is Why I don't go to Cafes Anymore ☕️",
+     "chaine": "Vincenzo's Plate",
+     "publie": "2026-11-01T16:00:17Z",
+     "duree": "PT1M30S",
+     "vues": 37592,
+     "commentaires": "311"
+    },
+    {
+     "id": "ThFt10-ZyNA",
+     "titre": "Kave i nakit 💁🏼‍♀️ Nespresso x Swarovski #adventskikalendar",
+     "chaine": "Duška Stepanov",
+     "publie": "2026-11-07T19:31:13Z",
+     "duree": "PT32S",
+     "vues": 19656,
+     "commentaires": "3"
+    },
+    {
+     "id": "8mFe2P921OU",
+     "titre": "lesson learned from my last marathon: never miss the pre-race coffee Nespresso #nespressopartner",
+     "chaine": "Nadya Okamoto",
+     "publie": "2026-11-05T21:39:18Z",
+     "duree": "PT37S",
+     "vues": 18492,
+     "commentaires": "5"
+    },
+    {
+     "id": "VDNumOiB1sw",
+     "titre": "Swarovski x Nespresso HAUL",
+     "chaine": "C S E N G E  V A R G A",
+     "publie": "2026-11-05T18:31:23Z",
+     "duree": "PT1M31S",
+     "vues": 16664,
+     "commentaires": "2"
+    },
+    {
+     "id": "yGa9Uva__rM",
+     "titre": "Such a good combination every time 🤤🤎🎃",
+     "chaine": "BrewDiaries",
+     "publie": "2026-10-31T11:53:33Z",
+     "duree": "PT22S",
+     "vues": 15849,
+     "commentaires": "6"
+    },
+    {
+     "id": "K2U9DeAUX0A",
+     "titre": "@Nespresso lets take this out of seasonal jail pls keep it forever #nespresso #coffeetok #i",
+     "chaine": "Mehak Marwaha",
+     "publie": "2026-10-31T08:46:07Z",
+     "duree": "PT9S",
+     "vues": 12681,
+     "commentaires": "1"
+    },
+    {
+     "id": "GE1lG4GPC58",
+     "titre": "COMPRÉ EL CALENDARIO DE ADVIENTO DE NESPRESSO x SWAROVSKI😱💎🧋",
+     "chaine": "C L A R A ",
+     "publie": "2026-11-03T01:22:42Z",
+     "duree": "PT56S",
+     "vues": 8130,
+     "commentaires": "3"
+    },
+    {
+     "id": "2YqeI4zAZO0",
+     "titre": "Dua Lipa Nespresso Mode Activated ☕ #dualipa",
+     "chaine": "Dua Lipa - Fans23",
+     "publie": "2026-11-03T15:03:33Z",
+     "duree": "PT9S",
+     "vues": 15508,
+     "commentaires": "51"
+    },
+    {
+     "id": "aKVJV7I5Xqo",
+     "titre": "NESPRESSO KAHVE MAKİNESİ #keşfetteyiz #keşfetbeniöneçıkar #coffeetime #nespressocoffee",
+     "chaine": "41KereBen",
+     "publie": "2026-11-02T17:22:58Z",
+     "duree": "PT9S",
+     "vues": 10595,
+     "commentaires": "6"
+    },
+    {
+     "id": "dMp1JRvZm-0",
+     "titre": "Faça Sorvete com 4 Ingredientes e depois coloque um Espresso para fazer Affogato em Casa!",
+     "chaine": "Gio Coatti",
+     "publie": "2026-11-04T15:17:32Z",
+     "duree": "PT41S",
+     "vues": 7999,
+     "commentaires": "2"
+    }
+   ],
+   "prix du chocolat": [
+    {
+     "id": "NE__dVKWa4I",
+     "titre": "Cette chocolaterie familiale termine déjà la production de ses chocolats de Noël 🍫",
+     "chaine": "France 3 Grand Est",
+     "publie": "2026-10-31T18:58:36Z",
+     "duree": "PT1M10S",
+     "vues": 7949,
+     "commentaires": "3"
+    },
+    {
+     "id": "Dx-x952O0QA",
+     "titre": "Americans Are DONE With Halloween After Candy Prices SKYROCKETED",
+     "chaine": "OkayRickk",
+     "publie": "2026-10-31T23:50:06Z",
+     "duree": "PT12M43S",
+     "vues": 5267,
+     "commentaires": "25"
+    },
+    {
+     "id": "8zrtxdh9eYM",
+     "titre": "DON'T Buy These Christmas Chocolate Boxes In Australia — Only One Is Still Worth It",
+     "chaine": "Consumer Watch Australia",
+     "publie": "2026-11-02T00:30:09Z",
+     "duree": "PT20M5S",
+     "vues": 3754,
+     "commentaires": "4"
+    },
+    {
+     "id": "rUpFvYjUdWg",
+     "titre": "Prix du chocolat 🍫 #Shorts",
+     "chaine": "SPGPA  SPORT GRAND PRIX AFRIQUE",
+     "publie": "2026-11-03T15:20:29Z",
+     "duree": "PT15S",
+     "vues": 1870,
+     "commentaires": "0"
+    },
+    {
+     "id": "XmKTjAbEv9g",
+     "titre": "Il a vu le prix du chocolat 😂🤣 #Humour #France #Comedy",
+     "chaine": " Paris en Folie X",
+     "publie": "2026-10-30T10:06:00Z",
+     "duree": "PT11S",
+     "vues": 1902,
+     "commentaires": "0"
+    },
+    {
+     "id": "Mk3C4ItDSII",
+     "titre": "Chocolat : combien touche le cultivateur de cacao ?",
+     "chaine": "Sous l'etiquette",
+     "publie": "2026-11-03T11:31:30Z",
+     "duree": "PT1M14S",
+     "vues": 987,
+     "commentaires": "0"
+    },
+    {
+     "id": "lImJGzMOh8M",
+     "titre": "Cuánto cuesta : où va l'argent de ton chocolat ?",
+     "chaine": "Studio OZZO",
+     "publie": "2026-10-30T16:00:28Z",
+     "duree": "PT2M2S",
+     "vues": 1119,
+     "commentaires": "0"
+    },
+    {
+     "id": "krTDTYm-07E",
+     "titre": "😍 New Chocolate Alert! Taste, Price & Honest Review!",
+     "chaine": "Bite with Avik",
+     "publie": "2026-11-03T17:01:22Z",
+     "duree": "PT16S",
+     "vues": 1161,
+     "commentaires": "2"
+    },
+    {
+     "id": "dAD_oMEY_LA",
+     "titre": "Calendrier de l'Avent prix au kilo : presque 2× plus cher qu'en sachet",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-03T19:00:57Z",
+     "duree": "PT1M15S",
+     "vues": 587,
+     "commentaires": "0"
+    },
+    {
+     "id": "pL592TRDLqY",
+     "titre": "Ta tablette de chocolat : combien pour le planteur ? #shorts",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-04T10:01:39Z",
+     "duree": "PT28S",
+     "vues": 732,
+     "commentaires": "1"
+    },
+    {
+     "id": "za7MrBAkm5o",
+     "titre": "Côte d’Ivoire : le pays qui nourrit le chocolat mondial",
+     "chaine": "Vu d'en Haut",
+     "publie": "2026-11-01T00:16:30Z",
+     "duree": "PT8M46S",
+     "vues": 415,
+     "commentaires": "0"
+    },
+    {
+     "id": "AMUDcL9sLQs",
+     "titre": "😍 New Chocolate Alert! Taste, Price & Honest Review!",
+     "chaine": "Bite with Avik",
+     "publie": "2026-11-03T17:01:43Z",
+     "duree": "PT11S",
+     "vues": 601,
+     "commentaires": "0"
+    },
+    {
+     "id": "x0onZIENQZk",
+     "titre": "Le cacao a perdu près de 60 %… et ta tablette ?",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-03T20:05:42Z",
+     "duree": "PT7M45S",
+     "vues": 97,
+     "commentaires": "1"
+    },
+    {
+     "id": "IpMxddMvUNo",
+     "titre": "Ta tablette de chocolat est taxée à combien ? #shorts",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-05T11:30:39Z",
+     "duree": "PT24S",
+     "vues": 252,
+     "commentaires": "1"
+    },
+    {
+     "id": "LvlYRwgNxFo",
+     "titre": "Halloween chocolate prices jump 15% over last year",
+     "chaine": "KMIZ ABC 17 News",
+     "publie": "2026-10-31T05:00:18Z",
+     "duree": "PT1M10S",
+     "vues": 136,
+     "commentaires": "1"
+    }
+   ],
+   "prix gazole": [
+    {
+     "id": "kVrpq8oV4kk",
+     "titre": "Prix des carburants : \"On n’a plus d’argent ! Ça va péter !\" alerte cet artisan",
+     "chaine": "RMC",
+     "publie": "2026-11-02T10:11:07Z",
+     "duree": "PT31M24S",
+     "vues": 253461,
+     "commentaires": "1267"
+    },
+    {
+     "id": "uORfgxOY6C8",
+     "titre": "Prix du carburant : \"Aucune chance que le prix baisse dans les années à venir\" (Bruno Le Maire)",
+     "chaine": "franceinfo",
+     "publie": "2026-10-30T10:37:17Z",
+     "duree": "PT1M41S",
+     "vues": 93893,
+     "commentaires": "94"
+    },
+    {
+     "id": "x3FOOWMd4Zo",
+     "titre": "Bardella : 20 € de moins sur ton plein avec la TVA à 5,5 % ? On a fait le calcul, c’est 10 €",
+     "chaine": "En marge",
+     "publie": "2026-11-04T15:24:21Z",
+     "duree": "PT1M23S",
+     "vues": 131457,
+     "commentaires": "734"
+    },
+    {
+     "id": "RLUFPhxZZyg",
+     "titre": "Prix du carburant : Jusqu’à 30 centimes de baisse par litre de gazole",
+     "chaine": "franceinfo",
+     "publie": "2026-11-02T19:11:51Z",
+     "duree": "PT2M24S",
+     "vues": 38108,
+     "commentaires": "9"
+    },
+    {
+     "id": "edz5iX6bCd0",
+     "titre": "Les prix du fioul et du gazole vont baisser à partir du 1er novembre",
+     "chaine": "M6 Info",
+     "publie": "2026-10-30T08:00:17Z",
+     "duree": "PT1M37S",
+     "vues": 25975,
+     "commentaires": "18"
+    },
+    {
+     "id": "XEXzTk6bA_o",
+     "titre": "⛽️ Fuel prices in Srilanka 🌏",
+     "chaine": "BR 46 vlogs",
+     "publie": "2026-11-06T06:54:28Z",
+     "duree": "PT43S",
+     "vues": 28710,
+     "commentaires": "4"
+    },
+    {
+     "id": "VF6e6JQccQ0",
+     "titre": "Prix du diesel : Jusqu’à 18 centimes de baisse par litre, mais pas pour tout le monde",
+     "chaine": "franceinfo",
+     "publie": "2026-11-01T06:13:21Z",
+     "duree": "PT3M14S",
+     "vues": 18565,
+     "commentaires": "11"
+    },
+    {
+     "id": "m5ozYz3kATY",
+     "titre": "Carburants : Les prix du gazole ont-ils enfin baissé ? On a vérifié dans une station｜TF1 INFO",
+     "chaine": "TF1 INFO",
+     "publie": "2026-11-02T10:50:48Z",
+     "duree": "PT56S",
+     "vues": 22739,
+     "commentaires": "33"
+    },
+    {
+     "id": "gfxojURYXvY",
+     "titre": "Les prix du fioul et du gazole vont baisser à partir du 1er novembre",
+     "chaine": "M6 Info",
+     "publie": "2026-10-30T08:00:13Z",
+     "duree": "PT1M30S",
+     "vues": 18948,
+     "commentaires": "12"
+    },
+    {
+     "id": "2iL32C3rq5I",
+     "titre": "12 à 18 centimes en moins : les prix des carburants baissent enfin !｜TF1 INFO",
+     "chaine": "TF1 INFO",
+     "publie": "2026-11-02T13:27:09Z",
+     "duree": "PT4M42S",
+     "vues": 30733,
+     "commentaires": "72"
+    },
+    {
+     "id": "06UySbr1IsA",
+     "titre": "Baisse du prix du carburant : Des stations-service en zone rurale oubliées",
+     "chaine": "franceinfo",
+     "publie": "2026-10-31T12:28:13Z",
+     "duree": "PT2M13S",
+     "vues": 16669,
+     "commentaires": "10"
+    },
+    {
+     "id": "e9_7zmp0i3Y",
+     "titre": "Les prix à la pompe commencent à baisser.",
+     "chaine": "Emmanuel Macron",
+     "publie": "2026-11-02T16:43:55Z",
+     "duree": "PT24S",
+     "vues": 26466,
+     "commentaires": "133"
+    },
+    {
+     "id": "fgE_URpArk4",
+     "titre": "Diesel Prices Are So Good, I Will Drink To That 😬",
+     "chaine": "HarvestChic",
+     "publie": "2026-10-31T18:00:21Z",
+     "duree": "PT25M1S",
+     "vues": 16855,
+     "commentaires": "26"
+    },
+    {
+     "id": "7edVMeHF-ew",
+     "titre": "Carburant : Des baisses d'au moins 10 centimes par litre de gazole à partir de demain",
+     "chaine": "franceinfo",
+     "publie": "2026-10-30T12:19:01Z",
+     "duree": "PT2M9S",
+     "vues": 13660,
+     "commentaires": "28"
+    },
+    {
+     "id": "R6HHVX8p3zs",
+     "titre": "Ces automobilistes repoussent leur plein d'essence pour bénéficier des baisses du prix du carburant",
+     "chaine": "BFMTV",
+     "publie": "2026-10-30T08:01:47Z",
+     "duree": "PT1M17S",
+     "vues": 11377,
+     "commentaires": "6"
+    }
+   ],
+   "prix carburant": [
+    {
+     "id": "oTPbO5tnuww",
+     "titre": "Raymond s’insurge contre les taxes sur l’essence ! #TBT9",
+     "chaine": "W9",
+     "publie": "2026-11-04T06:00:07Z",
+     "duree": "PT1M58S",
+     "vues": 282794,
+     "commentaires": "397"
+    },
+    {
+     "id": "F4iUnbwZxec",
+     "titre": "« C'est impressionnant » : les ventes de carburants s'effondrent en France. Elise t'explique.",
+     "chaine": "Les Echos",
+     "publie": "2026-10-30T09:30:06Z",
+     "duree": "PT1M43S",
+     "vues": 361320,
+     "commentaires": "799"
+    },
+    {
+     "id": "kVrpq8oV4kk",
+     "titre": "Prix des carburants : \"On n’a plus d’argent ! Ça va péter !\" alerte cet artisan",
+     "chaine": "RMC",
+     "publie": "2026-11-02T10:11:07Z",
+     "duree": "PT31M24S",
+     "vues": 253461,
+     "commentaires": "1267"
+    },
+    {
+     "id": "IcPzO05Ju7M",
+     "titre": "Carburants : pourquoi la consommation s'effondre en France",
+     "chaine": "RTL  ",
+     "publie": "2026-11-05T06:10:05Z",
+     "duree": "PT2M10S",
+     "vues": 227415,
+     "commentaires": "432"
+    },
+    {
+     "id": "uORfgxOY6C8",
+     "titre": "Prix du carburant : \"Aucune chance que le prix baisse dans les années à venir\" (Bruno Le Maire)",
+     "chaine": "franceinfo",
+     "publie": "2026-10-30T10:37:17Z",
+     "duree": "PT1M41S",
+     "vues": 93894,
+     "commentaires": "94"
+    },
+    {
+     "id": "sRWzudB35Ss",
+     "titre": "EV sounding nice with these fuel prices though..",
+     "chaine": "Brewed & Boosted",
+     "publie": "2026-10-30T14:57:38Z",
+     "duree": "PT10S",
+     "vues": 134968,
+     "commentaires": "180"
+    },
+    {
+     "id": "yEUWOcuLAgM",
+     "titre": "Prix de l’essence aux États-Unis… l’échec de Trump",
+     "chaine": "C dans l'air - France Télévisions",
+     "publie": "2026-11-04T20:00:20Z",
+     "duree": "PT9M3S",
+     "vues": 88243,
+     "commentaires": "37"
+    },
+    {
+     "id": "6RVW6PLCl7M",
+     "titre": "Carburant : Une baisse historique de la consommation en France",
+     "chaine": "franceinfo",
+     "publie": "2026-11-06T12:20:16Z",
+     "duree": "PT2M5S",
+     "vues": 68983,
+     "commentaires": "50"
+    },
+    {
+     "id": "e_yR82DaC0Q",
+     "titre": "China Out of Fuel in 3 Months? 14 Straight Price Hikes, Fuel Rationed, 38M Truckers Fight for Fuel",
+     "chaine": "China Observer",
+     "publie": "2026-11-01T13:00:27Z",
+     "duree": "PT18M41S",
+     "vues": 45471,
+     "commentaires": "302"
+    },
+    {
+     "id": "RLUFPhxZZyg",
+     "titre": "Prix du carburant : Jusqu’à 30 centimes de baisse par litre de gazole",
+     "chaine": "franceinfo",
+     "publie": "2026-11-02T19:11:51Z",
+     "duree": "PT2M24S",
+     "vues": 38110,
+     "commentaires": "9"
+    },
+    {
+     "id": "XlEFW34TQms",
+     "titre": "8,5 milliards de bénéfices pour Total : Sam Zirah applaudit, mais demande un effort supplémentaire",
+     "chaine": "RMC",
+     "publie": "2026-10-30T10:34:21Z",
+     "duree": "PT15M57S",
+     "vues": 58500,
+     "commentaires": "147"
+    },
+    {
+     "id": "yQAI3EePrIc",
+     "titre": "I Found Out Why Costco Gas Is So Cheap #costco #shorts",
+     "chaine": "Car Showery",
+     "publie": "2026-11-02T16:33:40Z",
+     "duree": "PT36S",
+     "vues": 36358,
+     "commentaires": "8"
+    },
+    {
+     "id": "PgyqDx8xhQU",
+     "titre": "Le déblocage de stocks stratégiques fait baisser le prix à la pompe",
+     "chaine": "M6 Info",
+     "publie": "2026-11-01T15:30:31Z",
+     "duree": "PT1M49S",
+     "vues": 40304,
+     "commentaires": "150"
+    },
+    {
+     "id": "VH0lMJST4Cg",
+     "titre": "Essence trop chère : Roland Lescure a sa réponse…",
+     "chaine": "ChatSuffit",
+     "publie": "2026-10-30T04:15:23Z",
+     "duree": "PT19S",
+     "vues": 50728,
+     "commentaires": "372"
+    },
+    {
+     "id": "edz5iX6bCd0",
+     "titre": "Les prix du fioul et du gazole vont baisser à partir du 1er novembre",
+     "chaine": "M6 Info",
+     "publie": "2026-10-30T08:00:17Z",
+     "duree": "PT1M37S",
+     "vues": 25975,
+     "commentaires": "18"
+    }
+   ]
+  },
+  "envoye_le": "2026-11-08T21:32:46.724553+00:00"
+ }
+}
