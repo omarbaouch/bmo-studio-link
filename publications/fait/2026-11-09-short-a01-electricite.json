@@ -16,5 +16,13 @@
  "commentaire": "Ta facture d'électricité, c'est combien par mois chez toi ? 👇 Abonne-toi : chaque jour, un nouveau vrai prix.",
  "publier_le": "2026-11-09T21:00:00+01:00",
  "forcer_heure": true,
- "playlist": "Le vrai prix — Shorts"
+ "playlist": "Le vrai prix — Shorts",
+ "resultat": {
+  "id": "aI0LCOZw0U8",
+  "lien": "https://youtu.be/aI0LCOZw0U8",
+  "statut_youtube": "private",
+  "playlist": "ok (Le vrai prix — Shorts)",
+  "commentaire": "en attente",
+  "envoye_le": "2026-11-09T11:01:17.902830+00:00"
+ }
 }
