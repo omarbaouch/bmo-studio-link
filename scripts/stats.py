@@ -112,6 +112,17 @@ def chaine(nom, tok):
             par = {row[0]: dict(zip([h["name"] for h in r["columnHeaders"]][1:], row[1:])) for row in r.get("rows", [])}
             for v in videos:
                 v["analytics_28j"] = par.get(v["id"])
+            # Vues « engagées » (le spectateur est resté après les premières secondes) : engagées / vues ≈ « ont continué de
+            # regarder » de YouTube Studio. C'est le chiffre qui décide si un Short est montré à plus de monde.
+            try:
+                r = ya.reports().query(ids="channel==MINE", startDate=debut, endDate=fin, dimensions="video", maxResults=200,
+                                       metrics="views,engagedViews", sort="-views").execute()
+                for row in r.get("rows", []):
+                    for v in videos:
+                        if v["id"] == row[0] and row[1]:
+                            v["restes"] = {"vues": int(row[1]), "engagees": int(row[2]), "pct": round(100 * row[2] / row[1], 1)}
+            except HttpError as e:
+                rapport["engagees_erreur"] = f"indisponible ({e.status_code})"
             r = ya.reports().query(ids="channel==MINE", startDate=debut, endDate=fin, dimensions="insightTrafficSourceType",
                                    metrics="views", sort="-views").execute()
             rapport["sources_trafic_28j"] = {row[0]: row[1] for row in r.get("rows", [])}
@@ -315,6 +326,15 @@ def section_pilotage(r):
     return l + [""]
 
 
+SOURCES_FR = {"SUBSCRIBER": "ACCUEIL_NAVIGATION(SUBSCRIBER)"}
+
+
+def source_fr(k):
+    """Nom lisible d'une source de trafic. Attention : SUBSCRIBER dans l'API = « Fonctionnalités de navigation »
+    (accueil, fil d'abonnements, historique), pas « les abonnés »."""
+    return SOURCES_FR.get(k, k)
+
+
 def markdown(r):
     l = [f"# {r['chaine']} — {r['date'][:16].replace('T', ' ')} UTC", "",
          f"Abonnés : {r['abonnes']} · vues totales : {r['vues_totales']}", ""]
@@ -322,16 +342,24 @@ def markdown(r):
     if r.get("analytics_erreur"):
         l += [f"> Analytics : {r['analytics_erreur']}", ""]
     if r.get("sources_trafic_28j"):
-        l += ["Sources de trafic (28 j) : " + ", ".join(f"{k} {v}" for k, v in r["sources_trafic_28j"].items()), ""]
+        l += ["Sources de trafic (28 j) : " + ", ".join(f"{source_fr(k)} {v}" for k, v in r["sources_trafic_28j"].items()), ""]
     if r.get("reporting", {}).get("rapports_disponibles") == 0:
         l += ["> Impressions et taux de clic : rapports YouTube en préparation (premières données sous 48 h).", ""]
-    l += ["| Publiée | Format | Titre | Vues | Durée moy. | % regardé | Abonnés + | Impressions 7 j | Clic |", "|---|---|---|---|---|---|---|---|---|"]
+    l += ["| Publiée | Format | Titre | Vues | Restés | Durée moy. | % regardé | Abonnés + | Impressions 7 j | Clic |", "|---|---|---|---|---|---|---|---|---|---|"]
     for v in sorted(r["videos"], key=lambda x: x["publie"], reverse=True):
         a = v.get("analytics_28j") or {}
-        l.append(f"| {v['publie'][:10]} | {v['format']} | {v['titre'][:60]} | {v['vues']} | "
+        restes = f"{v['restes']['pct']} %" if v.get("restes") and v["format"] == "short" else ""
+        l.append(f"| {v['publie'][:10]} | {v['format']} | {v['titre'][:60]} | {v['vues']} | {restes} | "
                  f"{int(a.get('averageViewDuration', 0))} s | {round(a.get('averageViewPercentage', 0))} % | {a.get('subscribersGained', '')} | "
                  f"{(v.get('miniature_7j') or {}).get('impressions', '')} | {(v.get('miniature_7j') or {}).get('ctr') or ''}{' %' if (v.get('miniature_7j') or {}).get('ctr') else ''} |")
     shorts = [v for v in r["videos"] if v["format"] == "short"]
+    mesures = [v["restes"] for v in shorts if v.get("restes") and v["restes"]["vues"] >= 50]
+    if mesures:
+        tot_v, tot_e = sum(m["vues"] for m in mesures), sum(m["engagees"] for m in mesures)
+        l += ["", f"« Restés » = vues engagées / vues (qui n'a pas balayé le Short). Chaîne : {round(100 * tot_e / tot_v, 1)} % "
+              f"sur {len(mesures)} Shorts de 50 vues et plus. Repère : les Shorts qui décollent sont à 70 % et plus."]
+    if r.get("engagees_erreur"):
+        l += ["", f"> Vues engagées : {r['engagees_erreur']}"]
     if shorts:
         moy = sum(v["vues"] for v in shorts) / len(shorts)
         l += ["", f"Shorts : moyenne {round(moy)} vues. Au-dessus de la moyenne (formats à refaire) : " +
@@ -340,7 +368,7 @@ def markdown(r):
     if longues:
         l += ["", "### D'où viennent les vues des vidéos longues (depuis la sortie)"]
         for v in longues:
-            l.append(f"- « {v['titre'][:55]} » : " + (", ".join(f"{k} {n}" for k, n in v["sources"].items()) or "aucune vue"))
+            l.append(f"- « {v['titre'][:55]} » : " + (", ".join(f"{source_fr(k)} {n}" for k, n in v["sources"].items()) or "aucune vue"))
             if isinstance(v.get("depuis_shorts"), dict) and v["depuis_shorts"]:
                 l.append("  - Shorts qui envoient vers elle : " + ", ".join(f"{k} ({n})" for k, n in v["depuis_shorts"].items()))
     for v in r["videos"]:
