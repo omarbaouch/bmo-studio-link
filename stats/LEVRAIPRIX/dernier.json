@@ -1,8 +1,8 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-09T06:39:24.832400+00:00",
+ "date": "2026-11-09T08:19:04.452846+00:00",
  "abonnes": 13,
- "vues_totales": 9334,
+ "vues_totales": 9818,
  "autorisations": [
   "youtube",
   "youtube.channel-memberships.creator",
@@ -15,6 +15,126 @@
   "yt-analytics.readonly"
  ],
  "videos": [
+  {
+   "id": "6ed867XjF-k",
+   "titre": "Ta lettre à 1,52 € : le timbre a pris combien ? #shorts",
+   "publie": "2026-11-09T07:54:37Z",
+   "duree_s": 20,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "zUmfPGqNK1A",
+   "titre": "Ta place de cinéma : qui touche quoi ? #shorts",
+   "publie": "2026-11-09T07:54:32Z",
+   "duree_s": 22,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "bvZArdgeTHY",
+   "titre": "Ton livre à 20 € : combien pour l'auteur ? #shorts",
+   "publie": "2026-11-09T07:54:26Z",
+   "duree_s": 23,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "8nHXIM1QE18",
+   "titre": "L'eau en bouteille, combien de fois plus chère ? #shorts",
+   "publie": "2026-11-09T07:54:21Z",
+   "duree_s": 23,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "08uXHwnLYOM",
+   "titre": "Ta boîte de Doliprane à 2,18 € : qui touche quoi ? #shorts",
+   "publie": "2026-11-09T07:54:14Z",
+   "duree_s": 22,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "xVZA4wmyIbM",
+   "titre": "Tes lunettes à 300 € : qui paie vraiment ? #shorts",
+   "publie": "2026-11-09T07:54:08Z",
+   "duree_s": 22,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "CQ_DUZ5X5EE",
+   "titre": "Ton steak haché : combien pour l'éleveur ? #shorts",
+   "publie": "2026-11-09T07:54:03Z",
+   "duree_s": 24,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "XjDfe8Ff5wU",
+   "titre": "Ton paquet de pâtes à 95 centimes : combien de blé ? #shorts",
+   "publie": "2026-11-09T07:53:57Z",
+   "duree_s": 24,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "Q4PM3JdGM7c",
+   "titre": "Ta brique de lait : qui garde l'argent ? #shorts",
+   "publie": "2026-11-09T07:53:52Z",
+   "duree_s": 23,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "LHId83_QGpE",
+   "titre": "L'État gagne combien sur ta capsule ? #shorts",
+   "publie": "2026-11-09T07:00:15Z",
+   "duree_s": 18,
+   "format": "short",
+   "statut": "public",
+   "vues": 1,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
   {
    "id": "mN0HueuEP58",
    "titre": "Pourquoi les capsules compatibles coûtent moins cher #shorts",
@@ -100,25 +220,13 @@
    "analytics_28j": null
   },
   {
-   "id": "LHId83_QGpE",
-   "titre": "L'État gagne combien sur ta capsule ? #shorts",
-   "publie": "2026-11-08T21:29:27Z",
-   "duree_s": 18,
-   "format": "short",
-   "statut": "private",
-   "vues": 0,
-   "likes": 0,
-   "commentaires": 0,
-   "analytics_28j": null
-  },
-  {
    "id": "eWnhl_g9Fb4",
    "titre": "Le goût du chocolat, il vient d'où ? #shorts",
    "publie": "2026-11-08T11:30:04Z",
    "duree_s": 21,
    "format": "short",
    "statut": "public",
-   "vues": 533,
+   "vues": 544,
    "likes": 8,
    "commentaires": 1,
    "analytics_28j": null,
@@ -877,7 +985,7 @@
    "duree_s": 465,
    "format": "longue",
    "statut": "public",
-   "vues": 98,
+   "vues": 99,
    "likes": 3,
    "commentaires": 1,
    "analytics_28j": {
@@ -1114,7 +1222,7 @@
     "subscribersGained": 0
    },
    "miniature_7j": {
-    "impressions": 186,
+    "impressions": 208,
     "ctr": 0.0
    }
   },
@@ -1136,7 +1244,7 @@
     "subscribersGained": 0
    },
    "miniature_7j": {
-    "impressions": 186,
+    "impressions": 216,
     "ctr": 0.0
    }
   },
@@ -1158,8 +1266,8 @@
     "subscribersGained": 0
    },
    "miniature_7j": {
-    "impressions": 47,
-    "ctr": 8.51
+    "impressions": 67,
+    "ctr": 10.45
    }
   },
   {
@@ -1304,8 +1412,8 @@
    },
    "depuis_shorts": "indisponible (400)",
    "miniature_7j": {
-    "impressions": 484,
-    "ctr": 3.72
+    "impressions": 585,
+    "ctr": 3.25
    }
   }
  ],
@@ -1326,13 +1434,13 @@
   "heures_longues_365j": 5.0
  },
  "reporting": {
-  "rapports_disponibles": 7
+  "rapports_disponibles": 8
  },
  "pilotage": {
   "evolution_24h": {
    "depuis": "2026-11-08",
    "abonnes": 0,
-   "vues": 0
+   "vues": 484
   },
   "evolution_7j": null,
   "shorts_par_jour_7j": {
@@ -1341,7 +1449,8 @@
    "2026-11-05": 6,
    "2026-11-06": 4,
    "2026-11-07": 3,
-   "2026-11-08": 2
+   "2026-11-08": 2,
+   "2026-11-09": 1
   },
   "doublons": [],
   "alertes": [
