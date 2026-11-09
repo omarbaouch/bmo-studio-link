@@ -1,0 +1,630 @@
+{
+ "action": "chercher",
+ "chaine": "LEVRAIPRIX",
+ "jours": 2,
+ "titre": "Repérage du jour (2)",
+ "requetes": [
+  "prix carburant",
+  "pouvoir d'achat courses",
+  "prix café",
+  "prix chocolat",
+  "prix baguette",
+  "taxes carburant France",
+  "prix alimentation hausse",
+  "prix iPhone"
+ ],
+ "resultat": {
+  "resultats": {
+   "prix carburant": [
+    {
+     "id": "YuJW_BmXNhE",
+     "titre": "Trump Is FURIOUS: Singapore Just Found Fuel Worth $1 Trillion",
+     "chaine": "How Nations Work",
+     "publie": "2026-11-08T18:12:41Z",
+     "duree": "PT10M22S",
+     "vues": 16242,
+     "commentaires": "39"
+    },
+    {
+     "id": "3BjckSuwsjQ",
+     "titre": "Matt Armstrong’s Yacht Cost Is Insane Here’s the Real Number. #MatArmstrong",
+     "chaine": "Matt x mechanic",
+     "publie": "2026-11-07T16:18:44Z",
+     "duree": "PT11M43S",
+     "vues": 7497,
+     "commentaires": "0"
+    },
+    {
+     "id": "gyt-vKcvrV0",
+     "titre": "L'ESPAGNE en camping-car cet hiver : tout savoir + 25 astuces (prix et règles 2026)",
+     "chaine": "RouteLibre",
+     "publie": "2026-11-08T12:00:16Z",
+     "duree": "PT9M12S",
+     "vues": 7248,
+     "commentaires": "2"
+    },
+    {
+     "id": "9_uD9qgMQJ8",
+     "titre": "Défaite de Trump aux midterms : le pétrole « aussi explosif que le prix du pain », Rougeyron",
+     "chaine": "GÉOPOLITIQUE PROFONDE",
+     "publie": "2026-11-07T16:06:08Z",
+     "duree": "PT38S",
+     "vues": 4026,
+     "commentaires": "14"
+    },
+    {
+     "id": "NZcIiA8G74Y",
+     "titre": "really voted for the dems or just against trump? revenge politics! maga dead? hegseth done?  📱",
+     "chaine": "BLACK MONEY CORP.",
+     "publie": "2026-11-08T09:36:29Z",
+     "duree": "PT1H50M48S",
+     "vues": 6860,
+     "commentaires": "0"
+    },
+    {
+     "id": "0QMkkudQ_WI",
+     "titre": "UK Fuel Prices Hit £1.96 a Litre—Look at This Bill! #shorts",
+     "chaine": "DC European | David Crossley ",
+     "publie": "2026-11-07T10:57:37Z",
+     "duree": "PT27S",
+     "vues": 2693,
+     "commentaires": "7"
+    },
+    {
+     "id": "V6lnusm4I0w",
+     "titre": "Quel est le meilleur jour pour faire le plein d'essence ?",
+     "chaine": "Bourseendirect",
+     "publie": "2026-11-07T15:26:08Z",
+     "duree": "PT59S",
+     "vues": 1225,
+     "commentaires": "0"
+    },
+    {
+     "id": "FW9TlZ2ixlU",
+     "titre": "Free Fleet Maintenance Manager in Excel: See Breakdowns Coming",
+     "chaine": "Excel For Freelancers",
+     "publie": "2026-11-07T14:00:27Z",
+     "duree": "PT37M53S",
+     "vues": 2917,
+     "commentaires": "8"
+    },
+    {
+     "id": "0DPyJ-0P_4c",
+     "titre": "Chèque carburant et déblocage de stocks stratégiques, suffisant pour faire baisser le prix ?",
+     "chaine": "Caradisiac",
+     "publie": "2026-11-07T11:00:09Z",
+     "duree": "PT54S",
+     "vues": 2253,
+     "commentaires": "2"
+    },
+    {
+     "id": "Qd-m8a8VycE",
+     "titre": "Prix du gazole : t'as vraiment gagné 20 centimes ?",
+     "chaine": "LeFactuel",
+     "publie": "2026-11-08T09:30:27Z",
+     "duree": "PT58S",
+     "vues": 1719,
+     "commentaires": "1"
+    },
+    {
+     "id": "dl-bZopkP-Y",
+     "titre": "Rep-Elect Charlie Hatcher Says Cost Of Living, Fuel Prices Will Be His Top Priorities In Congress",
+     "chaine": "Forbes Breaking News",
+     "publie": "2026-11-08T18:55:22Z",
+     "duree": "PT1M27S",
+     "vues": 4056,
+     "commentaires": "22"
+    },
+    {
+     "id": "s7j-NhXJM5E",
+     "titre": "⛽ Le gazole baisse depuis le 1er novembre",
+     "chaine": "NicoDécode",
+     "publie": "2026-11-08T15:01:32Z",
+     "duree": "PT1M11S",
+     "vues": 1319,
+     "commentaires": "2"
+    },
+    {
+     "id": "63FQuIrCapw",
+     "titre": "Ton plein d'essence : presque la moitié, ce sont des taxes ⛽ #essence #carburant #shorts",
+     "chaine": "Oshiete.",
+     "publie": "2026-11-07T19:02:30Z",
+     "duree": "PT42S",
+     "vues": 1173,
+     "commentaires": "0"
+    },
+    {
+     "id": "ZSDQMylyUio",
+     "titre": "Pétrole moins cher, plein plus cher ! 😡 Arnaque ?",
+     "chaine": "TakeTheKey",
+     "publie": "2026-11-07T18:00:20Z",
+     "duree": "PT51S",
+     "vues": 1205,
+     "commentaires": "3"
+    },
+    {
+     "id": "EbpvdvqYsi8",
+     "titre": "Higher Diesel Prices And Fuel Limits Impact Deliveries In Texas - November 1973",
+     "chaine": "SMU Jones Film",
+     "publie": "2026-11-07T20:30:26Z",
+     "duree": "PT2M44S",
+     "vues": 1401,
+     "commentaires": "4"
+    }
+   ],
+   "pouvoir d'achat courses": [],
+   "prix café": [
+    {
+     "id": "W3c3v3z6Wkk",
+     "titre": "She Wanted Her Starbucks Back… But Her Parrot Had ZERO RESPECT! 😂🦜☕",
+     "chaine": "THE ZUEIRAS ",
+     "publie": "2026-11-08T00:08:47Z",
+     "duree": "PT11S",
+     "vues": 52858,
+     "commentaires": "4"
+    },
+    {
+     "id": "pIlzWbtuWMo",
+     "titre": "CHENNAI’S VIRAL CAFE IN HYDERABAD! ☕🔥 | 15 ITEMS FOR JUST ₹1,140 #rayfoodiehyd #affordable #shorts",
+     "chaine": "ray.foodiehyd",
+     "publie": "2026-11-07T10:52:50Z",
+     "duree": "PT55S",
+     "vues": 32364,
+     "commentaires": "6"
+    },
+    {
+     "id": "PCwxY6Us5D0",
+     "titre": "I Made Coffee Taste Like a Sugar Cookie… 🍪🤯☕️",
+     "chaine": "GobbleACoffee",
+     "publie": "2026-11-08T17:58:02Z",
+     "duree": "PT1M1S",
+     "vues": 11510,
+     "commentaires": "13"
+    },
+    {
+     "id": "viGZ0Tl4FTY",
+     "titre": "Coffee shops raise prices after surcharge changes | Sunrise",
+     "chaine": "Sunrise",
+     "publie": "2026-11-08T20:58:48Z",
+     "duree": "PT1M16S",
+     "vues": 11418,
+     "commentaires": null
+    },
+    {
+     "id": "NAxn9wd4p2M",
+     "titre": "The New Barista Express Neo: Game Changer!",
+     "chaine": "Coffee Kev",
+     "publie": "2026-11-09T00:01:14Z",
+     "duree": "PT31M54S",
+     "vues": 6501,
+     "commentaires": "52"
+    },
+    {
+     "id": "tTOQdOXleFA",
+     "titre": "4 WEIRD Things I Add to My Coffee To Boost It’s Benefits (Most Drink It Wrong)",
+     "chaine": "The Longevity Researcher",
+     "publie": "2026-11-08T12:45:33Z",
+     "duree": "PT6M52S",
+     "vues": 3106,
+     "commentaires": "35"
+    },
+    {
+     "id": "ABIpY6Hex7M",
+     "titre": "💬 PREGUNTA EN LA VELETA",
+     "chaine": "Ryan Riegner",
+     "publie": "2026-11-08T01:00:21Z",
+     "duree": "PT55S",
+     "vues": 1717,
+     "commentaires": "2"
+    },
+    {
+     "id": "AuRWwIj3A7A",
+     "titre": "کافه رستوران با این قیمت اونم مرکز پایتخت!؟🧐🤤",
+     "chaine": "Amoo Roohi Foodlover",
+     "publie": "2026-11-08T13:30:15Z",
+     "duree": "PT21S",
+     "vues": 1518,
+     "commentaires": "2"
+    },
+    {
+     "id": "NxlKOzfasMA",
+     "titre": "I Tried Coffee Farming in FS25 So You Don't Have To!",
+     "chaine": "Farmer Teacher",
+     "publie": "2026-11-08T14:00:31Z",
+     "duree": "PT15M18S",
+     "vues": 1511,
+     "commentaires": "14"
+    },
+    {
+     "id": "C927BehGWYY",
+     "titre": "giá cà tươi tăng nhẹ hái tỉa và tâm sự chuyện đón sóng do thời tiết vụ tới",
+     "chaine": "bđs núi rừng",
+     "publie": "2026-11-07T12:59:12Z",
+     "duree": "PT15M33S",
+     "vues": 860,
+     "commentaires": "1"
+    },
+    {
+     "id": "PgoVj9NucG4",
+     "titre": "☕വെറും 2 മിനിറ്റിൽ കഫേ സ്റ്റൈൽ ക്രീമി കോൾഡ് കോഫി | Homemade Cold Coffee മലയാളം #shorts #coldcoffee",
+     "chaine": "VD Vlogs",
+     "publie": "2026-11-08T09:30:16Z",
+     "duree": "PT12S",
+     "vues": 3207,
+     "commentaires": "2"
+    },
+    {
+     "id": "5VLOi7Lkcgg",
+     "titre": "Tu inflación NO es el 4,9 % Café con Finanzas #34",
+     "chaine": "JF Sánchez / BriSan Finanzas Personales",
+     "publie": "2026-11-08T10:00:38Z",
+     "duree": "PT1M48S",
+     "vues": 780,
+     "commentaires": "0"
+    },
+    {
+     "id": "FNO2yD2Hb-0",
+     "titre": "Why Your Coffee Costs More: The Strait of Hormuz Explained",
+     "chaine": "Tiny Big Stories",
+     "publie": "2026-11-07T21:04:53Z",
+     "duree": "PT1M18S",
+     "vues": 893,
+     "commentaires": "3"
+    },
+    {
+     "id": "3TEHiko06vw",
+     "titre": "شربت قهوة بالبيض بجانب سكة القطار ف هانوي 🇻🇳 إحساس غريب !",
+     "chaine": "Vacay Morocco",
+     "publie": "2026-11-07T11:00:37Z",
+     "duree": "PT24M33S",
+     "vues": 602,
+     "commentaires": "15"
+    },
+    {
+     "id": "fyvL-OW5yP0",
+     "titre": "Cost vs Price: Dunkin' Coffee",
+     "chaine": "Jelfri Torres",
+     "publie": "2026-11-08T00:01:44Z",
+     "duree": "PT13S",
+     "vues": 959,
+     "commentaires": "0"
+    }
+   ],
+   "prix chocolat": [
+    {
+     "id": "ULJ3cwJe71o",
+     "titre": "Expensive Chocolate, Zero Demand? 😨",
+     "chaine": "Satyam Raj",
+     "publie": "2026-11-08T12:13:46Z",
+     "duree": "PT39S",
+     "vues": 151960,
+     "commentaires": "2"
+    },
+    {
+     "id": "xQ-nMLXe6ao",
+     "titre": "Шоколадку уменьшили — и думали, никто не заметит 🍫 #shorts",
+     "chaine": "ПЕРЕПЛАТА",
+     "publie": "2026-11-08T06:00:21Z",
+     "duree": "PT37S",
+     "vues": 1817,
+     "commentaires": "1"
+    },
+    {
+     "id": "NjqHEC0WqVw",
+     "titre": "Why Did Milka Deliberately Remove Chocolate Squares?",
+     "chaine": "Project007",
+     "publie": "2026-11-07T20:30:02Z",
+     "duree": "PT25S",
+     "vues": 2125,
+     "commentaires": "0"
+    },
+    {
+     "id": "4zJG9QpAw3Y",
+     "titre": "Why \"FREE\" makes you pick the worse chocolate #shorts",
+     "chaine": "Brain Tax",
+     "publie": "2026-11-07T17:00:23Z",
+     "duree": "PT37S",
+     "vues": 1384,
+     "commentaires": "0"
+    },
+    {
+     "id": "dBdhZ_x16y0",
+     "titre": "Why Your Chocolate Bar Keeps Getting Smaller #shorts",
+     "chaine": "Ling Mi Long",
+     "publie": "2026-11-08T00:52:16Z",
+     "duree": "PT1M",
+     "vues": 1311,
+     "commentaires": "1"
+    },
+    {
+     "id": "LYGqNP0SPM4",
+     "titre": "Let's Check Chocolate Prices! 🛒😍",
+     "chaine": "Bite with Avik",
+     "publie": "2026-11-07T15:55:15Z",
+     "duree": "PT10S",
+     "vues": 1140,
+     "commentaires": "0"
+    },
+    {
+     "id": "tU1aZdnHvX0",
+     "titre": "Let's Check Chocolate Prices! 🛒😍",
+     "chaine": "Bite with Avik",
+     "publie": "2026-11-07T15:55:33Z",
+     "duree": "PT15S",
+     "vues": 1204,
+     "commentaires": "0"
+    },
+    {
+     "id": "ZAGOxsfDzeQ",
+     "titre": "Would You Rather Pay More Or Get Less?",
+     "chaine": "Global Strategies",
+     "publie": "2026-11-09T00:15:11Z",
+     "duree": "PT43S",
+     "vues": 1278,
+     "commentaires": "1"
+    },
+    {
+     "id": "TpqoR_nmcdk",
+     "titre": "Liquor Chocolates | Daaru filled Chocolates | Were to Buy & Price? #chocolate #liquor #shopping",
+     "chaine": "abm Originals",
+     "publie": "2026-11-08T14:30:32Z",
+     "duree": "PT59S",
+     "vues": 497,
+     "commentaires": "0"
+    },
+    {
+     "id": "SBTvmLgi79o",
+     "titre": "Calendrier de l'Avent : le chocolat le plus cher du rayon ?",
+     "chaine": "Sous l'etiquette",
+     "publie": "2026-11-08T20:02:15Z",
+     "duree": "PT1M13S",
+     "vues": 658,
+     "commentaires": "0"
+    },
+    {
+     "id": "l11YGLijziA",
+     "titre": "Quanto Custa o BIS Lacta no mercado?🍫 🛒",
+     "chaine": "Hanamizuki TV",
+     "publie": "2026-11-07T22:00:00Z",
+     "duree": "PT18S",
+     "vues": 622,
+     "commentaires": "0"
+    },
+    {
+     "id": "LNV4-f2Fo4E",
+     "titre": "Chocolate Price Reveal! Guess Before You See! 👀🔥",
+     "chaine": "Bite with Avik",
+     "publie": "2026-11-07T15:55:26Z",
+     "duree": "PT11S",
+     "vues": 423,
+     "commentaires": "0"
+    },
+    {
+     "id": "r6NjPp7L0xo",
+     "titre": "🍫 You Won't Believe These Chocolate Prices! 😱",
+     "chaine": "Bite with Avik",
+     "publie": "2026-11-08T14:00:31Z",
+     "duree": "PT13S",
+     "vues": 334,
+     "commentaires": "0"
+    },
+    {
+     "id": "XPos6RYLxE4",
+     "titre": "Kakao billiger, Schokolade auch? Was am Regal ankommt",
+     "chaine": "Geldimkopf",
+     "publie": "2026-11-07T17:30:02Z",
+     "duree": "PT40S",
+     "vues": 117,
+     "commentaires": "0"
+    },
+    {
+     "id": "oZkhFJlGoTg",
+     "titre": "Le négociant garde combien sur ta tablette de chocolat ? #shorts",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-07T11:30:08Z",
+     "duree": "PT24S",
+     "vues": 109,
+     "commentaires": "1"
+    }
+   ],
+   "prix baguette": [
+    {
+     "id": "e0cfxURUmJo",
+     "titre": "Malfoid Lowered Her Wand and Paid For It",
+     "chaine": "POTERRIA",
+     "publie": "2026-11-08T05:08:39Z",
+     "duree": "PT50M27S",
+     "vues": 1091,
+     "commentaires": "9"
+    },
+    {
+     "id": "sXD8Zshh5O8",
+     "titre": "Le prix d'une baguette... avant ? #prix #quiz",
+     "chaine": "C'est combien ? ",
+     "publie": "2026-11-07T20:35:25Z",
+     "duree": "PT19S",
+     "vues": 127,
+     "commentaires": "0"
+    },
+    {
+     "id": "eVv2iQoOj7I",
+     "titre": "Pourquoi votre baguette coûte 1,09 € (le vrai calcul)",
+     "chaine": "Au Centime Près",
+     "publie": "2026-11-07T17:00:14Z",
+     "duree": "PT12M57S",
+     "vues": 15,
+     "commentaires": "1"
+    }
+   ],
+   "taxes carburant France": [
+    {
+     "id": "0BRwlECNeuo",
+     "titre": "Gazole : moins taxé… mais plus cher ?",
+     "chaine": "Le Prix Caché",
+     "publie": "2026-11-07T12:04:34Z",
+     "duree": "PT41S",
+     "vues": 559,
+     "commentaires": "0"
+    },
+    {
+     "id": "7qD2h7urAbM",
+     "titre": "Ton plein à 100 € : l'État en prend la MOITIÉ ⛽",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-08T11:00:15Z",
+     "duree": "PT27S",
+     "vues": 672,
+     "commentaires": "0"
+    }
+   ],
+   "prix alimentation hausse": [
+    {
+     "id": "IhMkDm75du0",
+     "titre": "Energy Hits U.S. Wallets: Higher Gas, Diesel Raise Long-Term Cost Pressures",
+     "chaine": "Schwab Network",
+     "publie": "2026-11-07T21:00:10Z",
+     "duree": "PT7M48S",
+     "vues": 3075,
+     "commentaires": "2"
+    }
+   ],
+   "prix iPhone": [
+    {
+     "id": "jHE5gaSV_eA",
+     "titre": "「心理學」賈伯斯的iPhone定價方法",
+     "chaine": "原話說",
+     "publie": "2026-11-08T08:00:37Z",
+     "duree": "PT1M32S",
+     "vues": 126292,
+     "commentaires": "76"
+    },
+    {
+     "id": "jGzbpZ2ERko",
+     "titre": "Iphone 17 Pro Prices Around The World 🌍😱",
+     "chaine": "fact_guru_1.0",
+     "publie": "2026-11-07T12:50:29Z",
+     "duree": "PT35S",
+     "vues": 61477,
+     "commentaires": "2"
+    },
+    {
+     "id": "fO3714f0r_I",
+     "titre": "Đến bây giờ iPhone 16 Pro Max vẫn không bị ảo giá, ĐÁNG MUA thật sự !!!",
+     "chaine": "Tony Phùng Studio",
+     "publie": "2026-11-07T12:45:05Z",
+     "duree": "PT11M1S",
+     "vues": 45600,
+     "commentaires": "106"
+    },
+    {
+     "id": "h4tSipqFrGU",
+     "titre": "2026 Diwali Biggest iPhone Sale Ever 🔥 I Cheapest iPhone Market | Second Hand Mobile |  All iPhones",
+     "chaine": "Kunal Fav",
+     "publie": "2026-11-07T15:23:43Z",
+     "duree": "PT25S",
+     "vues": 31596,
+     "commentaires": "4"
+    },
+    {
+     "id": "qUKFm1zkeUo",
+     "titre": "Top 3 Qi2 25W Car Chargers for iPhone 18 Pro/Duo (Tested & Ranked)",
+     "chaine": "MobileReviewsEh",
+     "publie": "2026-11-07T15:30:31Z",
+     "duree": "PT4M21S",
+     "vues": 25606,
+     "commentaires": "56"
+    },
+    {
+     "id": "fcz7ZCE_494",
+     "titre": "SAMSUNG YA ESTÁ COBRANDO COMO APPLE… 😳",
+     "chaine": "Charlie Castro",
+     "publie": "2026-11-09T01:57:39Z",
+     "duree": "PT1M",
+     "vues": 18226,
+     "commentaires": "60"
+    },
+    {
+     "id": "6W4au-BX18Y",
+     "titre": "How Much Is An iPhone 17 In India?",
+     "chaine": "CRIS TRAVELS",
+     "publie": "2026-11-08T06:30:42Z",
+     "duree": "PT1M9S",
+     "vues": 18600,
+     "commentaires": "30"
+    },
+    {
+     "id": "BVI_pouk7qI",
+     "titre": "iPhone Duo After 2 Weeks: Worth Giving Up the Pro Max?",
+     "chaine": "BadSeed Tech",
+     "publie": "2026-11-08T16:30:07Z",
+     "duree": "PT15M55S",
+     "vues": 28829,
+     "commentaires": "67"
+    },
+    {
+     "id": "S20vpUMRmNE",
+     "titre": "2026 Diwali Biggest iPhone Sale Ever 🔥 I Cheapest iPhone Market | Second Hand Mobile |  All iPhones",
+     "chaine": "Kunal Fav",
+     "publie": "2026-11-08T09:23:02Z",
+     "duree": "PT23S",
+     "vues": 19804,
+     "commentaires": "6"
+    },
+    {
+     "id": "oAhiRjFxQ3M",
+     "titre": "Letest Mobile Price In Dubai- UAE  | iPhone | Samsung | honor | Redmi | oppo | Huawi | IPhone Duo ",
+     "chaine": "EVEREST CITY  DUBAI",
+     "publie": "2026-11-07T13:48:43Z",
+     "duree": "PT8M36S",
+     "vues": 12575,
+     "commentaires": "41"
+    },
+    {
+     "id": "p05MRwtltMQ",
+     "titre": "Used iPhone Wholesale Price In Bangladesh🔥iPhone Price In BD 2026🔰Second Hand Phone Price in BD 2026",
+     "chaine": "Ashraful Vlogs 2",
+     "publie": "2026-11-08T05:32:01Z",
+     "duree": "PT15M31S",
+     "vues": 10799,
+     "commentaires": "59"
+    },
+    {
+     "id": "P9h0dFICJf8",
+     "titre": "Biggest iPhone Sale Ever 🔥| Cheapest iPhone Market  | Second Hand Mobile  iPhone 17 iphone16 Pro ",
+     "chaine": "Suraj Chauhan",
+     "publie": "2026-11-07T11:38:43Z",
+     "duree": "PT21M30S",
+     "vues": 14979,
+     "commentaires": "9"
+    },
+    {
+     "id": "kOczPye_3F0",
+     "titre": "IPHONE 18 PRO MAX PRICE IN DUBAI APPLE DUO PRICE DUBAI,S26 ULTRA PRICE DUBAI / IPHONE PRICE DUBAI ",
+     "chaine": "BBA VLOGS",
+     "publie": "2026-11-07T12:00:21Z",
+     "duree": "PT26M2S",
+     "vues": 12727,
+     "commentaires": "31"
+    },
+    {
+     "id": "oKm9ZYp4XOw",
+     "titre": "Biggest iPhone Sale Ever 🔥| Cheapest iPhone Market  | Second Hand Mobile  iPhone 17 iphone16 Pro ",
+     "chaine": "Suraj Chauhan",
+     "publie": "2026-11-08T06:50:18Z",
+     "duree": "PT11M35S",
+     "vues": 10163,
+     "commentaires": "7"
+    },
+    {
+     "id": "RGvbuany_Yg",
+     "titre": "اقل سعر ايفون",
+     "chaine": "Ahmed Samey",
+     "publie": "2026-11-07T15:51:30Z",
+     "duree": "PT2M51S",
+     "vues": 7975,
+     "commentaires": "9"
+    }
+   ]
+  },
+  "envoye_le": "2026-11-09T10:44:44.208568+00:00"
+ }
+}
