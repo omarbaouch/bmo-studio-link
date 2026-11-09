@@ -1,6 +1,6 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-08T20:01:24.746060+00:00",
+ "date": "2026-11-09T06:39:24.832400+00:00",
  "abonnes": 13,
  "vues_totales": 9334,
  "autorisations": [
@@ -16,14 +16,110 @@
  ],
  "videos": [
   {
+   "id": "mN0HueuEP58",
+   "titre": "Pourquoi les capsules compatibles coûtent moins cher #shorts",
+   "publie": "2026-11-08T21:33:21Z",
+   "duree_s": 19,
+   "format": "short",
+   "statut": "public",
+   "vues": 13,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "cj7cLyirL1M",
+   "titre": "3 groupes vendent 81 % de ton café #shorts",
+   "publie": "2026-11-08T21:30:04Z",
+   "duree_s": 17,
+   "format": "short",
+   "statut": "private",
+   "vues": 1,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "227UsJPqg-c",
+   "titre": "Le café a baissé de 31 %. Et ton paquet ? #shorts",
+   "publie": "2026-11-08T21:29:58Z",
+   "duree_s": 19,
+   "format": "short",
+   "statut": "private",
+   "vues": 2,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "aLZl-k4CICE",
+   "titre": "Le café a doublé : les producteurs sont riches ? #shorts",
+   "publie": "2026-11-08T21:29:53Z",
+   "duree_s": 16,
+   "format": "short",
+   "statut": "private",
+   "vues": 2,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "7yk3_5zZXeY",
+   "titre": "Combien vaut le café dans ta capsule ? #shorts",
+   "publie": "2026-11-08T21:29:42Z",
+   "duree_s": 16,
+   "format": "short",
+   "statut": "private",
+   "vues": 1,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "bM7SiBBigNk",
+   "titre": "Ton café à 10 centimes la tasse #shorts",
+   "publie": "2026-11-08T21:29:37Z",
+   "duree_s": 17,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "asfTIBkZiu4",
+   "titre": "Il a inventé la capsule… et Nestlé l'a poussé dehors #shorts",
+   "publie": "2026-11-08T21:29:31Z",
+   "duree_s": 20,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "LHId83_QGpE",
+   "titre": "L'État gagne combien sur ta capsule ? #shorts",
+   "publie": "2026-11-08T21:29:27Z",
+   "duree_s": 18,
+   "format": "short",
+   "statut": "private",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
    "id": "eWnhl_g9Fb4",
    "titre": "Le goût du chocolat, il vient d'où ? #shorts",
    "publie": "2026-11-08T11:30:04Z",
    "duree_s": 21,
    "format": "short",
    "statut": "public",
-   "vues": 295,
-   "likes": 6,
+   "vues": 533,
+   "likes": 8,
    "commentaires": 1,
    "analytics_28j": null,
    "miniature_7j": {
@@ -38,8 +134,8 @@
    "duree_s": 21,
    "format": "short",
    "statut": "public",
-   "vues": 153,
-   "likes": 3,
+   "vues": 178,
+   "likes": 5,
    "commentaires": 1,
    "analytics_28j": null,
    "miniature_7j": {
@@ -49,12 +145,12 @@
   },
   {
    "id": "lzoB-xIlSCY",
-   "titre": "Capsule de café : combien tu la paies au kilo ?",
+   "titre": "Café en capsule : 3 fois plus cher que le moulu ?",
    "publie": "2026-11-07T15:28:55Z",
    "duree_s": 236,
    "format": "longue",
    "statut": "public",
-   "vues": 6,
+   "vues": 10,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": null,
@@ -68,7 +164,7 @@
    "duree_s": 24,
    "format": "short",
    "statut": "public",
-   "vues": 106,
+   "vues": 109,
    "likes": 2,
    "commentaires": 1,
    "analytics_28j": null,
@@ -84,7 +180,7 @@
    "duree_s": 25,
    "format": "short",
    "statut": "public",
-   "vues": 271,
+   "vues": 283,
    "likes": 7,
    "commentaires": 1,
    "analytics_28j": {
@@ -95,7 +191,7 @@
     "subscribersGained": 0
    },
    "miniature_7j": {
-    "impressions": 92,
+    "impressions": 128,
     "ctr": 0.0
    }
   },
@@ -172,7 +268,7 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 971,
+   "vues": 972,
    "likes": 19,
    "commentaires": 1,
    "analytics_28j": {
@@ -194,7 +290,7 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 122,
+   "vues": 121,
    "likes": 8,
    "commentaires": 1,
    "analytics_28j": {
@@ -205,8 +301,8 @@
     "subscribersGained": 0
    },
    "miniature_7j": {
-    "impressions": 101,
-    "ctr": 0.99
+    "impressions": 115,
+    "ctr": 1.74
    }
   },
   {
@@ -216,7 +312,7 @@
    "duree_s": 23,
    "format": "short",
    "statut": "public",
-   "vues": 24,
+   "vues": 25,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
@@ -260,7 +356,7 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 954,
+   "vues": 952,
    "likes": 26,
    "commentaires": 1,
    "analytics_28j": {
@@ -271,8 +367,8 @@
     "subscribersGained": 3
    },
    "miniature_7j": {
-    "impressions": 173,
-    "ctr": 2.31
+    "impressions": 186,
+    "ctr": 2.15
    }
   },
   {
@@ -282,7 +378,7 @@
    "duree_s": 24,
    "format": "short",
    "statut": "public",
-   "vues": 252,
+   "vues": 250,
    "likes": 6,
    "commentaires": 1,
    "analytics_28j": {
@@ -330,25 +426,25 @@
    "likes": 18,
    "commentaires": 2,
    "analytics_28j": {
-    "views": 1128,
+    "views": 1131,
     "estimatedMinutesWatched": 169,
     "averageViewDuration": 24,
     "averageViewPercentage": 96.83,
     "subscribersGained": 2
    },
    "miniature_7j": {
-    "impressions": 181,
-    "ctr": 3.31
+    "impressions": 197,
+    "ctr": 3.05
    }
   },
   {
    "id": "uuPNNWSVZEQ",
-   "titre": "Prix du gazole : pourquoi il ne baisse pas comme le baril",
+   "titre": "Le baril baisse, ton plein non : qui garde l'argent ?",
    "publie": "2026-11-04T18:40:45Z",
    "duree_s": 310,
    "format": "longue",
    "statut": "public",
-   "vues": 41,
+   "vues": 42,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
@@ -489,7 +585,7 @@
    "likes": 0,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 68,
+    "views": 67,
     "estimatedMinutesWatched": 3,
     "averageViewDuration": 17,
     "averageViewPercentage": 81.24,
@@ -518,7 +614,7 @@
     "subscribersGained": 0
    },
    "miniature_7j": {
-    "impressions": 164,
+    "impressions": 200,
     "ctr": 0.0
    }
   },
@@ -529,18 +625,18 @@
    "duree_s": 29,
    "format": "short",
    "statut": "public",
-   "vues": 394,
+   "vues": 395,
    "likes": 10,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 395,
+    "views": 394,
     "estimatedMinutesWatched": 46,
     "averageViewDuration": 15,
     "averageViewPercentage": 55.010000000000005,
     "subscribersGained": 1
    },
    "miniature_7j": {
-    "impressions": 96,
+    "impressions": 114,
     "ctr": 0.0
    }
   },
@@ -577,7 +673,7 @@
    "likes": 15,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 732,
+    "views": 731,
     "estimatedMinutesWatched": 70,
     "averageViewDuration": 13,
     "averageViewPercentage": 48.71,
@@ -606,8 +702,8 @@
     "subscribersGained": 0
    },
    "miniature_7j": {
-    "impressions": 157,
-    "ctr": 1.91
+    "impressions": 172,
+    "ctr": 2.91
    }
   },
   {
@@ -621,15 +717,15 @@
    "likes": 4,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 117,
+    "views": 118,
     "estimatedMinutesWatched": 10,
     "averageViewDuration": 15,
     "averageViewPercentage": 57.75,
     "subscribersGained": 1
    },
    "miniature_7j": {
-    "impressions": 162,
-    "ctr": 1.23
+    "impressions": 219,
+    "ctr": 1.37
    }
   },
   {
@@ -644,7 +740,7 @@
    "commentaires": 0,
    "analytics_28j": null,
    "miniature_7j": {
-    "impressions": 53,
+    "impressions": 83,
     "ctr": 0.0
    }
   },
@@ -666,7 +762,7 @@
     "subscribersGained": 0
    },
    "miniature_7j": {
-    "impressions": 47,
+    "impressions": 77,
     "ctr": 0.0
    }
   },
@@ -688,7 +784,7 @@
     "subscribersGained": 0
    },
    "miniature_7j": {
-    "impressions": 47,
+    "impressions": 77,
     "ctr": 0.0
    }
   },
@@ -704,7 +800,7 @@
    "commentaires": 0,
    "analytics_28j": null,
    "miniature_7j": {
-    "impressions": 56,
+    "impressions": 95,
     "ctr": 0.0
    }
   },
@@ -726,7 +822,7 @@
     "subscribersGained": 0
    },
    "miniature_7j": {
-    "impressions": 54,
+    "impressions": 91,
     "ctr": 0.0
    }
   },
@@ -748,8 +844,8 @@
     "subscribersGained": 0
    },
    "miniature_7j": {
-    "impressions": 57,
-    "ctr": 1.75
+    "impressions": 99,
+    "ctr": 2.02
    }
   },
   {
@@ -763,25 +859,25 @@
    "likes": 2,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 98,
+    "views": 97,
     "estimatedMinutesWatched": 6,
     "averageViewDuration": 9,
     "averageViewPercentage": 54.55,
     "subscribersGained": 0
    },
    "miniature_7j": {
-    "impressions": 308,
-    "ctr": 2.92
+    "impressions": 395,
+    "ctr": 3.29
    }
   },
   {
    "id": "x0onZIENQZk",
-   "titre": "Prix du cacao en chute : pourquoi ton chocolat ne baisse pas",
+   "titre": "Le cacao a perdu près de 60 %… et ta tablette ?",
    "publie": "2026-11-03T20:05:42Z",
    "duree_s": 465,
    "format": "longue",
    "statut": "public",
-   "vues": 96,
+   "vues": 98,
    "likes": 3,
    "commentaires": 1,
    "analytics_28j": {
@@ -908,8 +1004,8 @@
    },
    "depuis_shorts": "indisponible (400)",
    "miniature_7j": {
-    "impressions": 3161,
-    "ctr": 1.27
+    "impressions": 3555,
+    "ctr": 1.38
    }
   },
   {
@@ -930,8 +1026,8 @@
     "subscribersGained": 1
    },
    "miniature_7j": {
-    "impressions": 112,
-    "ctr": 0.89
+    "impressions": 170,
+    "ctr": 1.18
    }
   },
   {
@@ -942,7 +1038,7 @@
    "format": "short",
    "statut": "public",
    "vues": 476,
-   "likes": 3,
+   "likes": 4,
    "commentaires": 1,
    "analytics_28j": {
     "views": 472,
@@ -952,8 +1048,8 @@
     "subscribersGained": 0
    },
    "miniature_7j": {
-    "impressions": 193,
-    "ctr": 1.55
+    "impressions": 291,
+    "ctr": 1.37
    }
   },
   {
@@ -974,8 +1070,8 @@
     "subscribersGained": 0
    },
    "miniature_7j": {
-    "impressions": 135,
-    "ctr": 0.74
+    "impressions": 208,
+    "ctr": 0.96
    }
   },
   {
@@ -996,8 +1092,8 @@
     "subscribersGained": 0
    },
    "miniature_7j": {
-    "impressions": 96,
-    "ctr": 1.04
+    "impressions": 158,
+    "ctr": 0.63
    }
   },
   {
@@ -1018,7 +1114,7 @@
     "subscribersGained": 0
    },
    "miniature_7j": {
-    "impressions": 121,
+    "impressions": 186,
     "ctr": 0.0
    }
   },
@@ -1040,7 +1136,7 @@
     "subscribersGained": 0
    },
    "miniature_7j": {
-    "impressions": 127,
+    "impressions": 186,
     "ctr": 0.0
    }
   },
@@ -1062,13 +1158,13 @@
     "subscribersGained": 0
    },
    "miniature_7j": {
-    "impressions": 44,
-    "ctr": 9.09
+    "impressions": 47,
+    "ctr": 8.51
    }
   },
   {
    "id": "08ITVyaDDEo",
-   "titre": "Combien gagne un boulanger sur une baguette ?",
+   "titre": "Ta baguette à 1 € : qui touche quoi vraiment ?",
    "publie": "2026-11-01T17:10:05Z",
    "duree_s": 489,
    "format": "longue",
@@ -1208,17 +1304,17 @@
    },
    "depuis_shorts": "indisponible (400)",
    "miniature_7j": {
-    "impressions": 461,
-    "ctr": 3.69
+    "impressions": 484,
+    "ctr": 3.72
    }
   }
  ],
  "sources_trafic_28j": {
-  "SHORTS": 7792,
-  "YT_SEARCH": 177,
+  "SHORTS": 7789,
+  "YT_SEARCH": 176,
   "YT_CHANNEL": 120,
   "SUBSCRIBER": 110,
-  "YT_OTHER_PAGE": 104,
+  "YT_OTHER_PAGE": 103,
   "RELATED_VIDEO": 95,
   "NO_LINK_OTHER": 7,
   "EXT_URL": 7,
@@ -1234,19 +1330,18 @@
  },
  "pilotage": {
   "evolution_24h": {
-   "depuis": "2026-11-07",
-   "abonnes": 1,
-   "vues": 1534
+   "depuis": "2026-11-08",
+   "abonnes": 0,
+   "vues": 0
   },
   "evolution_7j": null,
   "shorts_par_jour_7j": {
-   "2026-11-02": 3,
    "2026-11-03": 6,
    "2026-11-04": 7,
    "2026-11-05": 6,
    "2026-11-06": 4,
    "2026-11-07": 3,
-   "2026-11-08": 1
+   "2026-11-08": 2
   },
   "doublons": [],
   "alertes": [
