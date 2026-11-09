@@ -15,5 +15,13 @@
  "commentaire": "Robinet ou bouteille, toi ? 👇 Abonne-toi : chaque jour, un nouveau vrai prix.",
  "publier_le": "2026-11-14T13:00:00+01:00",
  "forcer_heure": true,
- "playlist": "Le vrai prix — Shorts"
+ "playlist": "Le vrai prix — Shorts",
+ "resultat": {
+  "id": "8nHXIM1QE18",
+  "lien": "https://youtu.be/8nHXIM1QE18",
+  "statut_youtube": "private",
+  "playlist": "ok (Le vrai prix — Shorts)",
+  "commentaire": "en attente",
+  "envoye_le": "2026-11-09T07:54:24.002774+00:00"
+ }
 }

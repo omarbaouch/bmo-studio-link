@@ -15,5 +15,13 @@
  "commentaire": "Tu lis combien de livres par an ? 👇 Abonne-toi : chaque jour, un nouveau vrai prix.",
  "publier_le": "2026-11-15T08:00:00+01:00",
  "forcer_heure": true,
- "playlist": "Le vrai prix — Shorts"
+ "playlist": "Le vrai prix — Shorts",
+ "resultat": {
+  "id": "bvZArdgeTHY",
+  "lien": "https://youtu.be/bvZArdgeTHY",
+  "statut_youtube": "private",
+  "playlist": "ok (Le vrai prix — Shorts)",
+  "commentaire": "en attente",
+  "envoye_le": "2026-11-09T07:54:29.772831+00:00"
+ }
 }

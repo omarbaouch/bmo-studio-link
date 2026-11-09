@@ -15,5 +15,13 @@
  "commentaire": "Tu as payé combien tes dernières lunettes ? 👇 Abonne-toi : chaque jour, un nouveau vrai prix.",
  "publier_le": "2026-11-13T08:00:00+01:00",
  "forcer_heure": true,
- "playlist": "Le vrai prix — Shorts"
+ "playlist": "Le vrai prix — Shorts",
+ "resultat": {
+  "id": "xVZA4wmyIbM",
+  "lien": "https://youtu.be/xVZA4wmyIbM",
+  "statut_youtube": "private",
+  "playlist": "ok (Le vrai prix — Shorts)",
+  "commentaire": "en attente",
+  "envoye_le": "2026-11-09T07:54:11.491809+00:00"
+ }
 }
