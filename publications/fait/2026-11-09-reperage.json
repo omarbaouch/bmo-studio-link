@@ -1,0 +1,106 @@
+{
+ "action": "chercher",
+ "chaine": "LEVRAIPRIX",
+ "jours": 2,
+ "titre": "Repérage du jour",
+ "requetes": [
+  "prix carburant gazole essence",
+  "prix du café hausse",
+  "prix du chocolat Noël cacao",
+  "prix du timbre La Poste 2027",
+  "prix des courses supermarché inflation",
+  "prix du lait éleveurs",
+  "prix de la viande steak haché",
+  "prix des médicaments pharmacie"
+ ],
+ "resultat": {
+  "resultats": {
+   "prix carburant gazole essence": [
+    {
+     "id": "s7j-NhXJM5E",
+     "titre": "⛽ Le gazole baisse depuis le 1er novembre",
+     "chaine": "NicoDécode",
+     "publie": "2026-11-08T15:01:32Z",
+     "duree": "PT1M11S",
+     "vues": 1319,
+     "commentaires": "2"
+    },
+    {
+     "id": "kGocslxLIAI",
+     "titre": "Gas and Diesel Prices Hicksville, New York #gas #prices #gasoline #newyork #hicksville #automobile",
+     "chaine": "JKMCraveTV",
+     "publie": "2026-11-08T17:00:11Z",
+     "duree": "PT24S",
+     "vues": 1084,
+     "commentaires": "1"
+    },
+    {
+     "id": "0BRwlECNeuo",
+     "titre": "Gazole : moins taxé… mais plus cher ?",
+     "chaine": "Le Prix Caché",
+     "publie": "2026-11-07T12:04:34Z",
+     "duree": "PT41S",
+     "vues": 559,
+     "commentaires": "0"
+    },
+    {
+     "id": "-oCAbekbgMg",
+     "titre": "Petroly : soyez averti quand le carburant atteint votre prix",
+     "chaine": "Petroly",
+     "publie": "2026-11-08T07:31:24Z",
+     "duree": "PT16S",
+     "vues": 0,
+     "commentaires": "0"
+    }
+   ],
+   "prix du café hausse": [
+    {
+     "id": "lhfAQoOAD20",
+     "titre": "Only 6 Grocery Store Coffees Worth Buying After the Price Hikes",
+     "chaine": "Coffee Standard",
+     "publie": "2026-11-08T17:03:08Z",
+     "duree": "PT16M22S",
+     "vues": 125,
+     "commentaires": "1"
+    }
+   ],
+   "prix du chocolat Noël cacao": [
+    {
+     "id": "P221ZaV9JSU",
+     "titre": "Le cacao a perdu 60 %… mais tes chocolats de Noël coûtent toujours autant…",
+     "chaine": "Pecunnia",
+     "publie": "2026-11-09T10:03:17Z",
+     "duree": "PT42S",
+     "vues": 47,
+     "commentaires": "0"
+    }
+   ],
+   "prix du timbre La Poste 2027": [
+    {
+     "id": "RhY5NTiNzCc",
+     "titre": "Prix du timbre 2027 : la Lettre verte à 1,67 €, moins vous écrivez, plus il coûte",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-07T17:00:39Z",
+     "duree": "PT59S",
+     "vues": 473,
+     "commentaires": "2"
+    }
+   ],
+   "prix des courses supermarché inflation": [],
+   "prix du lait éleveurs": [
+    {
+     "id": "ydiYuu3CyHY",
+     "titre": "Goat Milk Business: How Many Litres Do You Need Before It Pays?",
+     "chaine": "Manual Goat Farm",
+     "publie": "2026-11-08T15:00:09Z",
+     "duree": "PT10M32S",
+     "vues": 19,
+     "commentaires": "0"
+    }
+   ],
+   "prix de la viande steak haché": [],
+   "prix des médicaments pharmacie": []
+  },
+  "envoye_le": "2026-11-09T10:43:57.089182+00:00"
+ }
+}
