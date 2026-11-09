@@ -16,5 +16,13 @@
  "commentaire": "Ton artiste le plus écouté cette année, c'est qui ? 👇 Abonne-toi : chaque jour, un nouveau vrai prix.",
  "publier_le": "2026-11-09T14:30:00+01:00",
  "forcer_heure": true,
- "playlist": "Le vrai prix — Shorts"
+ "playlist": "Le vrai prix — Shorts",
+ "resultat": {
+  "id": "_14kkq1CHUo",
+  "lien": "https://youtu.be/_14kkq1CHUo",
+  "statut_youtube": "private",
+  "playlist": "ok (Le vrai prix — Shorts)",
+  "commentaire": "en attente",
+  "envoye_le": "2026-11-09T10:50:27.781534+00:00"
+ }
 }
