@@ -1,6 +1,6 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-09T08:19:04.452846+00:00",
+ "date": "2026-11-09T13:59:17.221875+00:00",
  "abonnes": 13,
  "vues_totales": 9818,
  "autorisations": [
@@ -15,6 +15,46 @@
   "yt-analytics.readonly"
  ],
  "videos": [
+  {
+   "id": "_14kkq1CHUo",
+   "titre": "Spotify : l'artiste touche combien quand tu l'écoutes ? #shorts",
+   "publie": "2026-11-09T13:30:02Z",
+   "duree_s": 27,
+   "format": "short",
+   "statut": "public",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "_tko9V2uo_g",
+   "titre": "Avant d'être du chocolat, le cacao fermente 5 jours #shorts",
+   "publie": "2026-11-09T11:30:22Z",
+   "duree_s": 16,
+   "format": "short",
+   "statut": "public",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null,
+   "miniature_7j": {
+    "impressions": 83,
+    "ctr": 0.0
+   }
+  },
+  {
+   "id": "aI0LCOZw0U8",
+   "titre": "Facture d'électricité de 100 € : l'électricité, c'est combien ? #shorts",
+   "publie": "2026-11-09T11:01:14Z",
+   "duree_s": 27,
+   "format": "short",
+   "statut": "private",
+   "vues": 3,
+   "likes": 1,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
   {
    "id": "6ed867XjF-k",
    "titre": "Ta lettre à 1,52 € : le timbre a pris combien ? #shorts",
@@ -130,9 +170,9 @@
    "duree_s": 18,
    "format": "short",
    "statut": "public",
-   "vues": 1,
-   "likes": 0,
-   "commentaires": 0,
+   "vues": 30,
+   "likes": 1,
+   "commentaires": 1,
    "analytics_28j": null
   },
   {
@@ -142,7 +182,7 @@
    "duree_s": 19,
    "format": "short",
    "statut": "public",
-   "vues": 13,
+   "vues": 15,
    "likes": 0,
    "commentaires": 0,
    "analytics_28j": null
@@ -191,7 +231,7 @@
    "format": "short",
    "statut": "private",
    "vues": 1,
-   "likes": 0,
+   "likes": 1,
    "commentaires": 0,
    "analytics_28j": null
   },
@@ -226,7 +266,7 @@
    "duree_s": 21,
    "format": "short",
    "statut": "public",
-   "vues": 544,
+   "vues": 588,
    "likes": 8,
    "commentaires": 1,
    "analytics_28j": null,
@@ -242,7 +282,7 @@
    "duree_s": 21,
    "format": "short",
    "statut": "public",
-   "vues": 178,
+   "vues": 181,
    "likes": 5,
    "commentaires": 1,
    "analytics_28j": null,
@@ -310,7 +350,7 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 247,
+   "vues": 248,
    "likes": 4,
    "commentaires": 1,
    "analytics_28j": {
@@ -354,9 +394,9 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 198,
+   "vues": 199,
    "likes": 6,
-   "commentaires": 2,
+   "commentaires": 3,
    "analytics_28j": {
     "views": 100,
     "estimatedMinutesWatched": 19,
@@ -420,7 +460,7 @@
    "duree_s": 23,
    "format": "short",
    "statut": "public",
-   "vues": 25,
+   "vues": 27,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
@@ -530,7 +570,7 @@
    "duree_s": 25,
    "format": "short",
    "statut": "public",
-   "vues": 1132,
+   "vues": 1133,
    "likes": 18,
    "commentaires": 2,
    "analytics_28j": {
@@ -837,22 +877,6 @@
    }
   },
   {
-   "id": "_tko9V2uo_g",
-   "titre": "Avant d'être du chocolat, le cacao fermente 5 jours #shorts",
-   "publie": "2026-11-03T20:55:43Z",
-   "duree_s": 16,
-   "format": "short",
-   "statut": "private",
-   "vues": 0,
-   "likes": 0,
-   "commentaires": 0,
-   "analytics_28j": null,
-   "miniature_7j": {
-    "impressions": 83,
-    "ctr": 0.0
-   }
-  },
-  {
    "id": "y1MJ_XskmKE",
    "titre": "Le négociant garde combien sur ta tablette de chocolat ? #shorts",
    "publie": "2026-11-03T20:55:37Z",
@@ -985,7 +1009,7 @@
    "duree_s": 465,
    "format": "longue",
    "statut": "public",
-   "vues": 99,
+   "vues": 101,
    "likes": 3,
    "commentaires": 1,
    "analytics_28j": {
@@ -1450,7 +1474,7 @@
    "2026-11-06": 4,
    "2026-11-07": 3,
    "2026-11-08": 2,
-   "2026-11-09": 1
+   "2026-11-09": 3
   },
   "doublons": [],
   "alertes": [
