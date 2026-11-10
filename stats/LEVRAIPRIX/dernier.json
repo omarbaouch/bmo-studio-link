@@ -1,8 +1,8 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-09T20:55:43.995359+00:00",
+ "date": "2026-11-10T08:16:49.451335+00:00",
  "abonnes": 13,
- "vues_totales": 10073,
+ "vues_totales": 10187,
  "autorisations": [
   "youtube",
   "youtube.channel-memberships.creator",
@@ -16,15 +16,27 @@
  ],
  "videos": [
   {
+   "id": "bM7SiBBigNk",
+   "titre": "Ton café à 10 centimes la tasse #shorts",
+   "publie": "2026-11-10T07:00:39Z",
+   "duree_s": 17,
+   "format": "short",
+   "statut": "public",
+   "vues": 2,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
    "id": "aI0LCOZw0U8",
    "titre": "Facture d'électricité de 100 € : l'électricité, c'est combien ? #shorts",
    "publie": "2026-11-09T20:00:27Z",
    "duree_s": 27,
    "format": "short",
    "statut": "public",
-   "vues": 3,
+   "vues": 9,
    "likes": 1,
-   "commentaires": 0,
+   "commentaires": 1,
    "analytics_28j": null
   },
   {
@@ -34,7 +46,7 @@
    "duree_s": 20,
    "format": "short",
    "statut": "public",
-   "vues": 9,
+   "vues": 20,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": null
@@ -46,7 +58,7 @@
    "duree_s": 27,
    "format": "short",
    "statut": "public",
-   "vues": 21,
+   "vues": 31,
    "likes": 2,
    "commentaires": 1,
    "analytics_28j": null
@@ -58,7 +70,7 @@
    "duree_s": 16,
    "format": "short",
    "statut": "public",
-   "vues": 17,
+   "vues": 32,
    "likes": 0,
    "commentaires": 0,
    "analytics_28j": null,
@@ -182,7 +194,7 @@
    "duree_s": 18,
    "format": "short",
    "statut": "public",
-   "vues": 33,
+   "vues": 34,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": null
@@ -194,7 +206,7 @@
    "duree_s": 19,
    "format": "short",
    "statut": "public",
-   "vues": 16,
+   "vues": 22,
    "likes": 0,
    "commentaires": 0,
    "analytics_28j": null
@@ -248,26 +260,14 @@
    "analytics_28j": null
   },
   {
-   "id": "bM7SiBBigNk",
-   "titre": "Ton café à 10 centimes la tasse #shorts",
-   "publie": "2026-11-08T21:29:37Z",
-   "duree_s": 17,
-   "format": "short",
-   "statut": "private",
-   "vues": 0,
-   "likes": 0,
-   "commentaires": 0,
-   "analytics_28j": null
-  },
-  {
    "id": "eWnhl_g9Fb4",
    "titre": "Le goût du chocolat, il vient d'où ? #shorts",
    "publie": "2026-11-08T11:30:04Z",
    "duree_s": 21,
    "format": "short",
    "statut": "public",
-   "vues": 610,
-   "likes": 10,
+   "vues": 629,
+   "likes": 9,
    "commentaires": 1,
    "analytics_28j": null,
    "miniature_7j": {
@@ -398,7 +398,7 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 248,
+   "vues": 246,
    "likes": 4,
    "commentaires": 1,
    "analytics_28j": {
@@ -452,7 +452,7 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 201,
+   "vues": 202,
    "likes": 6,
    "commentaires": 3,
    "analytics_28j": {
@@ -479,7 +479,7 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 974,
+   "vues": 975,
    "likes": 19,
    "commentaires": 1,
    "analytics_28j": {
@@ -510,16 +510,16 @@
    "likes": 8,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 122,
+    "views": 121,
     "estimatedMinutesWatched": 11,
     "averageViewDuration": 16,
     "averageViewPercentage": 75.04,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 122,
+    "vues": 121,
     "engagees": 34,
-    "pct": 27.9
+    "pct": 28.1
    },
    "miniature_7j": {
     "impressions": 155,
@@ -587,20 +587,20 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 952,
+   "vues": 953,
    "likes": 26,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 950,
+    "views": 947,
     "estimatedMinutesWatched": 111,
     "averageViewDuration": 14,
     "averageViewPercentage": 66.37,
     "subscribersGained": 3
    },
    "restes": {
-    "vues": 950,
+    "vues": 947,
     "engagees": 402,
-    "pct": 42.3
+    "pct": 42.4
    },
    "miniature_7j": {
     "impressions": 255,
@@ -618,16 +618,16 @@
    "likes": 6,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 251,
+    "views": 249,
     "estimatedMinutesWatched": 31,
     "averageViewDuration": 24,
     "averageViewPercentage": 101.81,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 251,
+    "vues": 249,
     "engagees": 66,
-    "pct": 26.3
+    "pct": 26.5
    },
    "miniature_7j": {
     "impressions": 150,
@@ -668,7 +668,7 @@
    "duree_s": 25,
    "format": "short",
    "statut": "public",
-   "vues": 1133,
+   "vues": 1134,
    "likes": 18,
    "commentaires": 2,
    "analytics_28j": {
@@ -695,7 +695,7 @@
    "duree_s": 310,
    "format": "longue",
    "statut": "public",
-   "vues": 42,
+   "vues": 43,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
@@ -896,16 +896,16 @@
    "likes": 10,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 394,
+    "views": 395,
     "estimatedMinutesWatched": 46,
     "averageViewDuration": 15,
     "averageViewPercentage": 55.010000000000005,
     "subscribersGained": 1
    },
    "restes": {
-    "vues": 394,
+    "vues": 395,
     "engagees": 152,
-    "pct": 38.6
+    "pct": 38.5
    },
    "miniature_7j": {
     "impressions": 120,
@@ -1000,7 +1000,7 @@
    "duree_s": 26,
    "format": "short",
    "statut": "public",
-   "vues": 118,
+   "vues": 120,
    "likes": 4,
    "commentaires": 1,
    "analytics_28j": {
@@ -1345,7 +1345,7 @@
     "views": 474,
     "estimatedMinutesWatched": 22,
     "averageViewDuration": 7,
-    "averageViewPercentage": 44.23,
+    "averageViewPercentage": 44.07,
     "subscribersGained": 0
    },
    "restes": {
@@ -1473,14 +1473,14 @@
    "duree_s": 30,
    "format": "short",
    "statut": "public",
-   "vues": 667,
+   "vues": 668,
    "likes": 3,
    "commentaires": 1,
    "analytics_28j": {
     "views": 667,
     "estimatedMinutesWatched": 47,
     "averageViewDuration": 13,
-    "averageViewPercentage": 44.12,
+    "averageViewPercentage": 43.98,
     "subscribersGained": 0
    },
    "restes": {
@@ -1500,7 +1500,7 @@
    "duree_s": 489,
    "format": "longue",
    "statut": "public",
-   "vues": 114,
+   "vues": 115,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
@@ -1640,8 +1640,8 @@
    },
    "depuis_shorts": "indisponible (400)",
    "miniature_7j": {
-    "impressions": 588,
-    "ctr": 3.23
+    "impressions": 466,
+    "ctr": 3.65
    }
   }
  ],
@@ -1659,31 +1659,31 @@
   "HASHTAGS": 1
  },
  "monetisation": {
-  "vues_shorts_90j": 9082,
+  "vues_shorts_90j": 9046,
   "heures_longues_365j": 5.6
  },
  "reporting": {
-  "rapports_disponibles": 9
+  "rapports_disponibles": 8
  },
  "pilotage": {
   "evolution_24h": {
-   "depuis": "2026-11-08",
+   "depuis": "2026-11-09",
    "abonnes": 0,
-   "vues": 739
+   "vues": 114
   },
   "evolution_7j": null,
   "shorts_par_jour_7j": {
-   "2026-11-03": 6,
    "2026-11-04": 7,
    "2026-11-05": 6,
    "2026-11-06": 4,
    "2026-11-07": 3,
    "2026-11-08": 2,
-   "2026-11-09": 5
+   "2026-11-09": 5,
+   "2026-11-10": 1
   },
   "doublons": [],
   "alertes": [
-   "Trop de Shorts le même jour (max conseillé 3) : 2026-11-03 → 6, 2026-11-04 → 7, 2026-11-05 → 6, 2026-11-06 → 4, 2026-11-09 → 5"
+   "Trop de Shorts le même jour (max conseillé 3) : 2026-11-04 → 7, 2026-11-05 → 6, 2026-11-06 → 4, 2026-11-09 → 5"
   ]
  }
 }
