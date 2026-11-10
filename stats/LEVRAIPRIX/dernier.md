@@ -1,4 +1,4 @@
-# Le Vrai Prix — 2026-11-10 08:16 UTC
+# Le Vrai Prix — 2026-11-10 13:33 UTC
 
 Abonnés : 13 · vues totales : 10187
 
@@ -8,7 +8,7 @@ Abonnés : 13 · vues totales : 10187
 
 - Sur 24 h : +0 abonnés, +114 vues (depuis le 2026-11-09)
 - Sur 7 jours : pas encore assez d'historique
-- Shorts publiés par jour : 11-04 7, 11-05 6, 11-06 4, 11-07 3, 11-08 2, 11-09 5, 11-10 1
+- Shorts publiés par jour : 11-04 7, 11-05 6, 11-06 4, 11-07 3, 11-08 2, 11-09 5, 11-10 2
 
 **Seuils de monétisation** (il faut les abonnés ET l'un des deux autres)
 
@@ -21,11 +21,12 @@ Sources de trafic (28 j) : SHORTS 8583, YT_SEARCH 228, YT_CHANNEL 124, ACCUEIL_N
 
 | Publiée | Format | Titre | Vues | Restés | Durée moy. | % regardé | Abonnés + | Impressions 7 j | Clic |
 |---|---|---|---|---|---|---|---|---|---|
-| 2026-11-10 | short | Ton café à 10 centimes la tasse #shorts | 2 |  | 0 s | 0 % |  |  |  |
+| 2026-11-10 | short | Combien vaut le café dans ta capsule ? #shorts | 1 |  | 0 s | 0 % |  |  |  |
+| 2026-11-10 | short | Ton café à 10 centimes la tasse #shorts | 34 |  | 0 s | 0 % |  |  |  |
 | 2026-11-09 | short | Facture d'électricité de 100 € : l'électricité, c'est combie | 9 |  | 0 s | 0 % |  |  |  |
 | 2026-11-09 | short | Il a inventé la capsule… et Nestlé l'a poussé dehors #shorts | 20 |  | 0 s | 0 % |  |  |  |
-| 2026-11-09 | short | Spotify : l'artiste touche combien quand tu l'écoutes ? #sho | 31 |  | 0 s | 0 % |  |  |  |
-| 2026-11-09 | short | Avant d'être du chocolat, le cacao fermente 5 jours #shorts | 32 |  | 0 s | 0 % |  | 117 |  |
+| 2026-11-09 | short | Spotify : l'artiste touche combien quand tu l'écoutes ? #sho | 32 |  | 0 s | 0 % |  |  |  |
+| 2026-11-09 | short | Avant d'être du chocolat, le cacao fermente 5 jours #shorts | 38 |  | 0 s | 0 % |  | 117 |  |
 | 2026-11-09 | short | Ta lettre à 1,52 € : le timbre a pris combien ? #shorts | 0 |  | 0 s | 0 % |  |  |  |
 | 2026-11-09 | short | Ta place de cinéma : qui touche quoi ? #shorts | 0 |  | 0 s | 0 % |  |  |  |
 | 2026-11-09 | short | Ton livre à 20 € : combien pour l'auteur ? #shorts | 0 |  | 0 s | 0 % |  |  |  |
@@ -35,13 +36,12 @@ Sources de trafic (28 j) : SHORTS 8583, YT_SEARCH 228, YT_CHANNEL 124, ACCUEIL_N
 | 2026-11-09 | short | Ton steak haché : combien pour l'éleveur ? #shorts | 0 |  | 0 s | 0 % |  |  |  |
 | 2026-11-09 | short | Ton paquet de pâtes à 95 centimes : combien de blé ? #shorts | 0 |  | 0 s | 0 % |  |  |  |
 | 2026-11-09 | short | Ta brique de lait : qui garde l'argent ? #shorts | 0 |  | 0 s | 0 % |  |  |  |
-| 2026-11-09 | short | L'État gagne combien sur ta capsule ? #shorts | 34 |  | 0 s | 0 % |  |  |  |
+| 2026-11-09 | short | L'État gagne combien sur ta capsule ? #shorts | 36 |  | 0 s | 0 % |  |  |  |
 | 2026-11-08 | short | Pourquoi les capsules compatibles coûtent moins cher #shorts | 22 |  | 0 s | 0 % |  |  |  |
 | 2026-11-08 | short | 3 groupes vendent 81 % de ton café #shorts | 1 |  | 0 s | 0 % |  |  |  |
 | 2026-11-08 | short | Le café a baissé de 31 %. Et ton paquet ? #shorts | 0 |  | 0 s | 0 % |  |  |  |
 | 2026-11-08 | short | Le café a doublé : les producteurs sont riches ? #shorts | 2 |  | 0 s | 0 % |  |  |  |
-| 2026-11-08 | short | Combien vaut le café dans ta capsule ? #shorts | 1 |  | 0 s | 0 % |  |  |  |
-| 2026-11-08 | short | Le goût du chocolat, il vient d'où ? #shorts | 629 |  | 0 s | 0 % |  | 83 |  |
+| 2026-11-08 | short | Le goût du chocolat, il vient d'où ? #shorts | 631 |  | 0 s | 0 % |  | 83 |  |
 | 2026-11-07 | short | Le cacao a perdu près de 60 %… et ta tablette ? #shorts | 182 | 26.8 % | 11 s | 52 % | 0 | 89 |  |
 | 2026-11-07 | longue | Café en capsule : 3 fois plus cher que le moulu ? | 10 |  | 148 s | 63 % | 0 | 97 | 2.06 % |
 | 2026-11-07 | short | Le négociant garde combien sur ta tablette de chocolat ? #sh | 109 | 17.1 % | 10 s | 44 % | 0 | 128 | 1.56 % |
@@ -53,7 +53,7 @@ Sources de trafic (28 j) : SHORTS 8583, YT_SEARCH 228, YT_CHANNEL 124, ACCUEIL_N
 | 2026-11-05 | short | Ton jean à 100 € : combien pour l'ouvrière ? #shorts | 121 | 28.1 % | 16 s | 75 % | 0 | 155 | 1.29 % |
 | 2026-11-05 | short | Combien de cabosses pour UNE tablette de chocolat ? #shorts | 27 | 47.6 % | 18 s | 79 % | 0 | 276 | 2.54 % |
 | 2026-11-05 | short | Sur ton gazole, tu paies une taxe… sur une taxe ? #shorts | 149 | 22.1 % | 11 s | 55 % | 0 | 91 | 1.1 % |
-| 2026-11-05 | short | Sur un paquet de cigarettes, l'État prend combien ? #shorts | 953 | 42.4 % | 14 s | 66 % | 3 | 255 | 1.96 % |
+| 2026-11-05 | short | Sur un paquet de cigarettes, l'État prend combien ? #shorts | 954 | 42.4 % | 14 s | 66 % | 3 | 255 | 1.96 % |
 | 2026-11-05 | short | Ta tablette de chocolat est taxée à combien ? #shorts | 250 | 26.5 % | 24 s | 102 % | 0 | 150 |  |
 | 2026-11-05 | short | Le baril baisse… pourquoi pas ton plein ? #shorts | 385 | 23.8 % | 13 s | 65 % | 0 | 112 | 0.89 % |
 | 2026-11-04 | short | Ton café en capsule, tu le paies combien au kilo ? #shorts | 1134 | 32.8 % | 24 s | 97 % | 2 | 221 | 2.71 % |
@@ -71,7 +71,7 @@ Sources de trafic (28 j) : SHORTS 8583, YT_SEARCH 228, YT_CHANNEL 124, ACCUEIL_N
 | 2026-11-03 | short | Combien de cabosses pour UNE tablette de chocolat ? #shorts | 0 |  | 0 s | 0 % | 0 | 91 |  |
 | 2026-11-03 | short | Ta tablette de chocolat est taxée à combien ? #shorts | 1 | 100.0 % | 4 s | 26 % | 0 | 99 | 2.02 % |
 | 2026-11-03 | short | Une fève de cacao fraîche, ça a quel goût ? #shorts | 98 | 33.7 % | 9 s | 55 % | 0 | 410 | 3.17 % |
-| 2026-11-03 | longue | Le cacao a perdu près de 60 %… et ta tablette ? | 101 |  | 170 s | 37 % | 2 | 3648 | 1.34 % |
+| 2026-11-03 | longue | Le cacao a perdu près de 60 %… et ta tablette ? | 103 |  | 170 s | 37 % | 2 | 3648 | 1.34 % |
 | 2026-11-03 | short | Combien garde le meunier sur ta baguette ? #shorts | 91 | 37.4 % | 17 s | 30 % | 1 | 173 | 1.16 % |
 | 2026-11-03 | short | Ton pain cuit à combien de degrés ? #shorts | 476 | 18.1 % | 7 s | 44 % | 0 | 307 | 1.63 % |
 | 2026-11-03 | short | La baguette à 29 centimes : qui paie vraiment ? #shorts | 354 | 34.7 % | 20 s | 42 % | 0 | 220 | 0.91 % |
@@ -83,7 +83,7 @@ Sources de trafic (28 j) : SHORTS 8583, YT_SEARCH 228, YT_CHANNEL 124, ACCUEIL_N
 
 « Restés » = vues engagées / vues (qui n'a pas balayé le Short). Chaîne : 30.7 % sur 28 Shorts de 50 vues et plus. Repère : les Shorts qui décollent sont à 70 % et plus.
 
-Shorts : moyenne 182 vues. Au-dessus de la moyenne (formats à refaire) : « Ton café en capsule, tu le paies combien au kilo ? » (1134); « Ton plein se joue à 5 000 km d'ici ? #shorts » (975); « Sur un paquet de cigarettes, l'État prend combien  » (953); « Ta tablette de chocolat : combien pour le planteur » (734); « Le vrai prix du blé dans ta baguette ? #shorts » (668); « Le goût du chocolat, il vient d'où ? #shorts » (629); « Ton pain cuit à combien de degrés ? #shorts » (476); « Un iPhone coûte combien à fabriquer ? #shorts » (395); « Le baril baisse… pourquoi pas ton plein ? #shorts » (385); « La baguette à 29 centimes : qui paie vraiment ? #s » (354); « Pourquoi ton chocolat fait « clac » quand tu le ca » (284); « Ta station gagne combien sur ton litre ? #shorts » (284); « Ta tablette de chocolat est taxée à combien ? #sho » (250); « 3 gestes pour payer ton plein moins cher #shorts » (246); « Combien de pâte crue pour UNE baguette ? #shorts » (214); « Pourquoi le gazole coûte plus cher que l'essence ? » (202); « Sur ton plein de 50 litres, l'État prend combien ? » (184); « Le cacao a perdu près de 60 %… et ta tablette ? #s » (182)
+Shorts : moyenne 183 vues. Au-dessus de la moyenne (formats à refaire) : « Ton café en capsule, tu le paies combien au kilo ? » (1134); « Ton plein se joue à 5 000 km d'ici ? #shorts » (975); « Sur un paquet de cigarettes, l'État prend combien  » (954); « Ta tablette de chocolat : combien pour le planteur » (734); « Le vrai prix du blé dans ta baguette ? #shorts » (668); « Le goût du chocolat, il vient d'où ? #shorts » (631); « Ton pain cuit à combien de degrés ? #shorts » (476); « Un iPhone coûte combien à fabriquer ? #shorts » (395); « Le baril baisse… pourquoi pas ton plein ? #shorts » (385); « La baguette à 29 centimes : qui paie vraiment ? #s » (354); « Pourquoi ton chocolat fait « clac » quand tu le ca » (284); « Ta station gagne combien sur ton litre ? #shorts » (284); « Ta tablette de chocolat est taxée à combien ? #sho » (250); « 3 gestes pour payer ton plein moins cher #shorts » (246); « Combien de pâte crue pour UNE baguette ? #shorts » (214); « Pourquoi le gazole coûte plus cher que l'essence ? » (202); « Sur ton plein de 50 litres, l'État prend combien ? » (184)
 
 ### D'où viennent les vues des vidéos longues (depuis la sortie)
 - « Café en capsule : 3 fois plus cher que le moulu ? » : YT_CHANNEL 2, YT_OTHER_PAGE 2, YT_SEARCH 1, RELATED_VIDEO 1, NO_LINK_OTHER 0

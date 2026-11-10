@@ -1,6 +1,6 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-10T08:16:49.451335+00:00",
+ "date": "2026-11-10T13:33:58.020086+00:00",
  "abonnes": 13,
  "vues_totales": 10187,
  "autorisations": [
@@ -16,15 +16,27 @@
  ],
  "videos": [
   {
+   "id": "7yk3_5zZXeY",
+   "titre": "Combien vaut le café dans ta capsule ? #shorts",
+   "publie": "2026-11-10T11:30:23Z",
+   "duree_s": 16,
+   "format": "short",
+   "statut": "public",
+   "vues": 1,
+   "likes": 1,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
    "id": "bM7SiBBigNk",
    "titre": "Ton café à 10 centimes la tasse #shorts",
    "publie": "2026-11-10T07:00:39Z",
    "duree_s": 17,
    "format": "short",
    "statut": "public",
-   "vues": 2,
+   "vues": 34,
    "likes": 0,
-   "commentaires": 0,
+   "commentaires": 1,
    "analytics_28j": null
   },
   {
@@ -58,7 +70,7 @@
    "duree_s": 27,
    "format": "short",
    "statut": "public",
-   "vues": 31,
+   "vues": 32,
    "likes": 2,
    "commentaires": 1,
    "analytics_28j": null
@@ -70,7 +82,7 @@
    "duree_s": 16,
    "format": "short",
    "statut": "public",
-   "vues": 32,
+   "vues": 38,
    "likes": 0,
    "commentaires": 0,
    "analytics_28j": null,
@@ -194,7 +206,7 @@
    "duree_s": 18,
    "format": "short",
    "statut": "public",
-   "vues": 34,
+   "vues": 36,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": null
@@ -248,25 +260,13 @@
    "analytics_28j": null
   },
   {
-   "id": "7yk3_5zZXeY",
-   "titre": "Combien vaut le café dans ta capsule ? #shorts",
-   "publie": "2026-11-08T21:29:42Z",
-   "duree_s": 16,
-   "format": "short",
-   "statut": "private",
-   "vues": 1,
-   "likes": 1,
-   "commentaires": 0,
-   "analytics_28j": null
-  },
-  {
    "id": "eWnhl_g9Fb4",
    "titre": "Le goût du chocolat, il vient d'où ? #shorts",
    "publie": "2026-11-08T11:30:04Z",
    "duree_s": 21,
    "format": "short",
    "statut": "public",
-   "vues": 629,
+   "vues": 631,
    "likes": 9,
    "commentaires": 1,
    "analytics_28j": null,
@@ -587,7 +587,7 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 953,
+   "vues": 954,
    "likes": 26,
    "commentaires": 1,
    "analytics_28j": {
@@ -1168,7 +1168,7 @@
    "duree_s": 465,
    "format": "longue",
    "statut": "public",
-   "vues": 101,
+   "vues": 103,
    "likes": 3,
    "commentaires": 1,
    "analytics_28j": {
@@ -1679,7 +1679,7 @@
    "2026-11-07": 3,
    "2026-11-08": 2,
    "2026-11-09": 5,
-   "2026-11-10": 1
+   "2026-11-10": 2
   },
   "doublons": [],
   "alertes": [
