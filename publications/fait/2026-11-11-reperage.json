@@ -1,0 +1,304 @@
+{
+ "action": "chercher",
+ "chaine": "LEVRAIPRIX",
+ "jours": 2,
+ "titre": "Repérage du jour",
+ "requetes": [
+  "prix carburant gazole essence",
+  "prix du café",
+  "prix du chocolat Noël",
+  "prix des courses supermarché",
+  "prix électricité facture",
+  "prix du timbre La Poste",
+  "prix du lait pâtes steak",
+  "prix médicaments lunettes"
+ ],
+ "resultat": {
+  "resultats": {
+   "prix carburant gazole essence": [
+    {
+     "id": "qrfXHTJire8",
+     "titre": "Gabon : hausse des prix du carburant à la pompe depuis le 1er novembre",
+     "chaine": "Mplus Africa",
+     "publie": "2026-11-09T12:30:27Z",
+     "duree": "PT55S",
+     "vues": 111,
+     "commentaires": "0"
+    },
+    {
+     "id": "EqPdE-kGL7Q",
+     "titre": "Grèves et Blocages : Vers une Flambée du Carburant en France ? ⛽💥 #shorts  #essence #diesel",
+     "chaine": "Mister Margin — Business Explained",
+     "publie": "2026-11-10T16:03:14Z",
+     "duree": "PT1M24S",
+     "vues": 1,
+     "commentaires": "0"
+    },
+    {
+     "id": "OePBMjhG7VI",
+     "titre": "Les prix du carburant au Portugal vont s'effondrer: le nouveau tarif va surprendre les conducteurs",
+     "chaine": "ACTUALITÉS DE LISBONNE",
+     "publie": "2026-11-09T20:00:11Z",
+     "duree": "PT22S",
+     "vues": 2,
+     "commentaires": "0"
+    }
+   ],
+   "prix du café": [
+    {
+     "id": "hM4g5Yz2ea8",
+     "titre": "Verstappen Does It AGAIN | 2026 São Paulo GP Review",
+     "chaine": "Race Day Café",
+     "publie": "2026-11-10T00:31:39Z",
+     "duree": "PT11M14S",
+     "vues": 79290,
+     "commentaires": "271"
+    },
+    {
+     "id": "rXtffD5GmGY",
+     "titre": "Le vrai prix du café à la maison (capsules, grains, filtre…)",
+     "chaine": "Cafelista",
+     "publie": "2026-11-09T16:57:53Z",
+     "duree": "PT11M44S",
+     "vues": 30858,
+     "commentaires": "98"
+    },
+    {
+     "id": "oG9P-J0mMSk",
+     "titre": "Coffee lovers, this one’s for you! ☕😍",
+     "chaine": "Jessica May",
+     "publie": "2026-11-10T15:56:52Z",
+     "duree": "PT38S",
+     "vues": 6069,
+     "commentaires": "3"
+    },
+    {
+     "id": "nT4akvNQ7Qs",
+     "titre": "Mercado do Café: Dólar a R$5,50 Salva a Exportação?",
+     "chaine": "Paracatu Rural - Canal do Agronegócio ™",
+     "publie": "2026-11-10T08:00:09Z",
+     "duree": "PT7M18S",
+     "vues": 2051,
+     "commentaires": "2"
+    },
+    {
+     "id": "x8l6Vxw8siY",
+     "titre": "Ce café à 3 € lui a coûté 6 600 € ☕😳",
+     "chaine": "Max compte ses sous",
+     "publie": "2026-11-09T17:00:11Z",
+     "duree": "PT33S",
+     "vues": 1572,
+     "commentaires": "0"
+    },
+    {
+     "id": "oDnMoR2mIUw",
+     "titre": "Café: o que esperar dos preços daqui para frente?",
+     "chaine": "Sicredi",
+     "publie": "2026-11-10T15:15:09Z",
+     "duree": "PT2M8S",
+     "vues": 1039,
+     "commentaires": "0"
+    },
+    {
+     "id": "fnxh9hYXSmU",
+     "titre": "I Weighed ₹230 Coffee Pouch vs ₹230 Bottle. Here’s the Truth",
+     "chaine": "S.G Create ",
+     "publie": "2026-11-10T14:46:18Z",
+     "duree": "PT2M58S",
+     "vues": 3383,
+     "commentaires": "4"
+    },
+    {
+     "id": "KVexMlNFPeY",
+     "titre": "Why The $200 Billion Coffee Industry Needs A Genetic Makeover",
+     "chaine": "Forbes",
+     "publie": "2026-11-09T22:03:02Z",
+     "duree": "PT32M32S",
+     "vues": 3212,
+     "commentaires": "3"
+    },
+    {
+     "id": "hQcHsHmxUbI",
+     "titre": "CAFÉ: PRECIOS DEL CAFÉ EN COLOMBIA – Lunes 9 de noviembre de 2026 #precioscafe",
+     "chaine": "PERIÓDICO AGRICULTURA & GANADERÍA",
+     "publie": "2026-11-09T23:29:22Z",
+     "duree": "PT1M53S",
+     "vues": 688,
+     "commentaires": "3"
+    },
+    {
+     "id": "qYpMS4CFIQU",
+     "titre": "카페 갈 필요 없이 박스째 쟁여두는 미친 커피의 정체 😱\"",
+     "chaine": "예능다시보기",
+     "publie": "2026-11-10T01:30:18Z",
+     "duree": "PT30S",
+     "vues": 1069,
+     "commentaires": "0"
+    },
+    {
+     "id": "rb0xxWlwYcw",
+     "titre": "FS25 Coffee Setup That TRIPLES Your Harvest Value!!!",
+     "chaine": "Farm Sim Bob",
+     "publie": "2026-11-10T14:00:34Z",
+     "duree": "PT47S",
+     "vues": 637,
+     "commentaires": "0"
+    },
+    {
+     "id": "cV8GOAnzSmg",
+     "titre": "Este café te sale a 130 € el kilo #Shorts",
+     "chaine": "TacanIA",
+     "publie": "2026-11-10T16:47:58Z",
+     "duree": "PT30S",
+     "vues": 921,
+     "commentaires": "0"
+    },
+    {
+     "id": "XHcLqaM4ySY",
+     "titre": "Asi cerró el precio del café hoy 11 de noviembre #cafe #preciodelcafe",
+     "chaine": "Caffer",
+     "publie": "2026-11-09T21:55:39Z",
+     "duree": "PT28S",
+     "vues": 369,
+     "commentaires": "0"
+    },
+    {
+     "id": "c8RvsAaU0kU",
+     "titre": "A $9 coffee isn't the cafe's fault #Shorts",
+     "chaine": "Smash Property Investing",
+     "publie": "2026-11-10T08:00:05Z",
+     "duree": "PT39S",
+     "vues": 279,
+     "commentaires": "0"
+    },
+    {
+     "id": "_vt-dpLHrRo",
+     "titre": "Maior produtor do mundo, e o café quase dobrou. Por quê? #shorts",
+     "chaine": "Dinheiro Documentado",
+     "publie": "2026-11-10T23:00:33Z",
+     "duree": "PT51S",
+     "vues": 239,
+     "commentaires": "0"
+    }
+   ],
+   "prix du chocolat Noël": [],
+   "prix des courses supermarché": [
+    {
+     "id": "GlX3g8ilhfk",
+     "titre": "Le même panier dans 10 supermarchés : quelle différence de prix ?",
+     "chaine": "Sophie Investit",
+     "publie": "2026-11-09T18:00:25Z",
+     "duree": "PT22M47S",
+     "vues": 528,
+     "commentaires": "2"
+    },
+    {
+     "id": "KbXqxZJdkY8",
+     "titre": "Arabic Supermarket and Grocery Shopping Phrases (for Beginners)",
+     "chaine": "Learn Egyptian Arabic with Eslam Badawy",
+     "publie": "2026-11-10T16:23:10Z",
+     "duree": "PT5M7S",
+     "vues": 376,
+     "commentaires": "8"
+    }
+   ],
+   "prix électricité facture": [
+    {
+     "id": "Pocc3oQcXHU",
+     "titre": "Tu paies 130 € par an pour une électricité qui ne vaut rien #shorts  #économie",
+     "chaine": "Sous le Tapis",
+     "publie": "2026-11-10T06:30:24Z",
+     "duree": "PT47S",
+     "vues": 661,
+     "commentaires": "1"
+    },
+    {
+     "id": "bFK6nHrzQZU",
+     "titre": "Factures d’énergie : 1 Français sur 3 en difficulté",
+     "chaine": "Le Prix Caché",
+     "publie": "2026-11-09T12:43:55Z",
+     "duree": "PT48S",
+     "vues": 30,
+     "commentaires": "0"
+    },
+    {
+     "id": "5YGCmiaHnbg",
+     "titre": "Pourquoi l’électricité est-elle si chère en France alors qu’on a le nucléaire ? (La vraie facture)",
+     "chaine": "Le Conseiller Discret",
+     "publie": "2026-11-09T17:40:23Z",
+     "duree": "PT23M9S",
+     "vues": 66,
+     "commentaires": "0"
+    },
+    {
+     "id": "aI0LCOZw0U8",
+     "titre": "Facture d'électricité de 100 € : l'électricité, c'est combien ? #shorts",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-09T20:00:27Z",
+     "duree": "PT27S",
+     "vues": 14,
+     "commentaires": "1"
+    },
+    {
+     "id": "TLxh9O9xcAk",
+     "titre": "Your Power Bill Is Paying for Big Tech's AI (Here's How Much)",
+     "chaine": "MICRO MINT",
+     "publie": "2026-11-09T17:00:20Z",
+     "duree": "PT9M35S",
+     "vues": 4,
+     "commentaires": "0"
+    },
+    {
+     "id": "_k0uRroRds8",
+     "titre": "Does Solar Actually Raise Your Electricity Bill? MIT Has New Answers | Solar Coaster Podcast",
+     "chaine": "Solar Coaster Book",
+     "publie": "2026-11-10T10:00:29Z",
+     "duree": "PT21M42S",
+     "vues": 24,
+     "commentaires": "0"
+    },
+    {
+     "id": "hx3zJEh1Lkk",
+     "titre": "Your Electric Bill Is Paying for Data Centers That Aren't Built",
+     "chaine": "Footnote Sleuth",
+     "publie": "2026-11-09T19:00:04Z",
+     "duree": "PT17M46S",
+     "vues": 3,
+     "commentaires": "0"
+    },
+    {
+     "id": "RRlqXAnNiJ8",
+     "titre": "Nucléaire à 6 centimes, facture à 25 : où passe la différence ? #shorts",
+     "chaine": "À tort ou à raison",
+     "publie": "2026-11-11T07:00:43Z",
+     "duree": "PT1M8S",
+     "vues": 158,
+     "commentaires": "1"
+    },
+    {
+     "id": "5vrntGAFnjE",
+     "titre": "Tempo BLEU demain : la facture respire",
+     "chaine": "Watt Else ?",
+     "publie": "2026-11-10T17:41:02Z",
+     "duree": "PT33S",
+     "vues": 223,
+     "commentaires": "1"
+    }
+   ],
+   "prix du timbre La Poste": [
+    {
+     "id": "MfV2RSdfYds",
+     "titre": "Top 3 Rare Queen Elizabeth II UK Stamps Worth Millions Today? Market Value & Price Guide 2026",
+     "chaine": "Stamps Old World UK",
+     "publie": "2026-11-09T13:53:35Z",
+     "duree": "PT9M11S",
+     "vues": 243,
+     "commentaires": "1"
+    }
+   ],
+   "prix du lait pâtes steak": [],
+   "prix médicaments lunettes": []
+  },
+  "envoye_le": "2026-11-11T10:44:23.684434+00:00"
+ }
+}
