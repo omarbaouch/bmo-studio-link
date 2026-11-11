@@ -1,6 +1,6 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-11T08:15:51.826183+00:00",
+ "date": "2026-11-11T12:47:30.702154+00:00",
  "abonnes": 13,
  "vues_totales": 10394,
  "autorisations": [
@@ -16,15 +16,37 @@
  ],
  "videos": [
   {
+   "id": "227UsJPqg-c",
+   "titre": "Le café a baissé de 31 %. Et ton paquet ? #shorts",
+   "publie": "2026-11-11T11:30:07Z",
+   "duree_s": 19,
+   "format": "short",
+   "statut": "public",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": {
+    "views": 0,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 0,
+    "averageViewPercentage": 0,
+    "subscribersGained": 0
+   },
+   "miniature_7j": {
+    "impressions": 14,
+    "ctr": 0.0
+   }
+  },
+  {
    "id": "aLZl-k4CICE",
    "titre": "Le café a doublé : les producteurs sont riches ? #shorts",
    "publie": "2026-11-11T07:00:19Z",
    "duree_s": 16,
    "format": "short",
    "statut": "public",
-   "vues": 2,
+   "vues": 7,
    "likes": 0,
-   "commentaires": 0,
+   "commentaires": 1,
    "analytics_28j": {
     "views": 2,
     "estimatedMinutesWatched": 0,
@@ -49,7 +71,7 @@
    "duree_s": 16,
    "format": "short",
    "statut": "public",
-   "vues": 12,
+   "vues": 14,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
@@ -87,7 +109,7 @@
    "duree_s": 27,
    "format": "short",
    "statut": "public",
-   "vues": 13,
+   "vues": 14,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": null
@@ -115,7 +137,7 @@
    "duree_s": 27,
    "format": "short",
    "statut": "public",
-   "vues": 44,
+   "vues": 48,
    "likes": 2,
    "commentaires": 1,
    "analytics_28j": null
@@ -326,35 +348,13 @@
    }
   },
   {
-   "id": "227UsJPqg-c",
-   "titre": "Le café a baissé de 31 %. Et ton paquet ? #shorts",
-   "publie": "2026-11-08T21:29:58Z",
-   "duree_s": 19,
-   "format": "short",
-   "statut": "private",
-   "vues": 0,
-   "likes": 0,
-   "commentaires": 0,
-   "analytics_28j": {
-    "views": 0,
-    "estimatedMinutesWatched": 0,
-    "averageViewDuration": 0,
-    "averageViewPercentage": 0,
-    "subscribersGained": 0
-   },
-   "miniature_7j": {
-    "impressions": 14,
-    "ctr": 0.0
-   }
-  },
-  {
    "id": "eWnhl_g9Fb4",
    "titre": "Le goût du chocolat, il vient d'où ? #shorts",
    "publie": "2026-11-08T11:30:04Z",
    "duree_s": 21,
    "format": "short",
    "statut": "public",
-   "vues": 632,
+   "vues": 633,
    "likes": 9,
    "commentaires": 1,
    "analytics_28j": {
@@ -509,9 +509,9 @@
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 248,
+    "vues": 246,
     "engagees": 63,
-    "pct": 25.4
+    "pct": 25.6
    },
    "miniature_7j": {
     "impressions": 148,
@@ -563,9 +563,9 @@
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 198,
+    "vues": 199,
     "engagees": 86,
-    "pct": 43.4
+    "pct": 43.2
    },
    "miniature_7j": {
     "impressions": 169,
@@ -714,7 +714,7 @@
    "duree_s": 24,
    "format": "short",
    "statut": "public",
-   "vues": 250,
+   "vues": 251,
    "likes": 6,
    "commentaires": 1,
    "analytics_28j": {
@@ -1245,7 +1245,7 @@
    "duree_s": 18,
    "format": "short",
    "statut": "public",
-   "vues": 99,
+   "vues": 101,
    "likes": 2,
    "commentaires": 1,
    "analytics_28j": {
@@ -1443,7 +1443,7 @@
    "duree_s": 18,
    "format": "short",
    "statut": "public",
-   "vues": 476,
+   "vues": 477,
    "likes": 4,
    "commentaires": 1,
    "analytics_28j": {
@@ -1578,7 +1578,7 @@
    "duree_s": 30,
    "format": "short",
    "statut": "public",
-   "vues": 668,
+   "vues": 669,
    "likes": 3,
    "commentaires": 1,
    "analytics_28j": {
@@ -1605,7 +1605,7 @@
    "duree_s": 489,
    "format": "longue",
    "statut": "public",
-   "vues": 119,
+   "vues": 120,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
@@ -1784,7 +1784,7 @@
    "2026-11-08": 2,
    "2026-11-09": 5,
    "2026-11-10": 2,
-   "2026-11-11": 1
+   "2026-11-11": 2
   },
   "doublons": [],
   "alertes": [
