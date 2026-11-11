@@ -1,0 +1,15 @@
+{
+ "action": "commenter",
+ "chaine": "LEVRAIPRIX",
+ "titre": "Commentaire du jour (Cafelista)",
+ "videos": [
+  "rXtffD5GmGY"
+ ],
+ "commentaire": "Le comparatif capsules / grains / filtre fait vraiment réfléchir. Et si on remonte à la bourse : avec l'arabica autour de 2,80 $ la livre début novembre, le café contenu dans une capsule de 5 g vaut à peine 3 centimes, pour une capsule vendue entre 39 et 49 centimes.",
+ "resultat": {
+  "commentaires": {
+   "rXtffD5GmGY": "ok"
+  },
+  "envoye_le": "2026-11-11T10:45:24.290752+00:00"
+ }
+}
