@@ -1,0 +1,268 @@
+{
+ "action": "chercher",
+ "chaine": "LEVRAIPRIX",
+ "jours": 2,
+ "titre": "Repérage du jour",
+ "requetes": [
+  "Black Friday promotions arnaque prix",
+  "prix du café hausse",
+  "prix du chocolat Noël 2026",
+  "prix des courses supermarché novembre",
+  "prix carburant essence gazole",
+  "facture électricité prix",
+  "prix du lait éleveurs",
+  "prix médicaments pharmacie"
+ ],
+ "resultat": {
+  "resultats": {
+   "Black Friday promotions arnaque prix": [
+    {
+     "id": "jcHficJNylk",
+     "titre": "🎬 Cette promo a été préparée en octobre · Black Friday sans piège 1/4 — Le prix gonflé avant",
+     "chaine": "RadarPromo",
+     "publie": "2026-11-10T18:08:18Z",
+     "duree": "PT26S",
+     "vues": 818,
+     "commentaires": "0"
+    },
+    {
+     "id": "RedcQsxi52w",
+     "titre": "Why Black Friday Is a Scam (And We Still Fall For It)",
+     "chaine": "Bleep Bloop TV",
+     "publie": "2026-11-10T13:15:53Z",
+     "duree": "PT8M19S",
+     "vues": 54,
+     "commentaires": "0"
+    },
+    {
+     "id": "yFNBbO_T5Do",
+     "titre": "5 pièges du Black Friday à éviter : faux prix barré, livraison cachée, code promo… #blackfriday",
+     "chaine": "PHYRENX ",
+     "publie": "2026-11-10T14:18:27Z",
+     "duree": "PT35S",
+     "vues": 60,
+     "commentaires": "0"
+    },
+    {
+     "id": "qUE6AwD-TDU",
+     "titre": "1. BLACK FRIDAY : L'arnaque des faux rabais dévoilée ! 🛑💸",
+     "chaine": "DJ LUMEN OFFICIEL ",
+     "publie": "2026-11-10T16:50:04Z",
+     "duree": "PT1M9S",
+     "vues": 32,
+     "commentaires": "0"
+    },
+    {
+     "id": "UPxzCjEfSmI",
+     "titre": "Black Friday : -70 %… de QUOI ? (le piège des prix barrés)",
+     "chaine": "La Vie en Test",
+     "publie": "2026-11-10T19:38:50Z",
+     "duree": "PT6M48S",
+     "vues": 2,
+     "commentaires": "0"
+    },
+    {
+     "id": "4TiITnsPRMc",
+     "titre": "−60 % sur le casque que tu veux. Le prix barré a été gonflé exprès.",
+     "chaine": "Ça sent l’arnaque",
+     "publie": "2026-11-11T21:43:39Z",
+     "duree": "PT1M9S",
+     "vues": 537,
+     "commentaires": "0"
+    }
+   ],
+   "prix du café hausse": [],
+   "prix du chocolat Noël 2026": [],
+   "prix des courses supermarché novembre": [],
+   "prix carburant essence gazole": [
+    {
+     "id": "Ud93DSWKk_A",
+     "titre": "Carburants : les prix baissent mais pour combien de temps ? • FRANCE 24",
+     "chaine": "FRANCE 24",
+     "publie": "2026-11-11T08:42:56Z",
+     "duree": "PT4M50S",
+     "vues": 4072,
+     "commentaires": "2"
+    },
+    {
+     "id": "jimNCN45cas",
+     "titre": "Le prix de l’essence est devenu trop cher ! 😱 ثمن ليصانص غالي بزاف",
+     "chaine": "Yallaho M3ana - Zahra wa Mohammed",
+     "publie": "2026-11-10T14:57:37Z",
+     "duree": "PT10S",
+     "vues": 1607,
+     "commentaires": "19"
+    },
+    {
+     "id": "x8thneJGjxM",
+     "titre": "Prix du carburant : sur 100 € de plein, qui prend quoi ?",
+     "chaine": "Le Vrai Coût",
+     "publie": "2026-11-10T14:00:03Z",
+     "duree": "PT8M38S",
+     "vues": 24,
+     "commentaires": "0"
+    },
+    {
+     "id": "4C4_0zWKONM",
+     "titre": "Gazole : pourquoi le prix a déjà baissé de près de 20 centimes",
+     "chaine": "NOVACTIS",
+     "publie": "2026-11-11T16:16:47Z",
+     "duree": "PT4M27S",
+     "vues": 2,
+     "commentaires": "0"
+    },
+    {
+     "id": "Vqz52CuRBTQ",
+     "titre": "PRIX CARBURANT CEMAC : POURQUOI LA RCA ET LE CAMEROUN FLAMBENT",
+     "chaine": "Afrique Média Digital",
+     "publie": "2026-11-11T12:04:18Z",
+     "duree": "PT1M4S",
+     "vues": 6,
+     "commentaires": "0"
+    },
+    {
+     "id": "EqPdE-kGL7Q",
+     "titre": "Grèves et Blocages : Vers une Flambée du Carburant en France ? ⛽💥 #shorts  #essence #diesel",
+     "chaine": "Mister Margin — Business Explained",
+     "publie": "2026-11-10T16:03:14Z",
+     "duree": "PT1M24S",
+     "vues": 1,
+     "commentaires": "0"
+    }
+   ],
+   "facture électricité prix": [
+    {
+     "id": "GU4u61n-_Ic",
+     "titre": "8p vs 33p — How I Slashed My Electric Bill",
+     "chaine": "Life's Little Hacks",
+     "publie": "2026-11-11T12:15:54Z",
+     "duree": "PT7M19S",
+     "vues": 3676,
+     "commentaires": "5"
+    },
+    {
+     "id": "5vrntGAFnjE",
+     "titre": "Tempo BLEU demain : la facture respire",
+     "chaine": "Watt Else ?",
+     "publie": "2026-11-10T17:41:02Z",
+     "duree": "PT33S",
+     "vues": 256,
+     "commentaires": "1"
+    },
+    {
+     "id": "9eWJst5SxXQ",
+     "titre": "513 h de prix négatifs : pourquoi ta facture ne baisse pas",
+     "chaine": "Watt Else ?",
+     "publie": "2026-11-11T11:30:53Z",
+     "duree": "PT1M35S",
+     "vues": 71,
+     "commentaires": "1"
+    },
+    {
+     "id": "sxfE7YVyu5w",
+     "titre": "Appareils en veille : 1 watt = 1,75 € par an. Le calcul pour chez vous",
+     "chaine": "Le Calcul Maison",
+     "publie": "2026-11-10T14:17:30Z",
+     "duree": "PT3M21S",
+     "vues": 19,
+     "commentaires": "1"
+    },
+    {
+     "id": "EtSfV6WcoKY",
+     "titre": "Électricité au tarif réglementé : ce qui a augmenté en août",
+     "chaine": "LeRat",
+     "publie": "2026-11-11T07:30:39Z",
+     "duree": "PT1M40S",
+     "vues": 25,
+     "commentaires": "0"
+    },
+    {
+     "id": "_S9HuRp1Yjk",
+     "titre": "CPI Came In Hot: Your Electric Bill #shorts",
+     "chaine": "The Common Sense Investor (CSI)",
+     "publie": "2026-11-11T02:33:10Z",
+     "duree": "PT35S",
+     "vues": 19,
+     "commentaires": "0"
+    },
+    {
+     "id": "5H_-FMOO0YY",
+     "titre": "POV: You Open Your Power Bill in 2026",
+     "chaine": "Nessy AI",
+     "publie": "2026-11-11T17:00:39Z",
+     "duree": "PT18S",
+     "vues": 15,
+     "commentaires": "0"
+    },
+    {
+     "id": "RRlqXAnNiJ8",
+     "titre": "Nucléaire à 6 centimes, facture à 25 : où passe la différence ? #shorts",
+     "chaine": "À tort ou à raison",
+     "publie": "2026-11-11T07:00:43Z",
+     "duree": "PT1M8S",
+     "vues": 219,
+     "commentaires": "1"
+    },
+    {
+     "id": "clnt0F6bOFs",
+     "titre": "La France vend son électricité 4 fois moins cher aux voisins ? #shorts",
+     "chaine": "À tort ou à raison",
+     "publie": "2026-11-11T19:00:28Z",
+     "duree": "PT1M46S",
+     "vues": 320,
+     "commentaires": "1"
+    },
+    {
+     "id": "TuVeHc5Shn4",
+     "titre": "Chauffage : pourquoi payer chaque mois ne vous évite pas une mauvaise surprise",
+     "chaine": "Lucas Calcule",
+     "publie": "2026-11-10T23:18:38Z",
+     "duree": "PT19M11S",
+     "vues": 3,
+     "commentaires": "0"
+    },
+    {
+     "id": "RJiuT7G6Pkk",
+     "titre": "Paiement hypothécaire à Gatineau: taxes, assurance et électricité ajoutent $757 par mois",
+     "chaine": "Jumo Immobilier - Courtier Immobilier Gatineau",
+     "publie": "2026-11-10T21:17:31Z",
+     "duree": "PT6S",
+     "vues": 124,
+     "commentaires": "0"
+    },
+    {
+     "id": "BfUdfCwg0xo",
+     "titre": "Réfrigérateur : faut-il le remplacer pour économiser ? Le calcul honnête",
+     "chaine": "Le Calcul Maison",
+     "publie": "2026-11-11T00:43:50Z",
+     "duree": "PT3M37S",
+     "vues": 1,
+     "commentaires": "1"
+    }
+   ],
+   "prix du lait éleveurs": [
+    {
+     "id": "fgkMdqBEBS8",
+     "titre": "Brique de lait à 1 € : combien touche VRAIMENT l'éleveur ?",
+     "chaine": "Marge Réelle",
+     "publie": "2026-11-11T12:45:29Z",
+     "duree": "PT7M12S",
+     "vues": 4,
+     "commentaires": "0"
+    }
+   ],
+   "prix médicaments pharmacie": [
+    {
+     "id": "1bMzPP-saFc",
+     "titre": "DHT19 en Pharmacie (2026) : Pourquoi Absent en Officine et Prix 49€",
+     "chaine": "dht19 FRANCE",
+     "publie": "2026-11-10T13:07:37Z",
+     "duree": "PT1M49S",
+     "vues": 8,
+     "commentaires": "2"
+    }
+   ]
+  },
+  "envoye_le": "2026-11-12T10:44:19.959341+00:00"
+ }
+}
