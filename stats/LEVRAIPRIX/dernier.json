@@ -1,8 +1,8 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-11T12:47:30.702154+00:00",
+ "date": "2026-11-12T08:14:58.411124+00:00",
  "abonnes": 13,
- "vues_totales": 10394,
+ "vues_totales": 10471,
  "autorisations": [
   "youtube",
   "youtube.channel-memberships.creator",
@@ -16,15 +16,82 @@
  ],
  "videos": [
   {
+   "id": "XjDfe8Ff5wU",
+   "titre": "Ton paquet de pâtes à 95 centimes : combien de blé ? #shorts",
+   "publie": "2026-11-12T07:00:32Z",
+   "duree_s": 24,
+   "format": "short",
+   "statut": "public",
+   "vues": 3,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null
+  },
+  {
+   "id": "4tQfKevyzCM",
+   "titre": "Black Friday : −53 % affichés, combien en vrai ?",
+   "publie": "2026-11-11T19:58:21Z",
+   "duree_s": 416,
+   "format": "longue",
+   "statut": "public",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 1,
+   "analytics_28j": null,
+   "sources": {},
+   "depuis_shorts": "indisponible (400)"
+  },
+  {
+   "id": "QtigLx-W-yE",
+   "titre": "Black Friday : −53 % affichés, combien en vrai ?",
+   "publie": "2026-11-11T19:06:07Z",
+   "duree_s": 416,
+   "format": "longue",
+   "statut": "private",
+   "vues": 1,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null,
+   "sources": {},
+   "depuis_shorts": "indisponible (400)"
+  },
+  {
+   "id": "cj7cLyirL1M",
+   "titre": "3 groupes vendent 81 % de ton café #shorts",
+   "publie": "2026-11-11T17:00:18Z",
+   "duree_s": 17,
+   "format": "short",
+   "statut": "public",
+   "vues": 4,
+   "likes": 1,
+   "commentaires": 1,
+   "analytics_28j": {
+    "views": 1,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 4,
+    "averageViewPercentage": 24.12,
+    "subscribersGained": 0
+   },
+   "restes": {
+    "vues": 1,
+    "engagees": 1,
+    "pct": 100.0
+   },
+   "miniature_7j": {
+    "impressions": 14,
+    "ctr": 0.0
+   }
+  },
+  {
    "id": "227UsJPqg-c",
    "titre": "Le café a baissé de 31 %. Et ton paquet ? #shorts",
    "publie": "2026-11-11T11:30:07Z",
    "duree_s": 19,
    "format": "short",
    "statut": "public",
-   "vues": 0,
-   "likes": 0,
-   "commentaires": 0,
+   "vues": 3,
+   "likes": 1,
+   "commentaires": 1,
    "analytics_28j": {
     "views": 0,
     "estimatedMinutesWatched": 0,
@@ -44,8 +111,8 @@
    "duree_s": 16,
    "format": "short",
    "statut": "public",
-   "vues": 7,
-   "likes": 0,
+   "vues": 17,
+   "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
     "views": 2,
@@ -71,15 +138,20 @@
    "duree_s": 16,
    "format": "short",
    "statut": "public",
-   "vues": 14,
+   "vues": 15,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 0,
+    "views": 1,
     "estimatedMinutesWatched": 0,
-    "averageViewDuration": 0,
-    "averageViewPercentage": 0,
+    "averageViewDuration": 8,
+    "averageViewPercentage": 50,
     "subscribersGained": 0
+   },
+   "restes": {
+    "vues": 1,
+    "engagees": 1,
+    "pct": 100.0
    },
    "miniature_7j": {
     "impressions": 14,
@@ -109,10 +181,21 @@
    "duree_s": 27,
    "format": "short",
    "statut": "public",
-   "vues": 14,
+   "vues": 16,
    "likes": 1,
    "commentaires": 1,
-   "analytics_28j": null
+   "analytics_28j": {
+    "views": 9,
+    "estimatedMinutesWatched": 1,
+    "averageViewDuration": 36,
+    "averageViewPercentage": 133.46,
+    "subscribersGained": 0
+   },
+   "restes": {
+    "vues": 9,
+    "engagees": 3,
+    "pct": 33.3
+   }
   },
   {
    "id": "asfTIBkZiu4",
@@ -121,10 +204,21 @@
    "duree_s": 20,
    "format": "short",
    "statut": "public",
-   "vues": 24,
+   "vues": 25,
    "likes": 1,
    "commentaires": 1,
-   "analytics_28j": null,
+   "analytics_28j": {
+    "views": 20,
+    "estimatedMinutesWatched": 1,
+    "averageViewDuration": 9,
+    "averageViewPercentage": 45.29,
+    "subscribersGained": 0
+   },
+   "restes": {
+    "vues": 20,
+    "engagees": 5,
+    "pct": 25.0
+   },
    "miniature_7j": {
     "impressions": 13,
     "ctr": 0.0
@@ -137,10 +231,21 @@
    "duree_s": 27,
    "format": "short",
    "statut": "public",
-   "vues": 48,
+   "vues": 54,
    "likes": 2,
    "commentaires": 1,
-   "analytics_28j": null
+   "analytics_28j": {
+    "views": 31,
+    "estimatedMinutesWatched": 2,
+    "averageViewDuration": 15,
+    "averageViewPercentage": 58.77,
+    "subscribersGained": 0
+   },
+   "restes": {
+    "vues": 31,
+    "engagees": 10,
+    "pct": 32.3
+   }
   },
   {
    "id": "_tko9V2uo_g",
@@ -149,12 +254,23 @@
    "duree_s": 16,
    "format": "short",
    "statut": "public",
-   "vues": 45,
+   "vues": 49,
    "likes": 0,
    "commentaires": 0,
-   "analytics_28j": null,
+   "analytics_28j": {
+    "views": 34,
+    "estimatedMinutesWatched": 1,
+    "averageViewDuration": 6,
+    "averageViewPercentage": 38.98,
+    "subscribersGained": 0
+   },
+   "restes": {
+    "vues": 34,
+    "engagees": 7,
+    "pct": 20.6
+   },
    "miniature_7j": {
-    "impressions": 138,
+    "impressions": 78,
     "ctr": 0.0
    }
   },
@@ -243,18 +359,6 @@
    "analytics_28j": null
   },
   {
-   "id": "XjDfe8Ff5wU",
-   "titre": "Ton paquet de pâtes à 95 centimes : combien de blé ? #shorts",
-   "publie": "2026-11-09T07:53:57Z",
-   "duree_s": 24,
-   "format": "short",
-   "statut": "private",
-   "vues": 0,
-   "likes": 0,
-   "commentaires": 0,
-   "analytics_28j": null
-  },
-  {
    "id": "Q4PM3JdGM7c",
    "titre": "Ta brique de lait : qui garde l'argent ? #shorts",
    "publie": "2026-11-09T07:53:52Z",
@@ -277,16 +381,16 @@
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 1,
-    "estimatedMinutesWatched": 0,
-    "averageViewDuration": 4,
-    "averageViewPercentage": 27.22,
+    "views": 34,
+    "estimatedMinutesWatched": 1,
+    "averageViewDuration": 9,
+    "averageViewPercentage": 54.47,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 1,
-    "engagees": 1,
-    "pct": 100.0
+    "vues": 34,
+    "engagees": 8,
+    "pct": 23.5
    },
    "miniature_7j": {
     "impressions": 15,
@@ -304,47 +408,20 @@
    "likes": 0,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 14,
-    "estimatedMinutesWatched": 1,
-    "averageViewDuration": 18,
-    "averageViewPercentage": 97.62,
+    "views": 22,
+    "estimatedMinutesWatched": 2,
+    "averageViewDuration": 15,
+    "averageViewPercentage": 80.13,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 14,
-    "engagees": 4,
-    "pct": 28.6
+    "vues": 22,
+    "engagees": 8,
+    "pct": 36.4
    },
    "miniature_7j": {
     "impressions": 33,
     "ctr": 3.03
-   }
-  },
-  {
-   "id": "cj7cLyirL1M",
-   "titre": "3 groupes vendent 81 % de ton café #shorts",
-   "publie": "2026-11-08T21:30:04Z",
-   "duree_s": 17,
-   "format": "short",
-   "statut": "private",
-   "vues": 1,
-   "likes": 0,
-   "commentaires": 0,
-   "analytics_28j": {
-    "views": 1,
-    "estimatedMinutesWatched": 0,
-    "averageViewDuration": 4,
-    "averageViewPercentage": 24.12,
-    "subscribersGained": 0
-   },
-   "restes": {
-    "vues": 1,
-    "engagees": 1,
-    "pct": 100.0
-   },
-   "miniature_7j": {
-    "impressions": 14,
-    "ctr": 0.0
    }
   },
   {
@@ -358,16 +435,16 @@
    "likes": 9,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 559,
-    "estimatedMinutesWatched": 44,
+    "views": 633,
+    "estimatedMinutesWatched": 49,
     "averageViewDuration": 13,
-    "averageViewPercentage": 63.35999999999999,
+    "averageViewPercentage": 63.99,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 559,
-    "engagees": 157,
-    "pct": 28.1
+    "vues": 633,
+    "engagees": 176,
+    "pct": 27.8
    },
    "miniature_7j": {
     "impressions": 168,
@@ -385,16 +462,16 @@
    "likes": 5,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 181,
+    "views": 183,
     "estimatedMinutesWatched": 12,
     "averageViewDuration": 11,
-    "averageViewPercentage": 56.61999999999999,
+    "averageViewPercentage": 55.89999999999999,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 181,
-    "engagees": 45,
-    "pct": 24.9
+    "vues": 183,
+    "engagees": 46,
+    "pct": 25.1
    },
    "miniature_7j": {
     "impressions": 141,
@@ -408,7 +485,7 @@
    "duree_s": 236,
    "format": "longue",
    "statut": "public",
-   "vues": 10,
+   "vues": 11,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
@@ -487,8 +564,8 @@
     "pct": 22.0
    },
    "miniature_7j": {
-    "impressions": 271,
-    "ctr": 0.37
+    "impressions": 199,
+    "ctr": 0.5
    }
   },
   {
@@ -498,8 +575,8 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 247,
-   "likes": 4,
+   "vues": 250,
+   "likes": 5,
    "commentaires": 1,
    "analytics_28j": {
     "views": 246,
@@ -556,16 +633,16 @@
    "likes": 6,
    "commentaires": 3,
    "analytics_28j": {
-    "views": 199,
-    "estimatedMinutesWatched": 34,
+    "views": 202,
+    "estimatedMinutesWatched": 35,
     "averageViewDuration": 22,
-    "averageViewPercentage": 101.41,
+    "averageViewPercentage": 101.62,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 199,
-    "engagees": 86,
-    "pct": 43.2
+    "vues": 202,
+    "engagees": 88,
+    "pct": 43.6
    },
    "miniature_7j": {
     "impressions": 169,
@@ -579,19 +656,19 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 975,
+   "vues": 976,
    "likes": 19,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 972,
+    "views": 975,
     "estimatedMinutesWatched": 91,
     "averageViewDuration": 14,
-    "averageViewPercentage": 64.91,
+    "averageViewPercentage": 65.01,
     "subscribersGained": 2
    },
    "restes": {
-    "vues": 972,
-    "engagees": 312,
+    "vues": 975,
+    "engagees": 313,
     "pct": 32.1
    },
    "miniature_7j": {
@@ -622,8 +699,8 @@
     "pct": 28.1
    },
    "miniature_7j": {
-    "impressions": 203,
-    "ctr": 0.99
+    "impressions": 175,
+    "ctr": 0.0
    }
   },
   {
@@ -633,20 +710,20 @@
    "duree_s": 23,
    "format": "short",
    "statut": "public",
-   "vues": 28,
+   "vues": 31,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 25,
+    "views": 27,
     "estimatedMinutesWatched": 3,
-    "averageViewDuration": 16,
-    "averageViewPercentage": 73.56,
+    "averageViewDuration": 17,
+    "averageViewPercentage": 75.92,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 25,
-    "engagees": 11,
-    "pct": 44.0
+    "vues": 27,
+    "engagees": 12,
+    "pct": 44.4
    },
    "miniature_7j": {
     "impressions": 430,
@@ -687,24 +764,24 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 954,
+   "vues": 956,
    "likes": 26,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 952,
+    "views": 953,
     "estimatedMinutesWatched": 112,
     "averageViewDuration": 14,
-    "averageViewPercentage": 66.32,
+    "averageViewPercentage": 66.39,
     "subscribersGained": 3
    },
    "restes": {
-    "vues": 952,
-    "engagees": 405,
-    "pct": 42.5
+    "vues": 953,
+    "engagees": 406,
+    "pct": 42.6
    },
    "miniature_7j": {
-    "impressions": 347,
-    "ctr": 2.02
+    "impressions": 321,
+    "ctr": 2.18
    }
   },
   {
@@ -745,16 +822,16 @@
    "likes": 6,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 388,
+    "views": 389,
     "estimatedMinutesWatched": 27,
     "averageViewDuration": 13,
-    "averageViewPercentage": 65.53,
+    "averageViewPercentage": 65.27,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 388,
-    "engagees": 92,
-    "pct": 23.7
+    "vues": 389,
+    "engagees": 93,
+    "pct": 23.9
    },
    "miniature_7j": {
     "impressions": 156,
@@ -772,20 +849,20 @@
    "likes": 18,
    "commentaires": 2,
    "analytics_28j": {
-    "views": 1132,
-    "estimatedMinutesWatched": 169,
+    "views": 1134,
+    "estimatedMinutesWatched": 170,
     "averageViewDuration": 24,
-    "averageViewPercentage": 96.76,
+    "averageViewPercentage": 96.65,
     "subscribersGained": 2
    },
    "restes": {
-    "vues": 1132,
-    "engagees": 371,
-    "pct": 32.8
+    "vues": 1134,
+    "engagees": 373,
+    "pct": 32.9
    },
    "miniature_7j": {
-    "impressions": 301,
-    "ctr": 2.33
+    "impressions": 269,
+    "ctr": 2.6
    }
   },
   {
@@ -795,41 +872,41 @@
    "duree_s": 310,
    "format": "longue",
    "statut": "public",
-   "vues": 44,
+   "vues": 47,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 42,
-    "estimatedMinutesWatched": 35,
-    "averageViewDuration": 79,
-    "averageViewPercentage": 25.72,
+    "views": 43,
+    "estimatedMinutesWatched": 40,
+    "averageViewDuration": 88,
+    "averageViewPercentage": 28.470000000000002,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 42,
-    "engagees": 26,
-    "pct": 61.9
+    "vues": 43,
+    "engagees": 27,
+    "pct": 62.8
    },
    "retention": {
-    "a_30s": 0.507,
-    "a_mi_parcours": 0.2,
-    "a_la_fin": 0.12,
+    "a_30s": 0.526,
+    "a_mi_parcours": 0.231,
+    "a_la_fin": 0.154,
     "creux": [
      {
       "vers": "0:12",
-      "perte_points": 24.0
+      "perte_points": 23.1
      },
      {
       "vers": "0:40",
-      "perte_points": 12.0
+      "perte_points": 11.5
      },
      {
       "vers": "1:48",
-      "perte_points": 4.0
+      "perte_points": 3.8
      },
      {
       "vers": "4:48",
-      "perte_points": 4.0
+      "perte_points": 3.8
      }
     ],
     "pics": [
@@ -837,92 +914,92 @@
       "vers": "0:31"
      }
     ],
-    "retention_relative_moyenne": 0.36,
+    "retention_relative_moyenne": 0.38,
     "courbe": [
      [
       0.01,
-      0.92
+      0.923
      ],
      [
       0.06,
-      0.6
+      0.615
      ],
      [
       0.11,
-      0.48
+      0.5
      ],
      [
       0.16,
-      0.36
+      0.385
      ],
      [
       0.21,
-      0.28
+      0.308
      ],
      [
       0.26,
-      0.28
+      0.308
      ],
      [
       0.31,
-      0.28
+      0.308
      ],
      [
       0.36,
-      0.24
+      0.269
      ],
      [
       0.41,
-      0.2
+      0.231
      ],
      [
       0.46,
-      0.2
+      0.231
      ],
      [
       0.51,
-      0.2
+      0.231
      ],
      [
       0.56,
-      0.2
+      0.231
      ],
      [
       0.61,
-      0.2
+      0.231
      ],
      [
       0.66,
-      0.2
+      0.231
      ],
      [
       0.71,
-      0.2
+      0.231
      ],
      [
       0.76,
-      0.2
+      0.231
      ],
      [
       0.81,
-      0.2
+      0.231
      ],
      [
       0.86,
-      0.2
+      0.231
      ],
      [
       0.91,
-      0.2
+      0.231
      ],
      [
       0.96,
-      0.16
+      0.192
      ]
     ]
    },
    "sources": {
-    "RELATED_VIDEO": 17,
+    "RELATED_VIDEO": 18,
     "SUBSCRIBER": 16,
     "NO_LINK_OTHER": 3,
     "YT_CHANNEL": 2,
@@ -969,7 +1046,7 @@
    "duree_s": 19,
    "format": "short",
    "statut": "public",
-   "vues": 94,
+   "vues": 95,
    "likes": 2,
    "commentaires": 1,
    "analytics_28j": {
@@ -985,7 +1062,7 @@
     "pct": 18.1
    },
    "miniature_7j": {
-    "impressions": 259,
+    "impressions": 187,
     "ctr": 0.0
    }
   },
@@ -1012,7 +1089,7 @@
     "pct": 38.5
    },
    "miniature_7j": {
-    "impressions": 150,
+    "impressions": 114,
     "ctr": 0.0
    }
   },
@@ -1050,19 +1127,19 @@
    "duree_s": 28,
    "format": "short",
    "statut": "public",
-   "vues": 734,
+   "vues": 735,
    "likes": 15,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 732,
+    "views": 734,
     "estimatedMinutesWatched": 70,
     "averageViewDuration": 13,
-    "averageViewPercentage": 48.71,
+    "averageViewPercentage": 48.95,
     "subscribersGained": 2
    },
    "restes": {
-    "vues": 732,
-    "engagees": 253,
+    "vues": 734,
+    "engagees": 254,
     "pct": 34.6
    },
    "miniature_7j": {
@@ -1093,8 +1170,8 @@
     "pct": 34.8
    },
    "miniature_7j": {
-    "impressions": 221,
-    "ctr": 2.26
+    "impressions": 191,
+    "ctr": 0.52
    }
   },
   {
@@ -1108,20 +1185,20 @@
    "likes": 4,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 118,
+    "views": 120,
     "estimatedMinutesWatched": 10,
     "averageViewDuration": 15,
     "averageViewPercentage": 57.75,
     "subscribersGained": 1
    },
    "restes": {
-    "vues": 118,
+    "vues": 120,
     "engagees": 32,
-    "pct": 27.1
+    "pct": 26.7
    },
    "miniature_7j": {
-    "impressions": 251,
-    "ctr": 1.2
+    "impressions": 137,
+    "ctr": 0.73
    }
   },
   {
@@ -1147,7 +1224,7 @@
     "pct": 100.0
    },
    "miniature_7j": {
-    "impressions": 83,
+    "impressions": 23,
     "ctr": 0.0
    }
   },
@@ -1169,7 +1246,7 @@
     "subscribersGained": 0
    },
    "miniature_7j": {
-    "impressions": 83,
+    "impressions": 23,
     "ctr": 0.0
    }
   },
@@ -1185,7 +1262,7 @@
    "commentaires": 0,
    "analytics_28j": null,
    "miniature_7j": {
-    "impressions": 101,
+    "impressions": 23,
     "ctr": 0.0
    }
   },
@@ -1207,35 +1284,35 @@
     "subscribersGained": 0
    },
    "miniature_7j": {
-    "impressions": 95,
+    "impressions": 21,
     "ctr": 0.0
    }
   },
   {
-   "id": "ZOJuHcOifs0",
-   "titre": "Ta tablette de chocolat est taxée à combien ? #shorts",
-   "publie": "2026-11-03T20:30:55Z",
-   "duree_s": 18,
+   "id": "jGXkavzo0zU",
+   "titre": "Sur 1 € de chocolat, la marque garde combien ? #shorts",
+   "publie": "2026-11-03T21:19:53Z",
+   "duree_s": 26,
    "format": "short",
-   "statut": "private",
-   "vues": 1,
-   "likes": 0,
-   "commentaires": 0,
+   "statut": "public",
+   "vues": 121,
+   "likes": 4,
+   "commentaires": 1,
    "analytics_28j": {
-    "views": 1,
-    "estimatedMinutesWatched": 0,
-    "averageViewDuration": 4,
-    "averageViewPercentage": 26.11,
-    "subscribersGained": 0
+    "views": 120,
+    "estimatedMinutesWatched": 10,
+    "averageViewDuration": 15,
+    "averageViewPercentage": 57.75,
+    "subscribersGained": 1
    },
    "restes": {
-    "vues": 1,
-    "engagees": 1,
-    "pct": 100.0
+    "vues": 120,
+    "engagees": 32,
+    "pct": 26.7
    },
    "miniature_7j": {
-    "impressions": 101,
-    "ctr": 1.98
+    "impressions": 137,
+    "ctr": 0.73
    }
   },
   {
@@ -1245,7 +1322,7 @@
    "duree_s": 18,
    "format": "short",
    "statut": "public",
-   "vues": 101,
+   "vues": 102,
    "likes": 2,
    "commentaires": 1,
    "analytics_28j": {
@@ -1261,8 +1338,8 @@
     "pct": 33.7
    },
    "miniature_7j": {
-    "impressions": 490,
-    "ctr": 3.06
+    "impressions": 317,
+    "ctr": 2.21
    }
   },
   {
@@ -1272,41 +1349,41 @@
    "duree_s": 465,
    "format": "longue",
    "statut": "public",
-   "vues": 104,
+   "vues": 107,
    "likes": 3,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 99,
-    "estimatedMinutesWatched": 242,
+    "views": 103,
+    "estimatedMinutesWatched": 251,
     "averageViewDuration": 177,
-    "averageViewPercentage": 38.17,
+    "averageViewPercentage": 38.1,
     "subscribersGained": 2
    },
    "restes": {
-    "vues": 99,
-    "engagees": 82,
-    "pct": 82.8
+    "vues": 103,
+    "engagees": 85,
+    "pct": 82.5
    },
    "retention": {
-    "a_30s": 0.674,
-    "a_mi_parcours": 0.413,
-    "a_la_fin": 0.293,
+    "a_30s": 0.681,
+    "a_mi_parcours": 0.41,
+    "a_la_fin": 0.282,
     "creux": [
      {
       "vers": "0:13",
-      "perte_points": 21.3
+      "perte_points": 21.8
+     },
+     {
+      "vers": "0:46",
+      "perte_points": 3.9
      },
      {
       "vers": "1:23",
-      "perte_points": 6.7
+      "perte_points": 6.4
      },
      {
       "vers": "2:10",
-      "perte_points": 5.3
-     },
-     {
-      "vers": "6:49",
-      "perte_points": 4.0
+      "perte_points": 5.1
      }
     ],
     "pics": [],
@@ -1314,59 +1391,59 @@
     "courbe": [
      [
       0.01,
-      1.027
+      1.038
      ],
      [
       0.06,
-      0.68
+      0.692
      ],
      [
       0.11,
-      0.587
+      0.577
      ],
      [
       0.16,
-      0.547
+      0.538
      ],
      [
       0.21,
-      0.48
+      0.474
      ],
      [
       0.26,
-      0.507
+      0.5
      ],
      [
       0.31,
-      0.467
+      0.461
      ],
      [
       0.36,
-      0.44
+      0.436
      ],
      [
       0.41,
-      0.427
+      0.423
      ],
      [
       0.46,
-      0.413
+      0.41
      ],
      [
       0.51,
-      0.4
+      0.397
      ],
      [
       0.56,
-      0.387
+      0.385
      ],
      [
       0.61,
-      0.36
+      0.359
      ],
      [
       0.66,
-      0.36
+      0.359
      ],
      [
       0.71,
@@ -1386,27 +1463,28 @@
      ],
      [
       0.91,
-      0.307
+      0.308
      ],
      [
       0.96,
-      0.32
+      0.308
      ]
     ]
    },
    "sources": {
-    "RELATED_VIDEO": 82,
-    "SUBSCRIBER": 9,
+    "RELATED_VIDEO": 84,
+    "SUBSCRIBER": 10,
     "NO_LINK_OTHER": 3,
     "YT_OTHER_PAGE": 2,
     "YT_CHANNEL": 1,
+    "YT_SEARCH": 1,
     "EXT_URL": 1,
     "SHORTS_CONTENT_LINKS": 1
    },
    "depuis_shorts": "indisponible (400)",
    "miniature_7j": {
-    "impressions": 3927,
-    "ctr": 1.35
+    "impressions": 3137,
+    "ctr": 1.12
    }
   },
   {
@@ -1432,8 +1510,8 @@
     "pct": 37.4
    },
    "miniature_7j": {
-    "impressions": 186,
-    "ctr": 1.08
+    "impressions": 71,
+    "ctr": 0.0
    }
   },
   {
@@ -1459,8 +1537,8 @@
     "pct": 18.5
    },
    "miniature_7j": {
-    "impressions": 352,
-    "ctr": 1.7
+    "impressions": 157,
+    "ctr": 2.55
    }
   },
   {
@@ -1486,8 +1564,8 @@
     "pct": 34.7
    },
    "miniature_7j": {
-    "impressions": 250,
-    "ctr": 0.8
+    "impressions": 105,
+    "ctr": 0.0
    }
   },
   {
@@ -1513,8 +1591,8 @@
     "pct": 22.4
    },
    "miniature_7j": {
-    "impressions": 191,
-    "ctr": 0.52
+    "impressions": 68,
+    "ctr": 1.47
    }
   },
   {
@@ -1540,7 +1618,7 @@
     "pct": 36.1
    },
    "miniature_7j": {
-    "impressions": 182,
+    "impressions": 53,
     "ctr": 0.0
    }
   },
@@ -1567,7 +1645,7 @@
     "pct": 25.0
    },
    "miniature_7j": {
-    "impressions": 176,
+    "impressions": 59,
     "ctr": 0.0
    }
   },
@@ -1578,24 +1656,24 @@
    "duree_s": 30,
    "format": "short",
    "statut": "public",
-   "vues": 669,
+   "vues": 670,
    "likes": 3,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 667,
+    "views": 668,
     "estimatedMinutesWatched": 47,
     "averageViewDuration": 13,
     "averageViewPercentage": 43.98,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 667,
+    "vues": 668,
     "engagees": 170,
-    "pct": 25.5
+    "pct": 25.4
    },
    "miniature_7j": {
-    "impressions": 45,
-    "ctr": 2.22
+    "impressions": 39,
+    "ctr": 2.56
    }
   },
   {
@@ -1605,44 +1683,47 @@
    "duree_s": 489,
    "format": "longue",
    "statut": "public",
-   "vues": 120,
+   "vues": 125,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 114,
+    "views": 115,
     "estimatedMinutesWatched": 72,
-    "averageViewDuration": 128,
-    "averageViewPercentage": 26.26,
+    "averageViewDuration": 124,
+    "averageViewPercentage": 25.52,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 114,
-    "engagees": 32,
-    "pct": 28.1
+    "vues": 115,
+    "engagees": 33,
+    "pct": 28.7
    },
    "retention": {
-    "a_30s": 0.609,
-    "a_mi_parcours": 0.29,
-    "a_la_fin": 0.194,
+    "a_30s": 0.621,
+    "a_mi_parcours": 0.281,
+    "a_la_fin": 0.188,
     "creux": [
      {
       "vers": "0:14",
-      "perte_points": 35.5
+      "perte_points": 34.4
      },
      {
       "vers": "0:48",
-      "perte_points": 6.4
+      "perte_points": 6.2
      },
      {
-      "vers": "1:52",
-      "perte_points": 3.2
+      "vers": "1:57",
+      "perte_points": 3.1
      },
      {
-      "vers": "6:06",
-      "perte_points": 3.2
+      "vers": "2:31",
+      "perte_points": 3.1
      }
     ],
     "pics": [
+     {
+      "vers": "0:14"
+     },
      {
       "vers": "2:31"
      },
@@ -1654,109 +1735,109 @@
     "courbe": [
      [
       0.01,
-      1.065
+      1.031
      ],
      [
       0.06,
-      0.613
+      0.625
      ],
      [
       0.11,
-      0.387
+      0.375
      ],
      [
       0.16,
-      0.355
+      0.344
      ],
      [
       0.21,
-      0.387
+      0.375
      ],
      [
       0.26,
-      0.355
+      0.344
      ],
      [
       0.31,
-      0.355
+      0.344
      ],
      [
       0.36,
-      0.29
+      0.281
      ],
      [
       0.41,
-      0.29
+      0.281
      ],
      [
       0.46,
-      0.29
+      0.281
      ],
      [
       0.51,
-      0.29
+      0.281
      ],
      [
       0.56,
-      0.29
+      0.281
      ],
      [
       0.61,
-      0.29
+      0.281
      ],
      [
       0.66,
-      0.29
+      0.281
      ],
      [
       0.71,
-      0.258
+      0.25
      ],
      [
       0.76,
-      0.226
+      0.219
      ],
      [
       0.81,
-      0.226
+      0.219
      ],
      [
       0.86,
-      0.226
+      0.219
      ],
      [
       0.91,
-      0.226
+      0.219
      ],
      [
       0.96,
-      0.194
+      0.188
      ]
     ]
    },
    "sources": {
     "SUBSCRIBER": 101,
     "YT_CHANNEL": 5,
+    "YT_SEARCH": 2,
     "RELATED_VIDEO": 2,
     "EXT_URL": 2,
     "SHORTS_CONTENT_LINKS": 2,
-    "NO_LINK_OTHER": 1,
-    "YT_SEARCH": 1
+    "NO_LINK_OTHER": 1
    },
    "depuis_shorts": "indisponible (400)",
    "miniature_7j": {
-    "impressions": 279,
-    "ctr": 5.73
+    "impressions": 233,
+    "ctr": 6.01
    }
   }
  ],
  "sources_trafic_28j": {
-  "SHORTS": 9283,
-  "YT_SEARCH": 252,
-  "YT_CHANNEL": 136,
-  "SUBSCRIBER": 128,
+  "SHORTS": 9479,
+  "YT_SEARCH": 281,
+  "YT_CHANNEL": 142,
+  "SUBSCRIBER": 129,
   "YT_OTHER_PAGE": 118,
-  "RELATED_VIDEO": 103,
+  "RELATED_VIDEO": 106,
   "NO_LINK_OTHER": 7,
   "EXT_URL": 7,
   "NOTIFICATION": 7,
@@ -1764,31 +1845,49 @@
   "HASHTAGS": 2
  },
  "monetisation": {
-  "vues_shorts_90j": 9784,
-  "heures_longues_365j": 6.1
+  "vues_shorts_90j": 10013,
+  "heures_longues_365j": 6.4
  },
  "reporting": {
-  "rapports_disponibles": 8
+  "rapports_disponibles": 6
  },
  "pilotage": {
   "evolution_24h": {
-   "depuis": "2026-11-10",
+   "depuis": "2026-11-11",
    "abonnes": 0,
-   "vues": 207
+   "vues": 77
   },
-  "evolution_7j": null,
+  "evolution_7j": {
+   "depuis": "2026-11-05",
+   "abonnes": 6,
+   "vues": 7327
+  },
   "shorts_par_jour_7j": {
-   "2026-11-05": 6,
    "2026-11-06": 4,
    "2026-11-07": 3,
    "2026-11-08": 2,
    "2026-11-09": 5,
    "2026-11-10": 2,
-   "2026-11-11": 2
+   "2026-11-11": 3,
+   "2026-11-12": 1
   },
-  "doublons": [],
+  "doublons": [
+   [
+    {
+     "id": "jGXkavzo0zU",
+     "titre": "Sur 1 € de chocolat, la marque garde combien ? #shorts",
+     "vues": 121
+    },
+    {
+     "id": "jGXkavzo0zU",
+     "titre": "Sur 1 € de chocolat, la marque garde combien ? #shorts",
+     "vues": 121
+    }
+   ]
+  ],
   "alertes": [
-   "Trop de Shorts le même jour (max conseillé 3) : 2026-11-05 → 6, 2026-11-06 → 4, 2026-11-09 → 5"
+   "1 Short(s) en double : à passer en privé (le moins vu de chaque paire, liste plus bas)",
+   "Trop de Shorts le même jour (max conseillé 3) : 2026-11-06 → 4, 2026-11-09 → 5"
   ]
  }
 }
