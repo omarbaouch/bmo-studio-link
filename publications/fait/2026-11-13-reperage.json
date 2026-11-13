@@ -1,0 +1,370 @@
+{
+ "action": "chercher",
+ "chaine": "LEVRAIPRIX",
+ "jours": 2,
+ "titre": "Repérage du jour",
+ "requetes": [
+  "prix carburant essence gazole",
+  "Black Friday faux prix barrés",
+  "prix du lait producteurs",
+  "prix des pâtes blé",
+  "prix lunettes opticien",
+  "prix du café",
+  "prix du chocolat Noël",
+  "prix des courses supermarché"
+ ],
+ "resultat": {
+  "resultats": {
+   "prix carburant essence gazole": [
+    {
+     "id": "I8NSWbnQVPQ",
+     "titre": "Gazole : le vrai gagnant de la hausse, ce n’est pas l’État",
+     "chaine": "Le Vrai Coût",
+     "publie": "2026-11-11T11:00:12Z",
+     "duree": "PT49S",
+     "vues": 27,
+     "commentaires": "0"
+    },
+    {
+     "id": "4C4_0zWKONM",
+     "titre": "Gazole : pourquoi le prix a déjà baissé de près de 20 centimes",
+     "chaine": "NOVACTIS",
+     "publie": "2026-11-11T16:16:47Z",
+     "duree": "PT4M27S",
+     "vues": 2,
+     "commentaires": "0"
+    },
+    {
+     "id": "Vqz52CuRBTQ",
+     "titre": "PRIX CARBURANT CEMAC : POURQUOI LA RCA ET LE CAMEROUN FLAMBENT",
+     "chaine": "Afrique Média Digital",
+     "publie": "2026-11-11T12:04:18Z",
+     "duree": "PT1M4S",
+     "vues": 6,
+     "commentaires": "0"
+    },
+    {
+     "id": "goFpFJGY_uQ",
+     "titre": "Le gazole a perdu 22 centimes en 10 jours, mais pas partout",
+     "chaine": "Essenceradar",
+     "publie": "2026-11-11T12:31:20Z",
+     "duree": "PT41S",
+     "vues": 0,
+     "commentaires": "0"
+    },
+    {
+     "id": "6Wqrj5YEKr0",
+     "titre": "Gazole : -20 centimes en une semaine grâce aux stocks stratégiques #shorts",
+     "chaine": "TFAMILY CAPITAL",
+     "publie": "2026-11-11T13:56:55Z",
+     "duree": "PT56S",
+     "vues": 0,
+     "commentaires": "0"
+    }
+   ],
+   "Black Friday faux prix barrés": [
+    {
+     "id": "vkGJ3NCHEn0",
+     "titre": "-50 % sur cette télé ? Y a de grandes chances que ce soit faux 🛒⚠️",
+     "chaine": "Ce qu'on t'a pas dit",
+     "publie": "2026-11-11T20:05:56Z",
+     "duree": "PT1M6S",
+     "vues": 1041,
+     "commentaires": "0"
+    },
+    {
+     "id": "xQGkeEs2kCQ",
+     "titre": "-60 % au Black Friday ? Le prix barré était faux #Shorts",
+     "chaine": "Mouton Finance",
+     "publie": "2026-11-12T13:31:49Z",
+     "duree": "PT1M5S",
+     "vues": 695,
+     "commentaires": "1"
+    },
+    {
+     "id": "Ss1TW6zPs0k",
+     "titre": "Ce -40 % du Black Friday est un faux",
+     "chaine": "Vie Bonus ",
+     "publie": "2026-11-12T11:00:11Z",
+     "duree": "PT1M12S",
+     "vues": 398,
+     "commentaires": "0"
+    },
+    {
+     "id": "RHlWsLRuINk",
+     "titre": "Black Friday : ton prix barré est parfois faux",
+     "chaine": "Capital Secret",
+     "publie": "2026-11-11T11:31:22Z",
+     "duree": "PT46S",
+     "vues": 507,
+     "commentaires": "0"
+    },
+    {
+     "id": "t6M4SGZbkgo",
+     "titre": "3 novembre 2026",
+     "chaine": "Le déclic Budget ",
+     "publie": "2026-11-12T06:00:39Z",
+     "duree": "PT39S",
+     "vues": 29,
+     "commentaires": "0"
+    },
+    {
+     "id": "zjo0ECbHwLA",
+     "titre": "Black Friday Amazon 2026 : vraie promo ou faux prix barré ?",
+     "chaine": "Skoqo",
+     "publie": "2026-11-11T17:25:41Z",
+     "duree": "PT1M27S",
+     "vues": 12,
+     "commentaires": "1"
+    },
+    {
+     "id": "LHM6sCv41G4",
+     "titre": "Ce prix barré est peut-être faux",
+     "chaine": "Ça cloche",
+     "publie": "2026-11-11T18:30:24Z",
+     "duree": "PT51S",
+     "vues": 5,
+     "commentaires": "1"
+    },
+    {
+     "id": "xNMUPoxXVZ0",
+     "titre": "Black Friday 2026 : 3 réglages à faire sur votre carte avant de payer en ligne",
+     "chaine": "Astuces Banque",
+     "publie": "2026-11-13T08:00:28Z",
+     "duree": "PT4M24S",
+     "vues": 0,
+     "commentaires": "0"
+    }
+   ],
+   "prix du lait producteurs": [
+    {
+     "id": "fgkMdqBEBS8",
+     "titre": "Brique de lait à 1 € : combien touche VRAIMENT l'éleveur ?",
+     "chaine": "Marge Réelle",
+     "publie": "2026-11-11T12:45:29Z",
+     "duree": "PT7M12S",
+     "vues": 4,
+     "commentaires": "0"
+    }
+   ],
+   "prix des pâtes blé": [
+    {
+     "id": "XjDfe8Ff5wU",
+     "titre": "Ton paquet de pâtes à 95 centimes : combien de blé ? #shorts",
+     "chaine": "Le Vrai Prix",
+     "publie": "2026-11-12T07:00:32Z",
+     "duree": "PT24S",
+     "vues": 22,
+     "commentaires": "1"
+    }
+   ],
+   "prix lunettes opticien": [
+    {
+     "id": "DPO-xz9WrAA",
+     "titre": "12 novembre 2026",
+     "chaine": "GM Eyewear",
+     "publie": "2026-11-12T13:33:11Z",
+     "duree": "PT16S",
+     "vues": 218,
+     "commentaires": "0"
+    }
+   ],
+   "prix du café": [
+    {
+     "id": "GH1ZlfxF9Hk",
+     "titre": "Why this NYC Cafe sells a $25,000 Hot Chocolate! 🤯#Ravate",
+     "chaine": "Ravate",
+     "publie": "2026-11-12T13:39:00Z",
+     "duree": "PT45S",
+     "vues": 18904,
+     "commentaires": "0"
+    },
+    {
+     "id": "Wf8XK0sRowQ",
+     "titre": "Quelle Ninja choisir ? Mini Plus, Luxe Café ou AutoBarista",
+     "chaine": "Cafelista",
+     "publie": "2026-11-12T08:15:31Z",
+     "duree": "PT10M30S",
+     "vues": 6294,
+     "commentaires": "10"
+    },
+    {
+     "id": "hPVz0144CyY",
+     "titre": "Le service à 7 euros le café 💀 #Paris #Shorts",
+     "chaine": "Rire Rapide",
+     "publie": "2026-11-11T15:36:45Z",
+     "duree": "PT8S",
+     "vues": 4211,
+     "commentaires": "0"
+    },
+    {
+     "id": "fy0OqybJOZ8",
+     "titre": "expensive coffee machine",
+     "chaine": "Children Of Khan",
+     "publie": "2026-11-12T02:01:33Z",
+     "duree": "PT28S",
+     "vues": 2291,
+     "commentaires": "2"
+    },
+    {
+     "id": "TAHSlMnQJHo",
+     "titre": "El café 10 pesos más barato te sale más caro #mexico  #profeco #supermercado #cafe #chedraui",
+     "chaine": "Letrachiquita",
+     "publie": "2026-11-11T19:00:14Z",
+     "duree": "PT1M11S",
+     "vues": 1287,
+     "commentaires": "1"
+    },
+    {
+     "id": "yN0BjuNR04E",
+     "titre": "The best budget espresso machine! #coffee",
+     "chaine": "Created to Coffee",
+     "publie": "2026-11-12T17:00:15Z",
+     "duree": "PT52S",
+     "vues": 3828,
+     "commentaires": "3"
+    },
+    {
+     "id": "EdgxQ8kGZok",
+     "titre": "Kaffee für 30 Rupien? Dann erfahre ich, was drin ist 😅",
+     "chaine": "Frankys Odyssey",
+     "publie": "2026-11-11T13:00:09Z",
+     "duree": "PT39S",
+     "vues": 1210,
+     "commentaires": "2"
+    },
+    {
+     "id": "BRvQGgbeFLU",
+     "titre": "CAFÉ: PRECIOS DEL CAFÉ EN COLOMBIA – Miércoles 11 de noviembre de 2026 #precioscafe",
+     "chaine": "PERIÓDICO AGRICULTURA & GANADERÍA",
+     "publie": "2026-11-11T23:54:48Z",
+     "duree": "PT1M43S",
+     "vues": 598,
+     "commentaires": "2"
+    },
+    {
+     "id": "4pn28CiLiGc",
+     "titre": "kopi naik saya akan lawan #funny #ngkak #lucu #comedy",
+     "chaine": "Ali sewu",
+     "publie": "2026-11-12T22:02:30Z",
+     "duree": "PT14S",
+     "vues": 1009,
+     "commentaires": "0"
+    },
+    {
+     "id": "u6HN3fXkLJw",
+     "titre": "☕ Why doesn't a $5 coffee make café owners rich?",
+     "chaine": "ChangingCareerEng",
+     "publie": "2026-11-12T03:00:10Z",
+     "duree": "PT2M1S",
+     "vues": 576,
+     "commentaires": "0"
+    },
+    {
+     "id": "NDw1qmiVOxg",
+     "titre": "京都のカフェ、値上げしても客足は減らない？1000円の一杯のジレンマ #コーヒー #shorts",
+     "chaine": "コーヒーの未来とビジネス / FUTURE OF COFFEE",
+     "publie": "2026-11-12T10:00:08Z",
+     "duree": "PT55S",
+     "vues": 725,
+     "commentaires": "0"
+    },
+    {
+     "id": "a7xnM5pFv2w",
+     "titre": "Por Que O CAFÉ Ficou Tão CARO No BRASIL E Quem GANHOU Com Essa ALTA? #café #economia #shorts",
+     "chaine": "INTELIGENÇIA AI ATIVA",
+     "publie": "2026-11-12T22:44:35Z",
+     "duree": "PT2M20S",
+     "vues": 261,
+     "commentaires": "1"
+    },
+    {
+     "id": "k5lc6TBiHOM",
+     "titre": "Kenapa Kopi Kafe Terasa Wajar Mahal?",
+     "chaine": "Melek Duit",
+     "publie": "2026-11-13T05:00:24Z",
+     "duree": "PT56S",
+     "vues": 1197,
+     "commentaires": "0"
+    },
+    {
+     "id": "8TNk4emOQuM",
+     "titre": "Por que o maior produtor de café paga caro nele",
+     "chaine": "Trocadim",
+     "publie": "2026-11-11T15:00:04Z",
+     "duree": "PT49S",
+     "vues": 270,
+     "commentaires": "0"
+    },
+    {
+     "id": "szbLX0EnBVw",
+     "titre": "CAFÉ BRASIL:  O EXPORTADOR ESTÁ \"ESPREMIDO”",
+     "chaine": "mundoruralbusiness",
+     "publie": "2026-11-11T21:41:43Z",
+     "duree": "PT1M21S",
+     "vues": 381,
+     "commentaires": "0"
+    }
+   ],
+   "prix du chocolat Noël": [
+    {
+     "id": "ANeOt6EZdu8",
+     "titre": "CHOCOLATS DE NOËL : UN INTERNAUTE SCANDALISÉ PAR LES PRIX !",
+     "chaine": "Hexa-News",
+     "publie": "2026-11-13T10:14:00Z",
+     "duree": "PT42S",
+     "vues": 276,
+     "commentaires": "5"
+    }
+   ],
+   "prix des courses supermarché": [
+    {
+     "id": "G7rGemNljig",
+     "titre": "The Price Is Different! 🛒 | Easy English Conversation for Beginners | English Listening Practice",
+     "chaine": "English Listening Zone",
+     "publie": "2026-11-11T12:00:31Z",
+     "duree": "PT1M4S",
+     "vues": 2902,
+     "commentaires": "7"
+    },
+    {
+     "id": "Fxg9lOQLVQQ",
+     "titre": "🛒 THE FIRST PLACE YOU SHOULD GO IN ITALY IS A SUPERMARKET...",
+     "chaine": "theameritalians",
+     "publie": "2026-11-12T17:18:27Z",
+     "duree": "PT54S",
+     "vues": 60,
+     "commentaires": "0"
+    },
+    {
+     "id": "4toBzvFyM3E",
+     "titre": "Japanese Supermarket Tour in Japan | A New Day with Mira | FoodTokTV",
+     "chaine": "FoodTokTV Channel",
+     "publie": "2026-11-11T23:20:50Z",
+     "duree": "PT1H3M32S",
+     "vues": 7,
+     "commentaires": "1"
+    },
+    {
+     "id": "DHLmc43f6ZU",
+     "titre": "Shrinkflation au supermarché : même prix, moins de produit ?",
+     "chaine": "Chocs & Vérités",
+     "publie": "2026-11-13T08:00:12Z",
+     "duree": "PT13M14S",
+     "vues": 0,
+     "commentaires": "0"
+    },
+    {
+     "id": "MSUac7obBMs",
+     "titre": "Bangkok Grocery Prices: Is Thailand Really Cheap? #shorts",
+     "chaine": "Johnny K",
+     "publie": "2026-11-12T17:00:36Z",
+     "duree": "PT55S",
+     "vues": 15,
+     "commentaires": "0"
+    }
+   ]
+  },
+  "envoye_le": "2026-11-13T10:44:17.692013+00:00"
+ }
+}
