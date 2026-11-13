@@ -1,8 +1,8 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-12T13:50:05.447556+00:00",
+ "date": "2026-11-13T08:16:01.523778+00:00",
  "abonnes": 13,
- "vues_totales": 10471,
+ "vues_totales": 10551,
  "autorisations": [
   "youtube",
   "youtube.channel-memberships.creator",
@@ -16,16 +16,36 @@
  ],
  "videos": [
   {
+   "id": "xVZA4wmyIbM",
+   "titre": "Tes lunettes à 300 € : qui paie vraiment ? #shorts",
+   "publie": "2026-11-13T07:00:30Z",
+   "duree_s": 22,
+   "format": "short",
+   "statut": "public",
+   "vues": 4,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null,
+   "miniature_7j": {
+    "impressions": 10,
+    "ctr": 0.0
+   }
+  },
+  {
    "id": "Q4PM3JdGM7c",
    "titre": "Ta brique de lait : qui garde l'argent ? #shorts",
    "publie": "2026-11-12T12:00:16Z",
    "duree_s": 23,
    "format": "short",
    "statut": "public",
-   "vues": 0,
+   "vues": 6,
    "likes": 0,
-   "commentaires": 0,
-   "analytics_28j": null
+   "commentaires": 1,
+   "analytics_28j": null,
+   "miniature_7j": {
+    "impressions": 10,
+    "ctr": 0.0
+   }
   },
   {
    "id": "XjDfe8Ff5wU",
@@ -34,10 +54,14 @@
    "duree_s": 24,
    "format": "short",
    "statut": "public",
-   "vues": 16,
+   "vues": 22,
    "likes": 0,
    "commentaires": 1,
-   "analytics_28j": null
+   "analytics_28j": null,
+   "miniature_7j": {
+    "impressions": 11,
+    "ctr": 0.0
+   }
   },
   {
    "id": "4tQfKevyzCM",
@@ -74,7 +98,7 @@
    "duree_s": 17,
    "format": "short",
    "statut": "public",
-   "vues": 5,
+   "vues": 7,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
@@ -90,7 +114,7 @@
     "pct": 100.0
    },
    "miniature_7j": {
-    "impressions": 14,
+    "impressions": 24,
     "ctr": 0.0
    }
   },
@@ -101,7 +125,7 @@
    "duree_s": 19,
    "format": "short",
    "statut": "public",
-   "vues": 5,
+   "vues": 7,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
@@ -112,7 +136,7 @@
     "subscribersGained": 0
    },
    "miniature_7j": {
-    "impressions": 14,
+    "impressions": 23,
     "ctr": 0.0
    }
   },
@@ -123,7 +147,7 @@
    "duree_s": 16,
    "format": "short",
    "statut": "public",
-   "vues": 17,
+   "vues": 19,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
@@ -139,7 +163,7 @@
     "pct": 50.0
    },
    "miniature_7j": {
-    "impressions": 14,
+    "impressions": 16,
     "ctr": 0.0
    }
   },
@@ -150,24 +174,24 @@
    "duree_s": 16,
    "format": "short",
    "statut": "public",
-   "vues": 15,
+   "vues": 16,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 1,
+    "views": 13,
     "estimatedMinutesWatched": 0,
-    "averageViewDuration": 8,
-    "averageViewPercentage": 50,
+    "averageViewDuration": 13,
+    "averageViewPercentage": 83.98,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 1,
-    "engagees": 1,
-    "pct": 100.0
+    "vues": 13,
+    "engagees": 3,
+    "pct": 23.1
    },
    "miniature_7j": {
-    "impressions": 14,
-    "ctr": 0.0
+    "impressions": 17,
+    "ctr": 5.88
    }
   },
   {
@@ -180,9 +204,20 @@
    "vues": 89,
    "likes": 1,
    "commentaires": 1,
-   "analytics_28j": null,
+   "analytics_28j": {
+    "views": 89,
+    "estimatedMinutesWatched": 3,
+    "averageViewDuration": 9,
+    "averageViewPercentage": 56.13,
+    "subscribersGained": 0
+   },
+   "restes": {
+    "vues": 89,
+    "engagees": 13,
+    "pct": 14.6
+   },
    "miniature_7j": {
-    "impressions": 14,
+    "impressions": 16,
     "ctr": 0.0
    }
   },
@@ -193,20 +228,24 @@
    "duree_s": 27,
    "format": "short",
    "statut": "public",
-   "vues": 16,
+   "vues": 19,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 9,
-    "estimatedMinutesWatched": 1,
-    "averageViewDuration": 36,
-    "averageViewPercentage": 133.46,
+    "views": 14,
+    "estimatedMinutesWatched": 2,
+    "averageViewDuration": 30,
+    "averageViewPercentage": 113.06,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 9,
-    "engagees": 3,
-    "pct": 33.3
+    "vues": 14,
+    "engagees": 4,
+    "pct": 28.6
+   },
+   "miniature_7j": {
+    "impressions": 20,
+    "ctr": 5.0
    }
   },
   {
@@ -220,20 +259,20 @@
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 20,
+    "views": 24,
     "estimatedMinutesWatched": 1,
-    "averageViewDuration": 9,
-    "averageViewPercentage": 45.29,
+    "averageViewDuration": 10,
+    "averageViewPercentage": 54.120000000000005,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 20,
-    "engagees": 5,
-    "pct": 25.0
+    "vues": 24,
+    "engagees": 7,
+    "pct": 29.2
    },
    "miniature_7j": {
-    "impressions": 13,
-    "ctr": 0.0
+    "impressions": 45,
+    "ctr": 2.22
    }
   },
   {
@@ -247,16 +286,20 @@
    "likes": 2,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 31,
-    "estimatedMinutesWatched": 2,
-    "averageViewDuration": 15,
-    "averageViewPercentage": 58.77,
+    "views": 47,
+    "estimatedMinutesWatched": 5,
+    "averageViewDuration": 18,
+    "averageViewPercentage": 69.76,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 31,
-    "engagees": 10,
-    "pct": 32.3
+    "vues": 47,
+    "engagees": 17,
+    "pct": 36.2
+   },
+   "miniature_7j": {
+    "impressions": 64,
+    "ctr": 3.12
    }
   },
   {
@@ -270,20 +313,20 @@
    "likes": 0,
    "commentaires": 0,
    "analytics_28j": {
-    "views": 34,
-    "estimatedMinutesWatched": 1,
-    "averageViewDuration": 6,
-    "averageViewPercentage": 38.98,
+    "views": 45,
+    "estimatedMinutesWatched": 2,
+    "averageViewDuration": 7,
+    "averageViewPercentage": 45.38,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 34,
-    "engagees": 7,
-    "pct": 20.6
+    "vues": 45,
+    "engagees": 9,
+    "pct": 20.0
    },
    "miniature_7j": {
-    "impressions": 78,
-    "ctr": 0.0
+    "impressions": 148,
+    "ctr": 1.35
    }
   },
   {
@@ -296,7 +339,11 @@
    "vues": 0,
    "likes": 0,
    "commentaires": 0,
-   "analytics_28j": null
+   "analytics_28j": null,
+   "miniature_7j": {
+    "impressions": 10,
+    "ctr": 0.0
+   }
   },
   {
    "id": "zUmfPGqNK1A",
@@ -308,7 +355,11 @@
    "vues": 0,
    "likes": 0,
    "commentaires": 0,
-   "analytics_28j": null
+   "analytics_28j": null,
+   "miniature_7j": {
+    "impressions": 11,
+    "ctr": 0.0
+   }
   },
   {
    "id": "bvZArdgeTHY",
@@ -320,7 +371,11 @@
    "vues": 0,
    "likes": 0,
    "commentaires": 0,
-   "analytics_28j": null
+   "analytics_28j": null,
+   "miniature_7j": {
+    "impressions": 11,
+    "ctr": 0.0
+   }
   },
   {
    "id": "8nHXIM1QE18",
@@ -332,7 +387,11 @@
    "vues": 0,
    "likes": 0,
    "commentaires": 0,
-   "analytics_28j": null
+   "analytics_28j": null,
+   "miniature_7j": {
+    "impressions": 11,
+    "ctr": 0.0
+   }
   },
   {
    "id": "08uXHwnLYOM",
@@ -344,19 +403,11 @@
    "vues": 0,
    "likes": 0,
    "commentaires": 0,
-   "analytics_28j": null
-  },
-  {
-   "id": "xVZA4wmyIbM",
-   "titre": "Tes lunettes à 300 € : qui paie vraiment ? #shorts",
-   "publie": "2026-11-09T07:54:08Z",
-   "duree_s": 22,
-   "format": "short",
-   "statut": "private",
-   "vues": 0,
-   "likes": 0,
-   "commentaires": 0,
-   "analytics_28j": null
+   "analytics_28j": null,
+   "miniature_7j": {
+    "impressions": 11,
+    "ctr": 0.0
+   }
   },
   {
    "id": "CQ_DUZ5X5EE",
@@ -368,7 +419,11 @@
    "vues": 0,
    "likes": 0,
    "commentaires": 0,
-   "analytics_28j": null
+   "analytics_28j": null,
+   "miniature_7j": {
+    "impressions": 10,
+    "ctr": 0.0
+   }
   },
   {
    "id": "LHId83_QGpE",
@@ -381,20 +436,20 @@
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 34,
-    "estimatedMinutesWatched": 1,
-    "averageViewDuration": 9,
-    "averageViewPercentage": 54.47,
+    "views": 36,
+    "estimatedMinutesWatched": 2,
+    "averageViewDuration": 10,
+    "averageViewPercentage": 56.07,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 34,
-    "engagees": 8,
-    "pct": 23.5
+    "vues": 36,
+    "engagees": 9,
+    "pct": 25.0
    },
    "miniature_7j": {
-    "impressions": 15,
-    "ctr": 6.67
+    "impressions": 62,
+    "ctr": 1.61
    }
   },
   {
@@ -404,24 +459,24 @@
    "duree_s": 19,
    "format": "short",
    "statut": "public",
-   "vues": 23,
+   "vues": 25,
    "likes": 0,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 22,
+    "views": 23,
     "estimatedMinutesWatched": 2,
     "averageViewDuration": 15,
     "averageViewPercentage": 80.13,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 22,
+    "vues": 23,
     "engagees": 8,
-    "pct": 36.4
+    "pct": 34.8
    },
    "miniature_7j": {
-    "impressions": 33,
-    "ctr": 3.03
+    "impressions": 75,
+    "ctr": 1.33
    }
   },
   {
@@ -431,24 +486,24 @@
    "duree_s": 21,
    "format": "short",
    "statut": "public",
-   "vues": 634,
+   "vues": 633,
    "likes": 9,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 633,
+    "views": 635,
     "estimatedMinutesWatched": 49,
     "averageViewDuration": 13,
-    "averageViewPercentage": 63.99,
+    "averageViewPercentage": 63.800000000000004,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 633,
-    "engagees": 176,
-    "pct": 27.8
+    "vues": 635,
+    "engagees": 177,
+    "pct": 27.9
    },
    "miniature_7j": {
-    "impressions": 168,
-    "ctr": 1.19
+    "impressions": 204,
+    "ctr": 0.98
    }
   },
   {
@@ -474,7 +529,7 @@
     "pct": 25.1
    },
    "miniature_7j": {
-    "impressions": 141,
+    "impressions": 162,
     "ctr": 0.0
    }
   },
@@ -510,7 +565,7 @@
    },
    "depuis_shorts": "indisponible (400)",
    "miniature_7j": {
-    "impressions": 803,
+    "impressions": 805,
     "ctr": 0.5
    }
   },
@@ -537,8 +592,8 @@
     "pct": 18.3
    },
    "miniature_7j": {
-    "impressions": 206,
-    "ctr": 1.94
+    "impressions": 241,
+    "ctr": 1.66
    }
   },
   {
@@ -548,7 +603,7 @@
    "duree_s": 25,
    "format": "short",
    "statut": "public",
-   "vues": 284,
+   "vues": 285,
    "likes": 7,
    "commentaires": 1,
    "analytics_28j": {
@@ -564,8 +619,8 @@
     "pct": 22.0
    },
    "miniature_7j": {
-    "impressions": 199,
-    "ctr": 0.5
+    "impressions": 211,
+    "ctr": 0.47
    }
   },
   {
@@ -579,20 +634,20 @@
    "likes": 5,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 246,
+    "views": 247,
     "estimatedMinutesWatched": 13,
     "averageViewDuration": 7,
     "averageViewPercentage": 36.07,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 246,
+    "vues": 247,
     "engagees": 63,
-    "pct": 25.6
+    "pct": 25.5
    },
    "miniature_7j": {
-    "impressions": 148,
-    "ctr": 1.35
+    "impressions": 178,
+    "ctr": 1.12
    }
   },
   {
@@ -602,8 +657,8 @@
    "duree_s": 20,
    "format": "short",
    "statut": "public",
-   "vues": 284,
-   "likes": 6,
+   "vues": 288,
+   "likes": 7,
    "commentaires": 1,
    "analytics_28j": {
     "views": 284,
@@ -618,8 +673,8 @@
     "pct": 29.6
    },
    "miniature_7j": {
-    "impressions": 156,
-    "ctr": 0.64
+    "impressions": 178,
+    "ctr": 0.56
    }
   },
   {
@@ -645,8 +700,8 @@
     "pct": 43.6
    },
    "miniature_7j": {
-    "impressions": 169,
-    "ctr": 0.59
+    "impressions": 195,
+    "ctr": 1.03
    }
   },
   {
@@ -672,8 +727,8 @@
     "pct": 32.1
    },
    "miniature_7j": {
-    "impressions": 179,
-    "ctr": 0.56
+    "impressions": 208,
+    "ctr": 0.48
    }
   },
   {
@@ -699,7 +754,7 @@
     "pct": 28.1
    },
    "miniature_7j": {
-    "impressions": 175,
+    "impressions": 166,
     "ctr": 0.0
    }
   },
@@ -714,20 +769,20 @@
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 27,
+    "views": 28,
     "estimatedMinutesWatched": 3,
-    "averageViewDuration": 17,
-    "averageViewPercentage": 75.92,
+    "averageViewDuration": 16,
+    "averageViewPercentage": 70.71,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 27,
-    "engagees": 12,
-    "pct": 44.4
+    "vues": 28,
+    "engagees": 13,
+    "pct": 46.4
    },
    "miniature_7j": {
-    "impressions": 430,
-    "ctr": 1.86
+    "impressions": 443,
+    "ctr": 1.81
    }
   },
   {
@@ -737,7 +792,7 @@
    "duree_s": 20,
    "format": "short",
    "statut": "public",
-   "vues": 149,
+   "vues": 150,
    "likes": 4,
    "commentaires": 1,
    "analytics_28j": {
@@ -753,8 +808,8 @@
     "pct": 22.1
    },
    "miniature_7j": {
-    "impressions": 139,
-    "ctr": 1.44
+    "impressions": 156,
+    "ctr": 1.28
    }
   },
   {
@@ -764,24 +819,24 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 956,
+   "vues": 960,
    "likes": 26,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 953,
+    "views": 954,
     "estimatedMinutesWatched": 112,
     "averageViewDuration": 14,
     "averageViewPercentage": 66.39,
     "subscribersGained": 3
    },
    "restes": {
-    "vues": 953,
+    "vues": 954,
     "engagees": 406,
     "pct": 42.6
    },
    "miniature_7j": {
-    "impressions": 321,
-    "ctr": 2.18
+    "impressions": 338,
+    "ctr": 2.07
    }
   },
   {
@@ -807,7 +862,7 @@
     "pct": 26.4
    },
    "miniature_7j": {
-    "impressions": 222,
+    "impressions": 217,
     "ctr": 0.0
    }
   },
@@ -818,24 +873,24 @@
    "duree_s": 21,
    "format": "short",
    "statut": "public",
-   "vues": 386,
+   "vues": 387,
    "likes": 6,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 389,
-    "estimatedMinutesWatched": 27,
+    "views": 390,
+    "estimatedMinutesWatched": 28,
     "averageViewDuration": 13,
-    "averageViewPercentage": 65.27,
+    "averageViewPercentage": 65.37,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 389,
-    "engagees": 93,
-    "pct": 23.9
+    "vues": 390,
+    "engagees": 94,
+    "pct": 24.1
    },
    "miniature_7j": {
-    "impressions": 156,
-    "ctr": 0.64
+    "impressions": 172,
+    "ctr": 1.16
    }
   },
   {
@@ -861,8 +916,8 @@
     "pct": 32.9
    },
    "miniature_7j": {
-    "impressions": 269,
-    "ctr": 2.6
+    "impressions": 240,
+    "ctr": 2.5
    }
   },
   {
@@ -876,37 +931,37 @@
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 43,
-    "estimatedMinutesWatched": 40,
-    "averageViewDuration": 88,
-    "averageViewPercentage": 28.470000000000002,
+    "views": 44,
+    "estimatedMinutesWatched": 44,
+    "averageViewDuration": 94,
+    "averageViewPercentage": 30.48,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 43,
-    "engagees": 27,
-    "pct": 62.8
+    "vues": 44,
+    "engagees": 28,
+    "pct": 63.6
    },
    "retention": {
-    "a_30s": 0.526,
-    "a_mi_parcours": 0.231,
-    "a_la_fin": 0.154,
+    "a_30s": 0.544,
+    "a_mi_parcours": 0.259,
+    "a_la_fin": 0.148,
     "creux": [
      {
       "vers": "0:12",
-      "perte_points": 23.1
+      "perte_points": 22.2
      },
      {
       "vers": "0:40",
-      "perte_points": 11.5
+      "perte_points": 11.1
      },
      {
-      "vers": "1:48",
-      "perte_points": 3.8
+      "vers": "3:02",
+      "perte_points": 3.7
      },
      {
-      "vers": "4:48",
-      "perte_points": 3.8
+      "vers": "4:23",
+      "perte_points": 3.7
      }
     ],
     "pics": [
@@ -914,92 +969,92 @@
       "vers": "0:31"
      }
     ],
-    "retention_relative_moyenne": 0.38,
+    "retention_relative_moyenne": 0.37,
     "courbe": [
      [
       0.01,
-      0.923
+      0.926
      ],
      [
       0.06,
-      0.615
+      0.63
      ],
      [
       0.11,
-      0.5
+      0.518
      ],
      [
       0.16,
-      0.385
+      0.407
      ],
      [
       0.21,
-      0.308
+      0.333
      ],
      [
       0.26,
-      0.308
+      0.333
      ],
      [
       0.31,
-      0.308
+      0.333
      ],
      [
       0.36,
-      0.269
+      0.296
      ],
      [
       0.41,
-      0.231
+      0.259
      ],
      [
       0.46,
-      0.231
+      0.259
      ],
      [
       0.51,
-      0.231
+      0.259
      ],
      [
       0.56,
-      0.231
+      0.259
      ],
      [
       0.61,
-      0.231
+      0.259
      ],
      [
       0.66,
-      0.231
+      0.259
      ],
      [
       0.71,
-      0.231
+      0.259
      ],
      [
       0.76,
-      0.231
+      0.259
      ],
      [
       0.81,
-      0.231
+      0.259
      ],
      [
       0.86,
-      0.231
+      0.222
      ],
      [
       0.91,
-      0.231
+      0.222
      ],
      [
       0.96,
-      0.192
+      0.185
      ]
     ]
    },
    "sources": {
-    "RELATED_VIDEO": 18,
+    "RELATED_VIDEO": 19,
     "SUBSCRIBER": 16,
     "NO_LINK_OTHER": 3,
     "YT_CHANNEL": 2,
@@ -1008,8 +1063,8 @@
    },
    "depuis_shorts": "indisponible (400)",
    "miniature_7j": {
-    "impressions": 799,
-    "ctr": 1.88
+    "impressions": 822,
+    "ctr": 1.82
    }
   },
   {
@@ -1035,8 +1090,8 @@
     "pct": 13.4
    },
    "miniature_7j": {
-    "impressions": 175,
-    "ctr": 0.57
+    "impressions": 151,
+    "ctr": 0.0
    }
   },
   {
@@ -1046,7 +1101,7 @@
    "duree_s": 19,
    "format": "short",
    "statut": "public",
-   "vues": 95,
+   "vues": 96,
    "likes": 2,
    "commentaires": 1,
    "analytics_28j": {
@@ -1062,7 +1117,7 @@
     "pct": 18.1
    },
    "miniature_7j": {
-    "impressions": 187,
+    "impressions": 150,
     "ctr": 0.0
    }
   },
@@ -1073,7 +1128,7 @@
    "duree_s": 29,
    "format": "short",
    "statut": "public",
-   "vues": 395,
+   "vues": 396,
    "likes": 10,
    "commentaires": 1,
    "analytics_28j": {
@@ -1089,7 +1144,7 @@
     "pct": 38.5
    },
    "miniature_7j": {
-    "impressions": 114,
+    "impressions": 86,
     "ctr": 0.0
    }
   },
@@ -1116,7 +1171,7 @@
     "pct": 23.6
    },
    "miniature_7j": {
-    "impressions": 108,
+    "impressions": 82,
     "ctr": 0.0
    }
   },
@@ -1127,7 +1182,7 @@
    "duree_s": 28,
    "format": "short",
    "statut": "public",
-   "vues": 735,
+   "vues": 737,
    "likes": 15,
    "commentaires": 1,
    "analytics_28j": {
@@ -1143,8 +1198,8 @@
     "pct": 34.6
    },
    "miniature_7j": {
-    "impressions": 171,
-    "ctr": 0.58
+    "impressions": 148,
+    "ctr": 0.0
    }
   },
   {
@@ -1170,8 +1225,8 @@
     "pct": 34.8
    },
    "miniature_7j": {
-    "impressions": 191,
-    "ctr": 0.52
+    "impressions": 123,
+    "ctr": 0.0
    }
   },
   {
@@ -1185,20 +1240,20 @@
    "likes": 4,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 120,
+    "views": 121,
     "estimatedMinutesWatched": 10,
     "averageViewDuration": 15,
     "averageViewPercentage": 57.75,
     "subscribersGained": 1
    },
    "restes": {
-    "vues": 120,
+    "vues": 121,
     "engagees": 32,
-    "pct": 26.7
+    "pct": 26.4
    },
    "miniature_7j": {
-    "impressions": 137,
-    "ctr": 0.73
+    "impressions": 88,
+    "ctr": 0.0
    }
   },
   {
@@ -1224,7 +1279,7 @@
     "pct": 100.0
    },
    "miniature_7j": {
-    "impressions": 23,
+    "impressions": 10,
     "ctr": 0.0
    }
   },
@@ -1246,7 +1301,7 @@
     "subscribersGained": 0
    },
    "miniature_7j": {
-    "impressions": 23,
+    "impressions": 10,
     "ctr": 0.0
    }
   },
@@ -1262,7 +1317,7 @@
    "commentaires": 0,
    "analytics_28j": null,
    "miniature_7j": {
-    "impressions": 23,
+    "impressions": 10,
     "ctr": 0.0
    }
   },
@@ -1284,7 +1339,7 @@
     "subscribersGained": 0
    },
    "miniature_7j": {
-    "impressions": 21,
+    "impressions": 8,
     "ctr": 0.0
    }
   },
@@ -1299,20 +1354,20 @@
    "likes": 4,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 120,
+    "views": 121,
     "estimatedMinutesWatched": 10,
     "averageViewDuration": 15,
     "averageViewPercentage": 57.75,
     "subscribersGained": 1
    },
    "restes": {
-    "vues": 120,
+    "vues": 121,
     "engagees": 32,
-    "pct": 26.7
+    "pct": 26.4
    },
    "miniature_7j": {
-    "impressions": 137,
-    "ctr": 0.73
+    "impressions": 88,
+    "ctr": 0.0
    }
   },
   {
@@ -1326,20 +1381,20 @@
    "likes": 2,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 98,
-    "estimatedMinutesWatched": 6,
-    "averageViewDuration": 9,
-    "averageViewPercentage": 54.55,
+    "views": 101,
+    "estimatedMinutesWatched": 7,
+    "averageViewDuration": 10,
+    "averageViewPercentage": 58.72999999999999,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 98,
-    "engagees": 33,
+    "vues": 101,
+    "engagees": 34,
     "pct": 33.7
    },
    "miniature_7j": {
-    "impressions": 317,
-    "ctr": 2.21
+    "impressions": 235,
+    "ctr": 2.13
    }
   },
   {
@@ -1349,20 +1404,20 @@
    "duree_s": 465,
    "format": "longue",
    "statut": "public",
-   "vues": 108,
+   "vues": 110,
    "likes": 3,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 103,
+    "views": 104,
     "estimatedMinutesWatched": 251,
     "averageViewDuration": 177,
     "averageViewPercentage": 38.1,
     "subscribersGained": 2
    },
    "restes": {
-    "vues": 103,
+    "vues": 104,
     "engagees": 85,
-    "pct": 82.5
+    "pct": 81.7
    },
    "retention": {
     "a_30s": 0.681,
@@ -1473,7 +1528,7 @@
    },
    "sources": {
     "RELATED_VIDEO": 84,
-    "SUBSCRIBER": 10,
+    "SUBSCRIBER": 11,
     "NO_LINK_OTHER": 3,
     "YT_OTHER_PAGE": 2,
     "YT_CHANNEL": 1,
@@ -1483,8 +1538,8 @@
    },
    "depuis_shorts": "indisponible (400)",
    "miniature_7j": {
-    "impressions": 3137,
-    "ctr": 1.12
+    "impressions": 770,
+    "ctr": 1.04
    }
   },
   {
@@ -1510,7 +1565,7 @@
     "pct": 37.4
    },
    "miniature_7j": {
-    "impressions": 71,
+    "impressions": 42,
     "ctr": 0.0
    }
   },
@@ -1525,20 +1580,20 @@
    "likes": 4,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 476,
+    "views": 477,
     "estimatedMinutesWatched": 22,
     "averageViewDuration": 7,
     "averageViewPercentage": 43.19,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 476,
+    "vues": 477,
     "engagees": 88,
-    "pct": 18.5
+    "pct": 18.4
    },
    "miniature_7j": {
-    "impressions": 157,
-    "ctr": 2.55
+    "impressions": 130,
+    "ctr": 2.31
    }
   },
   {
@@ -1564,7 +1619,7 @@
     "pct": 34.7
    },
    "miniature_7j": {
-    "impressions": 105,
+    "impressions": 86,
     "ctr": 0.0
    }
   },
@@ -1579,20 +1634,20 @@
    "likes": 3,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 214,
+    "views": 215,
     "estimatedMinutesWatched": 18,
     "averageViewDuration": 17,
     "averageViewPercentage": 71.28,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 214,
+    "vues": 215,
     "engagees": 48,
-    "pct": 22.4
+    "pct": 22.3
    },
    "miniature_7j": {
-    "impressions": 68,
-    "ctr": 1.47
+    "impressions": 67,
+    "ctr": 1.49
    }
   },
   {
@@ -1618,7 +1673,7 @@
     "pct": 36.1
    },
    "miniature_7j": {
-    "impressions": 53,
+    "impressions": 45,
     "ctr": 0.0
    }
   },
@@ -1645,7 +1700,7 @@
     "pct": 25.0
    },
    "miniature_7j": {
-    "impressions": 59,
+    "impressions": 51,
     "ctr": 0.0
    }
   },
@@ -1660,20 +1715,20 @@
    "likes": 3,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 668,
+    "views": 669,
     "estimatedMinutesWatched": 47,
     "averageViewDuration": 13,
     "averageViewPercentage": 43.98,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 668,
+    "vues": 669,
     "engagees": 170,
     "pct": 25.4
    },
    "miniature_7j": {
-    "impressions": 39,
-    "ctr": 2.56
+    "impressions": 32,
+    "ctr": 3.12
    }
   },
   {
@@ -1683,41 +1738,41 @@
    "duree_s": 489,
    "format": "longue",
    "statut": "public",
-   "vues": 126,
+   "vues": 131,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 115,
+    "views": 120,
     "estimatedMinutesWatched": 72,
-    "averageViewDuration": 124,
-    "averageViewPercentage": 25.52,
+    "averageViewDuration": 121,
+    "averageViewPercentage": 24.91,
     "subscribersGained": 0
    },
    "restes": {
-    "vues": 115,
-    "engagees": 33,
-    "pct": 28.7
+    "vues": 120,
+    "engagees": 34,
+    "pct": 28.3
    },
    "retention": {
-    "a_30s": 0.621,
-    "a_mi_parcours": 0.281,
-    "a_la_fin": 0.188,
+    "a_30s": 0.602,
+    "a_mi_parcours": 0.273,
+    "a_la_fin": 0.182,
     "creux": [
      {
       "vers": "0:14",
-      "perte_points": 34.4
+      "perte_points": 36.4
      },
      {
       "vers": "0:48",
-      "perte_points": 6.2
+      "perte_points": 6.1
      },
      {
-      "vers": "1:57",
-      "perte_points": 3.1
+      "vers": "5:27",
+      "perte_points": 3.0
      },
      {
-      "vers": "2:31",
-      "perte_points": 3.1
+      "vers": "7:34",
+      "perte_points": 3.0
      }
     ],
     "pics": [
@@ -1735,88 +1790,88 @@
     "courbe": [
      [
       0.01,
-      1.031
+      1.03
      ],
      [
       0.06,
-      0.625
+      0.606
      ],
      [
       0.11,
-      0.375
+      0.364
      ],
      [
       0.16,
-      0.344
+      0.333
      ],
      [
       0.21,
-      0.375
+      0.364
      ],
      [
       0.26,
-      0.344
+      0.333
      ],
      [
       0.31,
-      0.344
+      0.333
      ],
      [
       0.36,
-      0.281
+      0.273
      ],
      [
       0.41,
-      0.281
+      0.273
      ],
      [
       0.46,
-      0.281
+      0.273
      ],
      [
       0.51,
-      0.281
+      0.273
      ],
      [
       0.56,
-      0.281
+      0.273
      ],
      [
       0.61,
-      0.281
+      0.273
      ],
      [
       0.66,
-      0.281
+      0.273
      ],
      [
       0.71,
-      0.25
+      0.242
      ],
      [
       0.76,
-      0.219
+      0.212
      ],
      [
       0.81,
-      0.219
+      0.212
      ],
      [
       0.86,
-      0.219
+      0.212
      ],
      [
       0.91,
-      0.219
+      0.212
      ],
      [
       0.96,
-      0.188
+      0.182
      ]
     ]
    },
    "sources": {
-    "SUBSCRIBER": 101,
+    "SUBSCRIBER": 106,
     "YT_CHANNEL": 5,
     "YT_SEARCH": 2,
     "RELATED_VIDEO": 2,
@@ -1826,18 +1881,18 @@
    },
    "depuis_shorts": "indisponible (400)",
    "miniature_7j": {
-    "impressions": 233,
-    "ctr": 6.01
+    "impressions": 35,
+    "ctr": 8.57
    }
   }
  ],
  "sources_trafic_28j": {
-  "SHORTS": 9479,
-  "YT_SEARCH": 281,
-  "YT_CHANNEL": 142,
-  "SUBSCRIBER": 129,
-  "YT_OTHER_PAGE": 118,
-  "RELATED_VIDEO": 106,
+  "SHORTS": 9605,
+  "YT_SEARCH": 304,
+  "YT_CHANNEL": 143,
+  "SUBSCRIBER": 136,
+  "YT_OTHER_PAGE": 120,
+  "RELATED_VIDEO": 107,
   "NO_LINK_OTHER": 7,
   "EXT_URL": 7,
   "NOTIFICATION": 7,
@@ -1845,31 +1900,30 @@
   "HASHTAGS": 2
  },
  "monetisation": {
-  "vues_shorts_90j": 10013,
-  "heures_longues_365j": 6.4
+  "erreur": "indisponible (500)"
  },
  "reporting": {
   "rapports_disponibles": 6
  },
  "pilotage": {
   "evolution_24h": {
-   "depuis": "2026-11-11",
+   "depuis": "2026-11-12",
    "abonnes": 0,
-   "vues": 77
+   "vues": 80
   },
   "evolution_7j": {
-   "depuis": "2026-11-05",
-   "abonnes": 6,
-   "vues": 7327
+   "depuis": "2026-11-06",
+   "abonnes": 3,
+   "vues": 3844
   },
   "shorts_par_jour_7j": {
-   "2026-11-06": 4,
    "2026-11-07": 3,
    "2026-11-08": 2,
    "2026-11-09": 5,
    "2026-11-10": 2,
    "2026-11-11": 3,
-   "2026-11-12": 2
+   "2026-11-12": 2,
+   "2026-11-13": 1
   },
   "doublons": [
    [
@@ -1887,7 +1941,7 @@
   ],
   "alertes": [
    "1 Short(s) en double : à passer en privé (le moins vu de chaque paire, liste plus bas)",
-   "Trop de Shorts le même jour (max conseillé 3) : 2026-11-06 → 4, 2026-11-09 → 5"
+   "Trop de Shorts le même jour (max conseillé 3) : 2026-11-09 → 5"
   ]
  }
 }
