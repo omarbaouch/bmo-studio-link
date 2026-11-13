@@ -1,6 +1,6 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-13T08:16:01.523778+00:00",
+ "date": "2026-11-13T13:12:25.078210+00:00",
  "abonnes": 13,
  "vues_totales": 10551,
  "autorisations": [
@@ -22,9 +22,9 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 4,
+   "vues": 13,
    "likes": 0,
-   "commentaires": 0,
+   "commentaires": 1,
    "analytics_28j": null,
    "miniature_7j": {
     "impressions": 10,
@@ -38,7 +38,7 @@
    "duree_s": 23,
    "format": "short",
    "statut": "public",
-   "vues": 6,
+   "vues": 12,
    "likes": 0,
    "commentaires": 1,
    "analytics_28j": null,
@@ -98,7 +98,7 @@
    "duree_s": 17,
    "format": "short",
    "statut": "public",
-   "vues": 7,
+   "vues": 8,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
@@ -174,7 +174,7 @@
    "duree_s": 16,
    "format": "short",
    "statut": "public",
-   "vues": 16,
+   "vues": 17,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
@@ -540,7 +540,7 @@
    "duree_s": 236,
    "format": "longue",
    "statut": "public",
-   "vues": 11,
+   "vues": 14,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
@@ -900,7 +900,7 @@
    "duree_s": 25,
    "format": "short",
    "statut": "public",
-   "vues": 1134,
+   "vues": 1135,
    "likes": 18,
    "commentaires": 2,
    "analytics_28j": {
@@ -1900,7 +1900,8 @@
   "HASHTAGS": 2
  },
  "monetisation": {
-  "erreur": "indisponible (500)"
+  "vues_shorts_90j": 10166,
+  "heures_longues_365j": 6.4
  },
  "reporting": {
   "rapports_disponibles": 6
