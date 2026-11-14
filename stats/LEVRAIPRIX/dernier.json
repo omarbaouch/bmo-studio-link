@@ -1,6 +1,6 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-14T08:14:59.064832+00:00",
+ "date": "2026-11-14T12:16:24.583227+00:00",
  "abonnes": 13,
  "vues_totales": 10644,
  "autorisations": [
@@ -16,13 +16,29 @@
  ],
  "videos": [
   {
+   "id": "CQ_DUZ5X5EE",
+   "titre": "Ton steak haché : combien pour l'éleveur ? #shorts",
+   "publie": "2026-11-14T12:00:30Z",
+   "duree_s": 24,
+   "format": "short",
+   "statut": "public",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null,
+   "miniature_7j": {
+    "impressions": 11,
+    "ctr": 0.0
+   }
+  },
+  {
    "id": "xVZA4wmyIbM",
    "titre": "Tes lunettes à 300 € : qui paie vraiment ? #shorts",
    "publie": "2026-11-13T07:00:30Z",
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 40,
+   "vues": 55,
    "likes": 0,
    "commentaires": 1,
    "analytics_28j": null,
@@ -437,22 +453,6 @@
    }
   },
   {
-   "id": "CQ_DUZ5X5EE",
-   "titre": "Ton steak haché : combien pour l'éleveur ? #shorts",
-   "publie": "2026-11-09T07:54:03Z",
-   "duree_s": 24,
-   "format": "short",
-   "statut": "private",
-   "vues": 0,
-   "likes": 0,
-   "commentaires": 0,
-   "analytics_28j": null,
-   "miniature_7j": {
-    "impressions": 11,
-    "ctr": 0.0
-   }
-  },
-  {
    "id": "LHId83_QGpE",
    "titre": "L'État gagne combien sur ta capsule ? #shorts",
    "publie": "2026-11-09T07:00:15Z",
@@ -657,7 +657,7 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 250,
+   "vues": 251,
    "likes": 5,
    "commentaires": 1,
    "analytics_28j": {
@@ -684,7 +684,7 @@
    "duree_s": 20,
    "format": "short",
    "statut": "public",
-   "vues": 288,
+   "vues": 289,
    "likes": 7,
    "commentaires": 1,
    "analytics_28j": {
@@ -1155,7 +1155,7 @@
    "duree_s": 29,
    "format": "short",
    "statut": "public",
-   "vues": 398,
+   "vues": 400,
    "likes": 11,
    "commentaires": 1,
    "analytics_28j": {
@@ -1431,7 +1431,7 @@
    "duree_s": 465,
    "format": "longue",
    "statut": "public",
-   "vues": 115,
+   "vues": 116,
    "likes": 3,
    "commentaires": 1,
    "analytics_28j": {
@@ -1769,7 +1769,7 @@
    "duree_s": 489,
    "format": "longue",
    "statut": "public",
-   "vues": 142,
+   "vues": 144,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
@@ -1954,7 +1954,8 @@
    "2026-11-10": 2,
    "2026-11-11": 3,
    "2026-11-12": 2,
-   "2026-11-13": 1
+   "2026-11-13": 1,
+   "2026-11-14": 1
   },
   "doublons": [
    [
