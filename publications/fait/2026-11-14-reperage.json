@@ -1,0 +1,351 @@
+{
+ "action": "chercher",
+ "chaine": "LEVRAIPRIX",
+ "jours": 2,
+ "titre": "Repérage du jour",
+ "requetes": [
+  "prix des lunettes opticien",
+  "prix du lait producteurs",
+  "prix des pâtes",
+  "Black Friday arnaque prix",
+  "prix carburant gazole",
+  "prix du café",
+  "prix du chocolat Noël",
+  "Doliprane prix médicament"
+ ],
+ "resultat": {
+  "resultats": {
+   "prix des lunettes opticien": [
+    {
+     "id": "kMHAoBDl4go",
+     "titre": "Le piège de vos lunettes à 340 €.",
+     "chaine": "Revers Media",
+     "publie": "2026-11-12T14:13:46Z",
+     "duree": "PT8M34S",
+     "vues": 19,
+     "commentaires": "0"
+    },
+    {
+     "id": "oeS8DPF0z8Y",
+     "titre": "Opticien indépendant = plus cher ? Et bien plus. Vrai ou faux | GM Eyewear Lausanne",
+     "chaine": "GM Eyewear",
+     "publie": "2026-11-13T12:42:08Z",
+     "duree": "PT3M41S",
+     "vues": 0,
+     "commentaires": "0"
+    }
+   ],
+   "prix du lait producteurs": [],
+   "prix des pâtes": [
+    {
+     "id": "rNsI3ENzgWU",
+     "titre": "شكون اللي رخيص؟ مقارنة أثمنة الشوكولاتة للدهن فالمغرب | Comparatif prix pâte à tartiner",
+     "chaine": "Flipini Maroc",
+     "publie": "2026-11-13T15:30:01Z",
+     "duree": "PT52S",
+     "vues": 45,
+     "commentaires": "0"
+    },
+    {
+     "id": "LPQ0sJnKXyA",
+     "titre": "pâte dentifrice médicale bon prix gros et détails 677102691",
+     "chaine": "beauté et bien-être by Céline ",
+     "publie": "2026-11-13T09:55:07Z",
+     "duree": "PT27S",
+     "vues": 8,
+     "commentaires": "0"
+    }
+   ],
+   "Black Friday arnaque prix": [
+    {
+     "id": "xQGkeEs2kCQ",
+     "titre": "-60 % au Black Friday ? Le prix barré était faux #Shorts",
+     "chaine": "Mouton Finance",
+     "publie": "2026-11-12T13:31:49Z",
+     "duree": "PT1M5S",
+     "vues": 782,
+     "commentaires": "1"
+    },
+    {
+     "id": "yfuN6mjxf0E",
+     "titre": "Black Friday | Bargain or Big Scam? | InQuestion",
+     "chaine": "InQuestion Show",
+     "publie": "2026-11-12T15:00:39Z",
+     "duree": "PT1M8S",
+     "vues": 679,
+     "commentaires": "1"
+    },
+    {
+     "id": "0Y6tTg02lsg",
+     "titre": "BLACK FRIDAY ou fausses promotions ?",
+     "chaine": "Canal.Haussier",
+     "publie": "2026-11-13T15:52:22Z",
+     "duree": "PT1M25S",
+     "vues": 187,
+     "commentaires": "0"
+    },
+    {
+     "id": "Zhl0SPtfECs",
+     "titre": "Black Friday : 3 réflexes pour éviter les faux sites de promo",
+     "chaine": "One Again IT",
+     "publie": "2026-11-13T09:06:47Z",
+     "duree": "PT37S",
+     "vues": 37,
+     "commentaires": "0"
+    },
+    {
+     "id": "gie95iFiEdo",
+     "titre": "Honeybalm Lip Balm Reviews and Complaints | Is Honeybalm Legit or a Scam?",
+     "chaine": "Liberty Review",
+     "publie": "2026-11-12T17:02:59Z",
+     "duree": "PT3M19S",
+     "vues": 17,
+     "commentaires": "0"
+    },
+    {
+     "id": "54ALpOkT2Xg",
+     "titre": "Solo Fitness Review: Scam Or Legit? (2026 Guide)",
+     "chaine": "One Last Guru",
+     "publie": "2026-11-14T04:13:54Z",
+     "duree": "PT2M54S",
+     "vues": 0,
+     "commentaires": "0"
+    },
+    {
+     "id": "ckywBFau-K8",
+     "titre": "Black Friday : l'État a contrôlé 1 000 magasins",
+     "chaine": "LeRat",
+     "publie": "2026-11-13T18:00:14Z",
+     "duree": "PT1M30S",
+     "vues": 7,
+     "commentaires": "0"
+    }
+   ],
+   "prix carburant gazole": [
+    {
+     "id": "xJ3GxVUdzX0",
+     "titre": "Baisse des prix de l'essence : \"Les choses sont un peu en train de se calmer\" selon les économistes",
+     "chaine": "Europe 1",
+     "publie": "2026-11-13T06:58:36Z",
+     "duree": "PT1M22S",
+     "vues": 2119,
+     "commentaires": "3"
+    },
+    {
+     "id": "xwkbKsB1bJY",
+     "titre": "Le baril baisse, pourquoi pas le prix à la pompe ?",
+     "chaine": "MCSA Formation",
+     "publie": "2026-11-13T19:42:04Z",
+     "duree": "PT1M39S",
+     "vues": 891,
+     "commentaires": "0"
+    },
+    {
+     "id": "_0SMrYh_9T4",
+     "titre": "Pourquoi le prix du diesel dépasse-t-il parfois les 2 € le litre ?",
+     "chaine": "CuriosphèreTV",
+     "publie": "2026-11-12T11:06:10Z",
+     "duree": "PT34S",
+     "vues": 83,
+     "commentaires": "1"
+    },
+    {
+     "id": "7pV_Ibet6NA",
+     "titre": "Pénurie de carburant : faire le plein, le nouveau sport national",
+     "chaine": "Absurdating News",
+     "publie": "2026-11-12T15:48:36Z",
+     "duree": "PT2M38S",
+     "vues": 4,
+     "commentaires": "0"
+    },
+    {
+     "id": "BXfdC7ZIZLs",
+     "titre": "Quel est le prix d’une réparation de pompe haute pression diesel ?",
+     "chaine": "INJECTEURLAND",
+     "publie": "2026-11-13T16:00:18Z",
+     "duree": "PT40S",
+     "vues": 71,
+     "commentaires": "0"
+    },
+    {
+     "id": "a49C1kGzKQw",
+     "titre": "Diesel Prices Are CRUSHING Truck Drivers and Farmers",
+     "chaine": "USA WORKS",
+     "publie": "2026-11-12T16:14:16Z",
+     "duree": "PT1M",
+     "vues": 2,
+     "commentaires": "0"
+    }
+   ],
+   "prix du café": [
+    {
+     "id": "GH1ZlfxF9Hk",
+     "titre": "Why this NYC Cafe sells a $25,000 Hot Chocolate! 🤯#Ravate",
+     "chaine": "Ravate",
+     "publie": "2026-11-12T13:39:00Z",
+     "duree": "PT45S",
+     "vues": 25584,
+     "commentaires": "0"
+    },
+    {
+     "id": "Y3N_OJTNw9U",
+     "titre": "A Low-Cost Furniture Makeover + Coffee Bar Styling | Home Updates",
+     "chaine": "Sarah Wisted",
+     "publie": "2026-11-12T15:27:29Z",
+     "duree": "PT6M55S",
+     "vues": 3925,
+     "commentaires": "14"
+    },
+    {
+     "id": "yN0BjuNR04E",
+     "titre": "The best budget espresso machine! #coffee",
+     "chaine": "Created to Coffee",
+     "publie": "2026-11-12T17:00:15Z",
+     "duree": "PT52S",
+     "vues": 6758,
+     "commentaires": "7"
+    },
+    {
+     "id": "Z13hRWeq76E",
+     "titre": "Almost 30, My First McDonald’s… Why It Feels Like a Luxury in Vietnam",
+     "chaine": "Thuong - Simple Life Vietnam",
+     "publie": "2026-11-13T13:50:28Z",
+     "duree": "PT22M",
+     "vues": 2302,
+     "commentaires": "109"
+    },
+    {
+     "id": "1qgm7P1u6g8",
+     "titre": "Café Vai Subir Mais? O Alerta no Clima e a Reviravolta em Nova York.",
+     "chaine": "Paracatu Rural - Canal do Agronegócio ™",
+     "publie": "2026-11-13T18:00:15Z",
+     "duree": "PT16M56S",
+     "vues": 2056,
+     "commentaires": "3"
+    },
+    {
+     "id": "wJo8RSKhF7w",
+     "titre": "por que e tao caro cafe",
+     "chaine": "pqtaocaro",
+     "publie": "2026-11-12T20:41:48Z",
+     "duree": "PT40S",
+     "vues": 1117,
+     "commentaires": "0"
+    },
+    {
+     "id": "PvczyPrWRDI",
+     "titre": "The $700 Espresso Machine Giving $3,000 Machines a Wake-Up Call",
+     "chaine": "The Specialty Coffee Explorer",
+     "publie": "2026-11-13T07:26:35Z",
+     "duree": "PT11M25S",
+     "vues": 1591,
+     "commentaires": "13"
+    },
+    {
+     "id": "k5lc6TBiHOM",
+     "titre": "Kenapa Kopi Kafe Terasa Wajar Mahal?",
+     "chaine": "Melek Duit",
+     "publie": "2026-11-13T05:00:24Z",
+     "duree": "PT56S",
+     "vues": 1205,
+     "commentaires": "0"
+    },
+    {
+     "id": "wHuatkb1NdM",
+     "titre": "REKAP®️ Coffee w/Kap: PCA wins the MVP award unanimously! Sending sunshine back to you! 😎￼",
+     "chaine": "The REKAP®",
+     "publie": "2026-11-13T14:03:00Z",
+     "duree": "PT3M1S",
+     "vues": 1238,
+     "commentaires": "8"
+    },
+    {
+     "id": "4pn28CiLiGc",
+     "titre": "kopi naik saya akan lawan #funny #ngkak #lucu #comedy",
+     "chaine": "Ali sewu",
+     "publie": "2026-11-12T22:02:30Z",
+     "duree": "PT14S",
+     "vues": 1037,
+     "commentaires": "0"
+    },
+    {
+     "id": "a7xnM5pFv2w",
+     "titre": "Por Que O CAFÉ Ficou Tão CARO No BRASIL E Quem GANHOU Com Essa ALTA? #café #economia #shorts",
+     "chaine": "INTELIGENÇIA AI ATIVA",
+     "publie": "2026-11-12T22:44:35Z",
+     "duree": "PT2M20S",
+     "vues": 988,
+     "commentaires": "2"
+    },
+    {
+     "id": "DLNbO2x9joA",
+     "titre": "the best price! #tumbler #tumblers #coffeemug #coffeetumbler #tumblersoftiktok",
+     "chaine": "Jenessa Gray",
+     "publie": "2026-11-14T01:53:38Z",
+     "duree": "PT31S",
+     "vues": 1022,
+     "commentaires": "0"
+    },
+    {
+     "id": "EEjPiq9Ez10",
+     "titre": "such a cutie little tumbler and the price is so good rn!! Bablov Store #tumbler #tumblers #coffeemug",
+     "chaine": "Jenessa Gray",
+     "publie": "2026-11-14T02:54:13Z",
+     "duree": "PT26S",
+     "vues": 977,
+     "commentaires": "0"
+    },
+    {
+     "id": "nz2CJBNo4Q8",
+     "titre": "That $6.15 Matcha Latte Costs You $640 a Year",
+     "chaine": "BillionaireBrainWave2",
+     "publie": "2026-11-13T15:00:21Z",
+     "duree": "PT27S",
+     "vues": 911,
+     "commentaires": "0"
+    },
+    {
+     "id": "WaStL5A1rGY",
+     "titre": "From Kodagu to Europe ☕🏆",
+     "chaine": "Conscious Planet",
+     "publie": "2026-11-13T15:43:13Z",
+     "duree": "PT52S",
+     "vues": 658,
+     "commentaires": "1"
+    }
+   ],
+   "prix du chocolat Noël": [
+    {
+     "id": "ANeOt6EZdu8",
+     "titre": "CHOCOLATS DE NOËL : UN INTERNAUTE SCANDALISÉ PAR LES PRIX !",
+     "chaine": "Hexa-News",
+     "publie": "2026-11-13T10:14:00Z",
+     "duree": "PT42S",
+     "vues": 18623,
+     "commentaires": "176"
+    },
+    {
+     "id": "bANNXupwLQI",
+     "titre": "11 Foods Vanishing From Australian Supermarket Shelves Before Christmas",
+     "chaine": "Consumer Watch Australia",
+     "publie": "2026-11-13T22:30:30Z",
+     "duree": "PT30M13S",
+     "vues": 2702,
+     "commentaires": "10"
+    }
+   ],
+   "Doliprane prix médicament": [
+    {
+     "id": "XaEaeEq81RM",
+     "titre": "Paracétamol : pourquoi le gouvernement refuse la hausse de prix demandée par les industriels",
+     "chaine": "FRANCE BREAKING",
+     "publie": "2026-11-13T12:54:35Z",
+     "duree": "PT3M23S",
+     "vues": 5,
+     "commentaires": "0"
+    }
+   ]
+  },
+  "envoye_le": "2026-11-14T10:44:26.710527+00:00"
+ }
+}
