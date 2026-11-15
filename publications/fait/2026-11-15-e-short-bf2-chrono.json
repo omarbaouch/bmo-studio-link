@@ -16,5 +16,13 @@
  "publier_le": "2026-11-22T13:00:00+01:00",
  "forcer_heure": true,
  "format": "short",
- "playlist": "Le vrai prix — Shorts"
+ "playlist": "Le vrai prix — Shorts",
+ "resultat": {
+  "id": "w2-GTv5qxrY",
+  "lien": "https://youtu.be/w2-GTv5qxrY",
+  "statut_youtube": "private",
+  "playlist": "ok (Le vrai prix — Shorts)",
+  "commentaire": "en attente",
+  "envoye_le": "2026-11-15T16:33:27.291415+00:00"
+ }
 }
