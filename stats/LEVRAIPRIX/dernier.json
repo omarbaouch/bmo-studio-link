@@ -1,6 +1,6 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-16T08:15:57.607271+00:00",
+ "date": "2026-11-16T13:45:19.396935+00:00",
  "abonnes": 13,
  "vues_totales": 12003,
  "autorisations": [
@@ -15,6 +15,22 @@
   "yt-analytics.readonly"
  ],
  "videos": [
+  {
+   "id": "8nHXIM1QE18",
+   "titre": "L'eau en bouteille, combien de fois plus chère ? #shorts",
+   "publie": "2026-11-16T12:00:07Z",
+   "duree_s": 23,
+   "format": "short",
+   "statut": "public",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": null,
+   "miniature_7j": {
+    "impressions": 17,
+    "ctr": 0.0
+   }
+  },
   {
    "id": "DT-7EeQle5s",
    "titre": "« Prix conseillé » barré : vraie promo ? #shorts",
@@ -58,7 +74,7 @@
    "duree_s": 24,
    "format": "short",
    "statut": "public",
-   "vues": 381,
+   "vues": 423,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": null
@@ -70,7 +86,7 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 338,
+   "vues": 352,
    "likes": 5,
    "commentaires": 1,
    "analytics_28j": null,
@@ -86,12 +102,12 @@
    "duree_s": 24,
    "format": "short",
    "statut": "public",
-   "vues": 487,
+   "vues": 499,
    "likes": 5,
    "commentaires": 3,
    "analytics_28j": null,
    "miniature_7j": {
-    "impressions": 16,
+    "impressions": 31,
     "ctr": 0.0
    }
   },
@@ -118,8 +134,8 @@
     "pct": 15.2
    },
    "miniature_7j": {
-    "impressions": 43,
-    "ctr": 0.0
+    "impressions": 62,
+    "ctr": 1.61
    }
   },
   {
@@ -145,8 +161,8 @@
     "pct": 16.7
    },
    "miniature_7j": {
-    "impressions": 59,
-    "ctr": 1.69
+    "impressions": 65,
+    "ctr": 1.54
    }
   },
   {
@@ -172,8 +188,8 @@
     "pct": 18.5
    },
    "miniature_7j": {
-    "impressions": 71,
-    "ctr": 1.41
+    "impressions": 84,
+    "ctr": 1.19
    }
   },
   {
@@ -204,8 +220,8 @@
    },
    "depuis_shorts": "indisponible (400)",
    "miniature_7j": {
-    "impressions": 211,
-    "ctr": 0.47
+    "impressions": 218,
+    "ctr": 0.46
    }
   },
   {
@@ -258,8 +274,8 @@
     "pct": 44.4
    },
    "miniature_7j": {
-    "impressions": 75,
-    "ctr": 2.67
+    "impressions": 76,
+    "ctr": 2.63
    }
   },
   {
@@ -285,7 +301,7 @@
     "pct": 31.6
    },
    "miniature_7j": {
-    "impressions": 52,
+    "impressions": 55,
     "ctr": 0.0
    }
   },
@@ -312,8 +328,8 @@
     "pct": 17.6
    },
    "miniature_7j": {
-    "impressions": 97,
-    "ctr": 1.03
+    "impressions": 104,
+    "ctr": 1.92
    }
   },
   {
@@ -339,8 +355,8 @@
     "pct": 14.4
    },
    "miniature_7j": {
-    "impressions": 63,
-    "ctr": 1.59
+    "impressions": 73,
+    "ctr": 1.37
    }
   },
   {
@@ -366,8 +382,8 @@
     "pct": 33.3
    },
    "miniature_7j": {
-    "impressions": 79,
-    "ctr": 2.53
+    "impressions": 86,
+    "ctr": 2.33
    }
   },
   {
@@ -393,8 +409,8 @@
     "pct": 28.0
    },
    "miniature_7j": {
-    "impressions": 93,
-    "ctr": 1.08
+    "impressions": 96,
+    "ctr": 1.04
    }
   },
   {
@@ -420,8 +436,8 @@
     "pct": 36.7
    },
    "miniature_7j": {
-    "impressions": 229,
-    "ctr": 3.93
+    "impressions": 246,
+    "ctr": 3.66
    }
   },
   {
@@ -447,8 +463,8 @@
     "pct": 20.0
    },
    "miniature_7j": {
-    "impressions": 224,
-    "ctr": 1.34
+    "impressions": 226,
+    "ctr": 1.33
    }
   },
   {
@@ -487,22 +503,6 @@
    "id": "bvZArdgeTHY",
    "titre": "Ton livre à 20 € : combien pour l'auteur ? #shorts",
    "publie": "2026-11-09T07:54:26Z",
-   "duree_s": 23,
-   "format": "short",
-   "statut": "private",
-   "vues": 0,
-   "likes": 0,
-   "commentaires": 0,
-   "analytics_28j": null,
-   "miniature_7j": {
-    "impressions": 17,
-    "ctr": 0.0
-   }
-  },
-  {
-   "id": "8nHXIM1QE18",
-   "titre": "L'eau en bouteille, combien de fois plus chère ? #shorts",
-   "publie": "2026-11-09T07:54:21Z",
    "duree_s": 23,
    "format": "short",
    "statut": "private",
@@ -565,8 +565,8 @@
     "pct": 36.0
    },
    "miniature_7j": {
-    "impressions": 96,
-    "ctr": 2.08
+    "impressions": 100,
+    "ctr": 2.0
    }
   },
   {
@@ -592,8 +592,8 @@
     "pct": 27.8
    },
    "miniature_7j": {
-    "impressions": 176,
-    "ctr": 1.14
+    "impressions": 177,
+    "ctr": 1.13
    }
   },
   {
@@ -655,8 +655,8 @@
    },
    "depuis_shorts": "indisponible (400)",
    "miniature_7j": {
-    "impressions": 747,
-    "ctr": 0.8
+    "impressions": 762,
+    "ctr": 0.79
    }
   },
   {
@@ -682,8 +682,8 @@
     "pct": 19.1
    },
    "miniature_7j": {
-    "impressions": 157,
-    "ctr": 1.91
+    "impressions": 167,
+    "ctr": 2.4
    }
   },
   {
@@ -709,8 +709,8 @@
     "pct": 22.3
    },
    "miniature_7j": {
-    "impressions": 110,
-    "ctr": 0.91
+    "impressions": 115,
+    "ctr": 0.87
    }
   },
   {
@@ -736,7 +736,7 @@
     "pct": 26.0
    },
    "miniature_7j": {
-    "impressions": 87,
+    "impressions": 91,
     "ctr": 0.0
    }
   },
@@ -763,8 +763,8 @@
     "pct": 29.9
    },
    "miniature_7j": {
-    "impressions": 75,
-    "ctr": 1.33
+    "impressions": 79,
+    "ctr": 2.53
    }
   },
   {
@@ -790,8 +790,8 @@
     "pct": 43.6
    },
    "miniature_7j": {
-    "impressions": 93,
-    "ctr": 2.15
+    "impressions": 100,
+    "ctr": 2.0
    }
   },
   {
@@ -817,7 +817,7 @@
     "pct": 32.1
    },
    "miniature_7j": {
-    "impressions": 77,
+    "impressions": 78,
     "ctr": 0.0
    }
   },
@@ -871,8 +871,8 @@
     "pct": 45.2
    },
    "miniature_7j": {
-    "impressions": 182,
-    "ctr": 0.55
+    "impressions": 189,
+    "ctr": 0.53
    }
   },
   {
@@ -898,7 +898,7 @@
     "pct": 22.0
    },
    "miniature_7j": {
-    "impressions": 54,
+    "impressions": 56,
     "ctr": 0.0
    }
   },
@@ -909,7 +909,7 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 966,
+   "vues": 967,
    "likes": 26,
    "commentaires": 1,
    "analytics_28j": {
@@ -925,8 +925,8 @@
     "pct": 42.8
    },
    "miniature_7j": {
-    "impressions": 221,
-    "ctr": 2.71
+    "impressions": 236,
+    "ctr": 2.54
    }
   },
   {
@@ -952,7 +952,7 @@
     "pct": 26.2
    },
    "miniature_7j": {
-    "impressions": 57,
+    "impressions": 59,
     "ctr": 0.0
    }
   },
@@ -979,8 +979,8 @@
     "pct": 23.9
    },
    "miniature_7j": {
-    "impressions": 61,
-    "ctr": 1.64
+    "impressions": 75,
+    "ctr": 1.33
    }
   },
   {
@@ -1006,8 +1006,8 @@
     "pct": 32.9
    },
    "miniature_7j": {
-    "impressions": 56,
-    "ctr": 1.79
+    "impressions": 57,
+    "ctr": 1.75
    }
   },
   {
@@ -1017,7 +1017,7 @@
    "duree_s": 310,
    "format": "longue",
    "statut": "public",
-   "vues": 49,
+   "vues": 50,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
@@ -1153,8 +1153,8 @@
    },
    "depuis_shorts": "indisponible (400)",
    "miniature_7j": {
-    "impressions": 403,
-    "ctr": 0.99
+    "impressions": 409,
+    "ctr": 0.98
    }
   },
   {
@@ -1180,7 +1180,7 @@
     "pct": 13.4
    },
    "miniature_7j": {
-    "impressions": 43,
+    "impressions": 44,
     "ctr": 0.0
    }
   },
@@ -1207,7 +1207,7 @@
     "pct": 17.7
    },
    "miniature_7j": {
-    "impressions": 58,
+    "impressions": 60,
     "ctr": 0.0
    }
   },
@@ -1234,8 +1234,8 @@
     "pct": 38.6
    },
    "miniature_7j": {
-    "impressions": 26,
-    "ctr": 3.85
+    "impressions": 30,
+    "ctr": 3.33
    }
   },
   {
@@ -1261,7 +1261,7 @@
     "pct": 23.6
    },
    "miniature_7j": {
-    "impressions": 18,
+    "impressions": 19,
     "ctr": 0.0
    }
   },
@@ -1288,8 +1288,8 @@
     "pct": 34.5
    },
    "miniature_7j": {
-    "impressions": 109,
-    "ctr": 0.92
+    "impressions": 114,
+    "ctr": 0.88
    }
   },
   {
@@ -1342,7 +1342,7 @@
     "pct": 26.4
    },
    "miniature_7j": {
-    "impressions": 26,
+    "impressions": 27,
     "ctr": 0.0
    }
   },
@@ -1396,7 +1396,7 @@
     "pct": 17.7
    },
    "miniature_7j": {
-    "impressions": 58,
+    "impressions": 60,
     "ctr": 0.0
    }
   },
@@ -1423,7 +1423,7 @@
     "pct": 26.4
    },
    "miniature_7j": {
-    "impressions": 26,
+    "impressions": 27,
     "ctr": 0.0
    }
   },
@@ -1495,8 +1495,8 @@
     "pct": 33.3
    },
    "miniature_7j": {
-    "impressions": 72,
-    "ctr": 1.39
+    "impressions": 78,
+    "ctr": 1.28
    }
   },
   {
@@ -1644,8 +1644,8 @@
    },
    "depuis_shorts": "indisponible (400)",
    "miniature_7j": {
-    "impressions": 271,
-    "ctr": 2.95
+    "impressions": 319,
+    "ctr": 2.82
    }
   },
   {
@@ -1725,7 +1725,7 @@
     "pct": 34.7
    },
    "miniature_7j": {
-    "impressions": 30,
+    "impressions": 31,
     "ctr": 0.0
    }
   },
@@ -1752,7 +1752,7 @@
     "pct": 22.3
    },
    "miniature_7j": {
-    "impressions": 23,
+    "impressions": 27,
     "ctr": 0.0
    }
   },
@@ -1779,7 +1779,7 @@
     "pct": 36.1
    },
    "miniature_7j": {
-    "impressions": 20,
+    "impressions": 22,
     "ctr": 0.0
    }
   },
@@ -1844,7 +1844,7 @@
    "duree_s": 489,
    "format": "longue",
    "statut": "public",
-   "vues": 162,
+   "vues": 164,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
@@ -1984,8 +1984,8 @@
    },
    "depuis_shorts": "indisponible (400)",
    "miniature_7j": {
-    "impressions": 323,
-    "ctr": 2.79
+    "impressions": 415,
+    "ctr": 3.13
    }
   }
  ],
@@ -2007,7 +2007,7 @@
   "heures_longues_365j": 8.0
  },
  "reporting": {
-  "rapports_disponibles": 6
+  "rapports_disponibles": 7
  },
  "pilotage": {
   "evolution_24h": {
@@ -2026,7 +2026,8 @@
    "2026-11-12": 2,
    "2026-11-13": 1,
    "2026-11-14": 1,
-   "2026-11-15": 2
+   "2026-11-15": 2,
+   "2026-11-16": 1
   },
   "doublons": [
    [
