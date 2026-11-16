@@ -1,4 +1,4 @@
-# Le Vrai Prix — 2026-11-16 06:39 UTC
+# Le Vrai Prix — 2026-11-16 08:15 UTC
 
 Abonnés : 13 · vues totales : 12003
 
@@ -9,7 +9,7 @@ Abonnés : 13 · vues totales : 12003
 
 - Sur 24 h : +0 abonnés, +852 vues (depuis le 2026-11-15)
 - Sur 7 jours : +0 abonnés, +1930 vues (depuis le 2026-11-09)
-- Shorts publiés par jour : 11-10 2, 11-11 3, 11-12 2, 11-13 1, 11-14 2, 11-15 2
+- Shorts publiés par jour : 11-10 2, 11-11 3, 11-12 2, 11-13 1, 11-14 1, 11-15 2
 
 **Seuils de monétisation** (il faut les abonnés ET l'un des deux autres)
 
@@ -30,9 +30,8 @@ Sources de trafic (28 j) : SHORTS 9712, YT_SEARCH 386, ACCUEIL_NAVIGATION(SUBSCR
 | 2026-11-15 | short | Promos en ligne : l'Europe a vérifié 314 sites #shorts | 0 |  | 0 s | 0 % |  |  |  |
 | 2026-11-15 | short | Casque à −53 % au Black Friday : vraie promo ? #shorts | 0 |  | 0 s | 0 % |  |  |  |
 | 2026-11-15 | short | Ton livre à 20 € : combien pour l'auteur ? #shorts | 381 |  | 0 s | 0 % |  |  |  |
-| 2026-11-15 | short | Ta boîte de Doliprane à 2,18 € : qui touche quoi ? #shorts | 335 |  | 0 s | 0 % |  | 17 |  |
-| 2026-11-14 | short | Is a 2% Return Difference Really Small? Do the Math #shorts | 92 |  | 0 s | 0 % |  |  |  |
-| 2026-11-14 | short | Ton steak haché : combien pour l'éleveur ? #shorts | 482 |  | 0 s | 0 % |  | 16 |  |
+| 2026-11-15 | short | Ta boîte de Doliprane à 2,18 € : qui touche quoi ? #shorts | 338 |  | 0 s | 0 % |  | 17 |  |
+| 2026-11-14 | short | Ton steak haché : combien pour l'éleveur ? #shorts | 487 |  | 0 s | 0 % |  | 16 |  |
 | 2026-11-13 | short | Tes lunettes à 300 € : qui paie vraiment ? #shorts | 222 | 15.2 % | 6 s | 30 % | 0 | 43 |  |
 | 2026-11-12 | short | Ta brique de lait : qui garde l'argent ? #shorts | 14 | 16.7 % | 19 s | 83 % | 0 | 59 | 1.69 % |
 | 2026-11-12 | short | Ton paquet de pâtes à 95 centimes : combien de blé ? #shorts | 28 | 18.5 % | 16 s | 69 % | 0 | 71 | 1.41 % |
@@ -78,7 +77,7 @@ Sources de trafic (28 j) : SHORTS 9712, YT_SEARCH 386, ACCUEIL_NAVIGATION(SUBSCR
 | 2026-11-04 | short | Sur ton plein de 50 litres, l'État prend combien ? #shorts | 184 | 34.8 % | 18 s | 67 % | 0 | 39 |  |
 | 2026-11-03 | short | Sur 1 € de chocolat, la marque garde combien ? #shorts | 121 | 26.4 % | 15 s | 58 % | 1 | 26 |  |
 | 2026-11-03 | short | Sur 1 € de chocolat, la marque garde combien ? #shorts | 121 | 26.4 % | 15 s | 58 % | 1 | 26 |  |
-| 2026-11-03 | short | Le cacao bat des records… et le planteur, il touche quoi ? # | 0 |  | 0 s | 0 % |  | 3 |  |
+| 2026-11-03 | short | Le négociant garde combien sur ta tablette de chocolat ? #sh | 1 | 100.0 % | 5 s | 32 % | 0 | 3 |  |
 | 2026-11-03 | short | Combien de cabosses pour UNE tablette de chocolat ? #shorts | 0 |  | 0 s | 0 % | 0 | 2 |  |
 | 2026-11-03 | short | Ta tablette de chocolat est taxée à combien ? #shorts | 1 | 100.0 % | 4 s | 26 % | 0 |  |  |
 | 2026-11-03 | short | Une fève de cacao fraîche, ça a quel goût ? #shorts | 105 | 33.3 % | 10 s | 59 % | 0 | 72 | 1.39 % |
@@ -94,7 +93,7 @@ Sources de trafic (28 j) : SHORTS 9712, YT_SEARCH 386, ACCUEIL_NAVIGATION(SUBSCR
 
 « Restés » = vues engagées / vues (qui n'a pas balayé le Short). Chaîne : 30.1 % sur 34 Shorts de 50 vues et plus. Repère : les Shorts qui décollent sont à 70 % et plus.
 
-Shorts : moyenne 201 vues. Au-dessus de la moyenne (formats à refaire) : « Ton café en capsule, tu le paies combien au kilo ? » (1135); « Ton plein se joue à 5 000 km d'ici ? #shorts » (976); « Sur un paquet de cigarettes, l'État prend combien  » (966); « Ta tablette de chocolat : combien pour le planteur » (739); « Le vrai prix du blé dans ta baguette ? #shorts » (673); « Le goût du chocolat, il vient d'où ? #shorts » (634); « Ton steak haché : combien pour l'éleveur ? #shorts » (482); « Ton pain cuit à combien de degrés ? #shorts » (477); « Un iPhone coûte combien à fabriquer ? #shorts » (400); « Le baril baisse… pourquoi pas ton plein ? #shorts » (389); « Ton livre à 20 € : combien pour l'auteur ? #shorts » (381); « La baguette à 29 centimes : qui paie vraiment ? #s » (354); « Ta boîte de Doliprane à 2,18 € : qui touche quoi ? » (335); « Ta station gagne combien sur ton litre ? #shorts » (290); « Pourquoi ton chocolat fait « clac » quand tu le ca » (286); « Ta tablette de chocolat est taxée à combien ? #sho » (252); « 3 gestes pour payer ton plein moins cher #shorts » (251); « Tes lunettes à 300 € : qui paie vraiment ? #shorts » (222); « Combien de pâte crue pour UNE baguette ? #shorts » (215); « Pourquoi le gazole coûte plus cher que l'essence ? » (202)
+Shorts : moyenne 203 vues. Au-dessus de la moyenne (formats à refaire) : « Ton café en capsule, tu le paies combien au kilo ? » (1135); « Ton plein se joue à 5 000 km d'ici ? #shorts » (976); « Sur un paquet de cigarettes, l'État prend combien  » (966); « Ta tablette de chocolat : combien pour le planteur » (739); « Le vrai prix du blé dans ta baguette ? #shorts » (673); « Le goût du chocolat, il vient d'où ? #shorts » (634); « Ton steak haché : combien pour l'éleveur ? #shorts » (487); « Ton pain cuit à combien de degrés ? #shorts » (477); « Un iPhone coûte combien à fabriquer ? #shorts » (400); « Le baril baisse… pourquoi pas ton plein ? #shorts » (389); « Ton livre à 20 € : combien pour l'auteur ? #shorts » (381); « La baguette à 29 centimes : qui paie vraiment ? #s » (354); « Ta boîte de Doliprane à 2,18 € : qui touche quoi ? » (338); « Ta station gagne combien sur ton litre ? #shorts » (290); « Pourquoi ton chocolat fait « clac » quand tu le ca » (286); « Ta tablette de chocolat est taxée à combien ? #sho » (252); « 3 gestes pour payer ton plein moins cher #shorts » (251); « Tes lunettes à 300 € : qui paie vraiment ? #shorts » (222); « Combien de pâte crue pour UNE baguette ? #shorts » (215)
 
 ### D'où viennent les vues des vidéos longues (depuis la sortie)
 - « Black Friday 2026 : repérer une fausse promo en 3 réfle » : RELATED_VIDEO 1, NO_LINK_OTHER 0

@@ -1,6 +1,6 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-16T06:39:38.766674+00:00",
+ "date": "2026-11-16T08:15:57.607271+00:00",
  "abonnes": 13,
  "vues_totales": 12003,
  "autorisations": [
@@ -60,7 +60,7 @@
    "statut": "public",
    "vues": 381,
    "likes": 1,
-   "commentaires": 0,
+   "commentaires": 1,
    "analytics_28j": null
   },
   {
@@ -70,7 +70,7 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 335,
+   "vues": 338,
    "likes": 5,
    "commentaires": 1,
    "analytics_28j": null,
@@ -80,25 +80,13 @@
    }
   },
   {
-   "id": "U5Xn8xj0iPA",
-   "titre": "Is a 2% Return Difference Really Small? Do the Math #shorts",
-   "publie": "2026-11-14T14:31:38Z",
-   "duree_s": 29,
-   "format": "short",
-   "statut": "public",
-   "vues": 92,
-   "likes": 1,
-   "commentaires": 1,
-   "analytics_28j": null
-  },
-  {
    "id": "CQ_DUZ5X5EE",
    "titre": "Ton steak haché : combien pour l'éleveur ? #shorts",
    "publie": "2026-11-14T12:00:30Z",
    "duree_s": 24,
    "format": "short",
    "statut": "public",
-   "vues": 482,
+   "vues": 487,
    "likes": 5,
    "commentaires": 3,
    "analytics_28j": null,
@@ -1359,6 +1347,33 @@
    }
   },
   {
+   "id": "y1MJ_XskmKE",
+   "titre": "Le négociant garde combien sur ta tablette de chocolat ? #shorts",
+   "publie": "2026-11-03T20:55:37Z",
+   "duree_s": 18,
+   "format": "short",
+   "statut": "private",
+   "vues": 1,
+   "likes": 0,
+   "commentaires": 0,
+   "analytics_28j": {
+    "views": 1,
+    "estimatedMinutesWatched": 0,
+    "averageViewDuration": 5,
+    "averageViewPercentage": 32.22,
+    "subscribersGained": 0
+   },
+   "restes": {
+    "vues": 1,
+    "engagees": 1,
+    "pct": 100.0
+   },
+   "miniature_7j": {
+    "impressions": 3,
+    "ctr": 0.0
+   }
+  },
+  {
    "id": "rzuXPc_KRa0",
    "titre": "Le cacao baisse… et les chocolats de Pâques augmentent ? #shorts",
    "publie": "2026-11-04T14:30:12Z",
@@ -1409,22 +1424,6 @@
    },
    "miniature_7j": {
     "impressions": 26,
-    "ctr": 0.0
-   }
-  },
-  {
-   "id": "CiUsurQb4dY",
-   "titre": "Le cacao bat des records… et le planteur, il touche quoi ? #shorts",
-   "publie": "2026-11-03T20:55:24Z",
-   "duree_s": 25,
-   "format": "short",
-   "statut": "private",
-   "vues": 0,
-   "likes": 0,
-   "commentaires": 0,
-   "analytics_28j": null,
-   "miniature_7j": {
-    "impressions": 3,
     "ctr": 0.0
    }
   },
@@ -2026,7 +2025,7 @@
    "2026-11-11": 3,
    "2026-11-12": 2,
    "2026-11-13": 1,
-   "2026-11-14": 2,
+   "2026-11-14": 1,
    "2026-11-15": 2
   },
   "doublons": [
