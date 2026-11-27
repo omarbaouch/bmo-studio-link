@@ -1,6 +1,6 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-27T11:21:42.040704+00:00",
+ "date": "2026-11-27T15:12:28.199308+00:00",
  "abonnes": 13,
  "vues_totales": 13700,
  "autorisations": [
@@ -15,6 +15,18 @@
   "yt-analytics.readonly"
  ],
  "videos": [
+  {
+   "id": "9_8FsX368nc",
+   "titre": "Retirement Savings by Age. Where Do You Fall? #shorts",
+   "publie": "2026-11-27T14:31:56Z",
+   "duree_s": 40,
+   "format": "short",
+   "statut": "public",
+   "vues": 0,
+   "likes": 0,
+   "commentaires": 1,
+   "analytics_28j": null
+  },
   {
    "id": "soRjye5TFso",
    "titre": "Is a 1% Mortgage Rate Difference Really Small? #shorts",
@@ -36,10 +48,6 @@
     "vues": 16,
     "engagees": 5,
     "pct": 31.2
-   },
-   "miniature_7j": {
-    "impressions": 2,
-    "ctr": 0.0
    }
   },
   {
@@ -51,7 +59,7 @@
    "statut": "public",
    "vues": 45,
    "likes": 1,
-   "commentaires": 0,
+   "commentaires": 1,
    "analytics_28j": {
     "views": 45,
     "estimatedMinutesWatched": 2,
@@ -63,10 +71,6 @@
     "vues": 45,
     "engagees": 10,
     "pct": 22.2
-   },
-   "miniature_7j": {
-    "impressions": 63,
-    "ctr": 0.0
    }
   },
   {
@@ -78,7 +82,7 @@
    "statut": "public",
    "vues": 90,
    "likes": 2,
-   "commentaires": 0,
+   "commentaires": 1,
    "analytics_28j": {
     "views": 87,
     "estimatedMinutesWatched": 5,
@@ -90,10 +94,6 @@
     "vues": 87,
     "engagees": 17,
     "pct": 19.5
-   },
-   "miniature_7j": {
-    "impressions": 126,
-    "ctr": 2.38
    }
   },
   {
@@ -105,7 +105,7 @@
    "statut": "public",
    "vues": 28,
    "likes": 0,
-   "commentaires": 0,
+   "commentaires": 1,
    "analytics_28j": {
     "views": 28,
     "estimatedMinutesWatched": 0,
@@ -117,10 +117,6 @@
     "vues": 28,
     "engagees": 2,
     "pct": 7.1
-   },
-   "miniature_7j": {
-    "impressions": 202,
-    "ctr": 1.98
    }
   },
   {
@@ -132,7 +128,7 @@
    "statut": "public",
    "vues": 154,
    "likes": 1,
-   "commentaires": 0,
+   "commentaires": 1,
    "analytics_28j": {
     "views": 152,
     "estimatedMinutesWatched": 11,
@@ -144,10 +140,6 @@
     "vues": 152,
     "engagees": 33,
     "pct": 21.7
-   },
-   "miniature_7j": {
-    "impressions": 143,
-    "ctr": 3.5
    }
   },
   {
@@ -159,7 +151,7 @@
    "statut": "public",
    "vues": 83,
    "likes": 0,
-   "commentaires": 0,
+   "commentaires": 1,
    "analytics_28j": {
     "views": 83,
     "estimatedMinutesWatched": 4,
@@ -171,10 +163,6 @@
     "vues": 83,
     "engagees": 19,
     "pct": 22.9
-   },
-   "miniature_7j": {
-    "impressions": 112,
-    "ctr": 1.79
    }
   },
   {
@@ -198,10 +186,6 @@
     "vues": 464,
     "engagees": 131,
     "pct": 28.2
-   },
-   "miniature_7j": {
-    "impressions": 192,
-    "ctr": 1.04
    }
   },
   {
@@ -225,10 +209,6 @@
     "vues": 646,
     "engagees": 173,
     "pct": 26.8
-   },
-   "miniature_7j": {
-    "impressions": 29,
-    "ctr": 6.9
    }
   },
   {
@@ -252,10 +232,6 @@
     "vues": 395,
     "engagees": 103,
     "pct": 26.1
-   },
-   "miniature_7j": {
-    "impressions": 380,
-    "ctr": 1.58
    }
   },
   {
@@ -279,10 +255,6 @@
     "vues": 516,
     "engagees": 146,
     "pct": 28.3
-   },
-   "miniature_7j": {
-    "impressions": 142,
-    "ctr": 3.52
    }
   },
   {
@@ -306,10 +278,6 @@
     "vues": 236,
     "engagees": 58,
     "pct": 24.6
-   },
-   "miniature_7j": {
-    "impressions": 140,
-    "ctr": 2.86
    }
   },
   {
@@ -333,10 +301,6 @@
     "vues": 19,
     "engagees": 5,
     "pct": 26.3
-   },
-   "miniature_7j": {
-    "impressions": 35,
-    "ctr": 0.0
    }
   },
   {
@@ -360,10 +324,6 @@
     "vues": 28,
     "engagees": 6,
     "pct": 21.4
-   },
-   "miniature_7j": {
-    "impressions": 24,
-    "ctr": 0.0
    }
   },
   {
@@ -373,7 +333,7 @@
    "duree_s": 416,
    "format": "longue",
    "statut": "public",
-   "vues": 16,
+   "vues": 17,
    "likes": 0,
    "commentaires": 1,
    "analytics_28j": {
@@ -395,11 +355,7 @@
     "SUBSCRIBER": 1,
     "NO_LINK_OTHER": 0
    },
-   "depuis_shorts": "indisponible (400)",
-   "miniature_7j": {
-    "impressions": 94,
-    "ctr": 0.0
-   }
+   "depuis_shorts": "indisponible (400)"
   },
   {
    "id": "cj7cLyirL1M",
@@ -422,10 +378,6 @@
     "vues": 10,
     "engagees": 4,
     "pct": 40.0
-   },
-   "miniature_7j": {
-    "impressions": 13,
-    "ctr": 0.0
    }
   },
   {
@@ -449,10 +401,6 @@
     "vues": 12,
     "engagees": 5,
     "pct": 41.7
-   },
-   "miniature_7j": {
-    "impressions": 13,
-    "ctr": 15.38
    }
   },
   {
@@ -476,10 +424,6 @@
     "vues": 20,
     "engagees": 6,
     "pct": 30.0
-   },
-   "miniature_7j": {
-    "impressions": 5,
-    "ctr": 0.0
    }
   },
   {
@@ -503,10 +447,6 @@
     "vues": 23,
     "engagees": 5,
     "pct": 21.7
-   },
-   "miniature_7j": {
-    "impressions": 19,
-    "ctr": 0.0
    }
   },
   {
@@ -530,10 +470,6 @@
     "vues": 92,
     "engagees": 14,
     "pct": 15.2
-   },
-   "miniature_7j": {
-    "impressions": 12,
-    "ctr": 0.0
    }
   },
   {
@@ -557,10 +493,6 @@
     "vues": 25,
     "engagees": 7,
     "pct": 28.0
-   },
-   "miniature_7j": {
-    "impressions": 17,
-    "ctr": 0.0
    }
   },
   {
@@ -584,10 +516,6 @@
     "vues": 25,
     "engagees": 7,
     "pct": 28.0
-   },
-   "miniature_7j": {
-    "impressions": 3,
-    "ctr": 0.0
    }
   },
   {
@@ -611,10 +539,6 @@
     "vues": 63,
     "engagees": 24,
     "pct": 38.1
-   },
-   "miniature_7j": {
-    "impressions": 30,
-    "ctr": 3.33
    }
   },
   {
@@ -638,10 +562,6 @@
     "vues": 50,
     "engagees": 10,
     "pct": 20.0
-   },
-   "miniature_7j": {
-    "impressions": 16,
-    "ctr": 0.0
    }
   },
   {
@@ -654,11 +574,7 @@
    "vues": 0,
    "likes": 0,
    "commentaires": 0,
-   "analytics_28j": null,
-   "miniature_7j": {
-    "impressions": 3,
-    "ctr": 0.0
-   }
+   "analytics_28j": null
   },
   {
    "id": "LHId83_QGpE",
@@ -681,10 +597,6 @@
     "vues": 36,
     "engagees": 9,
     "pct": 25.0
-   },
-   "miniature_7j": {
-    "impressions": 4,
-    "ctr": 0.0
    }
   },
   {
@@ -708,10 +620,6 @@
     "vues": 31,
     "engagees": 11,
     "pct": 35.5
-   },
-   "miniature_7j": {
-    "impressions": 5,
-    "ctr": 0.0
    }
   },
   {
@@ -735,10 +643,6 @@
     "vues": 636,
     "engagees": 177,
     "pct": 27.8
-   },
-   "miniature_7j": {
-    "impressions": 52,
-    "ctr": 0.0
    }
   },
   {
@@ -762,10 +666,6 @@
     "vues": 185,
     "engagees": 47,
     "pct": 25.4
-   },
-   "miniature_7j": {
-    "impressions": 2,
-    "ctr": 0.0
    }
   },
   {
@@ -910,11 +810,7 @@
     "SHORTS_CONTENT_LINKS": 1,
     "NO_LINK_OTHER": 0
    },
-   "depuis_shorts": "indisponible (400)",
-   "miniature_7j": {
-    "impressions": 291,
-    "ctr": 3.44
-   }
+   "depuis_shorts": "indisponible (400)"
   },
   {
    "id": "oZkhFJlGoTg",
@@ -937,10 +833,6 @@
     "vues": 112,
     "engagees": 22,
     "pct": 19.6
-   },
-   "miniature_7j": {
-    "impressions": 14,
-    "ctr": 0.0
    }
   },
   {
@@ -964,10 +856,6 @@
     "vues": 286,
     "engagees": 64,
     "pct": 22.4
-   },
-   "miniature_7j": {
-    "impressions": 2,
-    "ctr": 0.0
    }
   },
   {
@@ -991,10 +879,6 @@
     "vues": 252,
     "engagees": 65,
     "pct": 25.8
-   },
-   "miniature_7j": {
-    "impressions": 15,
-    "ctr": 0.0
    }
   },
   {
@@ -1018,10 +902,6 @@
     "vues": 292,
     "engagees": 88,
     "pct": 30.1
-   },
-   "miniature_7j": {
-    "impressions": 65,
-    "ctr": 0.0
    }
   },
   {
@@ -1045,10 +925,6 @@
     "vues": 202,
     "engagees": 88,
     "pct": 43.6
-   },
-   "miniature_7j": {
-    "impressions": 27,
-    "ctr": 0.0
    }
   },
   {
@@ -1072,10 +948,6 @@
     "vues": 978,
     "engagees": 314,
     "pct": 32.1
-   },
-   "miniature_7j": {
-    "impressions": 17,
-    "ctr": 0.0
    }
   },
   {
@@ -1099,10 +971,6 @@
     "vues": 121,
     "engagees": 34,
     "pct": 28.1
-   },
-   "miniature_7j": {
-    "impressions": 4,
-    "ctr": 0.0
    }
   },
   {
@@ -1126,10 +994,6 @@
     "vues": 35,
     "engagees": 16,
     "pct": 45.7
-   },
-   "miniature_7j": {
-    "impressions": 19,
-    "ctr": 0.0
    }
   },
   {
@@ -1153,10 +1017,6 @@
     "vues": 150,
     "engagees": 33,
     "pct": 22.0
-   },
-   "miniature_7j": {
-    "impressions": 15,
-    "ctr": 0.0
    }
   },
   {
@@ -1166,7 +1026,7 @@
    "duree_s": 22,
    "format": "short",
    "statut": "public",
-   "vues": 983,
+   "vues": 985,
    "likes": 26,
    "commentaires": 1,
    "analytics_28j": {
@@ -1180,10 +1040,6 @@
     "vues": 980,
     "engagees": 419,
     "pct": 42.8
-   },
-   "miniature_7j": {
-    "impressions": 211,
-    "ctr": 1.9
    }
   },
   {
@@ -1207,10 +1063,6 @@
     "vues": 252,
     "engagees": 66,
     "pct": 26.2
-   },
-   "miniature_7j": {
-    "impressions": 12,
-    "ctr": 0.0
    }
   },
   {
@@ -1234,10 +1086,6 @@
     "vues": 392,
     "engagees": 95,
     "pct": 24.2
-   },
-   "miniature_7j": {
-    "impressions": 19,
-    "ctr": 0.0
    }
   },
   {
@@ -1261,10 +1109,6 @@
     "vues": 1135,
     "engagees": 373,
     "pct": 32.9
-   },
-   "miniature_7j": {
-    "impressions": 19,
-    "ctr": 0.0
    }
   },
   {
@@ -1408,11 +1252,7 @@
     "YT_CHANNEL": 2,
     "SHORTS_CONTENT_LINKS": 2
    },
-   "depuis_shorts": "indisponible (400)",
-   "miniature_7j": {
-    "impressions": 155,
-    "ctr": 1.94
-   }
+   "depuis_shorts": "indisponible (400)"
   },
   {
    "id": "_LP2LKBlkh8",
@@ -1435,10 +1275,6 @@
     "vues": 67,
     "engagees": 9,
     "pct": 13.4
-   },
-   "miniature_7j": {
-    "impressions": 2,
-    "ctr": 0.0
    }
   },
   {
@@ -1462,10 +1298,6 @@
     "vues": 96,
     "engagees": 17,
     "pct": 17.7
-   },
-   "miniature_7j": {
-    "impressions": 16,
-    "ctr": 0.0
    }
   },
   {
@@ -1489,10 +1321,6 @@
     "vues": 404,
     "engagees": 155,
     "pct": 38.4
-   },
-   "miniature_7j": {
-    "impressions": 27,
-    "ctr": 0.0
    }
   },
   {
@@ -1539,10 +1367,6 @@
     "vues": 745,
     "engagees": 258,
     "pct": 34.6
-   },
-   "miniature_7j": {
-    "impressions": 44,
-    "ctr": 2.27
    }
   },
   {
@@ -1569,30 +1393,26 @@
    }
   },
   {
-   "id": "jGXkavzo0zU",
-   "titre": "Sur 1 € de chocolat, la marque garde combien ? #shorts",
-   "publie": "2026-11-03T21:19:53Z",
-   "duree_s": 26,
+   "id": "wkDQjDh_x0w",
+   "titre": "Pourquoi ton chocolat fait « clac » quand tu le casses ? #shorts",
+   "publie": "2026-11-07T07:00:25Z",
+   "duree_s": 25,
    "format": "short",
    "statut": "public",
-   "vues": 122,
-   "likes": 4,
+   "vues": 286,
+   "likes": 7,
    "commentaires": 1,
    "analytics_28j": {
-    "views": 121,
-    "estimatedMinutesWatched": 10,
-    "averageViewDuration": 15,
-    "averageViewPercentage": 57.75,
-    "subscribersGained": 1
+    "views": 286,
+    "estimatedMinutesWatched": 65,
+    "averageViewDuration": 56,
+    "averageViewPercentage": 226.47,
+    "subscribersGained": 0
    },
    "restes": {
-    "vues": 121,
-    "engagees": 32,
-    "pct": 26.4
-   },
-   "miniature_7j": {
-    "impressions": 9,
-    "ctr": 0.0
+    "vues": 286,
+    "engagees": 64,
+    "pct": 22.4
    }
   },
   {
@@ -1616,10 +1436,6 @@
     "vues": 96,
     "engagees": 17,
     "pct": 17.7
-   },
-   "miniature_7j": {
-    "impressions": 16,
-    "ctr": 0.0
    }
   },
   {
@@ -1643,10 +1459,6 @@
     "vues": 121,
     "engagees": 32,
     "pct": 26.4
-   },
-   "miniature_7j": {
-    "impressions": 9,
-    "ctr": 0.0
    }
   },
   {
@@ -1723,10 +1535,6 @@
     "vues": 105,
     "engagees": 34,
     "pct": 32.4
-   },
-   "miniature_7j": {
-    "impressions": 13,
-    "ctr": 0.0
    }
   },
   {
@@ -1736,7 +1544,7 @@
    "duree_s": 465,
    "format": "longue",
    "statut": "public",
-   "vues": 168,
+   "vues": 169,
    "likes": 3,
    "commentaires": 1,
    "analytics_28j": {
@@ -1869,11 +1677,7 @@
     "PLAYLIST": 1,
     "SHORTS_CONTENT_LINKS": 1
    },
-   "depuis_shorts": "indisponible (400)",
-   "miniature_7j": {
-    "impressions": 260,
-    "ctr": 3.46
-   }
+   "depuis_shorts": "indisponible (400)"
   },
   {
    "id": "1o4Mh__4YEI",
@@ -1896,10 +1700,6 @@
     "vues": 91,
     "engagees": 34,
     "pct": 37.4
-   },
-   "miniature_7j": {
-    "impressions": 2,
-    "ctr": 0.0
    }
   },
   {
@@ -1923,10 +1723,6 @@
     "vues": 477,
     "engagees": 88,
     "pct": 18.4
-   },
-   "miniature_7j": {
-    "impressions": 2,
-    "ctr": 0.0
    }
   },
   {
@@ -1950,10 +1746,6 @@
     "vues": 354,
     "engagees": 123,
     "pct": 34.7
-   },
-   "miniature_7j": {
-    "impressions": 16,
-    "ctr": 0.0
    }
   },
   {
@@ -1977,10 +1769,6 @@
     "vues": 215,
     "engagees": 48,
     "pct": 22.3
-   },
-   "miniature_7j": {
-    "impressions": 10,
-    "ctr": 0.0
    }
   },
   {
@@ -2027,10 +1815,6 @@
     "vues": 168,
     "engagees": 42,
     "pct": 25.0
-   },
-   "miniature_7j": {
-    "impressions": 2,
-    "ctr": 0.0
    }
   },
   {
@@ -2054,10 +1838,6 @@
     "vues": 674,
     "engagees": 170,
     "pct": 25.2
-   },
-   "miniature_7j": {
-    "impressions": 19,
-    "ctr": 0.0
    }
   },
   {
@@ -2199,11 +1979,7 @@
     "EXT_URL": 2,
     "SHORTS_CONTENT_LINKS": 2
    },
-   "depuis_shorts": "indisponible (400)",
-   "miniature_7j": {
-    "impressions": 639,
-    "ctr": 5.01
-   }
+   "depuis_shorts": "indisponible (400)"
   }
  ],
  "sources_trafic_28j": {
@@ -2224,9 +2000,7 @@
   "vues_shorts_90j": 13223,
   "heures_longues_365j": 14.5
  },
- "reporting": {
-  "rapports_disponibles": 10
- },
+ "reporting_erreur": "<HttpError 500 when requesting https://youtubereporting.googleapis.com/v1/jobs/82528f2d-6822-4c75-9023-5945d2236def/reports?startTimeAtOrAfter=2026-11-19T00%3A00%3A00Z&alt=json returned \"Internal error encountered.\". Details: \"Internal error encountered.\">",
  "pilotage": {
   "evolution_24h": {
    "depuis": "2026-11-17",
@@ -2241,31 +2015,32 @@
   "shorts_par_jour_7j": {
    "2026-11-21": 1,
    "2026-11-22": 1,
-   "2026-11-23": 1
+   "2026-11-23": 1,
+   "2026-11-27": 1
   },
   "doublons": [
    [
     {
-     "id": "rzuXPc_KRa0",
-     "titre": "Le cacao baisse… et les chocolats de Pâques augmentent ? #shorts",
-     "vues": 96
+     "id": "wkDQjDh_x0w",
+     "titre": "Pourquoi ton chocolat fait « clac » quand tu le casses ? #shorts",
+     "vues": 286
     },
     {
-     "id": "rzuXPc_KRa0",
-     "titre": "Le cacao baisse… et les chocolats de Pâques augmentent ? #shorts",
-     "vues": 96
+     "id": "wkDQjDh_x0w",
+     "titre": "Pourquoi ton chocolat fait « clac » quand tu le casses ? #shorts",
+     "vues": 286
     }
    ],
    [
     {
-     "id": "jGXkavzo0zU",
-     "titre": "Sur 1 € de chocolat, la marque garde combien ? #shorts",
-     "vues": 122
+     "id": "rzuXPc_KRa0",
+     "titre": "Le cacao baisse… et les chocolats de Pâques augmentent ? #shorts",
+     "vues": 96
     },
     {
-     "id": "jGXkavzo0zU",
-     "titre": "Sur 1 € de chocolat, la marque garde combien ? #shorts",
-     "vues": 122
+     "id": "rzuXPc_KRa0",
+     "titre": "Le cacao baisse… et les chocolats de Pâques augmentent ? #shorts",
+     "vues": 96
     }
    ]
   ],
