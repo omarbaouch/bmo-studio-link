@@ -1,4 +1,4 @@
-# Le Vrai Prix — 2026-11-27 11:20 UTC
+# Le Vrai Prix — 2026-11-27 11:21 UTC
 
 Abonnés : 13 · vues totales : 13700
 
@@ -39,7 +39,7 @@ Sources de trafic (28 j) : SHORTS 12252, YT_SEARCH 623, ACCUEIL_NAVIGATION(SUBSC
 | 2026-11-13 | short | Tes lunettes à 300 € : qui paie vraiment ? #shorts | 236 | 24.6 % | 12 s | 57 % | 0 | 140 | 2.86 % |
 | 2026-11-12 | short | Ta brique de lait : qui garde l'argent ? #shorts | 20 | 26.3 % | 16 s | 72 % | 0 | 35 |  |
 | 2026-11-12 | short | Ton paquet de pâtes à 95 centimes : combien de blé ? #shorts | 28 | 21.4 % | 17 s | 72 % | 0 | 24 |  |
-| 2026-11-11 | longue | Black Friday 2026 : repérer une fausse promo en 3 réflexes | 15 |  | 173 s | 42 % | 1 | 94 |  |
+| 2026-11-11 | longue | Black Friday 2026 : repérer une fausse promo en 3 réflexes | 16 |  | 173 s | 42 % | 1 | 94 |  |
 | 2026-11-11 | short | 3 groupes vendent 81 % de ton café #shorts | 10 | 40.0 % | 10 s | 61 % | 0 | 13 |  |
 | 2026-11-11 | short | Le café a baissé de 31 %. Et ton paquet ? #shorts | 12 | 41.7 % | 10 s | 53 % | 0 | 13 | 15.38 % |
 | 2026-11-11 | short | Le café a doublé : les producteurs sont riches ? #shorts | 21 | 30.0 % | 157 s | 983 % | 0 | 5 |  |
