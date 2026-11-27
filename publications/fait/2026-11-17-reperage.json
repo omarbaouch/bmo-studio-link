@@ -1,0 +1,558 @@
+{
+ "action": "chercher",
+ "chaine": "LEVRAIPRIX",
+ "jours": 2,
+ "titre": "Repérage du jour",
+ "requetes": [
+  "Black Friday fausses promos",
+  "prix carburant essence",
+  "prix du chocolat Noël",
+  "prix de l'eau en bouteille",
+  "prix des courses supermarché",
+  "prix du livre auteur",
+  "prix du café",
+  "prix médicaments pharmacie"
+ ],
+ "resultat": {
+  "resultats": {
+   "Black Friday fausses promos": [
+    {
+     "id": "CcRe47HbEgo",
+     "titre": "Fake Discounts, Fake Stores, Fake Savings: How AI Is Changing Black Friday | The Palki Sharma Show",
+     "chaine": "India Global Review",
+     "publie": "2026-11-26T17:55:07Z",
+     "duree": "PT3M43S",
+     "vues": 93726,
+     "commentaires": "16"
+    },
+    {
+     "id": "h_uDpPrJ-Y8",
+     "titre": "Every GPU Buying Mistake Explained (Black Friday 2026)",
+     "chaine": "Socket-X",
+     "publie": "2026-11-26T16:20:16Z",
+     "duree": "PT17M4S",
+     "vues": 13861,
+     "commentaires": "20"
+    },
+    {
+     "id": "6Cb9ITYgy84",
+     "titre": "Black Friday TV Deals 2026 — 7 BIGGEST Price Drops & 4 TRAPS to Avoid!",
+     "chaine": "SenseCast",
+     "publie": "2026-11-26T17:00:10Z",
+     "duree": "PT17M58S",
+     "vues": 5904,
+     "commentaires": "0"
+    },
+    {
+     "id": "SkY-gHHhxgg",
+     "titre": "Black Friday : Comment éviter les fausses promotions ?",
+     "chaine": "franceinfo",
+     "publie": "2026-11-25T12:28:04Z",
+     "duree": "PT2M37S",
+     "vues": 6539,
+     "commentaires": "0"
+    },
+    {
+     "id": "OqgjIIEiFtA",
+     "titre": "I Found the Top 5 BEST Black Friday Gaming Laptop Deals of 2026! Don’t Overpay! (Every Budget!)",
+     "chaine": "Tech Legend",
+     "publie": "2026-11-26T08:36:59Z",
+     "duree": "PT8M31S",
+     "vues": 3885,
+     "commentaires": "7"
+    },
+    {
+     "id": "v9bibNWcGX4",
+     "titre": "BLACK FRIDAY : LA CHASSE AU PIGEON EST OUVERTE ! 🎵 (Parodie Patrick Sébastien)",
+     "chaine": "MrBambi ",
+     "publie": "2026-11-26T15:30:03Z",
+     "duree": "PT3M45S",
+     "vues": 1971,
+     "commentaires": "3"
+    },
+    {
+     "id": "K7gBHC8QNQI",
+     "titre": "I Used AI to EXPOSE Black Friday Scams",
+     "chaine": "Jordan Rafealov",
+     "publie": "2026-11-25T22:51:43Z",
+     "duree": "PT17M14S",
+     "vues": 979,
+     "commentaires": "6"
+    },
+    {
+     "id": "prBqLPekHlk",
+     "titre": "25 BEST Amazon Black Friday Deals You Can't Miss — Up to 82% Off",
+     "chaine": "Airport insider Tips",
+     "publie": "2026-11-27T01:24:16Z",
+     "duree": "PT12M19S",
+     "vues": 1027,
+     "commentaires": "0"
+    },
+    {
+     "id": "ChMAe1bKfvk",
+     "titre": "The Best Black Friday Tech Deals That Are Actually Worth It! (No Fake Deals)",
+     "chaine": "TechDaily",
+     "publie": "2026-11-27T05:30:09Z",
+     "duree": "PT19M23S",
+     "vues": 2816,
+     "commentaires": "4"
+    },
+    {
+     "id": "B88Up6DEgGU",
+     "titre": "Black Friday : les pièges à éviter et comment faire de bonnes affaires ! ",
+     "chaine": "La Baze",
+     "publie": "2026-11-25T18:50:17Z",
+     "duree": "PT53M50S",
+     "vues": 545,
+     "commentaires": "0"
+    },
+    {
+     "id": "n1hUrn412Mw",
+     "titre": "Black Friday : Comment éviter les arnaques et les fausses bonnes affaires ?",
+     "chaine": "franceinfo",
+     "publie": "2026-11-27T06:05:17Z",
+     "duree": "PT4M33S",
+     "vues": 2247,
+     "commentaires": "1"
+    },
+    {
+     "id": "dgtXHyx_5G0",
+     "titre": "Personal vulnerability and Black Friday relevance",
+     "chaine": "eNCA",
+     "publie": "2026-11-25T13:59:32Z",
+     "duree": "PT1M35S",
+     "vues": 308,
+     "commentaires": "1"
+    },
+    {
+     "id": "KWu7Lk2ZUVY",
+     "titre": "−41 % sur Amazon ? Faux. Mes 5 vraies promos PC du jour (Black Friday)",
+     "chaine": "Xyrotek | PC, Gaming & IA",
+     "publie": "2026-11-26T18:48:49Z",
+     "duree": "PT1M",
+     "vues": 173,
+     "commentaires": "0"
+    },
+    {
+     "id": "IsNPgEKMOoU",
+     "titre": "BLACK FRIDAY : LE PLUS GRAND MENSONGE DE L'ANNÉE ?",
+     "chaine": "EKORA",
+     "publie": "2026-11-25T19:00:14Z",
+     "duree": "PT22M40S",
+     "vues": 111,
+     "commentaires": "7"
+    },
+    {
+     "id": "NcRERSOPgAo",
+     "titre": "Prix barré au Black Friday : fausse promo ?  #maths #blackfriday #shorts",
+     "chaine": "Maths avec M. LECLERC",
+     "publie": "2026-11-25T16:00:23Z",
+     "duree": "PT43S",
+     "vues": 79,
+     "commentaires": "0"
+    }
+   ],
+   "prix carburant essence": [
+    {
+     "id": "_qNIXUG0Wtc",
+     "titre": "Tes parents payaient l'essence plus cher que toi ⛽😳",
+     "chaine": "La Minute Data",
+     "publie": "2026-11-25T18:35:22Z",
+     "duree": "PT1M3S",
+     "vues": 1268,
+     "commentaires": "2"
+    },
+    {
+     "id": "oho7SUYe9zA",
+     "titre": "Presyo ng gasolina ngayon 1126 #gasolina #gasoline #diesel #oil #rephil",
+     "chaine": "KUDA TV by Jef Angeles",
+     "publie": "2026-11-25T23:07:33Z",
+     "duree": "PT9S",
+     "vues": 956,
+     "commentaires": "0"
+    },
+    {
+     "id": "IT0jjjg6_Zg",
+     "titre": "Ton plein de 70 € : 36 € partent en taxes ⛽ #shorts",
+     "chaine": "Sous le Capot",
+     "publie": "2026-11-26T20:01:39Z",
+     "duree": "PT37S",
+     "vues": 237,
+     "commentaires": "0"
+    },
+    {
+     "id": "2vxacGcOVMI",
+     "titre": "⛽ LOWER GAS PRICES ARE ON THE WAY!",
+     "chaine": "Gorilla Pro Customs",
+     "publie": "2026-11-25T18:00:28Z",
+     "duree": "PT39S",
+     "vues": 247,
+     "commentaires": "0"
+    },
+    {
+     "id": "zmSSk6Iu9RE",
+     "titre": "Presyo ng gasolina ngayon 1127 #gasolina #gasoline #diesel #oil #rephil",
+     "chaine": "KUDA TV by Jef Angeles",
+     "publie": "2026-11-26T23:01:46Z",
+     "duree": "PT13S",
+     "vues": 120,
+     "commentaires": "0"
+    },
+    {
+     "id": "ETjKs7GZm24",
+     "titre": "Fuel Crisis Hits Kenema as Petrol Prices Soar to Le80  per Litre",
+     "chaine": "Sierraloaded TV",
+     "publie": "2026-11-26T01:01:32Z",
+     "duree": "PT2M30S",
+     "vues": 18,
+     "commentaires": "0"
+    },
+    {
+     "id": "q6kBAv71Aj4",
+     "titre": "Prix carburant Beauvais aujourd'hui : SP95-E10 le moins cher à 1,882 € ⛽ #Shorts",
+     "chaine": "Fueliz",
+     "publie": "2026-11-26T19:30:07Z",
+     "duree": "PT20S",
+     "vues": 40,
+     "commentaires": "0"
+    },
+    {
+     "id": "RTVFWW2yt2s",
+     "titre": "Prix gasoil La Jonquera (Espagne) aujourd'hui : 1,629 € contre 1,984 € en France ⛽ #Shorts",
+     "chaine": "Fueliz",
+     "publie": "2026-11-25T17:00:02Z",
+     "duree": "PT20S",
+     "vues": 57,
+     "commentaires": "0"
+    },
+    {
+     "id": "lNNjYxrjMkQ",
+     "titre": "Gazole sous 2 € : près de 4 stations sur 10 ce matin #shorts",
+     "chaine": "Essenceradar",
+     "publie": "2026-11-27T05:23:37Z",
+     "duree": "PT36S",
+     "vues": 1,
+     "commentaires": "0"
+    },
+    {
+     "id": "KCsYXjMIO-I",
+     "titre": "Prix carburant Crépy-en-Valois aujourd'hui : SP98 le moins cher à 1,969 € ⛽ #Shorts",
+     "chaine": "Fueliz",
+     "publie": "2026-11-27T11:15:19Z",
+     "duree": "PT22S",
+     "vues": 18,
+     "commentaires": "0"
+    },
+    {
+     "id": "fZcZ-wmeYi4",
+     "titre": "Prix bloqué… et plus d'essence à la pompe ? #shorts",
+     "chaine": "La Silogie",
+     "publie": "2026-11-27T11:30:37Z",
+     "duree": "PT31S",
+     "vues": 44,
+     "commentaires": "0"
+    },
+    {
+     "id": "c8lkORyM7Lw",
+     "titre": "Gazole : 8 centimes de moins en une semaine, la carte du jour #shorts",
+     "chaine": "Essenceradar",
+     "publie": "2026-11-26T14:30:55Z",
+     "duree": "PT32S",
+     "vues": 1,
+     "commentaires": "0"
+    },
+    {
+     "id": "G7kOvjsHf2M",
+     "titre": "ormuz prix essenceGuerre Iran–USA : ton plein d'essence va-t-il encore augmenter ? ⛽🔥 #shorts",
+     "chaine": "Le Saviez-Vous Vraiment ?",
+     "publie": "2026-11-27T05:43:01Z",
+     "duree": "PT1M46S",
+     "vues": 146,
+     "commentaires": "0"
+    }
+   ],
+   "prix du chocolat Noël": [],
+   "prix de l'eau en bouteille": [
+    {
+     "id": "rGtOJRwJTU4",
+     "titre": "L'eau en bouteille coûte 100 fois plus ? 💧 #shorts",
+     "chaine": "Le Prix des Choses",
+     "publie": "2026-11-25T20:00:15Z",
+     "duree": "PT22S",
+     "vues": 574,
+     "commentaires": "0"
+    },
+    {
+     "id": "ViGnvPwwvmw",
+     "titre": "Prix de l'eau en bouteille : le calcul que personne ne fait !",
+     "chaine": "AquaBoussole",
+     "publie": "2026-11-26T19:58:46Z",
+     "duree": "PT8M30S",
+     "vues": 7,
+     "commentaires": "1"
+    },
+    {
+     "id": "n25OTlKBWbA",
+     "titre": "Eau en bouteille : pourquoi payer 40 fois plus cher que l’eau du robinet ?",
+     "chaine": "Technocode | Comment ça marche ?",
+     "publie": "2026-11-25T15:30:18Z",
+     "duree": "PT26M39S",
+     "vues": 5,
+     "commentaires": "0"
+    }
+   ],
+   "prix des courses supermarché": [
+    {
+     "id": "5qQl1i8Tjfk",
+     "titre": "Then Vs Now: Thanksgiving Groceries",
+     "chaine": "Monarch",
+     "publie": "2026-11-25T22:32:07Z",
+     "duree": "PT2M15S",
+     "vues": 183567,
+     "commentaires": "111"
+    },
+    {
+     "id": "69nU78aYBt0",
+     "titre": "Inside Vietnam's \"Costco\" | Giant Products & Cheap Prices!",
+     "chaine": "Vanie Life",
+     "publie": "2026-11-26T00:59:36Z",
+     "duree": "PT22M41S",
+     "vues": 2873,
+     "commentaires": "49"
+    },
+    {
+     "id": "M6Y3Ih2Q-0g",
+     "titre": "Shoppers make final Thanksgiving grocery runs amid price hikes",
+     "chaine": "WWLP-22News",
+     "publie": "2026-11-26T00:04:08Z",
+     "duree": "PT1M56S",
+     "vues": 737,
+     "commentaires": "1"
+    },
+    {
+     "id": "sM4okyviyZY",
+     "titre": "An American Shopper Saw Why Coles & Woolies Spark Outrage",
+     "chaine": "TheAussieVerse",
+     "publie": "2026-11-27T03:30:11Z",
+     "duree": "PT14M12S",
+     "vues": 385,
+     "commentaires": "5"
+    },
+    {
+     "id": "8JAq50ej-oQ",
+     "titre": "Poland's BIGGEST Supermarket Is a LADYBUG?! 🐞🇵🇱",
+     "chaine": "Roaming Mario",
+     "publie": "2026-11-25T18:56:00Z",
+     "duree": "PT27S",
+     "vues": 488,
+     "commentaires": "5"
+    },
+    {
+     "id": "0HkA2ki3d98",
+     "titre": "Baton Rouge shoppers make last-minute Thanksgiving runs as meal costs rise",
+     "chaine": "WAFB",
+     "publie": "2026-11-26T04:41:02Z",
+     "duree": "PT1M49S",
+     "vues": 288,
+     "commentaires": "0"
+    },
+    {
+     "id": "xkLHvXAtWPE",
+     "titre": "Ton paquet a maigri, pas son prix 👀#shorts",
+     "chaine": "Pièges en rayon ",
+     "publie": "2026-11-27T01:08:11Z",
+     "duree": "PT24S",
+     "vues": 757,
+     "commentaires": "1"
+    },
+    {
+     "id": "T-Mfxz6DvY8",
+     "titre": "Faire les courses au supermarché 🛒 | Comparer les prix et faire des économies –Français facile A2/B1",
+     "chaine": "Parlons Français & English",
+     "publie": "2026-11-27T00:30:08Z",
+     "duree": "PT11M52S",
+     "vues": 11,
+     "commentaires": "0"
+    },
+    {
+     "id": "qT1A1e9SKxg",
+     "titre": "Tu paies trop cher tes courses ? Compare les prix des magasins près de chez toi",
+     "chaine": "Kadyco",
+     "publie": "2026-11-27T01:09:09Z",
+     "duree": "PT45S",
+     "vues": 11,
+     "commentaires": "0"
+    }
+   ],
+   "prix du livre auteur": [
+    {
+     "id": "N20x1AP74v0",
+     "titre": "Vidéo hommage Prix Fleury Mesplet 2026",
+     "chaine": "Salon du livre de Montréal",
+     "publie": "2026-11-26T00:51:28Z",
+     "duree": "PT6M16S",
+     "vues": 68,
+     "commentaires": "0"
+    },
+    {
+     "id": "toty5WBAN-4",
+     "titre": "* JULIEN THÈVES | LIVRES HEBDO *",
+     "chaine": "Editions Abstractions",
+     "publie": "2026-11-25T16:28:29Z",
+     "duree": "PT13S",
+     "vues": 44,
+     "commentaires": "0"
+    }
+   ],
+   "prix du café": [
+    {
+     "id": "MO9fCH0k_U4",
+     "titre": "Giá cà phê hôm nay ngày 26/11/2026|Giá cà Arabica tăng vọt nhưng robusta và trong nước vẫn giảm",
+     "chaine": "PhoNui TV",
+     "publie": "2026-11-25T22:41:40Z",
+     "duree": "PT4M42S",
+     "vues": 16212,
+     "commentaires": "6"
+    },
+    {
+     "id": "nkUEi6w2C8E",
+     "titre": "Кофе в Кофемании: цена и ценность",
+     "chaine": "Русский Бариста | Russian Barista",
+     "publie": "2026-11-26T12:30:56Z",
+     "duree": "PT34M27S",
+     "vues": 14069,
+     "commentaires": "93"
+    },
+    {
+     "id": "UIhQA2plVgI",
+     "titre": "Meilleure machine à café à grain à moins de 350 € : laquelle choisir ?",
+     "chaine": "Cafelista",
+     "publie": "2026-11-26T07:03:11Z",
+     "duree": "PT10M51S",
+     "vues": 12332,
+     "commentaires": "28"
+    },
+    {
+     "id": "fanh1O3o7YI",
+     "titre": "Does Minimum Wage Actually Change Coffee Prices? #shorts",
+     "chaine": "Reddit memes",
+     "publie": "2026-11-26T19:00:17Z",
+     "duree": "PT19S",
+     "vues": 6793,
+     "commentaires": "4"
+    },
+    {
+     "id": "ZPY53iTBVEc",
+     "titre": "What Happens If You Drink TOO MUCH Coffee? ☕😱 Your Body Might Pay the Price!",
+     "chaine": "The Real Clip",
+     "publie": "2026-11-25T19:00:17Z",
+     "duree": "PT33S",
+     "vues": 2815,
+     "commentaires": "15"
+    },
+    {
+     "id": "ej3lgJ0Hmuw",
+     "titre": "Hong Kong cafe comfort food at Crystal Mall, with prices that make the long line make sense ☕🍜",
+     "chaine": "PAWA",
+     "publie": "2026-11-26T00:43:04Z",
+     "duree": "PT57S",
+     "vues": 2178,
+     "commentaires": "3"
+    },
+    {
+     "id": "rIbrYEGlZJ4",
+     "titre": "Por que o café disparou se o Brasil é o maior produtor?",
+     "chaine": "Fator Global",
+     "publie": "2026-11-26T09:15:32Z",
+     "duree": "PT1M15S",
+     "vues": 1644,
+     "commentaires": "1"
+    },
+    {
+     "id": "WOBEjiBGKYY",
+     "titre": "¿Por qué Nestlé paga 43 pesos por un café que cuesta 45?",
+     "chaine": "KeOndaConEso?",
+     "publie": "2026-11-26T21:40:11Z",
+     "duree": "PT1M59S",
+     "vues": 1410,
+     "commentaires": "5"
+    },
+    {
+     "id": "MLeZcJ30hJY",
+     "titre": "¿Por qué el café está tan caro? Sabías que…",
+     "chaine": "DyscoverAI",
+     "publie": "2026-11-25T19:55:21Z",
+     "duree": "PT1M2S",
+     "vues": 1146,
+     "commentaires": "1"
+    },
+    {
+     "id": "t1wNcfKzm2Q",
+     "titre": "Ton café en capsules coûte 3 fois plus cher · Le vrai prix ép. 4",
+     "chaine": "Foodrise · Cairn",
+     "publie": "2026-11-25T17:30:37Z",
+     "duree": "PT32S",
+     "vues": 1201,
+     "commentaires": "0"
+    },
+    {
+     "id": "UpifQUszdos",
+     "titre": "Now is the lowest price these will be for a long time! #ninjafreshbrew #ninja #coffeemaker",
+     "chaine": "Myfamilypov",
+     "publie": "2026-11-25T20:25:42Z",
+     "duree": "PT49S",
+     "vues": 1300,
+     "commentaires": "0"
+    },
+    {
+     "id": "V9WPiBcpH4U",
+     "titre": "Nestle paga 43 pesos por café que vende en $580",
+     "chaine": "BCT Neus",
+     "publie": "2026-11-26T02:24:30Z",
+     "duree": "PT1M53S",
+     "vues": 969,
+     "commentaires": "6"
+    },
+    {
+     "id": "n7onP32Hh28",
+     "titre": "CAFE: PRECIOS DEL CAFÉ EN COLOMBIA  - Miércoles 26 de noviembre de 2026",
+     "chaine": "PERIÓDICO AGRICULTURA & GANADERÍA",
+     "publie": "2026-11-25T22:09:27Z",
+     "duree": "PT2M1S",
+     "vues": 814,
+     "commentaires": "1"
+    },
+    {
+     "id": "rvlD_Ayf4Ew",
+     "titre": "CAFÉ:CUIDADO COM OS MOVIMENTOS DO FERIADO NOS EUA",
+     "chaine": "mundoruralbusiness",
+     "publie": "2026-11-26T00:05:16Z",
+     "duree": "PT1M24S",
+     "vues": 886,
+     "commentaires": "0"
+    },
+    {
+     "id": "sCoRz0HRsTo",
+     "titre": "☕ Nestlé en polémica: ¿Qué está pasando con el café en México? #Shorts",
+     "chaine": "AlphaTesterLab",
+     "publie": "2026-11-27T02:23:16Z",
+     "duree": "PT1M9S",
+     "vues": 466,
+     "commentaires": "4"
+    }
+   ],
+   "prix médicaments pharmacie": [
+    {
+     "id": "1jZndYWd-Ok",
+     "titre": "Même médicament, pas le même prix : pourquoi ? #shorts",
+     "chaine": "Le Patron Artificiel",
+     "publie": "2026-11-26T22:15:17Z",
+     "duree": "PT37S",
+     "vues": 0,
+     "commentaires": "0"
+    }
+   ]
+  },
+  "envoye_le": "2026-11-27T11:39:36.879064+00:00"
+ }
+}
