@@ -1,0 +1,15 @@
+{
+ "action": "commenter",
+ "chaine": "LEVRAIPRIX",
+ "titre": "Commentaire du jour (Cafelista)",
+ "videos": [
+  "UIhQA2plVgI"
+ ],
+ "commentaire": "Ce genre de machine se rentabilise plus vite qu'on ne le pense : avec du grain autour de 20 € le kilo (UFC-Que Choisir), un espresso de 5 g revient à environ 10 centimes, là où une capsule tourne plutôt autour de 45.",
+ "resultat": {
+  "commentaires": {
+   "UIhQA2plVgI": "ok"
+  },
+  "envoye_le": "2026-11-28T10:46:47.190809+00:00"
+ }
+}
