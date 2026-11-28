@@ -1,6 +1,6 @@
 {
  "chaine": "Le Vrai Prix",
- "date": "2026-11-28T08:14:26.105024+00:00",
+ "date": "2026-11-28T14:17:43.738169+00:00",
  "abonnes": 13,
  "vues_totales": 13719,
  "autorisations": [
@@ -22,7 +22,7 @@
    "duree_s": 40,
    "format": "short",
    "statut": "public",
-   "vues": 5,
+   "vues": 6,
    "likes": 0,
    "commentaires": 1,
    "analytics_28j": null
@@ -61,7 +61,7 @@
    "duree_s": 24,
    "format": "short",
    "statut": "public",
-   "vues": 46,
+   "vues": 47,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
@@ -77,7 +77,7 @@
     "pct": 22.2
    },
    "miniature_7j": {
-    "impressions": 78,
+    "impressions": 95,
     "ctr": 0.0
    }
   },
@@ -104,8 +104,8 @@
     "pct": 20.5
    },
    "miniature_7j": {
-    "impressions": 164,
-    "ctr": 3.66
+    "impressions": 172,
+    "ctr": 3.49
    }
   },
   {
@@ -131,8 +131,8 @@
     "pct": 7.1
    },
    "miniature_7j": {
-    "impressions": 213,
-    "ctr": 1.88
+    "impressions": 216,
+    "ctr": 1.85
    }
   },
   {
@@ -142,7 +142,7 @@
    "duree_s": 20,
    "format": "short",
    "statut": "public",
-   "vues": 154,
+   "vues": 156,
    "likes": 1,
    "commentaires": 1,
    "analytics_28j": {
@@ -158,8 +158,8 @@
     "pct": 21.6
    },
    "miniature_7j": {
-    "impressions": 144,
-    "ctr": 2.78
+    "impressions": 167,
+    "ctr": 2.4
    }
   },
   {
@@ -185,7 +185,7 @@
     "pct": 22.9
    },
    "miniature_7j": {
-    "impressions": 62,
+    "impressions": 69,
     "ctr": 0.0
    }
   },
@@ -212,8 +212,8 @@
     "pct": 28.2
    },
    "miniature_7j": {
-    "impressions": 140,
-    "ctr": 2.14
+    "impressions": 158,
+    "ctr": 1.9
    }
   },
   {
@@ -266,8 +266,8 @@
     "pct": 26.3
    },
    "miniature_7j": {
-    "impressions": 380,
-    "ctr": 2.63
+    "impressions": 391,
+    "ctr": 2.56
    }
   },
   {
@@ -293,8 +293,8 @@
     "pct": 28.3
    },
    "miniature_7j": {
-    "impressions": 93,
-    "ctr": 4.3
+    "impressions": 94,
+    "ctr": 4.26
    }
   },
   {
@@ -320,8 +320,8 @@
     "pct": 24.6
    },
    "miniature_7j": {
-    "impressions": 104,
-    "ctr": 3.85
+    "impressions": 105,
+    "ctr": 3.81
    }
   },
   {
@@ -409,7 +409,7 @@
    },
    "depuis_shorts": "indisponible (400)",
    "miniature_7j": {
-    "impressions": 95,
+    "impressions": 107,
     "ctr": 0.0
    }
   },
@@ -517,7 +517,7 @@
     "pct": 21.7
    },
    "miniature_7j": {
-    "impressions": 7,
+    "impressions": 8,
     "ctr": 0.0
    }
   },
@@ -695,7 +695,7 @@
     "pct": 25.0
    },
    "miniature_7j": {
-    "impressions": 5,
+    "impressions": 6,
     "ctr": 0.0
    }
   },
@@ -749,7 +749,7 @@
     "pct": 27.8
    },
    "miniature_7j": {
-    "impressions": 56,
+    "impressions": 57,
     "ctr": 0.0
    }
   },
@@ -924,8 +924,8 @@
    },
    "depuis_shorts": "indisponible (400)",
    "miniature_7j": {
-    "impressions": 303,
-    "ctr": 2.97
+    "impressions": 333,
+    "ctr": 3.0
    }
   },
   {
@@ -1005,7 +1005,7 @@
     "pct": 25.8
    },
    "miniature_7j": {
-    "impressions": 15,
+    "impressions": 17,
     "ctr": 0.0
    }
   },
@@ -1032,7 +1032,7 @@
     "pct": 30.1
    },
    "miniature_7j": {
-    "impressions": 62,
+    "impressions": 68,
     "ctr": 0.0
    }
   },
@@ -1086,7 +1086,7 @@
     "pct": 32.1
    },
    "miniature_7j": {
-    "impressions": 12,
+    "impressions": 14,
     "ctr": 0.0
    }
   },
@@ -1140,7 +1140,7 @@
     "pct": 45.7
    },
    "miniature_7j": {
-    "impressions": 28,
+    "impressions": 29,
     "ctr": 0.0
    }
   },
@@ -1167,7 +1167,7 @@
     "pct": 22.0
    },
    "miniature_7j": {
-    "impressions": 16,
+    "impressions": 17,
     "ctr": 0.0
    }
   },
@@ -1194,8 +1194,8 @@
     "pct": 42.8
    },
    "miniature_7j": {
-    "impressions": 244,
-    "ctr": 1.23
+    "impressions": 277,
+    "ctr": 1.81
    }
   },
   {
@@ -1221,7 +1221,7 @@
     "pct": 26.2
    },
    "miniature_7j": {
-    "impressions": 18,
+    "impressions": 19,
     "ctr": 0.0
    }
   },
@@ -1248,7 +1248,7 @@
     "pct": 24.2
    },
    "miniature_7j": {
-    "impressions": 19,
+    "impressions": 20,
     "ctr": 0.0
    }
   },
@@ -1275,7 +1275,7 @@
     "pct": 32.8
    },
    "miniature_7j": {
-    "impressions": 20,
+    "impressions": 24,
     "ctr": 0.0
    }
   },
@@ -1422,8 +1422,8 @@
    },
    "depuis_shorts": "indisponible (400)",
    "miniature_7j": {
-    "impressions": 142,
-    "ctr": 2.11
+    "impressions": 154,
+    "ctr": 2.6
    }
   },
   {
@@ -1476,7 +1476,7 @@
     "pct": 17.7
    },
    "miniature_7j": {
-    "impressions": 18,
+    "impressions": 19,
     "ctr": 0.0
    }
   },
@@ -1503,7 +1503,7 @@
     "pct": 38.4
    },
    "miniature_7j": {
-    "impressions": 28,
+    "impressions": 30,
     "ctr": 0.0
    }
   },
@@ -1557,8 +1557,8 @@
     "pct": 34.6
    },
    "miniature_7j": {
-    "impressions": 58,
-    "ctr": 3.45
+    "impressions": 60,
+    "ctr": 3.33
    }
   },
   {
@@ -1638,7 +1638,7 @@
     "pct": 17.7
    },
    "miniature_7j": {
-    "impressions": 18,
+    "impressions": 19,
     "ctr": 0.0
    }
   },
@@ -1665,7 +1665,7 @@
     "pct": 26.4
    },
    "miniature_7j": {
-    "impressions": 16,
+    "impressions": 17,
     "ctr": 0.0
    }
   },
@@ -1745,7 +1745,7 @@
     "pct": 32.4
    },
    "miniature_7j": {
-    "impressions": 10,
+    "impressions": 13,
     "ctr": 0.0
    }
   },
@@ -1891,8 +1891,8 @@
    },
    "depuis_shorts": "indisponible (400)",
    "miniature_7j": {
-    "impressions": 158,
-    "ctr": 1.9
+    "impressions": 178,
+    "ctr": 1.69
    }
   },
   {
@@ -1972,7 +1972,7 @@
     "pct": 34.7
    },
    "miniature_7j": {
-    "impressions": 15,
+    "impressions": 16,
     "ctr": 0.0
    }
   },
@@ -2076,7 +2076,7 @@
     "pct": 25.2
    },
    "miniature_7j": {
-    "impressions": 17,
+    "impressions": 19,
     "ctr": 0.0
    }
   },
@@ -2221,8 +2221,8 @@
    },
    "depuis_shorts": "indisponible (400)",
    "miniature_7j": {
-    "impressions": 537,
-    "ctr": 4.28
+    "impressions": 569,
+    "ctr": 4.57
    }
   }
  ],
@@ -2245,7 +2245,7 @@
   "heures_longues_365j": 14.6
  },
  "reporting": {
-  "rapports_disponibles": 10
+  "rapports_disponibles": 11
  },
  "pilotage": {
   "evolution_24h": {

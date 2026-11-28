@@ -1,4 +1,4 @@
-# Le Vrai Prix — 2026-11-28 08:14 UTC
+# Le Vrai Prix — 2026-11-28 14:17 UTC
 
 Abonnés : 13 · vues totales : 13719
 
@@ -26,72 +26,72 @@ Sources de trafic (28 j) : SHORTS 12252, YT_SEARCH 632, ACCUEIL_NAVIGATION(SUBSC
 
 | Publiée | Format | Titre | Vues | Restés | Durée moy. | % regardé | Abonnés + | Impressions 7 j | Clic |
 |---|---|---|---|---|---|---|---|---|---|
-| 2026-11-27 | short | Retirement Savings by Age. Where Do You Fall? #shorts | 5 |  | 0 s | 0 % |  |  |  |
+| 2026-11-27 | short | Retirement Savings by Age. Where Do You Fall? #shorts | 6 |  | 0 s | 0 % |  |  |  |
 | 2026-11-23 | short | Is a 1% Mortgage Rate Difference Really Small? #shorts | 17 | 33.3 % | 37 s | 124 % | 0 | 6 |  |
-| 2026-11-22 | short | Promos en ligne : l'Europe a vérifié 314 sites #shorts | 46 | 22.2 % | 9 s | 40 % | 0 | 78 |  |
-| 2026-11-21 | short | « Prix conseillé » barré : vraie promo ? #shorts | 90 | 20.5 % | 14 s | 61 % | 0 | 164 | 3.66 % |
-| 2026-11-20 | short | Casque à −53 % au Black Friday : vraie promo ? #shorts | 28 | 7.1 % | 11 s | 50 % | 0 | 213 | 1.88 % |
-| 2026-11-19 | short | Ta lettre à 1,52 € : le timbre a pris combien ? #shorts | 154 | 21.6 % | 15 s | 77 % | 0 | 144 | 2.78 % |
-| 2026-11-18 | short | Ta place de cinéma : qui touche quoi ? #shorts | 83 | 22.9 % | 8 s | 38 % | 0 | 62 |  |
-| 2026-11-16 | short | L'eau en bouteille, combien de fois plus chère ? #shorts | 464 | 28.2 % | 12 s | 55 % | 0 | 140 | 2.14 % |
+| 2026-11-22 | short | Promos en ligne : l'Europe a vérifié 314 sites #shorts | 47 | 22.2 % | 9 s | 40 % | 0 | 95 |  |
+| 2026-11-21 | short | « Prix conseillé » barré : vraie promo ? #shorts | 90 | 20.5 % | 14 s | 61 % | 0 | 172 | 3.49 % |
+| 2026-11-20 | short | Casque à −53 % au Black Friday : vraie promo ? #shorts | 28 | 7.1 % | 11 s | 50 % | 0 | 216 | 1.85 % |
+| 2026-11-19 | short | Ta lettre à 1,52 € : le timbre a pris combien ? #shorts | 156 | 21.6 % | 15 s | 77 % | 0 | 167 | 2.4 % |
+| 2026-11-18 | short | Ta place de cinéma : qui touche quoi ? #shorts | 83 | 22.9 % | 8 s | 38 % | 0 | 69 |  |
+| 2026-11-16 | short | L'eau en bouteille, combien de fois plus chère ? #shorts | 464 | 28.2 % | 12 s | 55 % | 0 | 158 | 1.9 % |
 | 2026-11-15 | short | Ton livre à 20 € : combien pour l'auteur ? #shorts | 647 | 26.7 % | 17 s | 73 % | 0 | 27 |  |
-| 2026-11-15 | short | Ta boîte de Doliprane à 2,18 € : qui touche quoi ? #shorts | 398 | 26.3 % | 12 s | 58 % | 0 | 380 | 2.63 % |
-| 2026-11-14 | short | Ton steak haché : combien pour l'éleveur ? #shorts | 516 | 28.3 % | 17 s | 72 % | 0 | 93 | 4.3 % |
-| 2026-11-13 | short | Tes lunettes à 300 € : qui paie vraiment ? #shorts | 236 | 24.6 % | 12 s | 57 % | 0 | 104 | 3.85 % |
+| 2026-11-15 | short | Ta boîte de Doliprane à 2,18 € : qui touche quoi ? #shorts | 398 | 26.3 % | 12 s | 58 % | 0 | 391 | 2.56 % |
+| 2026-11-14 | short | Ton steak haché : combien pour l'éleveur ? #shorts | 516 | 28.3 % | 17 s | 72 % | 0 | 94 | 4.26 % |
+| 2026-11-13 | short | Tes lunettes à 300 € : qui paie vraiment ? #shorts | 236 | 24.6 % | 12 s | 57 % | 0 | 105 | 3.81 % |
 | 2026-11-12 | short | Ta brique de lait : qui garde l'argent ? #shorts | 20 | 25.0 % | 16 s | 72 % | 0 | 18 |  |
 | 2026-11-12 | short | Ton paquet de pâtes à 95 centimes : combien de blé ? #shorts | 28 | 21.4 % | 17 s | 72 % | 0 | 18 |  |
-| 2026-11-11 | longue | Black Friday 2026 : repérer une fausse promo en 3 réflexes | 18 |  | 173 s | 42 % | 1 | 95 |  |
+| 2026-11-11 | longue | Black Friday 2026 : repérer une fausse promo en 3 réflexes | 18 |  | 173 s | 42 % | 1 | 107 |  |
 | 2026-11-11 | short | 3 groupes vendent 81 % de ton café #shorts | 10 | 40.0 % | 10 s | 61 % | 0 | 8 |  |
 | 2026-11-11 | short | Le café a baissé de 31 %. Et ton paquet ? #shorts | 12 | 41.7 % | 10 s | 53 % | 0 | 10 | 20.0 % |
 | 2026-11-11 | short | Le café a doublé : les producteurs sont riches ? #shorts | 21 | 30.0 % | 157 s | 983 % | 0 | 6 |  |
-| 2026-11-10 | short | Combien vaut le café dans ta capsule ? #shorts | 23 | 21.7 % | 16 s | 103 % | 0 | 7 |  |
+| 2026-11-10 | short | Combien vaut le café dans ta capsule ? #shorts | 23 | 21.7 % | 16 s | 103 % | 0 | 8 |  |
 | 2026-11-10 | short | Ton café à 10 centimes la tasse #shorts | 92 | 15.2 % | 10 s | 59 % | 0 | 13 |  |
 | 2026-11-09 | short | Facture d'électricité de 100 € : l'électricité, c'est combie | 25 | 28.0 % | 26 s | 98 % | 0 | 10 |  |
 | 2026-11-09 | short | Il a inventé la capsule… et Nestlé l'a poussé dehors #shorts | 25 | 28.0 % | 10 s | 54 % | 0 | 4 |  |
 | 2026-11-09 | short | Spotify : l'artiste touche combien quand tu l'écoutes ? #sho | 64 | 37.5 % | 21 s | 79 % | 0 | 17 | 5.88 % |
 | 2026-11-09 | short | Avant d'être du chocolat, le cacao fermente 5 jours #shorts | 51 | 19.6 % | 7 s | 48 % | 0 | 19 |  |
 | 2026-11-09 | short | Ton livre à 20 € : combien pour l'auteur ? #shorts | 0 |  | 0 s | 0 % |  | 2 |  |
-| 2026-11-09 | short | L'État gagne combien sur ta capsule ? #shorts | 36 | 25.0 % | 10 s | 56 % | 0 | 5 |  |
+| 2026-11-09 | short | L'État gagne combien sur ta capsule ? #shorts | 36 | 25.0 % | 10 s | 56 % | 0 | 6 |  |
 | 2026-11-08 | short | Pourquoi les capsules compatibles coûtent moins cher #shorts | 31 | 35.5 % | 16 s | 87 % | 0 | 6 |  |
-| 2026-11-08 | short | Le goût du chocolat, il vient d'où ? #shorts | 637 | 27.8 % | 13 s | 64 % | 0 | 56 |  |
+| 2026-11-08 | short | Le goût du chocolat, il vient d'où ? #shorts | 637 | 27.8 % | 13 s | 64 % | 0 | 57 |  |
 | 2026-11-07 | short | Le cacao a perdu près de 60 %… et ta tablette ? #shorts | 185 | 25.4 % | 12 s | 59 % | 0 | 2 |  |
-| 2026-11-07 | longue | Café en capsule : 3 fois plus cher que le moulu ? | 44 |  | 92 s | 39 % | 0 | 303 | 2.97 % |
+| 2026-11-07 | longue | Café en capsule : 3 fois plus cher que le moulu ? | 44 |  | 92 s | 39 % | 0 | 333 | 3.0 % |
 | 2026-11-07 | short | Le négociant garde combien sur ta tablette de chocolat ? #sh | 112 | 19.6 % | 10 s | 46 % | 0 | 22 |  |
 | 2026-11-07 | short | Pourquoi ton chocolat fait « clac » quand tu le casses ? #sh | 287 | 22.4 % | 56 s | 226 % | 0 | 2 |  |
 | 2026-11-07 | short | Pourquoi ton chocolat fait « clac » quand tu le casses ? #sh | 287 | 22.4 % | 56 s | 226 % | 0 | 2 |  |
-| 2026-11-06 | short | 3 gestes pour payer ton plein moins cher #shorts | 252 | 25.8 % | 8 s | 37 % | 0 | 15 |  |
-| 2026-11-06 | short | Ta station gagne combien sur ton litre ? #shorts | 295 | 30.1 % | 14 s | 73 % | 0 | 62 |  |
+| 2026-11-06 | short | 3 gestes pour payer ton plein moins cher #shorts | 252 | 25.8 % | 8 s | 37 % | 0 | 17 |  |
+| 2026-11-06 | short | Ta station gagne combien sur ton litre ? #shorts | 295 | 30.1 % | 14 s | 73 % | 0 | 68 |  |
 | 2026-11-06 | short | Pourquoi le gazole coûte plus cher que l'essence ? #shorts | 202 | 43.6 % | 22 s | 102 % | 0 | 28 |  |
-| 2026-11-06 | short | Ton plein se joue à 5 000 km d'ici ? #shorts | 978 | 32.1 % | 14 s | 65 % | 2 | 12 |  |
+| 2026-11-06 | short | Ton plein se joue à 5 000 km d'ici ? #shorts | 978 | 32.1 % | 14 s | 65 % | 2 | 14 |  |
 | 2026-11-05 | short | Ton jean à 100 € : combien pour l'ouvrière ? #shorts | 121 | 28.1 % | 16 s | 75 % | 0 | 4 |  |
-| 2026-11-05 | short | Combien de cabosses pour UNE tablette de chocolat ? #shorts | 35 | 45.7 % | 14 s | 64 % | 0 | 28 |  |
-| 2026-11-05 | short | Sur ton gazole, tu paies une taxe… sur une taxe ? #shorts | 150 | 22.0 % | 11 s | 55 % | 0 | 16 |  |
-| 2026-11-05 | short | Sur un paquet de cigarettes, l'État prend combien ? #shorts | 986 | 42.8 % | 14 s | 66 % | 3 | 244 | 1.23 % |
-| 2026-11-05 | short | Ta tablette de chocolat est taxée à combien ? #shorts | 252 | 26.2 % | 24 s | 102 % | 0 | 18 |  |
-| 2026-11-05 | short | Le baril baisse… pourquoi pas ton plein ? #shorts | 392 | 24.2 % | 13 s | 65 % | 0 | 19 |  |
-| 2026-11-04 | short | Ton café en capsule, tu le paies combien au kilo ? #shorts | 1136 | 32.8 % | 24 s | 97 % | 2 | 20 |  |
-| 2026-11-04 | longue | Le baril baisse, ton plein non : qui garde l'argent ? | 65 |  | 76 s | 25 % | 0 | 142 | 2.11 % |
+| 2026-11-05 | short | Combien de cabosses pour UNE tablette de chocolat ? #shorts | 35 | 45.7 % | 14 s | 64 % | 0 | 29 |  |
+| 2026-11-05 | short | Sur ton gazole, tu paies une taxe… sur une taxe ? #shorts | 150 | 22.0 % | 11 s | 55 % | 0 | 17 |  |
+| 2026-11-05 | short | Sur un paquet de cigarettes, l'État prend combien ? #shorts | 986 | 42.8 % | 14 s | 66 % | 3 | 277 | 1.81 % |
+| 2026-11-05 | short | Ta tablette de chocolat est taxée à combien ? #shorts | 252 | 26.2 % | 24 s | 102 % | 0 | 19 |  |
+| 2026-11-05 | short | Le baril baisse… pourquoi pas ton plein ? #shorts | 392 | 24.2 % | 13 s | 65 % | 0 | 20 |  |
+| 2026-11-04 | short | Ton café en capsule, tu le paies combien au kilo ? #shorts | 1136 | 32.8 % | 24 s | 97 % | 2 | 24 |  |
+| 2026-11-04 | longue | Le baril baisse, ton plein non : qui garde l'argent ? | 65 |  | 76 s | 25 % | 0 | 154 | 2.6 % |
 | 2026-11-04 | short | Combien gagne le boulanger sur une baguette ? #shorts | 67 | 13.4 % | 17 s | 81 % | 0 | 4 |  |
-| 2026-11-04 | short | Le cacao baisse… et les chocolats de Pâques augmentent ? #sh | 96 | 17.7 % | 11 s | 62 % | 0 | 18 |  |
-| 2026-11-04 | short | Le cacao baisse… et les chocolats de Pâques augmentent ? #sh | 96 | 17.7 % | 11 s | 62 % | 0 | 18 |  |
-| 2026-11-04 | short | Un iPhone coûte combien à fabriquer ? #shorts | 404 | 38.4 % | 15 s | 55 % | 1 | 28 |  |
+| 2026-11-04 | short | Le cacao baisse… et les chocolats de Pâques augmentent ? #sh | 96 | 17.7 % | 11 s | 62 % | 0 | 19 |  |
+| 2026-11-04 | short | Le cacao baisse… et les chocolats de Pâques augmentent ? #sh | 96 | 17.7 % | 11 s | 62 % | 0 | 19 |  |
+| 2026-11-04 | short | Un iPhone coûte combien à fabriquer ? #shorts | 404 | 38.4 % | 15 s | 55 % | 1 | 30 |  |
 | 2026-11-04 | short | L'État prend combien sur ta baguette ? #shorts | 174 | 23.6 % | 15 s | 61 % | 0 | 2 |  |
-| 2026-11-04 | short | Ta tablette de chocolat : combien pour le planteur ? #shorts | 745 | 34.6 % | 13 s | 50 % | 2 | 58 | 3.45 % |
+| 2026-11-04 | short | Ta tablette de chocolat : combien pour le planteur ? #shorts | 745 | 34.6 % | 13 s | 50 % | 2 | 60 | 3.33 % |
 | 2026-11-04 | short | Sur ton plein de 50 litres, l'État prend combien ? #shorts | 184 | 34.8 % | 18 s | 67 % | 0 | 1 |  |
-| 2026-11-03 | short | Sur 1 € de chocolat, la marque garde combien ? #shorts | 122 | 26.4 % | 15 s | 58 % | 1 | 16 |  |
+| 2026-11-03 | short | Sur 1 € de chocolat, la marque garde combien ? #shorts | 122 | 26.4 % | 15 s | 58 % | 1 | 17 |  |
 | 2026-11-03 | short | Le cacao bat des records… et le planteur, il touche quoi ? # | 0 |  | 0 s | 0 % |  |  |  |
 | 2026-11-03 | short | Combien de cabosses pour UNE tablette de chocolat ? #shorts | 0 |  | 0 s | 0 % | 0 |  |  |
 | 2026-11-03 | short | Ta tablette de chocolat est taxée à combien ? #shorts | 1 | 100.0 % | 4 s | 26 % | 0 |  |  |
-| 2026-11-03 | short | Une fève de cacao fraîche, ça a quel goût ? #shorts | 105 | 32.4 % | 10 s | 59 % | 0 | 10 |  |
-| 2026-11-03 | longue | Le cacao a perdu près de 60 %… et ta tablette ? | 170 |  | 177 s | 38 % | 2 | 158 | 1.9 % |
+| 2026-11-03 | short | Une fève de cacao fraîche, ça a quel goût ? #shorts | 105 | 32.4 % | 10 s | 59 % | 0 | 13 |  |
+| 2026-11-03 | longue | Le cacao a perdu près de 60 %… et ta tablette ? | 170 |  | 177 s | 38 % | 2 | 178 | 1.69 % |
 | 2026-11-03 | short | Combien garde le meunier sur ta baguette ? #shorts | 91 | 37.4 % | 17 s | 30 % | 1 | 3 |  |
 | 2026-11-03 | short | Ton pain cuit à combien de degrés ? #shorts | 477 | 18.4 % | 7 s | 43 % | 0 | 3 |  |
-| 2026-11-03 | short | La baguette à 29 centimes : qui paie vraiment ? #shorts | 354 | 34.7 % | 20 s | 42 % | 0 | 15 |  |
+| 2026-11-03 | short | La baguette à 29 centimes : qui paie vraiment ? #shorts | 354 | 34.7 % | 20 s | 42 % | 0 | 16 |  |
 | 2026-11-03 | short | Combien de pâte crue pour UNE baguette ? #shorts | 216 | 22.2 % | 17 s | 71 % | 0 | 11 |  |
 | 2026-11-02 | short | Combien vaut le blé de ta baguette ? #shorts | 73 | 35.6 % | 27 s | 55 % | 0 |  |  |
 | 2026-11-02 | short | Le boulanger s'en met plein les poches ? #shorts | 168 | 25.0 % | 56 s | 95 % | 0 | 1 |  |
-| 2026-11-02 | short | Le vrai prix du blé dans ta baguette ? #shorts | 674 | 25.2 % | 13 s | 44 % | 0 | 17 |  |
-| 2026-11-01 | longue | Ta baguette à 1 € : qui touche quoi vraiment ? | 335 |  | 161 s | 33 % | 0 | 537 | 4.28 % |
+| 2026-11-02 | short | Le vrai prix du blé dans ta baguette ? #shorts | 674 | 25.2 % | 13 s | 44 % | 0 | 19 |  |
+| 2026-11-01 | longue | Ta baguette à 1 € : qui touche quoi vraiment ? | 335 |  | 161 s | 33 % | 0 | 569 | 4.57 % |
 
 « Restés » = vues engagées / vues (qui n'a pas balayé le Short). Chaîne : 29.3 % sur 42 Shorts de 50 vues et plus. Repère : les Shorts qui décollent sont à 70 % et plus.
 
